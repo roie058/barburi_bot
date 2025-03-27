@@ -12,7 +12,7 @@ class Intergame:
         self.odd1 = float(parameters['odd1'])
         self.odd2 = float(parameters['odd2'])
 
-
+#s
 class Wingame:
     def __init__(self, parameters):
         self.game_date = parameters[2]
