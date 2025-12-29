@@ -3,8 +3,6 @@ import time
 import pandas as pd
 from scrapers.pinnacle import PinnacleScraper
 from scrapers.winner import WinnerScraper
-
-"""""
 from calculations import compare_games
 from message import bet_notifications
 from message_state import should_send_notification, mark_notification_sent
