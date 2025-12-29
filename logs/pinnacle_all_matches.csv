@@ -1,0 +1,531 @@
+game,date,num_1,num_X,num_2,link
+Pendikspor - Esenler Erokspor,2025-12-27T16:00:00Z,2.0,3.58,3.47,https://www.pinnacle.com/en/soccer/leagues/2578
+Amed Sportif Faliyetler - Igdir Belediyespor,2025-12-28T16:00:00Z,1.93,3.69,3.56,https://www.pinnacle.com/en/soccer/leagues/2578
+Erzurumspor - Corum Belediyespor,2025-12-28T13:00:00Z,2.27,3.27,3.13,https://www.pinnacle.com/en/soccer/leagues/2578
+Sakaryaspor - Manisa FK,2025-12-26T17:00:00Z,2.16,3.82,2.92,https://www.pinnacle.com/en/soccer/leagues/2578
+Keciorengucu - Umraniyespor,2025-12-28T10:30:00Z,1.31,5.02,8.61,https://www.pinnacle.com/en/soccer/leagues/2578
+Sivasspor - Bandirmaspor,2025-12-27T10:30:00Z,2.23,3.36,3.13,https://www.pinnacle.com/en/soccer/leagues/2578
+Sariyer - Bodrumspor,2025-12-27T10:30:00Z,3.45,3.42,2.06,https://www.pinnacle.com/en/soccer/leagues/2578
+Serik Belediyespor - Boluspor,2025-12-28T10:30:00Z,6.66,4.66,1.41,https://www.pinnacle.com/en/soccer/leagues/2578
+Vanspor - Hatayspor,2025-12-27T13:00:00Z,1.14,7.98,13.0,https://www.pinnacle.com/en/soccer/leagues/2578
+Toulouse - Nice,2026-01-17T18:00:00Z,1.87,3.68,4.06,https://www.pinnacle.com/en/soccer/leagues/2036
+Le Havre - Angers,2026-01-04T16:15:00Z,2.05,3.36,3.77,https://www.pinnacle.com/en/soccer/leagues/2036
+Toulouse - Lens,2026-01-02T19:45:00Z,2.81,3.42,2.5,https://www.pinnacle.com/en/soccer/leagues/2036
+Angers - Marseille,2026-01-17T20:05:00Z,5.5,4.15,1.58,https://www.pinnacle.com/en/soccer/leagues/2036
+Lens - Auxerre,2026-01-17T16:00:00Z,1.47,4.28,7.0,https://www.pinnacle.com/en/soccer/leagues/2036
+Paris Saint-Germain - Lille,2026-01-16T20:00:00Z,1.49,4.6,6.02,https://www.pinnacle.com/en/soccer/leagues/2036
+Rennes - Le Havre,2026-01-18T16:15:00Z,1.62,4.04,5.21,https://www.pinnacle.com/en/soccer/leagues/2036
+Brest - Auxerre,2026-01-04T16:15:00Z,1.95,3.25,4.31,https://www.pinnacle.com/en/soccer/leagues/2036
+Lyon - Brest,2026-01-18T19:45:00Z,1.56,4.23,5.55,https://www.pinnacle.com/en/soccer/leagues/2036
+Lorient - Metz,2026-01-04T16:15:00Z,1.75,3.86,4.49,https://www.pinnacle.com/en/soccer/leagues/2036
+Nice - Strasbourg,2026-01-03T18:00:00Z,2.84,3.49,2.44,https://www.pinnacle.com/en/soccer/leagues/2036
+Monaco - Lyon,2026-01-03T16:00:00Z,1.93,4.0,3.54,https://www.pinnacle.com/en/soccer/leagues/2036
+Lille - Rennes,2026-01-03T20:05:00Z,1.88,3.54,4.2,https://www.pinnacle.com/en/soccer/leagues/2036
+Marseille - Nantes,2026-01-04T14:00:00Z,1.22,6.59,10.73,https://www.pinnacle.com/en/soccer/leagues/2036
+Strasbourg - Metz,2026-01-18T14:00:00Z,1.48,4.66,5.96,https://www.pinnacle.com/en/soccer/leagues/2036
+Nantes - Paris FC,2026-01-18T16:15:00Z,3.61,3.31,2.12,https://www.pinnacle.com/en/soccer/leagues/2036
+Paris Saint-Germain - Paris FC,2026-01-04T19:45:00Z,1.22,5.84,13.7,https://www.pinnacle.com/en/soccer/leagues/2036
+Monaco - Lorient,2026-01-16T18:00:00Z,1.67,4.2,4.6,https://www.pinnacle.com/en/soccer/leagues/2036
+NEC Nijmegen - FC Utrecht,2026-01-09T19:00:00Z,2.05,3.81,3.33,https://www.pinnacle.com/en/soccer/leagues/1928
+PSV - Excelsior,2026-01-10T19:00:00Z,1.13,10.46,13.32,https://www.pinnacle.com/en/soccer/leagues/1928
+AZ Alkmaar - Volendam,2026-01-10T15:30:00Z,1.22,6.9,10.18,https://www.pinnacle.com/en/soccer/leagues/1928
+Heerenveen - Feyenoord,2026-01-11T11:15:00Z,2.84,3.89,2.27,https://www.pinnacle.com/en/soccer/leagues/1928
+Sparta Rotterdam - Heracles Almelo,2026-01-11T15:45:00Z,1.8,3.77,4.29,https://www.pinnacle.com/en/soccer/leagues/1928
+Go Ahead Eagles - Fortuna Sittard,2026-01-11T13:30:00Z,2.08,3.77,3.28,https://www.pinnacle.com/en/soccer/leagues/1928
+Telstar - Ajax,2026-01-11T13:30:00Z,3.68,3.87,1.92,https://www.pinnacle.com/en/soccer/leagues/1928
+FC Twente - PEC Zwolle,2026-01-10T17:45:00Z,1.26,6.04,9.69,https://www.pinnacle.com/en/soccer/leagues/1928
+Groningen - NAC Breda,2026-01-10T20:00:00Z,1.62,3.85,5.56,https://www.pinnacle.com/en/soccer/leagues/1928
+Toyo University - Kibi University,2025-12-26T02:00:00Z,1.03,10.83,20.58,https://www.pinnacle.com/en/soccer/leagues/223691
+Dundee - Falkirk,2025-12-27T15:00:00Z,3.06,3.24,2.42,https://www.pinnacle.com/en/soccer/leagues/2421
+Aberdeen - Dundee United,2025-12-27T17:45:00Z,1.84,3.76,4.1,https://www.pinnacle.com/en/soccer/leagues/2421
+Hibernian - Hearts,2025-12-27T12:30:00Z,2.93,3.31,2.46,https://www.pinnacle.com/en/soccer/leagues/2421
+Rangers - Motherwell,2025-12-27T15:00:00Z,1.79,3.64,4.55,https://www.pinnacle.com/en/soccer/leagues/2421
+St Mirren - Kilmarnock,2025-12-27T15:00:00Z,1.79,3.61,4.6,https://www.pinnacle.com/en/soccer/leagues/2421
+Livingston - Celtic,2025-12-27T15:00:00Z,7.87,5.21,1.35,https://www.pinnacle.com/en/soccer/leagues/2421
+Stockton Town - Hebburn Town,2025-12-26T13:00:00Z,2.31,3.4,2.68,https://www.pinnacle.com/en/soccer/leagues/11693
+Persebaya Surabaya - Persijap Jepara,2025-12-28T08:30:00Z,1.85,3.72,3.85,https://www.pinnacle.com/en/soccer/leagues/199211
+Bali United - Dewa United,2025-12-29T08:30:00Z,2.49,3.24,2.81,https://www.pinnacle.com/en/soccer/leagues/199211
+Malut United - Borneo Samarinda,2025-12-28T06:30:00Z,2.55,3.24,2.75,https://www.pinnacle.com/en/soccer/leagues/199211
+Persija Jakarta - Bhayangkara,2025-12-29T12:00:00Z,1.5,4.09,6.08,https://www.pinnacle.com/en/soccer/leagues/199211
+PSIM Yogyakarta - PSBS Biak Numfor,2025-12-29T08:30:00Z,1.21,6.13,10.85,https://www.pinnacle.com/en/soccer/leagues/199211
+Persib Bandung - PSM Makassar,2025-12-27T12:00:00Z,1.52,4.03,5.92,https://www.pinnacle.com/en/soccer/leagues/199211
+Madura United - Semen Padang,2025-12-28T12:00:00Z,2.14,3.18,3.51,https://www.pinnacle.com/en/soccer/leagues/199211
+Persik Kediri - Persis Solo,2025-12-27T08:30:00Z,1.81,3.54,4.23,https://www.pinnacle.com/en/soccer/leagues/199211
+Arema FC - Persita Tangerang,2025-12-30T08:30:00Z,2.03,3.31,3.68,https://www.pinnacle.com/en/soccer/leagues/199211
+Morocco - Mali,2025-12-26T20:00:00Z,1.51,3.85,7.06,https://www.pinnacle.com/en/soccer/leagues/1718
+Egypt - South Africa,2025-12-26T15:00:00Z,1.93,3.04,4.76,https://www.pinnacle.com/en/soccer/leagues/1718
+Nigeria - Tunisia,2025-12-27T20:00:00Z,2.47,2.83,3.37,https://www.pinnacle.com/en/soccer/leagues/1718
+Benin - Botswana,2025-12-27T12:30:00Z,1.68,3.39,5.79,https://www.pinnacle.com/en/soccer/leagues/1718
+Uganda - Tanzania,2025-12-27T17:30:00Z,2.53,2.95,3.11,https://www.pinnacle.com/en/soccer/leagues/1718
+Zambia - Comoros,2025-12-26T17:30:00Z,2.11,3.03,3.96,https://www.pinnacle.com/en/soccer/leagues/1718
+Angola - Zimbabwe,2025-12-26T12:30:00Z,1.81,3.37,5.08,https://www.pinnacle.com/en/soccer/leagues/1718
+Senegal - DR Congo,2025-12-27T15:00:00Z,1.77,3.09,5.86,https://www.pinnacle.com/en/soccer/leagues/1718
+The New Saints - Bala Town,2025-12-26T14:30:00Z,1.07,11.84,21.13,https://www.pinnacle.com/en/soccer/leagues/2678
+Haverfordwest County - Llanelli Town,2025-12-26T14:30:00Z,1.27,5.45,9.12,https://www.pinnacle.com/en/soccer/leagues/2678
+Caernarfon Town - Colwyn Bay,2025-12-27T14:30:00Z,1.81,3.82,3.76,https://www.pinnacle.com/en/soccer/leagues/2678
+Flint Town United - Connahs Quay Nomads,2025-12-26T14:30:00Z,4.46,4.13,1.63,https://www.pinnacle.com/en/soccer/leagues/2678
+Penybont - Briton Ferry Llansawel,2025-12-26T14:30:00Z,1.31,5.37,7.83,https://www.pinnacle.com/en/soccer/leagues/2678
+Monterrey - Deportivo Toluca,2026-01-11T03:00:00Z,1.69,3.66,4.05,https://www.pinnacle.com/en/soccer/leagues/2242
+Santos Laguna - Necaxa,2026-01-11T01:00:00Z,3.94,4.04,1.81,https://www.pinnacle.com/en/soccer/leagues/2242
+Club Tijuana - Club America,2026-01-10T03:00:00Z,3.9,3.8,1.88,https://www.pinnacle.com/en/soccer/leagues/2242
+Mazatlan - FC Juarez,2026-01-10T03:00:00Z,2.97,3.28,2.45,https://www.pinnacle.com/en/soccer/leagues/2242
+Atlas - Puebla,2026-01-10T03:00:00Z,2.25,3.42,3.19,https://www.pinnacle.com/en/soccer/leagues/2242
+Chivas Guadalajara - Pachuca,2026-01-10T23:00:00Z,1.87,3.57,4.2,https://www.pinnacle.com/en/soccer/leagues/2242
+Club Leon - Cruz Azul,2026-01-11T01:00:00Z,4.52,3.9,1.74,https://www.pinnacle.com/en/soccer/leagues/2242
+Atletico San Luis - Tigres UANL,2026-01-12T01:00:00Z,3.98,3.57,1.92,https://www.pinnacle.com/en/soccer/leagues/2242
+Pumas UNAM - Queretaro,2026-01-11T18:00:00Z,1.46,4.37,6.94,https://www.pinnacle.com/en/soccer/leagues/2242
+Mallorca - Girona,2026-01-04T17:30:00Z,2.3,3.21,3.3,https://www.pinnacle.com/en/soccer/leagues/2196
+Sevilla - Levante,2026-01-04T13:00:00Z,1.81,3.59,4.47,https://www.pinnacle.com/en/soccer/leagues/2196
+Real Madrid - Real Betis,2026-01-04T15:15:00Z,1.36,5.42,7.31,https://www.pinnacle.com/en/soccer/leagues/2196
+Real Sociedad - Atletico Madrid,2026-01-04T20:00:00Z,3.52,3.56,2.06,https://www.pinnacle.com/en/soccer/leagues/2196
+Levante - Espanyol,2026-01-11T15:15:00Z,2.96,3.39,2.4,https://www.pinnacle.com/en/soccer/leagues/2196
+Espanyol - Barcelona,2026-01-03T20:00:00Z,4.22,5.03,1.61,https://www.pinnacle.com/en/soccer/leagues/2196
+Villarreal - Alaves,2026-01-10T15:15:00Z,1.59,3.85,6.04,https://www.pinnacle.com/en/soccer/leagues/2196
+Rayo Vallecano - Mallorca,2026-01-11T13:00:00Z,1.76,3.46,5.12,https://www.pinnacle.com/en/soccer/leagues/2196
+Alaves - Real Oviedo,2026-01-04T17:30:00Z,1.85,3.13,5.22,https://www.pinnacle.com/en/soccer/leagues/2196
+Elche - Villarreal,2026-01-03T17:30:00Z,3.36,3.49,2.14,https://www.pinnacle.com/en/soccer/leagues/2196
+Rayo Vallecano - Getafe,2026-01-02T20:00:00Z,2.12,3.1,3.91,https://www.pinnacle.com/en/soccer/leagues/2196
+Athletic Bilbao - Real Madrid,2026-01-11T18:00:00Z,3.84,3.76,1.9,https://www.pinnacle.com/en/soccer/leagues/2196
+Celta Vigo - Valencia,2026-01-03T13:00:00Z,1.86,3.64,4.14,https://www.pinnacle.com/en/soccer/leagues/2196
+Sevilla - Celta Vigo,2026-01-12T20:00:00Z,2.55,3.34,2.8,https://www.pinnacle.com/en/soccer/leagues/2196
+Girona - Osasuna,2026-01-10T17:30:00Z,2.48,3.18,3.02,https://www.pinnacle.com/en/soccer/leagues/2196
+Getafe - Real Sociedad,2026-01-09T20:00:00Z,3.0,2.8,2.78,https://www.pinnacle.com/en/soccer/leagues/2196
+Valencia - Elche,2026-01-10T20:00:00Z,2.18,3.15,3.63,https://www.pinnacle.com/en/soccer/leagues/2196
+Osasuna - Athletic Bilbao,2026-01-03T15:15:00Z,3.16,2.83,2.63,https://www.pinnacle.com/en/soccer/leagues/2196
+Real Oviedo - Real Betis,2026-01-10T13:00:00Z,3.88,3.53,1.96,https://www.pinnacle.com/en/soccer/leagues/2196
+Barcelona - Atletico Madrid,2026-01-11T18:00:00Z,1.6,4.57,4.77,https://www.pinnacle.com/en/soccer/leagues/2196
+Arbroath - Airdrieonians,2025-12-27T15:00:00Z,1.82,3.51,4.24,https://www.pinnacle.com/en/soccer/leagues/2417
+Queens Park - Partick Thistle,2025-12-27T15:00:00Z,5.79,3.95,1.54,https://www.pinnacle.com/en/soccer/leagues/2417
+Raith Rovers - Dunfermline Athletic,2025-12-27T15:00:00Z,2.09,3.15,3.7,https://www.pinnacle.com/en/soccer/leagues/2417
+Greenock Morton - Ayr United,2025-12-27T15:00:00Z,2.98,3.19,2.4,https://www.pinnacle.com/en/soccer/leagues/2417
+Ross County - St Johnstone,2025-12-27T15:00:00Z,4.91,3.85,1.64,https://www.pinnacle.com/en/soccer/leagues/2417
+Al Muharraq - Al-Najma,2025-12-28T16:00:00Z,1.27,5.41,9.1,https://www.pinnacle.com/en/soccer/leagues/1797
+Al-Khaldiya - Al Budaiya,2025-12-28T16:00:00Z,1.43,4.42,6.37,https://www.pinnacle.com/en/soccer/leagues/1797
+Al Shabab Manama - Al Riffa,2025-12-27T13:20:00Z,8.88,4.27,1.36,https://www.pinnacle.com/en/soccer/leagues/1797
+A'Ali - Al Hidd,2025-12-26T16:00:00Z,2.69,3.27,2.46,https://www.pinnacle.com/en/soccer/leagues/1797
+Al-Ahli Manama - Sitra Club,2025-12-28T16:00:00Z,2.75,3.07,2.53,https://www.pinnacle.com/en/soccer/leagues/1797
+Malkiya Club - Bahrain SC,2025-12-26T13:20:00Z,1.75,3.62,4.2,https://www.pinnacle.com/en/soccer/leagues/1797
+Esteghlal Khuzestan - Zob Ahan,2025-12-25T14:00:00Z,3.69,2.36,2.43,https://www.pinnacle.com/en/soccer/leagues/2118
+Aluminium Arak - Malavan,2025-12-25T14:00:00Z,3.09,2.23,3.0,https://www.pinnacle.com/en/soccer/leagues/2118
+Al-Rustaq - Sohar Club,2025-12-26T15:45:00Z,2.36,2.83,2.94,https://www.pinnacle.com/en/soccer/leagues/2352
+Muscat - Saham,2025-12-26T12:45:00Z,3.46,2.78,2.13,https://www.pinnacle.com/en/soccer/leagues/2352
+Ruthin Town - Denbigh Town,2025-12-26T14:00:00Z,3.66,4.13,1.71,https://www.pinnacle.com/en/soccer/leagues/214556
+Pontypridd Town - Aberystwyth Town,2025-12-26T14:00:00Z,2.22,3.44,2.79,https://www.pinnacle.com/en/soccer/leagues/214556
+Trefelin BGC - Caerau Ely,2025-12-26T14:00:00Z,2.01,3.61,3.08,https://www.pinnacle.com/en/soccer/leagues/214556
+Llandudno - Buckley Town,2025-12-26T14:00:00Z,1.16,7.12,10.28,https://www.pinnacle.com/en/soccer/leagues/214556
+Carmarthen Town - Ammanford,2025-12-26T14:00:00Z,2.52,3.43,2.44,https://www.pinnacle.com/en/soccer/leagues/214556
+Mold Alexandra - Caersws,2025-12-26T14:00:00Z,1.93,3.71,3.2,https://www.pinnacle.com/en/soccer/leagues/214556
+Baglan Dragons - Afan Lido,2025-12-26T14:00:00Z,1.53,4.09,4.93,https://www.pinnacle.com/en/soccer/leagues/214556
+Cardiff Draconians - Llantwit Major,2025-12-26T12:00:00Z,2.12,3.42,2.98,https://www.pinnacle.com/en/soccer/leagues/214556
+Holyhead Hotspur - CPD Y Rhyl 1879,2025-12-26T14:00:00Z,2.54,3.73,2.29,https://www.pinnacle.com/en/soccer/leagues/214556
+Eastleigh - Woking,2025-12-26T15:00:00Z,2.5,3.28,2.78,https://www.pinnacle.com/en/soccer/leagues/1978
+Truro City - Yeovil Town,2025-12-26T15:00:00Z,2.27,3.33,3.07,https://www.pinnacle.com/en/soccer/leagues/1978
+Morecambe - Rochdale,2025-12-26T15:00:00Z,6.13,4.77,1.42,https://www.pinnacle.com/en/soccer/leagues/1978
+Solihull Moors - Tamworth,2025-12-26T15:00:00Z,2.14,3.59,3.12,https://www.pinnacle.com/en/soccer/leagues/1978
+Wealdstone - Boreham Wood,2025-12-26T15:00:00Z,4.21,3.89,1.74,https://www.pinnacle.com/en/soccer/leagues/1978
+Brackley Town - Forest Green Rovers,2025-12-26T15:00:00Z,4.9,3.92,1.63,https://www.pinnacle.com/en/soccer/leagues/1978
+Braintree Town - Southend United,2025-12-26T15:00:00Z,4.73,3.83,1.67,https://www.pinnacle.com/en/soccer/leagues/1978
+York City - Boston United,2025-12-26T15:00:00Z,1.23,6.37,9.27,https://www.pinnacle.com/en/soccer/leagues/1978
+Gateshead - Carlisle United,2025-12-26T15:00:00Z,5.74,4.66,1.46,https://www.pinnacle.com/en/soccer/leagues/1978
+Sutton United - Aldershot Town,2025-12-26T15:00:00Z,1.94,3.96,3.33,https://www.pinnacle.com/en/soccer/leagues/1978
+Halifax Town - Altrincham,2025-12-26T15:00:00Z,2.15,3.38,3.27,https://www.pinnacle.com/en/soccer/leagues/1978
+Hartlepool United - Scunthorpe United,2025-12-26T15:00:00Z,2.2,3.68,2.94,https://www.pinnacle.com/en/soccer/leagues/1978
+SC Ramla - Shikhun HaMizrah,2025-12-25T17:00:00Z,2.18,3.45,2.71,https://www.pinnacle.com/en/soccer/leagues/198331
+Hapoel Yafia - Beitar Haifa,2025-12-25T17:20:00Z,12.28,11.26,1.06,https://www.pinnacle.com/en/soccer/leagues/198331
+Arad FC - Hapoel Yeruham,2025-12-25T18:45:00Z,1.83,3.57,3.34,https://www.pinnacle.com/en/soccer/leagues/198331
+Beitar Ironi Kiryat Gat - Ihud Tzeirey Abu Gosh,2025-12-25T18:30:00Z,2.61,3.26,2.2,https://www.pinnacle.com/en/soccer/leagues/198331
+Beitar Kfar Saba Shlomi - Hapoel Lod,2025-12-25T17:30:00Z,4.19,4.1,1.55,https://www.pinnacle.com/en/soccer/leagues/198331
+Wales - Bosnia and Herzegovina,2026-03-26T19:45:00Z,1.87,3.27,4.48,https://www.pinnacle.com/en/soccer/leagues/2015
+Denmark - North Macedonia,2026-03-26T19:45:00Z,1.3,5.07,9.92,https://www.pinnacle.com/en/soccer/leagues/2015
+Poland - Albania,2026-03-26T19:45:00Z,1.62,3.61,5.74,https://www.pinnacle.com/en/soccer/leagues/2015
+Slovakia - Kosovo,2026-03-26T19:45:00Z,1.88,3.4,4.2,https://www.pinnacle.com/en/soccer/leagues/2015
+Turkiye - Romania,2026-03-26T17:00:00Z,1.54,4.36,5.28,https://www.pinnacle.com/en/soccer/leagues/2015
+Czechia - Ireland,2026-03-26T19:45:00Z,1.92,3.35,4.12,https://www.pinnacle.com/en/soccer/leagues/2015
+Italy - Northern Ireland,2026-03-26T19:45:00Z,1.31,4.73,10.42,https://www.pinnacle.com/en/soccer/leagues/2015
+Ukraine - Sweden,2026-03-26T19:45:00Z,2.73,3.2,2.63,https://www.pinnacle.com/en/soccer/leagues/2015
+Portadown - Glenavon,2025-12-26T15:00:00Z,1.85,3.71,3.82,https://www.pinnacle.com/en/soccer/leagues/2259
+Cliftonville - Crusaders,2025-12-26T15:00:00Z,1.53,4.28,5.32,https://www.pinnacle.com/en/soccer/leagues/2259
+Dungannon Swifts - Bangor,2025-12-26T15:00:00Z,1.65,4.07,4.54,https://www.pinnacle.com/en/soccer/leagues/2259
+Linfield - Glentoran,2025-12-26T15:00:00Z,1.91,3.42,3.94,https://www.pinnacle.com/en/soccer/leagues/2259
+Ballymena United - Coleraine,2025-12-26T15:00:00Z,5.73,4.58,1.47,https://www.pinnacle.com/en/soccer/leagues/2259
+Carrick Rangers - Larne,2025-12-26T15:00:00Z,4.16,3.65,1.8,https://www.pinnacle.com/en/soccer/leagues/2259
+Al-Zulfi - Al-Orobah,2025-12-26T12:20:00Z,2.4,3.51,2.66,https://www.pinnacle.com/en/soccer/leagues/10600
+Al-Raed - Al Draih,2025-12-26T12:20:00Z,2.9,3.18,2.39,https://www.pinnacle.com/en/soccer/leagues/10600
+Al-Faisaly - Jeddah Club,2025-12-26T14:55:00Z,1.63,3.53,5.47,https://www.pinnacle.com/en/soccer/leagues/10600
+Al-Wehda - Al Jubail,2025-12-25T15:25:00Z,1.3,5.24,9.6,https://www.pinnacle.com/en/soccer/leagues/10600
+Al-Jandal - Al-Adalah,2025-12-25T15:05:00Z,2.53,2.84,3.16,https://www.pinnacle.com/en/soccer/leagues/10600
+Abha Club - Al-Tai,2025-12-26T12:40:00Z,1.85,3.43,4.01,https://www.pinnacle.com/en/soccer/leagues/10600
+Palermo - Padova,2025-12-27T16:15:00Z,1.51,4.14,6.6,https://www.pinnacle.com/en/soccer/leagues/2438
+Spezia - Pescara,2025-12-27T11:30:00Z,1.75,3.79,4.57,https://www.pinnacle.com/en/soccer/leagues/2438
+Catanzaro - Cesena,2025-12-27T14:00:00Z,2.65,2.84,3.13,https://www.pinnacle.com/en/soccer/leagues/2438
+Sampdoria - Reggiana,2025-12-27T14:00:00Z,1.98,3.33,4.05,https://www.pinnacle.com/en/soccer/leagues/2438
+Venezia - Virtus Entella,2025-12-27T14:00:00Z,1.46,4.4,6.88,https://www.pinnacle.com/en/soccer/leagues/2438
+Juve Stabia - Sudtirol,2025-12-27T14:00:00Z,2.18,3.03,3.83,https://www.pinnacle.com/en/soccer/leagues/2438
+Modena - Monza,2025-12-26T16:15:00Z,2.35,2.99,3.45,https://www.pinnacle.com/en/soccer/leagues/2438
+Bari - Avellino,2025-12-27T18:30:00Z,2.33,3.09,3.37,https://www.pinnacle.com/en/soccer/leagues/2438
+Carrarese - Mantova,2025-12-27T14:00:00Z,2.22,3.11,3.58,https://www.pinnacle.com/en/soccer/leagues/2438
+Empoli - Frosinone,2025-12-27T14:00:00Z,2.63,3.04,2.93,https://www.pinnacle.com/en/soccer/leagues/2438
+Mainz 05 - Heidenheim,2026-01-13T19:30:00Z,1.7,3.66,5.13,https://www.pinnacle.com/en/soccer/leagues/1842
+Stuttgart - Eintracht Frankfurt,2026-01-13T17:30:00Z,1.82,3.94,4.0,https://www.pinnacle.com/en/soccer/leagues/1842
+Eintracht Frankfurt - Borussia Dortmund,2026-01-09T19:30:00Z,3.3,3.66,2.11,https://www.pinnacle.com/en/soccer/leagues/1842
+Werder Bremen - Hoffenheim,2026-01-10T14:30:00Z,2.79,3.7,2.38,https://www.pinnacle.com/en/soccer/leagues/1842
+St. Pauli - RB Leipzig,2026-01-10T14:30:00Z,3.89,3.65,1.92,https://www.pinnacle.com/en/soccer/leagues/1842
+Borussia Monchengladbach - Augsburg,2026-01-11T14:30:00Z,1.98,3.67,3.66,https://www.pinnacle.com/en/soccer/leagues/1842
+Freiburg - Hamburger SV,2026-01-10T14:30:00Z,1.79,3.49,4.77,https://www.pinnacle.com/en/soccer/leagues/1842
+Bayern Munich - Wolfsburg,2026-01-11T16:30:00Z,1.14,9.81,13.21,https://www.pinnacle.com/en/soccer/leagues/1842
+Borussia Dortmund - Werder Bremen,2026-01-13T19:30:00Z,1.3,5.92,8.2,https://www.pinnacle.com/en/soccer/leagues/1842
+FC Koln - Bayern Munich,2026-01-14T19:30:00Z,8.03,6.23,1.28,https://www.pinnacle.com/en/soccer/leagues/1842
+Heidenheim - FC Koln,2026-01-10T14:30:00Z,2.94,3.57,2.33,https://www.pinnacle.com/en/soccer/leagues/1842
+Hamburger SV - Bayer Leverkusen,2026-01-13T19:30:00Z,3.42,3.78,2.02,https://www.pinnacle.com/en/soccer/leagues/1842
+Bayer Leverkusen - Stuttgart,2026-01-10T17:30:00Z,1.94,3.93,3.54,https://www.pinnacle.com/en/soccer/leagues/1842
+Augsburg - Union Berlin,2026-01-15T19:30:00Z,2.29,3.26,3.25,https://www.pinnacle.com/en/soccer/leagues/1842
+Hoffenheim - Borussia Monchengladbach,2026-01-14T19:30:00Z,1.78,4.06,4.11,https://www.pinnacle.com/en/soccer/leagues/1842
+Union Berlin - Mainz 05,2026-01-10T14:30:00Z,2.14,3.2,3.7,https://www.pinnacle.com/en/soccer/leagues/1842
+Wolfsburg - St. Pauli,2026-01-14T17:30:00Z,1.87,3.71,4.05,https://www.pinnacle.com/en/soccer/leagues/1842
+RB Leipzig - Freiburg,2026-01-14T19:30:00Z,1.79,4.02,4.08,https://www.pinnacle.com/en/soccer/leagues/1842
+Salzburg - Basel,2026-01-22T20:00:00Z,2.25,3.72,2.88,https://www.pinnacle.com/en/soccer/leagues/2630
+Dinamo Zagreb - FCSB,2026-01-22T20:00:00Z,1.7,3.92,4.47,https://www.pinnacle.com/en/soccer/leagues/2630
+Young Boys - Lyon,2026-01-22T17:45:00Z,4.18,3.82,1.78,https://www.pinnacle.com/en/soccer/leagues/2630
+Brann - Midtjylland,2026-01-22T17:45:00Z,3.04,3.57,2.21,https://www.pinnacle.com/en/soccer/leagues/2630
+FC Utrecht - Genk,2026-01-22T20:00:00Z,2.79,3.43,2.44,https://www.pinnacle.com/en/soccer/leagues/2630
+Viktoria Plzen - Porto,2026-01-22T17:45:00Z,3.16,3.47,2.19,https://www.pinnacle.com/en/soccer/leagues/2630
+Fenerbahce - Aston Villa,2026-01-22T17:45:00Z,2.54,3.51,2.62,https://www.pinnacle.com/en/soccer/leagues/2630
+Bologna - Celtic,2026-01-22T17:45:00Z,1.55,4.11,5.55,https://www.pinnacle.com/en/soccer/leagues/2630
+Braga - Nottingham Forest,2026-01-22T20:00:00Z,2.68,3.37,2.56,https://www.pinnacle.com/en/soccer/leagues/2630
+Malmo - Crvena Zvezda,2026-01-22T17:45:00Z,3.37,3.57,2.06,https://www.pinnacle.com/en/soccer/leagues/2630
+PAOK - Real Betis,2026-01-22T17:45:00Z,2.73,3.61,2.4,https://www.pinnacle.com/en/soccer/leagues/2630
+Freiburg - Maccabi Tel Aviv,2026-01-22T17:45:00Z,1.16,7.56,13.32,https://www.pinnacle.com/en/soccer/leagues/2630
+Roma - Stuttgart,2026-01-22T20:00:00Z,1.89,3.62,3.84,https://www.pinnacle.com/en/soccer/leagues/2630
+Nice - Go Ahead Eagles,2026-01-22T20:00:00Z,1.61,4.12,4.94,https://www.pinnacle.com/en/soccer/leagues/2630
+Rangers - Ludogorets Razgrad,2026-01-22T20:00:00Z,1.74,3.84,4.33,https://www.pinnacle.com/en/soccer/leagues/2630
+Ferencvaros - Panathinaikos,2026-01-22T20:00:00Z,2.31,3.35,3.03,https://www.pinnacle.com/en/soccer/leagues/2630
+Celta Vigo - Lille,2026-01-22T20:00:00Z,2.42,3.46,2.79,https://www.pinnacle.com/en/soccer/leagues/2630
+Feyenoord - Sturm Graz,2026-01-22T17:45:00Z,1.43,4.8,6.1,https://www.pinnacle.com/en/soccer/leagues/2630
+Hereford - Kidderminster Harriers,2025-12-26T15:00:00Z,2.81,3.4,2.33,https://www.pinnacle.com/en/soccer/leagues/1951
+Scarborough Athletic - Darlington,2025-12-26T12:30:00Z,2.33,3.57,2.71,https://www.pinnacle.com/en/soccer/leagues/1951
+Macclesfield - Buxton,2025-12-26T15:00:00Z,1.91,3.94,3.31,https://www.pinnacle.com/en/soccer/leagues/1951
+South Shields - Spennymoor Town,2025-12-26T15:00:00Z,1.7,3.88,4.3,https://www.pinnacle.com/en/soccer/leagues/1951
+Kings Lynn Town - Peterborough Sports,2025-12-26T15:00:00Z,1.85,3.68,3.75,https://www.pinnacle.com/en/soccer/leagues/1951
+Leamington - Bedford Town,2025-12-26T15:00:00Z,2.58,3.58,2.43,https://www.pinnacle.com/en/soccer/leagues/1951
+Curzon Ashton - Radcliffe,2025-12-26T15:00:00Z,3.0,3.49,2.18,https://www.pinnacle.com/en/soccer/leagues/1951
+Worksop Town - Alfreton Town,2025-12-26T15:00:00Z,1.86,3.73,3.65,https://www.pinnacle.com/en/soccer/leagues/1951
+Marine - Southport,2025-12-26T15:00:00Z,2.13,3.1,3.33,https://www.pinnacle.com/en/soccer/leagues/1951
+Telford United - Chester,2025-12-26T15:00:00Z,2.39,3.35,2.78,https://www.pinnacle.com/en/soccer/leagues/1951
+AFC Fylde - Chorley,2025-12-26T15:00:00Z,1.53,4.78,4.63,https://www.pinnacle.com/en/soccer/leagues/1951
+Oxford City - Merthyr Town,2025-12-26T13:00:00Z,2.56,3.82,2.35,https://www.pinnacle.com/en/soccer/leagues/1951
+RANS Nusantara - Persika Karanganyar,2025-12-26T08:00:00Z,2.32,2.86,2.96,https://www.pinnacle.com/en/soccer/leagues/283452
+Persiba Bantul - Gresik United,2025-12-26T08:00:00Z,2.29,2.79,3.05,https://www.pinnacle.com/en/soccer/leagues/283452
+Standard Liege - Sint Truidense,2025-12-26T17:30:00Z,2.88,3.34,2.49,https://www.pinnacle.com/en/soccer/leagues/1817
+RAAL La Louviere - Oud-Heverlee Leuven,2025-12-27T15:00:00Z,2.55,3.03,3.05,https://www.pinnacle.com/en/soccer/leagues/1817
+Genk - Club Brugge,2025-12-26T12:30:00Z,3.19,3.69,2.2,https://www.pinnacle.com/en/soccer/leagues/1817
+Mechelen - Dender,2025-12-27T17:15:00Z,2.13,3.56,3.33,https://www.pinnacle.com/en/soccer/leagues/1817
+Anderlecht - Charleroi,2025-12-26T19:45:00Z,1.76,3.6,4.84,https://www.pinnacle.com/en/soccer/leagues/1817
+Gent - KVC Westerlo,2025-12-27T19:45:00Z,2.32,3.79,2.81,https://www.pinnacle.com/en/soccer/leagues/1817
+Cercle Brugge - Union Saint-Gilloise,2025-12-26T15:00:00Z,3.93,3.66,1.91,https://www.pinnacle.com/en/soccer/leagues/1817
+Royal Antwerp - Zulte Waregem,2025-12-27T12:30:00Z,2.02,3.66,3.54,https://www.pinnacle.com/en/soccer/leagues/1817
+Pau FC - Rodez,2026-01-03T19:00:00Z,2.15,3.56,3.22,https://www.pinnacle.com/en/soccer/leagues/2037
+Troyes - Red Star,2026-01-03T13:00:00Z,1.79,3.29,5.1,https://www.pinnacle.com/en/soccer/leagues/2037
+Bastia - Grenoble,2026-01-03T19:00:00Z,2.17,3.13,3.63,https://www.pinnacle.com/en/soccer/leagues/2037
+Le Mans - Saint-Etienne,2026-01-03T19:00:00Z,2.86,3.44,2.41,https://www.pinnacle.com/en/soccer/leagues/2037
+Reims - Annecy,2026-01-03T19:00:00Z,1.79,3.56,4.59,https://www.pinnacle.com/en/soccer/leagues/2037
+Montpellier - Dunkerque,2026-01-05T19:45:00Z,2.34,3.19,3.18,https://www.pinnacle.com/en/soccer/leagues/2037
+Amiens - Nancy,2026-01-03T19:00:00Z,3.56,3.34,2.1,https://www.pinnacle.com/en/soccer/leagues/2037
+Clermont - Stade Lavallois,2026-01-03T19:00:00Z,2.45,3.05,3.14,https://www.pinnacle.com/en/soccer/leagues/2037
+Guingamp - Boulogne,2026-01-03T19:00:00Z,1.85,3.66,4.06,https://www.pinnacle.com/en/soccer/leagues/2037
+Bayern Munich - RB Leipzig,2026-02-11T19:45:00Z,1.28,5.53,8.58,https://www.pinnacle.com/en/soccer/leagues/2067
+Bayer Leverkusen - St. Pauli,2026-02-03T19:45:00Z,1.47,4.58,5.95,https://www.pinnacle.com/en/soccer/leagues/2067
+Holstein Kiel - Stuttgart,2026-02-04T19:45:00Z,6.05,4.51,1.47,https://www.pinnacle.com/en/soccer/leagues/2067
+Hertha BSC - Freiburg,2026-02-10T19:45:00Z,3.51,3.66,1.98,https://www.pinnacle.com/en/soccer/leagues/2067
+Hapoel Raanana - Maccabi Kiryat Gat,2025-12-25T17:00:00Z,2.21,3.37,2.87,https://www.pinnacle.com/en/soccer/leagues/2129
+Bnei Sakhnin - Maccabi Kabilio Jaffa,2025-12-25T17:00:00Z,1.56,3.92,4.31,https://www.pinnacle.com/en/soccer/leagues/2129
+Hapoel Petah Tikva - Hapoel Ironi Karmiel,2025-12-25T17:00:00Z,1.17,6.2,12.59,https://www.pinnacle.com/en/soccer/leagues/2129
+Bnei Yehuda Tel Aviv - Maccabi Kiryat Ata-Bialik,2025-12-25T17:00:00Z,1.58,3.69,5.15,https://www.pinnacle.com/en/soccer/leagues/2129
+Hapoel Tel Aviv - FC Ashdod,2025-12-25T18:00:00Z,1.61,3.85,4.62,https://www.pinnacle.com/en/soccer/leagues/2129
+Walsall - Crewe Alexandra,2025-12-26T15:00:00Z,2.05,3.3,3.65,https://www.pinnacle.com/en/soccer/leagues/1958
+Accrington Stanley - Barrow,2025-12-26T15:00:00Z,2.13,3.32,3.42,https://www.pinnacle.com/en/soccer/leagues/1958
+Tranmere Rovers - Fleetwood Town,2025-12-26T15:00:00Z,2.33,3.36,2.97,https://www.pinnacle.com/en/soccer/leagues/1958
+Bristol Rovers - Bromley,2025-12-26T15:00:00Z,2.77,3.39,2.47,https://www.pinnacle.com/en/soccer/leagues/1958
+Salford City - Harrogate Town,2025-12-26T15:00:00Z,1.36,4.88,7.59,https://www.pinnacle.com/en/soccer/leagues/1958
+Cheltenham Town - Shrewsbury Town,2025-12-26T15:00:00Z,2.64,3.35,2.61,https://www.pinnacle.com/en/soccer/leagues/1958
+Chesterfield - Notts County,2025-12-26T15:00:00Z,2.45,3.51,2.71,https://www.pinnacle.com/en/soccer/leagues/1958
+Grimsby Town - Oldham Athletic,2025-12-26T15:00:00Z,2.09,3.64,3.24,https://www.pinnacle.com/en/soccer/leagues/1958
+Newport County - Barnet,2025-12-26T15:00:00Z,5.26,4.21,1.56,https://www.pinnacle.com/en/soccer/leagues/1958
+Gillingham - Cambridge United,2025-12-26T15:00:00Z,3.02,2.97,2.55,https://www.pinnacle.com/en/soccer/leagues/1958
+Crawley Town - Colchester United,2025-12-26T15:00:00Z,3.01,3.48,2.27,https://www.pinnacle.com/en/soccer/leagues/1958
+MK Dons - Swindon Town,2025-12-26T15:00:00Z,1.87,3.71,3.83,https://www.pinnacle.com/en/soccer/leagues/1958
+Chelsea - Arsenal,2026-01-14T20:00:00Z,2.7,3.29,2.67,https://www.pinnacle.com/en/soccer/leagues/1982
+Newcastle United - Manchester City,2026-01-13T20:00:00Z,3.57,3.66,2.01,https://www.pinnacle.com/en/soccer/leagues/1982
+Majd - Dubai City,2025-12-26T12:50:00Z,2.52,3.45,2.43,https://www.pinnacle.com/en/soccer/leagues/2625
+Fujairah - Al Hamriyah,2025-12-26T12:45:00Z,2.27,3.43,2.73,https://www.pinnacle.com/en/soccer/leagues/2625
+Hatta - Al-Ittifaq,2025-12-26T12:45:00Z,1.4,4.43,6.19,https://www.pinnacle.com/en/soccer/leagues/2625
+Emirates Club - Al Arabi (UAE),2025-12-26T12:45:00Z,2.08,3.23,3.24,https://www.pinnacle.com/en/soccer/leagues/2625
+Dibba Al Hisn - Al-Urooba,2025-12-26T12:45:00Z,1.74,3.5,4.23,https://www.pinnacle.com/en/soccer/leagues/2625
+Al-Jazira Al-Hamra - Al-Thaid,2025-12-26T12:45:00Z,2.79,3.11,2.39,https://www.pinnacle.com/en/soccer/leagues/2625
+Maccabi Bnei Reineh - Hapoel Kiryat Shmona,2025-12-30T17:00:00Z,3.01,3.45,2.25,https://www.pinnacle.com/en/soccer/leagues/2136
+Beitar Jerusalem - Hapoel Tel Aviv,2026-01-01T18:30:00Z,1.93,3.76,3.54,https://www.pinnacle.com/en/soccer/leagues/2136
+Maccabi Tel Aviv - Ironi Tiberias,2025-12-30T18:00:00Z,1.24,6.1,9.21,https://www.pinnacle.com/en/soccer/leagues/2136
+Hapoel Haifa - Bnei Sakhnin,2025-12-30T17:30:00Z,2.05,3.42,3.5,https://www.pinnacle.com/en/soccer/leagues/2136
+Hapoel Beer Sheva - Hapoel Jerusalem,2025-12-31T18:00:00Z,1.25,5.94,9.08,https://www.pinnacle.com/en/soccer/leagues/2136
+FC Ashdod - Maccabi Haifa,2025-12-31T17:45:00Z,4.81,4.1,1.61,https://www.pinnacle.com/en/soccer/leagues/2136
+Maccabi Netanya - Hapoel Petah Tikva,2025-12-31T17:30:00Z,2.28,3.55,2.89,https://www.pinnacle.com/en/soccer/leagues/2136
+Ceuta - FC Andorra,2026-01-04T15:15:00Z,2.0,3.51,3.75,https://www.pinnacle.com/en/soccer/leagues/2432
+Sporting Gijon - Malaga,2026-01-04T13:00:00Z,1.97,3.34,4.12,https://www.pinnacle.com/en/soccer/leagues/2432
+Eibar - Mirandes,2026-01-02T19:30:00Z,1.62,3.76,5.83,https://www.pinnacle.com/en/soccer/leagues/2432
+Deportivo La Coruna - Cadiz,2026-01-04T20:00:00Z,1.69,3.77,5.06,https://www.pinnacle.com/en/soccer/leagues/2432
+Almeria - Granada,2026-01-03T15:15:00Z,1.71,3.8,4.83,https://www.pinnacle.com/en/soccer/leagues/2432
+Albacete - Leganes,2026-01-04T17:30:00Z,2.36,3.21,3.18,https://www.pinnacle.com/en/soccer/leagues/2432
+Castellon - Huesca,2026-01-03T15:15:00Z,1.57,4.03,5.81,https://www.pinnacle.com/en/soccer/leagues/2432
+Real Valladolid - Racing Santander,2026-01-03T17:30:00Z,2.07,3.33,3.74,https://www.pinnacle.com/en/soccer/leagues/2432
+Real Zaragoza - Las Palmas,2026-01-04T17:30:00Z,3.19,2.95,2.51,https://www.pinnacle.com/en/soccer/leagues/2432
+Cultural Leonesa - Real Sociedad II,2026-01-03T13:00:00Z,1.94,3.41,4.1,https://www.pinnacle.com/en/soccer/leagues/2432
+Cordoba - Burgos,2026-01-03T20:00:00Z,2.03,3.21,4.05,https://www.pinnacle.com/en/soccer/leagues/2432
+Galatasaray - Atletico Madrid,2026-01-21T17:45:00Z,3.38,3.84,2.02,https://www.pinnacle.com/en/soccer/leagues/2627
+Kairat Almaty - Club Brugge,2026-01-20T15:30:00Z,4.22,4.71,1.65,https://www.pinnacle.com/en/soccer/leagues/2627
+Olympiakos - Bayer Leverkusen,2026-01-20T20:00:00Z,2.46,3.57,2.75,https://www.pinnacle.com/en/soccer/leagues/2627
+Internazionale - Arsenal,2026-01-20T20:00:00Z,2.6,3.51,2.63,https://www.pinnacle.com/en/soccer/leagues/2627
+Qarabag - Eintracht Frankfurt,2026-01-21T17:45:00Z,3.04,3.77,2.19,https://www.pinnacle.com/en/soccer/leagues/2627
+Juventus - Benfica,2026-01-21T20:00:00Z,1.95,3.51,3.91,https://www.pinnacle.com/en/soccer/leagues/2627
+Villarreal - Ajax,2026-01-20T20:00:00Z,1.61,4.27,5.06,https://www.pinnacle.com/en/soccer/leagues/2627
+Bodo Glimt - Manchester City,2026-01-20T17:45:00Z,6.1,6.05,1.37,https://www.pinnacle.com/en/soccer/leagues/2627
+Sporting CP - Paris Saint-Germain,2026-01-20T20:00:00Z,3.98,4.13,1.79,https://www.pinnacle.com/en/soccer/leagues/2627
+Chelsea - Pafos FC,2026-01-21T20:00:00Z,1.21,6.16,14.01,https://www.pinnacle.com/en/soccer/leagues/2627
+Atalanta - Athletic Bilbao,2026-01-21T20:00:00Z,1.83,3.56,4.42,https://www.pinnacle.com/en/soccer/leagues/2627
+Marseille - Liverpool,2026-01-21T20:00:00Z,3.93,4.01,1.82,https://www.pinnacle.com/en/soccer/leagues/2627
+FC Copenhagen - Napoli,2026-01-20T20:00:00Z,4.09,3.71,1.85,https://www.pinnacle.com/en/soccer/leagues/2627
+Bayern Munich - Union Saint-Gilloise,2026-01-21T20:00:00Z,1.1,10.7,17.26,https://www.pinnacle.com/en/soccer/leagues/2627
+Real Madrid - Monaco,2026-01-20T20:00:00Z,1.25,6.26,9.51,https://www.pinnacle.com/en/soccer/leagues/2627
+Newcastle United - PSV,2026-01-21T20:00:00Z,1.49,5.08,5.35,https://www.pinnacle.com/en/soccer/leagues/2627
+Slavia Prague - Barcelona,2026-01-21T20:00:00Z,6.15,5.51,1.4,https://www.pinnacle.com/en/soccer/leagues/2627
+Tottenham Hotspur - Borussia Dortmund,2026-01-20T20:00:00Z,2.27,3.51,3.07,https://www.pinnacle.com/en/soccer/leagues/2627
+Pyramids FC - Ismaily,2025-12-25T18:00:00Z,5.29,4.06,1.56,https://www.pinnacle.com/en/soccer/leagues/218174
+Al Masry - Haras El Hodood,2025-12-25T15:00:00Z,1.68,3.5,5.39,https://www.pinnacle.com/en/soccer/leagues/218174
+Zamalek - Smouha,2025-12-25T18:00:00Z,2.12,3.07,3.56,https://www.pinnacle.com/en/soccer/leagues/218174
+El Gounah - National Bank of Egypt,2025-12-25T15:00:00Z,3.87,2.72,2.28,https://www.pinnacle.com/en/soccer/leagues/218174
+Montrose - Inverness CT,2025-12-27T15:00:00Z,6.28,4.47,1.44,https://www.pinnacle.com/en/soccer/leagues/2418
+Queen of the South - Hamilton Academical,2025-12-27T15:00:00Z,2.27,3.55,2.8,https://www.pinnacle.com/en/soccer/leagues/2418
+East Fife - Kelty Hearts,2025-12-27T15:00:00Z,1.52,4.24,5.47,https://www.pinnacle.com/en/soccer/leagues/2418
+Peterhead - Cove Rangers,2025-12-27T15:00:00Z,2.49,3.0,2.92,https://www.pinnacle.com/en/soccer/leagues/2418
+Alloa Athletic - Stenhousemuir,2025-12-27T15:00:00Z,2.03,3.58,3.26,https://www.pinnacle.com/en/soccer/leagues/2418
+Ghana - Panama,2026-06-17T23:00:00Z,1.94,3.97,3.37,https://www.pinnacle.com/en/soccer/leagues/2686
+Ivory Coast - Ecuador,2026-06-14T23:00:00Z,3.6,2.76,2.38,https://www.pinnacle.com/en/soccer/leagues/2686
+Belgium - Egypt,2026-06-15T19:00:00Z,1.55,4.29,5.22,https://www.pinnacle.com/en/soccer/leagues/2686
+Mexico - South Africa,2026-06-11T19:00:00Z,1.57,3.83,5.8,https://www.pinnacle.com/en/soccer/leagues/2686
+USA - Paraguay,2026-06-13T01:00:00Z,2.04,3.47,3.51,https://www.pinnacle.com/en/soccer/leagues/2686
+Qatar - Switzerland,2026-06-13T19:00:00Z,7.94,5.27,1.33,https://www.pinnacle.com/en/soccer/leagues/2686
+Brazil - Morocco,2026-06-13T22:00:00Z,1.59,3.78,5.73,https://www.pinnacle.com/en/soccer/leagues/2686
+Austria - Jordan,2026-06-17T04:00:00Z,1.35,5.06,7.74,https://www.pinnacle.com/en/soccer/leagues/2686
+Haiti - Scotland,2026-06-14T01:00:00Z,6.55,5.16,1.38,https://www.pinnacle.com/en/soccer/leagues/2686
+Argentina - Algeria,2026-06-17T01:00:00Z,1.41,4.23,7.93,https://www.pinnacle.com/en/soccer/leagues/2686
+Iran - New Zealand,2026-06-16T01:00:00Z,1.73,3.72,4.58,https://www.pinnacle.com/en/soccer/leagues/2686
+England - Croatia,2026-06-17T20:00:00Z,1.76,3.65,4.49,https://www.pinnacle.com/en/soccer/leagues/2686
+Saudi Arabia - Uruguay,2026-06-15T22:00:00Z,5.15,3.65,1.67,https://www.pinnacle.com/en/soccer/leagues/2686
+France - Senegal,2026-06-16T19:00:00Z,1.42,4.53,6.87,https://www.pinnacle.com/en/soccer/leagues/2686
+Netherlands - Japan,2026-06-14T20:00:00Z,2.1,3.29,3.57,https://www.pinnacle.com/en/soccer/leagues/2686
+Uzbekistan - Colombia,2026-06-18T02:00:00Z,7.01,4.13,1.46,https://www.pinnacle.com/en/soccer/leagues/2686
+Paris Saint-Germain - Marseille,2026-01-08T18:00:00Z,1.58,4.09,5.59,https://www.pinnacle.com/en/soccer/leagues/2035
+Maritimo - Penafiel,2025-12-28T16:00:00Z,1.53,4.19,5.83,https://www.pinnacle.com/en/soccer/leagues/2387
+Pacos Ferreira - Farense,2025-12-28T14:00:00Z,3.62,3.37,2.07,https://www.pinnacle.com/en/soccer/leagues/2387
+Leixoes - Chaves,2025-12-28T16:00:00Z,3.43,3.23,2.2,https://www.pinnacle.com/en/soccer/leagues/2387
+Academico de Viseu - Benfica II,2025-12-28T11:00:00Z,1.72,3.73,4.7,https://www.pinnacle.com/en/soccer/leagues/2387
+Torreense - Lusitania Lourosa,2025-12-30T20:15:00Z,2.17,3.37,3.36,https://www.pinnacle.com/en/soccer/leagues/2387
+Al Arabi Doha - Al-Rayyan,2025-12-26T14:30:00Z,3.54,3.3,1.88,https://www.pinnacle.com/en/soccer/leagues/216125
+Al-Shamal - Al Sadd,2025-12-26T14:30:00Z,2.28,3.23,2.53,https://www.pinnacle.com/en/soccer/leagues/216125
+Al-Duhail - Qatar SC,2025-12-25T14:30:00Z,1.38,3.77,7.86,https://www.pinnacle.com/en/soccer/leagues/216125
+Al-Duhail - Qatar SC,2025-12-25T14:30:00Z,1.38,3.77,7.86,https://www.pinnacle.com/en/soccer/leagues/216125
+Al Ahli Doha - Umm Salal,2025-12-26T14:30:00Z,2.09,3.94,2.55,https://www.pinnacle.com/en/soccer/leagues/216125
+Al-Shahaniya - Al Gharafa,2025-12-25T14:30:00Z,3.68,2.7,2.11,https://www.pinnacle.com/en/soccer/leagues/216125
+Al-Shahaniya - Al Gharafa,2025-12-25T14:30:00Z,3.68,2.7,2.11,https://www.pinnacle.com/en/soccer/leagues/216125
+Fluminense - Gremio,2026-01-28T00:00:00Z,1.69,3.57,5.25,https://www.pinnacle.com/en/soccer/leagues/1834
+Corinthians - Bahia,2026-01-28T00:00:00Z,2.27,3.23,3.23,https://www.pinnacle.com/en/soccer/leagues/1834
+Internacional - Athletico Paranaense,2026-01-28T00:00:00Z,1.95,3.27,4.17,https://www.pinnacle.com/en/soccer/leagues/1834
+Chapecoense - Santos,2026-01-28T00:00:00Z,3.02,3.15,2.44,https://www.pinnacle.com/en/soccer/leagues/1834
+Botafogo FR RJ - Cruzeiro,2026-01-28T00:00:00Z,2.18,3.07,3.64,https://www.pinnacle.com/en/soccer/leagues/1834
+Sao Paulo - Flamengo,2026-01-28T00:00:00Z,3.92,3.49,1.93,https://www.pinnacle.com/en/soccer/leagues/1834
+Atletico Mineiro - Palmeiras,2026-01-28T00:00:00Z,2.84,3.08,2.63,https://www.pinnacle.com/en/soccer/leagues/1834
+Mirassol - Vasco da Gama,2026-01-28T00:00:00Z,1.7,3.95,4.48,https://www.pinnacle.com/en/soccer/leagues/1834
+Coritiba - Bragantino,2026-01-28T00:00:00Z,2.3,3.08,3.34,https://www.pinnacle.com/en/soccer/leagues/1834
+Vitoria - Remo,2026-01-28T00:00:00Z,1.79,3.49,4.63,https://www.pinnacle.com/en/soccer/leagues/1834
+Brentford - Tottenham Hotspur,2026-01-01T20:00:00Z,2.29,3.64,2.95,https://www.pinnacle.com/en/soccer/leagues/1980
+Manchester United - Newcastle United,2025-12-26T20:00:00Z,2.57,3.65,2.7,https://www.pinnacle.com/en/soccer/leagues/1980
+Nottingham Forest - Manchester City,2025-12-27T12:30:00Z,5.31,4.64,1.58,https://www.pinnacle.com/en/soccer/leagues/1980
+Liverpool - Leeds United,2026-01-01T17:30:00Z,1.47,4.61,6.19,https://www.pinnacle.com/en/soccer/leagues/1980
+Chelsea - Aston Villa,2025-12-27T17:30:00Z,1.86,3.94,4.1,https://www.pinnacle.com/en/soccer/leagues/1980
+Burnley - Newcastle United,2025-12-30T19:30:00Z,4.47,4.21,1.68,https://www.pinnacle.com/en/soccer/leagues/1980
+Sunderland - Manchester City,2026-01-01T20:00:00Z,6.0,4.54,1.49,https://www.pinnacle.com/en/soccer/leagues/1980
+Arsenal - Brighton,2025-12-27T15:00:00Z,1.39,5.04,8.19,https://www.pinnacle.com/en/soccer/leagues/1980
+Chelsea - Bournemouth,2025-12-30T19:30:00Z,1.62,3.94,5.44,https://www.pinnacle.com/en/soccer/leagues/1980
+Crystal Palace - Fulham,2026-01-01T17:30:00Z,2.11,3.38,3.57,https://www.pinnacle.com/en/soccer/leagues/1980
+Liverpool - Wolverhampton,2025-12-27T15:00:00Z,1.22,7.07,11.77,https://www.pinnacle.com/en/soccer/leagues/1980
+Manchester United - Wolverhampton,2025-12-30T20:15:00Z,1.33,5.51,8.16,https://www.pinnacle.com/en/soccer/leagues/1980
+Burnley - Everton,2025-12-27T15:00:00Z,4.12,3.34,2.03,https://www.pinnacle.com/en/soccer/leagues/1980
+West Ham United - Brighton,2025-12-30T19:30:00Z,3.08,3.69,2.2,https://www.pinnacle.com/en/soccer/leagues/1980
+Brentford - Bournemouth,2025-12-27T15:00:00Z,2.32,3.63,3.06,https://www.pinnacle.com/en/soccer/leagues/1980
+Arsenal - Aston Villa,2025-12-30T20:15:00Z,1.48,4.36,6.59,https://www.pinnacle.com/en/soccer/leagues/1980
+Crystal Palace - Tottenham Hotspur,2025-12-28T16:30:00Z,2.32,3.28,3.37,https://www.pinnacle.com/en/soccer/leagues/1980
+Sunderland - Leeds United,2025-12-28T14:00:00Z,2.62,3.31,2.86,https://www.pinnacle.com/en/soccer/leagues/1980
+Nottingham Forest - Everton,2025-12-30T19:30:00Z,2.29,3.17,3.37,https://www.pinnacle.com/en/soccer/leagues/1980
+West Ham United - Fulham,2025-12-27T15:00:00Z,2.69,3.48,2.68,https://www.pinnacle.com/en/soccer/leagues/1980
+ZED - Alo Egypt,2025-12-26T12:30:00Z,1.17,5.67,11.2,https://www.pinnacle.com/en/soccer/leagues/1946
+Torino - Cagliari,2025-12-27T14:00:00Z,1.99,3.36,4.25,https://www.pinnacle.com/en/soccer/leagues/2436
+Genoa - Pisa,2026-01-03T14:00:00Z,1.94,3.07,4.71,https://www.pinnacle.com/en/soccer/leagues/2436
+Atalanta - Roma,2026-01-03T19:45:00Z,2.16,3.47,3.35,https://www.pinnacle.com/en/soccer/leagues/2436
+Cremonese - Napoli,2025-12-28T14:00:00Z,6.29,4.16,1.57,https://www.pinnacle.com/en/soccer/leagues/2436
+Bologna - Sassuolo,2025-12-28T17:00:00Z,1.71,3.83,5.21,https://www.pinnacle.com/en/soccer/leagues/2436
+Roma - Genoa,2025-12-29T19:45:00Z,1.64,3.73,6.32,https://www.pinnacle.com/en/soccer/leagues/2436
+Hellas Verona - Torino,2026-01-04T17:00:00Z,2.64,3.12,2.86,https://www.pinnacle.com/en/soccer/leagues/2436
+Fiorentina - Cremonese,2026-01-04T14:00:00Z,1.79,3.6,4.6,https://www.pinnacle.com/en/soccer/leagues/2436
+Atalanta - Internazionale,2025-12-28T19:45:00Z,3.66,3.66,2.05,https://www.pinnacle.com/en/soccer/leagues/2436
+Pisa - Juventus,2025-12-27T19:45:00Z,7.06,4.62,1.47,https://www.pinnacle.com/en/soccer/leagues/2436
+Cagliari - AC Milan,2026-01-02T19:45:00Z,5.63,4.1,1.58,https://www.pinnacle.com/en/soccer/leagues/2436
+Juventus - Lecce,2026-01-03T17:00:00Z,1.31,5.07,10.32,https://www.pinnacle.com/en/soccer/leagues/2436
+Lazio - Napoli,2026-01-04T11:30:00Z,3.2,3.06,2.43,https://www.pinnacle.com/en/soccer/leagues/2436
+Internazionale - Bologna,2026-01-04T19:45:00Z,1.46,4.44,6.84,https://www.pinnacle.com/en/soccer/leagues/2436
+Lecce - Como,2025-12-27T14:00:00Z,4.88,3.5,1.83,https://www.pinnacle.com/en/soccer/leagues/2436
+Parma - Fiorentina,2025-12-27T11:30:00Z,3.54,3.09,2.34,https://www.pinnacle.com/en/soccer/leagues/2436
+Udinese - Lazio,2025-12-27T17:00:00Z,3.19,3.08,2.53,https://www.pinnacle.com/en/soccer/leagues/2436
+Sassuolo - Parma,2026-01-03T14:00:00Z,1.92,3.29,4.42,https://www.pinnacle.com/en/soccer/leagues/2436
+AC Milan - Hellas Verona,2025-12-28T11:30:00Z,1.38,4.98,8.81,https://www.pinnacle.com/en/soccer/leagues/2436
+Como - Udinese,2026-01-03T11:30:00Z,1.72,3.67,4.96,https://www.pinnacle.com/en/soccer/leagues/2436
+Dumbarton - Stirling Albion,2025-12-27T15:00:00Z,1.86,3.64,3.64,https://www.pinnacle.com/en/soccer/leagues/2419
+Annan Athletic - Stranraer,2025-12-27T15:00:00Z,1.96,3.64,3.32,https://www.pinnacle.com/en/soccer/leagues/2419
+Forfar Athletic - Elgin City,2025-12-27T15:00:00Z,2.43,3.24,2.74,https://www.pinnacle.com/en/soccer/leagues/2419
+Edinburgh City - Spartans,2025-12-27T15:00:00Z,2.6,3.5,2.42,https://www.pinnacle.com/en/soccer/leagues/2419
+East Kilbride - Clyde,2025-12-27T15:00:00Z,1.85,3.54,3.78,https://www.pinnacle.com/en/soccer/leagues/2419
+Tersana - El-Entag El-Harby,2025-12-25T12:30:00Z,2.58,2.7,3.19,https://www.pinnacle.com/en/soccer/leagues/210213
+Dayrout - El Qanah,2025-12-25T12:30:00Z,4.24,2.81,2.09,https://www.pinnacle.com/en/soccer/leagues/210213
+La Viena - El Sekka El Hadid,2025-12-25T12:30:00Z,2.13,2.7,4.31,https://www.pinnacle.com/en/soccer/leagues/210213
+CD Victoria - Marathon,2025-12-26T21:00:00Z,4.37,3.94,1.51,https://www.pinnacle.com/en/soccer/leagues/222343
+Al-Fayha - Al-Hazem,2025-12-25T14:50:00Z,2.01,3.29,4.0,https://www.pinnacle.com/en/soccer/leagues/10419
+Neom - Al-Najma,2025-12-25T17:30:00Z,1.24,6.4,10.33,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Nassr - Al-Akhdoud,2025-12-27T14:50:00Z,1.07,13.05,18.25,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Quadisiya - Damac FC,2025-12-27T13:00:00Z,1.29,5.61,8.04,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Hilal - Al-Khaleej,2025-12-26T17:30:00Z,1.15,8.13,11.89,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Ittihad - Al-Shabab,2025-12-27T17:30:00Z,1.56,4.3,4.98,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Riyadh - Al-Ettifaq,2025-12-25T17:30:00Z,3.05,3.65,2.23,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Fateh - Al-Ahli,2025-12-26T13:05:00Z,4.49,4.46,1.63,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Kholood - Al-Taawoun,2025-12-26T15:00:00Z,3.15,3.54,2.14,https://www.pinnacle.com/en/soccer/leagues/10419
+Al-Shamal - Al Sadd,2025-12-29T14:30:00Z,3.74,4.08,1.79,https://www.pinnacle.com/en/soccer/leagues/8128
+Al Arabi Doha - Al-Rayyan,2025-12-28T16:30:00Z,2.77,4.19,2.14,https://www.pinnacle.com/en/soccer/leagues/8128
+Al Ahli Doha - Umm Salal,2025-12-29T16:30:00Z,2.07,3.89,3.05,https://www.pinnacle.com/en/soccer/leagues/8128
+Al Sailiya - Al Wakrah,2025-12-28T14:30:00Z,3.9,3.89,1.8,https://www.pinnacle.com/en/soccer/leagues/8128
+Fortuna Dusseldorf - Arminia Bielefeld,2026-01-16T17:30:00Z,2.75,3.4,2.57,https://www.pinnacle.com/en/soccer/leagues/1843
+Eintracht Braunschweig - FC Magdeburg,2026-01-16T17:30:00Z,2.79,3.49,2.48,https://www.pinnacle.com/en/soccer/leagues/1843
+Holstein Kiel - Paderborn,2026-01-18T12:30:00Z,2.84,3.38,2.5,https://www.pinnacle.com/en/soccer/leagues/1843
+Dynamo Dresden - Greuther Furth,2026-01-17T12:00:00Z,1.94,3.89,3.59,https://www.pinnacle.com/en/soccer/leagues/1843
+Bochum - Darmstadt,2026-01-18T12:30:00Z,2.56,3.45,2.73,https://www.pinnacle.com/en/soccer/leagues/1843
+Hertha BSC - Schalke 04,2026-01-17T19:30:00Z,2.59,3.16,2.91,https://www.pinnacle.com/en/soccer/leagues/1843
+Nurnberg - Elversberg,2026-01-17T12:00:00Z,3.13,3.67,2.19,https://www.pinnacle.com/en/soccer/leagues/1843
+Preussen Munster - Karlsruher,2026-01-17T12:00:00Z,2.13,3.39,3.52,https://www.pinnacle.com/en/soccer/leagues/1843
+Kaiserslautern - Hannover 96,2026-01-18T12:30:00Z,3.34,3.56,2.13,https://www.pinnacle.com/en/soccer/leagues/1843
+Roma - Torino,2026-01-13T20:00:00Z,1.45,4.34,7.26,https://www.pinnacle.com/en/soccer/leagues/2147
+Fiorentina - Como,2026-01-27T20:00:00Z,2.39,3.52,2.8,https://www.pinnacle.com/en/soccer/leagues/2147
+Manchester City - Exeter City,2026-01-10T15:00:00Z,1.05,16.04,23.0,https://www.pinnacle.com/en/soccer/leagues/1979
+Hull City - Blackburn Rovers,2026-01-11T14:30:00Z,2.57,3.59,2.62,https://www.pinnacle.com/en/soccer/leagues/1979
+Swansea City - West Bromwich Albion,2026-01-11T14:30:00Z,2.51,3.21,2.95,https://www.pinnacle.com/en/soccer/leagues/1979
+Everton - Sunderland,2026-01-10T12:15:00Z,1.97,3.34,4.12,https://www.pinnacle.com/en/soccer/leagues/1979
+Grimsby Town - Weston Super Mare,2026-01-10T17:45:00Z,1.18,7.08,11.08,https://www.pinnacle.com/en/soccer/leagues/1979
+Preston North End - Wigan Athletic,2026-01-09T19:30:00Z,1.97,3.79,3.5,https://www.pinnacle.com/en/soccer/leagues/1979
+Sheffield United - Mansfield Town,2026-01-11T14:30:00Z,1.47,4.47,6.27,https://www.pinnacle.com/en/soccer/leagues/1979
+Wrexham - Nottingham Forest,2026-01-09T19:30:00Z,5.36,3.99,1.62,https://www.pinnacle.com/en/soccer/leagues/1979
+Ipswich Town - Blackpool,2026-01-10T15:00:00Z,1.31,5.44,8.59,https://www.pinnacle.com/en/soccer/leagues/1979
+Cambridge United - Birmingham City,2026-01-10T17:45:00Z,3.73,3.91,1.87,https://www.pinnacle.com/en/soccer/leagues/1979
+West Ham United - Queens Park Rangers,2026-01-11T14:30:00Z,1.55,4.73,4.99,https://www.pinnacle.com/en/soccer/leagues/1979
+MK Dons - Oxford United,2026-01-09T19:30:00Z,2.69,3.63,2.46,https://www.pinnacle.com/en/soccer/leagues/1979
+Sheffield Wednesday - Brentford,2026-01-10T15:00:00Z,6.56,4.86,1.43,https://www.pinnacle.com/en/soccer/leagues/1979
+Derby County - Leeds United,2026-01-11T12:00:00Z,5.53,3.8,1.64,https://www.pinnacle.com/en/soccer/leagues/1979
+Burnley - Millwall,2026-01-10T15:00:00Z,1.67,3.77,5.26,https://www.pinnacle.com/en/soccer/leagues/1979
+Newcastle United - Bournemouth,2026-01-10T15:00:00Z,1.88,3.86,3.81,https://www.pinnacle.com/en/soccer/leagues/1979
+Wolverhampton - Shrewsbury Town,2026-01-10T12:15:00Z,1.23,6.17,10.33,https://www.pinnacle.com/en/soccer/leagues/1979
+Salford City - Swindon Town,2026-01-10T15:00:00Z,2.29,3.47,2.93,https://www.pinnacle.com/en/soccer/leagues/1979
+Cheltenham Town - Leicester City,2026-01-10T12:15:00Z,5.74,4.31,1.52,https://www.pinnacle.com/en/soccer/leagues/1979
+Charlton Athletic - Chelsea,2026-01-10T20:00:00Z,7.45,5.1,1.38,https://www.pinnacle.com/en/soccer/leagues/1979
+Boreham Wood - Burton Albion,2026-01-10T15:00:00Z,2.07,3.69,3.32,https://www.pinnacle.com/en/soccer/leagues/1979
+Portsmouth - Arsenal,2026-01-11T14:00:00Z,11.14,6.47,1.22,https://www.pinnacle.com/en/soccer/leagues/1979
+Tottenham Hotspur - Aston Villa,2026-01-10T17:45:00Z,2.42,3.43,2.9,https://www.pinnacle.com/en/soccer/leagues/1979
+Manchester United - Brighton,2026-01-11T16:30:00Z,1.72,4.06,4.41,https://www.pinnacle.com/en/soccer/leagues/1979
+Port Vale - Fleetwood Town,2026-01-09T19:30:00Z,1.58,4.12,5.35,https://www.pinnacle.com/en/soccer/leagues/1979
+Norwich City - Walsall,2026-01-11T14:30:00Z,1.67,3.99,4.77,https://www.pinnacle.com/en/soccer/leagues/1979
+Bristol City - Watford,2026-01-10T17:45:00Z,2.32,3.39,3.09,https://www.pinnacle.com/en/soccer/leagues/1979
+Stoke City - Coventry City,2026-01-10T15:00:00Z,3.13,3.42,2.28,https://www.pinnacle.com/en/soccer/leagues/1979
+Fulham - Middlesbrough,2026-01-10T15:00:00Z,1.7,3.86,4.79,https://www.pinnacle.com/en/soccer/leagues/1979
+Liverpool - Barnsley,2026-01-12T19:45:00Z,1.15,8.71,13.23,https://www.pinnacle.com/en/soccer/leagues/1979
+Macclesfield - Crystal Palace,2026-01-10T12:15:00Z,12.63,7.78,1.17,https://www.pinnacle.com/en/soccer/leagues/1979
+Doncaster Rovers - Southampton,2026-01-10T15:00:00Z,4.21,3.93,1.76,https://www.pinnacle.com/en/soccer/leagues/1979
+Central Coast Mariners - Brisbane Roar,2025-12-31T08:00:00Z,3.38,3.41,2.17,https://www.pinnacle.com/en/soccer/leagues/1766
+Newcastle Jets - Macarthur FC,2025-12-26T08:35:00Z,1.91,4.12,3.63,https://www.pinnacle.com/en/soccer/leagues/1766
+Adelaide United - Western Sydney Wanderers,2025-12-27T08:35:00Z,2.35,3.84,2.75,https://www.pinnacle.com/en/soccer/leagues/1766
+Melbourne Victory - Wellington Phoenix,2025-12-29T08:00:00Z,1.63,4.48,4.59,https://www.pinnacle.com/en/soccer/leagues/1766
+Melbourne City - Perth Glory,2025-12-28T08:00:00Z,1.63,4.18,4.91,https://www.pinnacle.com/en/soccer/leagues/1766
+USM Khenchela - CS Constantine,2025-12-26T14:00:00Z,2.21,2.59,4.17,https://www.pinnacle.com/en/soccer/leagues/8667
+ES Mostaganem - Ben Aknoun,2025-12-29T13:00:00Z,2.14,2.81,3.9,https://www.pinnacle.com/en/soccer/leagues/8667
+AC Paradou - MB Rouisset,2025-12-27T13:00:00Z,2.13,2.85,3.88,https://www.pinnacle.com/en/soccer/leagues/8667
+Kabylie - ASO Chlef,2025-12-27T16:00:00Z,1.53,3.63,6.8,https://www.pinnacle.com/en/soccer/leagues/8667
+Olympique Akbou - USM Alger,2025-12-27T13:00:00Z,2.83,2.72,2.78,https://www.pinnacle.com/en/soccer/leagues/8667
+Belouizdad - ES Setif,2025-12-25T18:30:00Z,1.6,3.3,6.41,https://www.pinnacle.com/en/soccer/leagues/8667
+JS Saoura - MC El Bayadh,2025-12-26T14:00:00Z,1.41,4.01,8.45,https://www.pinnacle.com/en/soccer/leagues/8667
+Olancho - Platense FC,2025-12-25T23:00:00Z,1.99,3.16,3.27,https://www.pinnacle.com/en/soccer/leagues/196865
+Al-Seeb - Bidiyah,2025-12-25T14:00:00Z,1.2,5.12,11.68,https://www.pinnacle.com/en/soccer/leagues/283910
+Al-Seeb - Bidiyah,2025-12-25T14:00:00Z,1.2,5.12,11.68,https://www.pinnacle.com/en/soccer/leagues/283910
+Eastbourne Borough - Worthing,2025-12-26T12:00:00Z,4.09,3.8,1.75,https://www.pinnacle.com/en/soccer/leagues/1952
+Chesham United - Hemel Hempstead Town,2025-12-26T13:00:00Z,3.18,3.11,2.26,https://www.pinnacle.com/en/soccer/leagues/1952
+Dorking Wanderers - Horsham,2025-12-26T15:00:00Z,1.86,3.49,3.92,https://www.pinnacle.com/en/soccer/leagues/1952
+Chippenham Town - Bath City,2025-12-26T15:00:00Z,2.96,3.25,2.31,https://www.pinnacle.com/en/soccer/leagues/1952
+Torquay United - Weston Super Mare,2025-12-26T15:00:00Z,1.84,3.62,3.85,https://www.pinnacle.com/en/soccer/leagues/1952
+Farnborough - Hampton and Richmond Borough,2025-12-26T15:00:00Z,1.79,3.97,3.72,https://www.pinnacle.com/en/soccer/leagues/1952
+Enfield Town - Chelmsford City,2025-12-26T15:00:00Z,3.29,3.35,2.11,https://www.pinnacle.com/en/soccer/leagues/1952
+Dagenham and Redbridge - Hornchurch,2025-12-26T13:00:00Z,2.42,3.3,2.77,https://www.pinnacle.com/en/soccer/leagues/1952
+Maidenhead United - Slough Town,2025-12-26T15:00:00Z,1.37,4.78,7.35,https://www.pinnacle.com/en/soccer/leagues/1952
+Ebbsfleet United - Tonbridge Angels,2025-12-26T13:00:00Z,1.6,3.94,4.97,https://www.pinnacle.com/en/soccer/leagues/1952
+Maidstone United - Dover Athletic,2025-12-26T13:00:00Z,1.61,4.06,4.76,https://www.pinnacle.com/en/soccer/leagues/1952
+Salisbury - Totton,2025-12-26T15:00:00Z,2.32,3.26,2.93,https://www.pinnacle.com/en/soccer/leagues/1952
+Moreirense - Tondela,2026-01-11T18:00:00Z,2.35,3.13,3.28,https://www.pinnacle.com/en/soccer/leagues/2386
+Porto - AVS,2025-12-29T20:15:00Z,1.12,8.84,20.84,https://www.pinnacle.com/en/soccer/leagues/2386
+Casa Pia - Vitoria Guimaraes,2025-12-28T15:30:00Z,3.4,3.1,2.31,https://www.pinnacle.com/en/soccer/leagues/2386
+Estoril - Alverca,2025-12-27T20:30:00Z,2.24,3.46,3.17,https://www.pinnacle.com/en/soccer/leagues/2386
+Arouca - Gil Vicente,2025-12-28T15:30:00Z,3.99,3.31,2.01,https://www.pinnacle.com/en/soccer/leagues/2386
+Famalicao - Estrela da Amadora,2025-12-27T18:00:00Z,1.59,3.95,5.82,https://www.pinnacle.com/en/soccer/leagues/2386
+Sporting CP - Rio Ave,2025-12-28T20:30:00Z,1.14,8.95,15.32,https://www.pinnacle.com/en/soccer/leagues/2386
+Braga - Benfica,2025-12-28T18:00:00Z,3.43,3.34,2.18,https://www.pinnacle.com/en/soccer/leagues/2386
+Nacional da Madeira - Santa Clara,2026-01-11T15:30:00Z,3.25,3.03,2.43,https://www.pinnacle.com/en/soccer/leagues/2386
+Istanbul Basaksehir - Karagumruk,2026-01-17T14:00:00Z,1.43,4.67,6.97,https://www.pinnacle.com/en/soccer/leagues/2592
+Kasimpasa - Antalyaspor,2026-01-18T11:30:00Z,2.27,3.23,3.35,https://www.pinnacle.com/en/soccer/leagues/2592
+Galatasaray - Gaziantep,2026-01-17T17:00:00Z,1.2,7.2,11.12,https://www.pinnacle.com/en/soccer/leagues/2592
+Besiktas - Kayserispor,2026-01-19T17:00:00Z,1.38,5.22,7.0,https://www.pinnacle.com/en/soccer/leagues/2592
+Kocaelispor - Trabzonspor,2026-01-18T14:00:00Z,2.69,3.3,2.67,https://www.pinnacle.com/en/soccer/leagues/2592
+Konyaspor - Eyupspor,2026-01-19T14:00:00Z,1.87,3.65,4.11,https://www.pinnacle.com/en/soccer/leagues/2592
+Alanyaspor - Fenerbahce,2026-01-18T17:00:00Z,6.02,4.55,1.49,https://www.pinnacle.com/en/soccer/leagues/2592
+Goztepe - Caykur Rizespor,2026-01-19T17:00:00Z,1.88,3.45,4.29,https://www.pinnacle.com/en/soccer/leagues/2592
+Genclerbirligi - Samsunspor,2026-01-18T14:00:00Z,2.95,3.34,2.43,https://www.pinnacle.com/en/soccer/leagues/2592
+Al Ramtha SC - Al-Ahli Amman,2025-12-25T15:00:00Z,6.02,4.48,1.38,https://www.pinnacle.com/en/soccer/leagues/275590
+Ethiopian Medhin - Sidama Bunna,2025-12-26T13:00:00Z,3.37,2.68,2.33,https://www.pinnacle.com/en/soccer/leagues/211244
+Adama City - Mekelakeya,2025-12-26T12:00:00Z,3.09,2.58,2.59,https://www.pinnacle.com/en/soccer/leagues/211244
+Saint George - Ethiopia Nigd Bank,2025-12-25T15:00:00Z,2.71,2.45,3.24,https://www.pinnacle.com/en/soccer/leagues/211244
+Portsmouth - Queens Park Rangers,2025-12-26T15:00:00Z,2.96,3.46,2.37,https://www.pinnacle.com/en/soccer/leagues/1977
+Norwich City - Charlton Athletic,2025-12-26T15:00:00Z,1.99,3.52,3.76,https://www.pinnacle.com/en/soccer/leagues/1977
+Stoke City - Preston North End,2025-12-26T15:00:00Z,2.15,3.25,3.59,https://www.pinnacle.com/en/soccer/leagues/1977
+Birmingham City - Derby County,2025-12-26T12:30:00Z,1.91,3.51,4.31,https://www.pinnacle.com/en/soccer/leagues/1977
+Millwall - Ipswich Town,2025-12-26T13:00:00Z,3.81,3.42,2.06,https://www.pinnacle.com/en/soccer/leagues/1977
+Sheffield Wednesday - Hull City,2025-12-26T15:00:00Z,3.74,3.63,1.96,https://www.pinnacle.com/en/soccer/leagues/1977
+Leicester City - Watford,2025-12-26T15:00:00Z,2.34,3.32,3.11,https://www.pinnacle.com/en/soccer/leagues/1977
+Coventry City - Swansea City,2025-12-26T15:00:00Z,1.66,3.55,4.4,https://www.pinnacle.com/en/soccer/leagues/1977
+West Bromwich Albion - Bristol City,2025-12-26T15:00:00Z,2.12,3.42,3.49,https://www.pinnacle.com/en/soccer/leagues/1977
+Oxford United - Southampton,2025-12-26T15:00:00Z,3.83,3.98,1.85,https://www.pinnacle.com/en/soccer/leagues/1977
+Middlesbrough - Blackburn Rovers,2025-12-26T15:00:00Z,1.79,3.67,4.48,https://www.pinnacle.com/en/soccer/leagues/1977
+Wrexham - Sheffield United,2025-12-26T17:30:00Z,3.35,3.45,2.16,https://www.pinnacle.com/en/soccer/leagues/1977
+Melbourne City - Perth Glory,2025-12-28T05:15:00Z,1.27,5.53,9.11,https://www.pinnacle.com/en/soccer/leagues/10030
+Newcastle Jets - Canberra United,2025-12-27T07:00:00Z,3.18,3.53,2.13,https://www.pinnacle.com/en/soccer/leagues/10030
+Sydney FC - Brisbane Roar,2025-12-28T06:00:00Z,2.84,3.69,2.26,https://www.pinnacle.com/en/soccer/leagues/10030
+Adelaide United - Western Sydney Wanderers,2025-12-27T05:50:00Z,1.7,3.92,4.35,https://www.pinnacle.com/en/soccer/leagues/10030
+Central Coast Mariners - Melbourne Victory,2025-12-27T06:00:00Z,3.29,3.53,2.08,https://www.pinnacle.com/en/soccer/leagues/10030
+Huddersfield Town - Port Vale,2025-12-26T15:00:00Z,1.75,3.68,4.59,https://www.pinnacle.com/en/soccer/leagues/1957
+Cardiff City - Exeter City,2025-12-26T15:00:00Z,1.58,4.1,5.37,https://www.pinnacle.com/en/soccer/leagues/1957
+Bradford City - Wigan Athletic,2025-12-26T15:00:00Z,1.96,3.56,3.75,https://www.pinnacle.com/en/soccer/leagues/1957
+Barnsley - Mansfield Town,2025-12-26T15:00:00Z,1.93,3.62,3.82,https://www.pinnacle.com/en/soccer/leagues/1957
+Bolton Wanderers - Rotherham United,2025-12-26T15:00:00Z,1.33,5.05,8.64,https://www.pinnacle.com/en/soccer/leagues/1957
+Peterborough United - Leyton Orient,2025-12-26T15:00:00Z,2.15,3.59,3.21,https://www.pinnacle.com/en/soccer/leagues/1957
+Luton Town - Wycombe Wanderers,2025-12-26T15:00:00Z,2.3,3.29,3.17,https://www.pinnacle.com/en/soccer/leagues/1957
+Plymouth Argyle - Reading,2025-12-26T15:00:00Z,2.55,3.51,2.65,https://www.pinnacle.com/en/soccer/leagues/1957
+Blackpool - Doncaster Rovers,2025-12-26T15:00:00Z,2.28,3.74,2.87,https://www.pinnacle.com/en/soccer/leagues/1957
+Stockport County - Lincoln City,2025-12-26T15:00:00Z,2.24,3.32,3.26,https://www.pinnacle.com/en/soccer/leagues/1957
+Burton Albion - Northampton Town,2025-12-26T15:00:00Z,2.18,3.26,3.45,https://www.pinnacle.com/en/soccer/leagues/1957
+AFC Wimbledon - Stevenage,2025-12-26T15:00:00Z,2.94,2.81,2.79,https://www.pinnacle.com/en/soccer/leagues/1957

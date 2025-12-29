@@ -1,0 +1,193 @@
+game,date,num_1,num_X,num_2,link,team1,team2
+Wimbledon - Exeter,251229,2.05,2.7,2.55,https://www.winner.co.il,Wimbledon,Exeter
+Barnsley - Lincoln,251229,2.25,2.9,2.15,https://www.winner.co.il,Barnsley,Lincoln
+Blackpool - Rotherham,251229,1.7,2.9,3.2,https://www.winner.co.il,Blackpool,Rotherham
+Bolton - Mansfield,251229,1.35,3.5,4.7,https://www.winner.co.il,Bolton,Mansfield
+Bradford - Port Vale,251229,1.55,3.05,3.75,https://www.winner.co.il,Bradford,Port Vale
+Cardiff - stevinage,251229,1.55,2.85,3.8,https://www.winner.co.il,Cardiff,stevinage
+Huddersfield - Northampton,251229,1.4,3.2,4.4,https://www.winner.co.il,Huddersfield,Northampton
+Burton Albion - Wigan,251229,2.35,2.7,2.2,https://www.winner.co.il,Burton Albion,Wigan
+Luton - Leyton Orient,251229,1.55,3.0,3.65,https://www.winner.co.il,Luton,Leyton Orient
+Plymouth - Wycombe,251229,2.7,2.8,1.9,https://www.winner.co.il,Plymouth,Wycombe
+Peterborough - Reading,251229,2.1,2.85,2.4,https://www.winner.co.il,Peterborough,Reading
+Doncaster - Bolton,260101,3.0,2.9,1.75,https://www.winner.co.il,Doncaster,Bolton
+Stockport - Doncaster,251229,1.65,3.05,3.2,https://www.winner.co.il,Stockport,Doncaster
+Exeter - Luton,260101,3.15,2.7,1.8,https://www.winner.co.il,Exeter,Luton
+Leyton Orient - Wimbledon,260101,1.7,2.8,3.25,https://www.winner.co.il,Leyton Orient,Wimbledon
+Lincoln - Huddersfield,260101,2.0,2.75,2.6,https://www.winner.co.il,Lincoln,Huddersfield
+Mansfield - Bradford,260101,2.55,2.8,2.0,https://www.winner.co.il,Mansfield,Bradford
+Northampton - Stockport,260101,3.1,2.85,1.75,https://www.winner.co.il,Northampton,Stockport
+Port Vale - Blackpool,260101,2.05,2.75,2.55,https://www.winner.co.il,Port Vale,Blackpool
+Rotherham - Peterborough,260101,2.4,2.75,2.1,https://www.winner.co.il,Rotherham,Peterborough
+Reading - Burton Albion,260101,1.65,2.95,3.35,https://www.winner.co.il,Reading,Burton Albion
+Wigan - Barnsley,260101,1.95,2.85,2.55,https://www.winner.co.il,Wigan,Barnsley
+stevinage - Plymouth,260101,1.75,2.7,3.25,https://www.winner.co.il,stevinage,Plymouth
+Wycombe - Cardiff,260101,2.15,2.85,2.3,https://www.winner.co.il,Wycombe,Cardiff
+Coventry - ipswich,251229,2.0,2.8,2.55,https://www.winner.co.il,Coventry,ipswich
+Lester - Derby County,251229,1.85,2.75,2.9,https://www.winner.co.il,Lester,Derby County
+Middlesbrough - Hull City,251229,1.5,3.2,3.7,https://www.winner.co.il,Middlesbrough,Hull City
+Millwall - Bristol City,251229,2.05,2.75,2.45,https://www.winner.co.il,Millwall,Bristol City
+norwich - Watford,251229,1.7,9.2,1.75,https://www.winner.co.il,norwich,Watford
+Oxford United - Swansea,251229,2.3,2.7,2.25,https://www.winner.co.il,Oxford United,Swansea
+Portsmouth - Charlton,251229,1.65,6.2,1.95,https://www.winner.co.il,Portsmouth,Charlton
+Sheffield Wednesday - Blackburn,251229,2.25,8.0,1.45,https://www.winner.co.il,Sheffield Wednesday,Blackburn
+Stock - Sheffield United,251229,1.85,7.2,1.7,https://www.winner.co.il,Stock,Sheffield United
+West Bromwich - Queens Park Rangers,251229,1.6,7.4,2.05,https://www.winner.co.il,West Bromwich,Queens Park Rangers
+Wrexham - Preston,251229,2.0,2.75,2.65,https://www.winner.co.il,Wrexham,Preston
+Birmingham - Southampton,251229,1.65,8.8,1.8,https://www.winner.co.il,Birmingham,Southampton
+Blackburn - Wrexham,260101,1.8,2.8,2.95,https://www.winner.co.il,Blackburn,Wrexham
+Bristol City - Portsmouth,260101,1.5,2.95,3.9,https://www.winner.co.il,Bristol City,Portsmouth
+Charlton - Coventry,260101,3.45,2.9,1.65,https://www.winner.co.il,Charlton,Coventry
+Derby County - Middlesbrough,260101,2.45,2.75,2.1,https://www.winner.co.il,Derby County,Middlesbrough
+Hull City - Stock,260101,2.05,2.75,2.5,https://www.winner.co.il,Hull City,Stock
+ipswich - Oxford United,260101,1.25,3.6,6.2,https://www.winner.co.il,ipswich,Oxford United
+Preston - Sheffield Wednesday,260101,1.4,3.25,4.4,https://www.winner.co.il,Preston,Sheffield Wednesday
+Queens Park Rangers - norwich,260101,1.6,3.05,3.25,https://www.winner.co.il,Queens Park Rangers,norwich
+Southampton - Millwall,260101,1.5,3.05,3.95,https://www.winner.co.il,Southampton,Millwall
+Swansea - West Bromwich,260101,2.2,2.7,2.35,https://www.winner.co.il,Swansea,West Bromwich
+Watford - Birmingham,260101,2.1,2.75,2.45,https://www.winner.co.il,Watford,Birmingham
+Sheffield United - Lester,260101,1.75,2.95,3.0,https://www.winner.co.il,Sheffield United,Lester
+Arsenal - Aston Villa,251230,1.4,4.2,6.8,https://www.winner.co.il,Arsenal,Aston Villa
+Burnley - Newcastle,251230,4.7,3.75,1.6,https://www.winner.co.il,Burnley,Newcastle
+Chelsea - Bournemouth,251230,1.5,4.0,5.0,https://www.winner.co.il,Chelsea,Bournemouth
+Brentford - Tottenham,260101,2.2,3.3,2.85,https://www.winner.co.il,Brentford,Tottenham
+Manchester United - Wolverhampton Wanderers,251230,1.3,4.8,7.2,https://www.winner.co.il,Manchester United,Wolverhampton Wanderers
+Crystal Palace - Fulham,260101,1.6,7.6,2.0,https://www.winner.co.il,Crystal Palace,Fulham
+Liverpool - Leeds,260101,1.35,11.5,2.4,https://www.winner.co.il,Liverpool,Leeds
+Nottingham Forest - Everton,251230,2.05,3.05,3.35,https://www.winner.co.il,Nottingham Forest,Everton
+Sunderland - Manchester City,260101,2.6,11.5,1.3,https://www.winner.co.il,Sunderland,Manchester City
+Bournemouth - Arsenal,260103,4.9,3.85,1.55,https://www.winner.co.il,Bournemouth,Arsenal
+West Ham - Brighton,251230,3.05,3.35,2.1,https://www.winner.co.il,West Ham,Brighton
+Aston Villa - Nottingham Forest,260103,1.75,3.45,4.0,https://www.winner.co.il,Aston Villa,Nottingham Forest
+Brighton - Burnley,260103,1.45,4.0,5.6,https://www.winner.co.il,Brighton,Burnley
+Wolverhampton Wanderers - West Ham,260103,2.35,3.25,2.65,https://www.winner.co.il,Wolverhampton Wanderers,West Ham
+Vigo salad - Valencia,260103,1.85,3.3,3.65,https://www.winner.co.il,Vigo salad,Valencia
+Alecha - Villarreal,260103,3.1,3.35,2.05,https://www.winner.co.il,Alecha,Villarreal
+Osasuna - Athletic Bilbao,260103,2.95,2.8,2.4,https://www.winner.co.il,Osasuna,Athletic Bilbao
+Espanyol - Barcelona,260103,4.6,4.3,1.5,https://www.winner.co.il,Espanyol,Barcelona
+We saw it - Getafe,260102,2.05,2.85,3.7,https://www.winner.co.il,We saw it,Getafe
+Nice - Strasbourg,260103,2.65,3.3,2.3,https://www.winner.co.il,Nice,Strasbourg
+Monaco - Lyon,260103,1.85,3.65,3.3,https://www.winner.co.il,Monaco,Lyon
+Lille - Ran,260103,1.8,3.55,3.65,https://www.winner.co.il,Lille,Ran
+Toulouse - Lance,260102,2.6,3.2,2.4,https://www.winner.co.il,Toulouse,Lance
+FC Porto - AVS,251229,1.05,14.0,4.0,https://www.winner.co.il,FC Porto,AVS
+Gil Vicente - Sporting CP,260102,4.5,3.1,1.4,https://www.winner.co.il,Gil Vicente,Sporting CP
+Vitoria Guimaraes - Nacional da Madeira,260102,1.7,2.8,3.25,https://www.winner.co.il,Vitoria Guimaraes,Nacional da Madeira
+Aber - Mirandes,260102,1.45,3.0,4.5,https://www.winner.co.il,Aber,Mirandes
+Boreham Wood - Solihull,251230,1.35,3.55,4.6,https://www.winner.co.il,Boreham Wood,Solihull
+Altrincham - York City,251230,4.0,3.5,1.4,https://www.winner.co.il,Altrincham,York City
+Boston United - Berkeley Town,251230,1.9,2.8,2.75,https://www.winner.co.il,Boston United,Berkeley Town
+Aldershot - Wealdstone,251230,1.95,3.05,2.45,https://www.winner.co.il,Aldershot,Wealdstone
+Carlisle - Morecambe,251230,1.25,3.9,5.2,https://www.winner.co.il,Carlisle,Morecambe
+Forest Green - Truro City,251230,1.2,4.0,6.4,https://www.winner.co.il,Forest Green,Truro City
+Rochdale - Hartlepool,251230,1.45,3.25,4.1,https://www.winner.co.il,Rochdale,Hartlepool
+Southend United - Sutton United,251230,1.35,3.5,4.7,https://www.winner.co.il,Southend United,Sutton United
+Scunthorpe - Gateshead,251230,1.3,3.55,4.7,https://www.winner.co.il,Scunthorpe,Gateshead
+Yeovil Town - Eastleigh,251230,2.15,2.75,2.4,https://www.winner.co.il,Yeovil Town,Eastleigh
+Tamworth - Halifax Town,251230,2.25,2.85,2.2,https://www.winner.co.il,Tamworth,Halifax Town
+Woking - Braintree,251230,1.7,2.85,3.15,https://www.winner.co.il,Woking,Braintree
+Rome - Genoa,251229,1.4,5.6,2.75,https://www.winner.co.il,Rome,Genoa
+Adna Demirspor - Istanbulspor,251229,9.4,5.8,1.05,https://www.winner.co.il,Adna Demirspor,Istanbulspor
+Comoros - Mali,251229,5.6,3.4,1.45,https://www.winner.co.il,Comoros,Mali
+Zambia - Morocco,251229,10.5,4.5,1.15,https://www.winner.co.il,Zambia,Morocco
+Crawley Town - Bromley,251229,2.35,2.9,2.05,https://www.winner.co.il,Crawley Town,Bromley
+Milton Keynes Downs - Notts County,251229,1.7,2.9,3.1,https://www.winner.co.il,Milton Keynes Downs,Notts County
+Salford City - Fleetwood Town,251229,1.6,3.15,3.3,https://www.winner.co.il,Salford City,Fleetwood Town
+Walsall - Oldham,251229,1.8,2.7,3.1,https://www.winner.co.il,Walsall,Oldham
+Angola - Egypt,251229,2.8,2.65,2.3,https://www.winner.co.il,Angola,Egypt
+Tranmere Rovers - Barrow,251229,1.8,2.8,2.95,https://www.winner.co.il,Tranmere Rovers,Barrow
+Chesterfield - Cambridge United,251229,2.15,2.75,2.35,https://www.winner.co.il,Chesterfield,Cambridge United
+Bristol Rovers - Barnet,251229,2.85,2.8,1.85,https://www.winner.co.il,Bristol Rovers,Barnet
+Gillingham - Colchester,251229,2.25,2.7,2.25,https://www.winner.co.il,Gillingham,Colchester
+Accrington Stanley - Harrogate Town,251229,1.6,2.95,3.65,https://www.winner.co.il,Accrington Stanley,Harrogate Town
+Zimbabwe - South Africa,251229,4.7,3.05,1.6,https://www.winner.co.il,Zimbabwe,South Africa
+Grimsby - Shrewsbury,251229,1.6,3.0,3.5,https://www.winner.co.il,Grimsby,Shrewsbury
+Cheltenham - Swindon,251229,3.0,2.95,1.75,https://www.winner.co.il,Cheltenham,Swindon
+Newport County - Crewe Alexandra,251229,2.9,2.85,1.8,https://www.winner.co.il,Newport County,Crewe Alexandra
+Al Ahli Doha - Umm Salal,251229,1.65,3.3,2.9,https://www.winner.co.il,Al Ahli Doha,Umm Salal
+Al-Shamal - Al Sadd,251229,3.1,3.45,1.55,https://www.winner.co.il,Al-Shamal,Al Sadd
+Maccabi Bnei Reineh - Ironi Kiryat Shmona,251230,3.4,2.95,2.1,https://www.winner.co.il,Maccabi Bnei Reineh,Ironi Kiryat Shmona
+Hapoel Beer Sheva - Hapoel Jerusalem,251231,1.2,5.8,9.5,https://www.winner.co.il,Hapoel Beer Sheva,Hapoel Jerusalem
+Tanzania - Tunisia,251230,6.4,3.4,1.4,https://www.winner.co.il,Tanzania,Tunisia
+Maccabi Tel Aviv - Ironi Tiberias,251230,1.2,5.5,10.5,https://www.winner.co.il,Maccabi Tel Aviv,Ironi Tiberias
+Uganda - Nigeria,251230,3.15,2.8,2.0,https://www.winner.co.il,Uganda,Nigeria
+Beitar Jerusalem - Hapoel Tel Aviv,260101,1.5,8.0,2.25,https://www.winner.co.il,Beitar Jerusalem,Hapoel Tel Aviv
+Maccabi Netanya - Hapoel Petah Tikva,251231,1.8,3.45,3.75,https://www.winner.co.il,Maccabi Netanya,Hapoel Petah Tikva
+FC Ashdod - Maccabi Haifa,251231,5.2,4.4,1.45,https://www.winner.co.il,FC Ashdod,Maccabi Haifa
+Hapoel Haifa - Bnei Sakhnin,251230,2.25,3.0,3.0,https://www.winner.co.il,Hapoel Haifa,Bnei Sakhnin
+Larne - Cliftonville,251230,1.6,3.0,3.55,https://www.winner.co.il,Larne,Cliftonville
+Crusaders - Carrick,251230,2.3,3.05,2.05,https://www.winner.co.il,Crusaders,Carrick
+Glenthorne - Portadown,251230,1.3,3.55,5.2,https://www.winner.co.il,Glenthorne,Portadown
+Bangor - Ballymena United,251230,2.1,2.95,2.3,https://www.winner.co.il,Bangor,Ballymena United
+Glenbon - Dungannon,251230,2.9,3.1,1.75,https://www.winner.co.il,Glenbon,Dungannon
+Chelmsford - Doug rose,251229,1.95,2.8,2.6,https://www.winner.co.il,Chelmsford,Doug rose
+Botswana - DR Congo,251230,10.5,4.4,1.2,https://www.winner.co.il,Botswana,DR Congo
+Benin - Senegal,251230,7.8,4.2,1.25,https://www.winner.co.il,Benin,Senegal
+Cardiff Metropolitan - Haverfordwest,251230,2.2,2.7,2.4,https://www.winner.co.il,Cardiff Metropolitan,Haverfordwest
+Britton Perry - Barry Town,251231,2.55,3.05,1.9,https://www.winner.co.il,Britton Perry,Barry Town
+Kona Kuai - New Saints,251231,5.0,3.55,1.3,https://www.winner.co.il,Kona Kuai,New Saints
+Fleetwood Town - Grimsby,260101,2.35,2.85,2.1,https://www.winner.co.il,Fleetwood Town,Grimsby
+Notts County - Accrington Stanley,260101,1.55,3.05,3.6,https://www.winner.co.il,Notts County,Accrington Stanley
+Barnet - Crawley Town,260101,1.4,3.25,4.2,https://www.winner.co.il,Barnet,Crawley Town
+Oldham - Chesterfield,260101,2.0,2.8,2.5,https://www.winner.co.il,Oldham,Chesterfield
+Harrogate Town - Tranmere Rovers,260101,2.8,2.85,1.85,https://www.winner.co.il,Harrogate Town,Tranmere Rovers
+Shrewsbury - Bristol Rovers,260101,2.0,2.75,2.6,https://www.winner.co.il,Shrewsbury,Bristol Rovers
+Colchester - Milton Keynes Downs,260101,2.25,2.75,2.3,https://www.winner.co.il,Colchester,Milton Keynes Downs
+Swindon - Gillingham,260101,1.75,2.85,3.1,https://www.winner.co.il,Swindon,Gillingham
+Bromley - Newport County,260101,1.35,3.4,4.9,https://www.winner.co.il,Bromley,Newport County
+Barrow - Salford City,260101,3.05,2.9,1.7,https://www.winner.co.il,Barrow,Salford City
+Cambridge United - Walsall,260101,2.05,2.5,2.75,https://www.winner.co.il,Cambridge United,Walsall
+Crewe Alexandra - Cheltenham,260101,1.45,3.05,4.2,https://www.winner.co.il,Crewe Alexandra,Cheltenham
+Arradipo - Karsaba Ypsonas,260102,2.0,2.7,2.6,https://www.winner.co.il,Arradipo,Karsaba Ypsonas
+Cagliari - AC Milan,260102,5.4,3.8,1.5,https://www.winner.co.il,Cagliari,AC Milan
+Sassuolo - Parma,260103,1.8,3.2,4.0,https://www.winner.co.il,Sassuolo,Parma
+Genoa - Pisa,260103,1.85,3.0,4.2,https://www.winner.co.il,Genoa,Pisa
+Atalanta - Rome,260103,2.1,3.15,3.15,https://www.winner.co.il,Atalanta,Rome
+Como - Udinese,260103,1.6,3.55,4.7,https://www.winner.co.il,Como,Udinese
+Juventus - Leche,260103,1.25,4.7,9.2,https://www.winner.co.il,Juventus,Leche
+Larne - Coleraine,260102,2.2,2.6,2.45,https://www.winner.co.il,Larne,Coleraine
+Adela - Javelin,251230,2.9,2.7,1.9,https://www.winner.co.il,Adela,Javelin
+Al Batin - Abha Club,251231,3.2,2.95,1.65,https://www.winner.co.il,Al Batin,Abha Club
+Al Darya - Al Jubail,251231,1.15,4.0,7.0,https://www.winner.co.il,Al Darya,Al Jubail
+Al-Orobah - Al-Jandal,260101,1.5,2.9,4.1,https://www.winner.co.il,Al-Orobah,Al-Jandal
+Al Faisali - Al Raid,260101,2.2,2.75,2.35,https://www.winner.co.il,Al Faisali,Al Raid
+Al Ahli Saudi - Al-Fayha,251230,1.3,3.45,4.9,https://www.winner.co.il,Al Ahli Saudi,Al-Fayha
+Al-Taawoun - Al-Najma,251229,1.35,3.45,4.8,https://www.winner.co.il,Al-Taawoun,Al-Najma
+Al Itifak - Al-Nassr,251230,5.6,4.1,1.2,https://www.winner.co.il,Al Itifak,Al-Nassr
+Al-Shabab - Al Qadsiah,251231,3.5,2.9,1.6,https://www.winner.co.il,Al-Shabab,Al Qadsiah
+Al-Riyadh - Al-Hazem,251229,2.2,2.8,2.3,https://www.winner.co.il,Al-Riyadh,Al-Hazem
+Al-Akhdoud - Damac,251230,1.85,2.85,2.8,https://www.winner.co.il,Al-Akhdoud,Damac
+Neom SC - Al-Ittihad,251231,2.4,3.25,1.9,https://www.winner.co.il,Neom SC,Al-Ittihad
+Al-Kholood - Al-Hilal,251231,6.4,4.5,1.15,https://www.winner.co.il,Al-Kholood,Al-Hilal
+Al-Khaleej - Al-Fateh,251229,1.95,3.1,2.4,https://www.winner.co.il,Al-Khaleej,Al-Fateh
+Central Coast - Brisbane Roar,251231,2.8,2.9,1.85,https://www.winner.co.il,Central Coast,Brisbane Roar
+Western Sydney - MacArthur,260101,1.65,3.15,3.15,https://www.winner.co.il,Western Sydney,MacArthur
+Oakland - Newcastle Jets,260101,1.5,3.4,3.4,https://www.winner.co.il,Oakland,Newcastle Jets
+Melbourne Victory - Perth Glory,260102,1.55,3.15,3.55,https://www.winner.co.il,Melbourne Victory,Perth Glory
+Al Ittihad Kalba - Al Jazeera,251229,3.45,3.2,1.55,https://www.winner.co.il,Al Ittihad Kalba,Al Jazeera
+Al Ain - Sharjah,260102,1.35,3.45,4.6,https://www.winner.co.il,Al Ain,Sharjah
+Al Dafra - Banias,251229,2.1,3.05,2.25,https://www.winner.co.il,Al Dafra,Banias
+Dundee FC - Kilmarnock,251230,2.4,2.75,2.15,https://www.winner.co.il,Dundee FC,Kilmarnock
+Hibernian - Aberdeen,251230,1.65,2.95,3.2,https://www.winner.co.il,Hibernian,Aberdeen
+Livingston - Dundee United,251230,2.2,2.75,2.35,https://www.winner.co.il,Livingston,Dundee United
+Glasgow Rangers - St Mirren,251230,1.45,3.2,4.2,https://www.winner.co.il,Glasgow Rangers,St Mirren
+Motherwell - Celtic,251230,3.15,3.1,1.65,https://www.winner.co.il,Motherwell,Celtic
+Torrence - Lusitania Lourosa,251230,1.95,2.75,2.7,https://www.winner.co.il,Torrence,Lusitania Lourosa
+Persija Jakarta - Bhayangkara,251229,1.3,3.45,5.4,https://www.winner.co.il,Persija Jakarta,Bhayangkara
+MC Alger - ES Setif,251229,1.45,2.75,5.4,https://www.winner.co.il,MC Alger,ES Setif
+ES Mostaganem - Ben Aknoun,251229,1.9,2.5,3.1,https://www.winner.co.il,ES Mostaganem,Ben Aknoun
+MC Oran - Belouizdad,251229,2.55,2.35,2.35,https://www.winner.co.il,MC Oran,Belouizdad
+Arma - Persita Tangerang,251230,1.8,2.8,2.9,https://www.winner.co.il,Arma,Persita Tangerang
+a magnet - Salmiya,251231,2.05,2.8,2.5,https://www.winner.co.il,a magnet,Salmiya
+Volita Disha - Arba Minch Kenema,251229,2.15,2.3,2.9,https://www.winner.co.il,Volita Disha,Arba Minch Kenema
+Macla 70 monument - Set. george,251229,2.8,2.4,2.1,https://www.winner.co.il,Macla 70 monument,Set. george
+I will wake up - Stade de M'Bore,251229,2.4,2.05,2.85,https://www.winner.co.il,I will wake up,Stade de M'Bore
+Generation Foot - AS Pikine,251229,2.1,2.35,2.85,https://www.winner.co.il,Generation Foot,AS Pikine
+Al-Khaldiya SC - Of course not,251229,1.2,3.8,6.0,https://www.winner.co.il,Al-Khaldiya SC,Of course not
+Sudan - Burkina Faso,251231,2.8,4.0,1.5,https://www.winner.co.il,Sudan,Burkina Faso
+Equatorial Guinea - Algeria,251231,2.55,6.0,1.4,https://www.winner.co.il,Equatorial Guinea,Algeria
+Gabon - Ivory Coast,251231,6.2,3.35,1.4,https://www.winner.co.il,Gabon,Ivory Coast
+Mozambique - Cameroon,251231,4.9,3.1,1.55,https://www.winner.co.il,Mozambique,Cameroon
+Tivoli Gardens - Chapleton Maroons,251229,1.7,2.85,3.2,https://www.winner.co.il,Tivoli Gardens,Chapleton Maroons
+Al Musna - El Nahda,251229,4.4,2.75,1.5,https://www.winner.co.il,Al Musna,El Nahda
+Volvo Edigart - Bahir Dar Kenma,251229,3.45,2.5,1.8,https://www.winner.co.il,Volvo Edigart,Bahir Dar Kenma
