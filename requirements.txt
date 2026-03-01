@@ -2,4 +2,4 @@ playwright
 pandas
 deep-translator
 requests
-asyncio
+beautifulsoup4

@@ -1,0 +1,571 @@
+{'tag': 'DIV', 'text': 'Help', 'class': 'e57zfx40 css-ohmrls e1pg1gpv0', 'testName': 'global-navigation'}
+{'tag': 'DIV', 'text': 'Help', 'class': 'e57zfx40 css-1lsc3kw e1pg1gpv0', 'testName': 'secondary-links-wrapper'}
+{'tag': 'DIV', 'text': '', 'class': '', 'testName': 'product-language-shortcut'}
+{'tag': 'DIV', 'text': 'Help', 'class': 'e57zfx40 css-1e30wnk e1pg1gpv0', 'testName': 'secondary-links-desktop'}
+{'tag': 'DIV', 'text': 'Help', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-help'}
+{'tag': 'DIV', 'text': 'About Us', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-about-us'}
+{'tag': 'DIV', 'text': 'Safer Gambling', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-safer-gambling-cms'}
+{'tag': 'DIV', 'text': 'Apps', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-apps'}
+{'tag': 'DIV', 'text': 'Blog', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-blog'}
+{'tag': 'DIV', 'text': 'Fair Gaming Policy', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-fair-gambling-policy'}
+{'tag': 'DIV', 'text': 'Unibet Community', 'class': 'css-1vl2ddy', 'testName': 'secondary-link-community'}
+{'tag': 'A', 'text': 'Unibet Community', 'class': 'css-1wgztyn', 'testName': 'anchor-link'}
+{'tag': 'IMG', 'text': '', 'class': '', 'testName': 'brand-desktop-logo'}
+{'tag': 'DIV', 'text': 'Sports', 'class': 'e57zfx40 css-1iakxpf e1pg1gpv0', 'testName': 'desktop-menu'}
+{'tag': 'DIV', 'text': 'Sports', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Sports', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-betting'}
+{'tag': 'DIV', 'text': 'Sports lobbyVirtual SportsSponsorsBetting GuideSports promotions', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Sports lobby', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-betting'}
+{'tag': 'DIV', 'text': 'Virtual Sports', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-virtual-sports'}
+{'tag': 'DIV', 'text': 'Sponsors', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-sponsors'}
+{'tag': 'DIV', 'text': 'Betting Guide', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Sports promotions', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Racing', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Racing', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-racing'}
+{'tag': 'DIV', 'text': 'RacingRacing rulesRacing guidesRacing offers', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Racing', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-racing'}
+{'tag': 'DIV', 'text': 'Racing rules', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-racing-rules'}
+{'tag': 'DIV', 'text': 'Racing guides', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Racing offers', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Casino', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Casino', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-casino'}
+{'tag': 'DIV', 'text': 'Casino lobbyTournamentsCasino guidesCasino promotions', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Casino lobby', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-casino'}
+{'tag': 'DIV', 'text': 'Tournaments', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-tournaments'}
+{'tag': 'DIV', 'text': 'Casino guides', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Casino promotions', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Live Casino', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Live Casino', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-live-casino'}
+{'tag': 'DIV', 'text': 'Live Casino lobbyLive Casino GuidesLive Casino Promotions', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Live Casino lobby', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-livecasino'}
+{'tag': 'DIV', 'text': 'Live Casino Guides', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Live Casino Promotions', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Bingo', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Bingo', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-bingo'}
+{'tag': 'DIV', 'text': 'BingoBingo TournamentsBingoWheelJackpotsBingo guidesBingo promotions', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Bingo', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-bingo'}
+{'tag': 'DIV', 'text': 'Bingo Tournaments', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-bingo-tournaments'}
+{'tag': 'DIV', 'text': 'BingoWheel', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-bingo-wheel'}
+{'tag': 'DIV', 'text': 'Jackpots', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-jackpots'}
+{'tag': 'DIV', 'text': 'Bingo guides', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Bingo promotions', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Poker', 'class': 'css-99m96y', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Poker', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-poker'}
+{'tag': 'DIV', 'text': 'PokerLive eventsUnibet Poker LoyaltyPoker guidesPoker offers', 'class': 'dropdown-wrapper css-1jmbxyc', 'testName': 'dropdown-wrapper'}
+{'tag': 'DIV', 'text': 'Poker', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-poker'}
+{'tag': 'DIV', 'text': 'Live events', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-poker-unibet-open'}
+{'tag': 'DIV', 'text': 'Unibet Poker Loyalty', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-poker-loyalty'}
+{'tag': 'DIV', 'text': 'Poker guides', 'class': 'css-rn9wen', 'testName': 'nav-item-secondaryLink-guides-lobby'}
+{'tag': 'DIV', 'text': 'Poker offers', 'class': 'css-ruktvf', 'testName': 'nav-item-special'}
+{'tag': 'DIV', 'text': 'Promotions', 'class': 'default css-12v60z6', 'testName': 'nav-item-desktop'}
+{'tag': 'DIV', 'text': 'Promotions', 'class': 'desktopNavItemText', 'testName': 'nav-item-mainLink-promotion-lobby'}
+{'tag': 'DIV', 'text': 'Log in', 'class': 'e57zfx40 css-eidpgn e1pg1gpv0', 'testName': 'account-section'}
+{'tag': 'DIV', 'text': 'Log in', 'class': 'css-gx2bt3', 'testName': 'login-buttons-wrapper'}
+{'tag': 'BUTTON', 'text': 'Log in', 'class': 'css-187wyqw euvk28v0', 'testName': 'header-login-button'}
+{'tag': 'A', 'text': 'Create account', 'class': 'css-a3ggzv euvk28v0', 'testName': 'header-registration-button'}
+{'tag': 'DIV', 'text': 'Home', 'class': 'css-1fymfco', 'testName': 'base-layout'}
+{'tag': 'DIV', 'text': '', 'class': '', 'testName': 'banner-notification-control'}
+{'tag': 'DIV', 'text': '', 'class': '', 'testName': 'banner-queue'}
+{'tag': 'DIV', 'text': 'Home', 'class': 'css-1rfq2pv', 'testName': 'lobby-layout'}
+{'tag': 'DIV', 'text': 'Home', 'class': 'e57zfx40 css-klw6gj e1pg1gpv0', 'testName': 'mainScrollBox'}
+{'tag': 'DIV', 'text': 'Home', 'class': 'e57zfx40 css-8zsnm4 e1pg1gpv0', 'testName': 'navButtonsStack'}
+{'tag': 'DIV', 'text': 'Home', 'class': 'e57zfx40 css-138oh87 e1pg1gpv0', 'testName': 'homeBtn'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1uu7u3w e1pg1gpv0', 'testName': 'navIcon'}
+{'tag': 'DIV', 'text': 'In-Play', 'class': 'e57zfx40 css-138oh87 e1pg1gpv0', 'testName': 'inPlayBtn'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1uu7u3w e1pg1gpv0', 'testName': 'navIcon'}
+{'tag': 'DIV', 'text': 'Explore', 'class': 'e57zfx40 css-138oh87 e1pg1gpv0', 'testName': 'exploreBtn'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1uu7u3w e1pg1gpv0', 'testName': 'navIcon'}
+{'tag': 'DIV', 'text': 'Favourites', 'class': 'e57zfx40 css-wv3nwu e1pg1gpv0', 'testName': 'favouritesBtn'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1uu7u3w e1pg1gpv0', 'testName': 'navIcon'}
+{'tag': 'INPUT', 'text': '', 'class': 'css-i3e2j8 enk8tqa0', 'testName': 'searchBar'}
+{'tag': 'svg', 'text': '', 'class': {}, 'testName': 'searchIcon'}
+{'tag': 'DIV', 'text': 'ALL SPORTS', 'class': 'e57zfx40 css-ohmrls e1pg1gpv0', 'testName': 'aZMenuBoxContainer'}
+{'tag': 'DIV', 'text': 'ALL SPORTS', 'class': 'css-1domaf0 e1pg1gpv0', 'testName': 'aZMenuStack'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-ijh8j9 e1pg1gpv0', 'testName': 'aZIconHeaderLargeScreen'}
+{'tag': 'DIV', 'text': 'ALL SPORTS', 'class': 'e57zfx40 css-ohmrls e1pg1gpv0', 'testName': 'aZNavStack'}
+{'tag': 'DIV', 'text': 'ALL SPORTS', 'class': 'e57zfx40 css-16v2npw e1pg1gpv0', 'testName': 'aZNavSportsHeader'}
+{'tag': 'DIV', 'text': 'Racing', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Racing', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'American Football', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'American Football', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Australian Rules', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Australian Rules', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Baseball', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Baseball', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Basketball', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Basketball', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Boxing', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Boxing', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Cricket', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Cricket', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Cycling', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Cycling', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Darts', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Darts', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Esports', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Esports', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Formula 1', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Formula 1', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Gaelic Sports', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Gaelic Sports', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Golf', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Golf', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Handball', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Handball', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Ice Hockey', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Ice Hockey', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Lacrosse', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Lacrosse', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'MMA', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'MMA', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Motorsports', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Motorsports', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Olympics', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Olympics', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Politics', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Politics', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Rugby League', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Rugby League', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Rugby Union', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Rugby Union', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Snooker', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Snooker', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Table Tennis', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Table Tennis', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Tennis', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Tennis', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'TV & Novelty', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'TV & Novelty', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Volleyball', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Volleyball', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Waterpolo', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Waterpolo', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Winter sports', 'class': 'e57zfx40 css-4gvkxl e1pg1gpv0', 'testName': 'aZNavSportLine'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1atl7vu e1pg1gpv0', 'testName': 'sportIcon'}
+{'tag': 'DIV', 'text': 'Winter sports', 'class': 'css-1tzpjxi e1am4wh0', 'testName': 'aZNavSportTitle'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'e57zfx40 css-1bgwuey e1pg1gpv0', 'testName': 'pageHeaderStack'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'e57zfx40 css-r1kcdg e1pg1gpv0', 'testName': 'topSection'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'e57zfx40 css-gnefkn e1pg1gpv0', 'testName': 'breadcrumbStack'}
+{'tag': 'svg', 'text': '', 'class': {}, 'testName': 'breadcrumbBackIcon'}
+{'tag': 'DIV', 'text': '', 'class': 'css-11frb2p e1pg1gpv0', 'testName': 'breadcrumbDivider'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'css-4g6ai3 e1pg1gpv0', 'testName': 'breadcrumbCategoryLongText'}
+{'tag': 'DIV', 'text': 'Football', 'class': 'css-ded51t e1am4wh0', 'testName': 'breadcrumbCategoryText'}
+{'tag': 'DIV', 'text': '', 'class': 'css-9xjwno e1pg1gpv0', 'testName': 'breadcrumbDivider'}
+{'tag': 'DIV', 'text': 'England', 'class': 'css-17fy9xs e1pg1gpv0', 'testName': 'breadcrumbCategoryLongText'}
+{'tag': 'DIV', 'text': 'England', 'class': 'css-1xmhimk e1am4wh0', 'testName': 'breadcrumbCategoryText'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-1qzv5qe e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': 'Premier League', 'class': 'e57zfx40 css-1o5ba03 e1pg1gpv0', 'testName': 'pageHeaderTitlesStack'}
+{'tag': 'DIV', 'text': 'Premier League', 'class': 'e57zfx40 css-1djyjyh e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Premier League', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Premier League', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'nonContestStackInHeader'}
+{'tag': 'DIV', 'text': 'Premier League', 'class': 'css-4129xq e1d8jnas0', 'testName': 'headerTitle'}
+{'tag': 'DIV', 'text': 'Matches', 'class': 'e57zfx40 css-cr057g e1pg1gpv0', 'testName': 'tabsMenuStack'}
+{'tag': 'DIV', 'text': 'Matches', 'class': 'css-1xshfqu e1am4wh0', 'testName': 'tabsMenuHeaderText'}
+{'tag': 'DIV', 'text': 'Outrights', 'class': 'css-mzh8p9 e1am4wh0', 'testName': 'tabsMenuHeaderText'}
+{'tag': 'DIV', 'text': 'Full Time Result', 'class': 'css-v6k1eq e1pg1gpv0', 'testName': 'propositionFiltersStack'}
+{'tag': 'DIV', 'text': 'Full Time Result', 'class': '', 'testName': 'propositionChipMenuFilter'}
+{'tag': 'DIV', 'text': '', 'class': 'react-horizontal-scrolling-menu--header', 'testName': 'N/A'}
+{'tag': 'DIV', 'text': 'Full Time Result', 'class': 'css-1l7i5tk e1qlur230', 'testName': 'groupFilter'}
+{'tag': 'DIV', 'text': 'Total Goals', 'class': 'css-opkgp8 e1qlur230', 'testName': 'groupFilter'}
+{'tag': 'DIV', 'text': 'Both Teams to Score', 'class': 'css-opkgp8 e1qlur230', 'testName': 'groupFilter'}
+{'tag': 'DIV', 'text': 'Double Chance', 'class': 'css-opkgp8 e1qlur230', 'testName': 'groupFilter'}
+{'tag': 'DIV', 'text': '3-Way Handicap', 'class': 'css-opkgp8 e1qlur230', 'testName': 'groupFilter'}
+{'tag': 'DIV', 'text': 'All Competitions', 'class': 'css-1070net e1d8jnas0', 'testName': 'allCompetitionsText'}
+{'tag': 'DIV', 'text': 'Tomorrow', 'class': 'css-28h8om e1pg1gpv0', 'testName': 'matchesAccordion'}
+{'tag': 'DIV', 'text': 'Tomorrow', 'class': 'e57zfx40 css-15s8u0z e1pg1gpv0', 'testName': 'categoryBoxInAccordion'}
+{'tag': 'DIV', 'text': 'Tomorrow', 'class': 'css-isx545 e1pg1gpv0', 'testName': 'MainHeader'}
+{'tag': 'DIV', 'text': 'Tomorrow', 'class': 'css-1c1k1ig e1am4wh0', 'testName': 'MainHeaderText'}
+{'tag': 'DIV', 'text': '4', 'class': 'css-175c2lt e1am4wh0', 'testName': 'MainHeaderNumber'}
+{'tag': 'DIV', 'text': '1', 'class': 'e57zfx40 css-jrx48 e1pg1gpv0', 'testName': 'subHeader'}
+{'tag': 'DIV', 'text': '1', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': 'X', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': '2', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'A', 'text': '17:30', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Crystal Palace', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Crystal Palace', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Crystal Palace', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Crystal Palace', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Fulham', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '47/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '47/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '47/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '49/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '49/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '49/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+131', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '17:30', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Liverpool', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Liverpool', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Liverpool', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Liverpool', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Leeds United', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '8/15', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '8/15', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '8/15', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '8/15', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '8/15', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '19/4', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '19/4', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '19/4', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+131', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '20:00', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '20:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '20:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Brentford', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Brentford', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Brentford', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Brentford', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Tottenham', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '23/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '5/2', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '5/2', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '5/2', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '23/10', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '23/10', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '23/10', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+131', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '20:00', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '20:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '20:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Sunderland', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Sunderland', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Sunderland', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Sunderland', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Manchester City', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '13/2', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '13/2', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '13/2', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/2', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/2', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '4/1', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '4/1', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '4/1', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '2/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '2/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '2/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+131', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'DIV', 'text': '03 Jan 2026', 'class': 'e57zfx40 css-15s8u0z e1pg1gpv0', 'testName': 'categoryBoxInAccordion'}
+{'tag': 'DIV', 'text': '03 Jan 2026', 'class': 'css-isx545 e1pg1gpv0', 'testName': 'MainHeader'}
+{'tag': 'DIV', 'text': '03 Jan 2026', 'class': 'css-1c1k1ig e1am4wh0', 'testName': 'MainHeaderText'}
+{'tag': 'DIV', 'text': '4', 'class': 'css-175c2lt e1am4wh0', 'testName': 'MainHeaderNumber'}
+{'tag': 'DIV', 'text': '1', 'class': 'e57zfx40 css-jrx48 e1pg1gpv0', 'testName': 'subHeader'}
+{'tag': 'DIV', 'text': '1', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': 'X', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': '2', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'A', 'text': '12:30', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '12:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '12:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Aston Villa', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Aston Villa', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Aston Villa', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Aston Villa', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Nottingham Forest', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '41/50', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '41/50', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '41/50', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '41/50', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '41/50', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '13/4', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/4', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/4', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Brighton', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Brighton', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Brighton', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Brighton', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Burnley', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '1/2', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '1/2', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '1/2', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '1/2', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '1/2', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Wolves', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Wolves', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Wolves', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Wolves', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'West Ham', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '29/20', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '29/20', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '29/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '29/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '29/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '37/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '37/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '37/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '17:30', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Bournemouth', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Bournemouth', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Bournemouth', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Bournemouth', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Arsenal', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '5/1', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '7/2', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '12/25', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '12/25', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '12/25', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'DIV', 'text': '04 Jan 2026', 'class': 'e57zfx40 css-15s8u0z e1pg1gpv0', 'testName': 'categoryBoxInAccordion'}
+{'tag': 'DIV', 'text': '04 Jan 2026', 'class': 'css-isx545 e1pg1gpv0', 'testName': 'MainHeader'}
+{'tag': 'DIV', 'text': '04 Jan 2026', 'class': 'css-1c1k1ig e1am4wh0', 'testName': 'MainHeaderText'}
+{'tag': 'DIV', 'text': '6', 'class': 'css-175c2lt e1am4wh0', 'testName': 'MainHeaderNumber'}
+{'tag': 'DIV', 'text': '1X2', 'class': 'e57zfx40 css-jrx48 e1pg1gpv0', 'testName': 'subHeader'}
+{'tag': 'DIV', 'text': '1', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': 'X', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'DIV', 'text': '2', 'class': 'css-bm4818 e1am4wh0', 'testName': 'subHeaderProposition'}
+{'tag': 'A', 'text': '12:30Leeds UnitedManchester United33/2012/531/20+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '12:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '12:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Leeds UnitedManchester United', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Leeds UnitedManchester United', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Leeds UnitedManchester United', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Leeds United', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Manchester United', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '33/2012/531/20', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '33/2012/531/20', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '33/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '33/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '33/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '12/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '31/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '31/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '31/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00EvertonBrentford11/843/2021/10+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'EvertonBrentford', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'EvertonBrentford', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'EvertonBrentford', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Everton', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Brentford', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '11/843/2021/10', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '11/843/2021/10', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '11/8', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '11/8', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '11/8', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '43/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '43/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '43/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '21/10', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '21/10', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '21/10', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00FulhamLiverpool13/511/419/20+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'FulhamLiverpool', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'FulhamLiverpool', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'FulhamLiverpool', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Fulham', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Liverpool', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '13/511/419/20', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '13/511/419/20', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '11/4', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '11/4', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '11/4', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '19/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '19/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '19/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00Newcastle UnitedCrystal Palace8/1114/518/5+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Newcastle UnitedCrystal Palace', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Newcastle UnitedCrystal Palace', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Newcastle UnitedCrystal Palace', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Newcastle United', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Crystal Palace', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '8/1114/518/5', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '8/1114/518/5', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '8/11', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '8/11', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '8/11', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '14/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '14/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '14/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '15:00TottenhamSunderland4/513/517/5+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '15:00', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'TottenhamSunderland', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'TottenhamSunderland', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'TottenhamSunderland', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Tottenham', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Sunderland', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '4/513/517/5', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '4/513/517/5', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '4/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '4/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '4/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '17/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '17/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '17/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'A', 'text': '17:30Manchester CityChelsea13/2010/318/5+82', 'class': 'css-gb8pey e12zu10d0', 'testName': 'contestCard'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'e57zfx40 css-4so4m5 e1pg1gpv0', 'testName': 'contestTimeInCardContainer'}
+{'tag': 'DIV', 'text': '17:30', 'class': 'css-19xqc82 e1am4wh0', 'testName': 'contestTimeInCard'}
+{'tag': 'DIV', 'text': 'Manchester CityChelsea', 'class': 'e57zfx40 css-1v1eprd e1pg1gpv0', 'testName': 'scoreboardStack'}
+{'tag': 'DIV', 'text': 'Manchester CityChelsea', 'class': 'e57zfx40 css-k5t6wb e1pg1gpv0', 'testName': 'contestCardTeamsStack'}
+{'tag': 'DIV', 'text': 'Manchester CityChelsea', 'class': 'e57zfx40 css-jfpufs e1pg1gpv0', 'testName': 'prematchTeamsStackHeader'}
+{'tag': 'DIV', 'text': 'Manchester City', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': 'Chelsea', 'class': 'css-11o6dvw e1am4wh0', 'testName': 'teamNamesInHeader'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-jpjy0p e1pg1gpv0', 'testName': 'statsBtnsInCard'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-n3c5pi e1pg1gpv0', 'testName': 'favouriteContainer'}
+{'tag': 'DIV', 'text': '13/2010/318/5', 'class': 'e57zfx40 css-1i6jvms e1pg1gpv0', 'testName': 'contestCardPropositionsContainer'}
+{'tag': 'DIV', 'text': '13/2010/318/5', 'class': 'e57zfx40 css-1kr291b e1pg1gpv0', 'testName': 'propositionBtnsStack'}
+{'tag': 'DIV', 'text': '13/20', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '13/20', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '13/20', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '10/3', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'e57zfx40 css-4enuln e1pg1gpv0', 'testName': 'largePropositionBtn'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'css-1jozkwi e1qlur230', 'testName': 'propositionOptionBtn'}
+{'tag': 'DIV', 'text': '18/5', 'class': 'css-pyvo42 e1am4wh0', 'testName': 'propositionOptionValue'}
+{'tag': 'DIV', 'text': '+82', 'class': 'css-175c2lt e1am4wh0', 'testName': 'contestCardPropositionsCount'}
+{'tag': 'DIV', 'text': 'Odds Format', 'class': 'e57zfx40 css-1902g9i e1pg1gpv0', 'testName': 'oddsFormatDropdownTrigger'}
+{'tag': 'svg', 'text': '', 'class': {}, 'testName': 'oddsFormatDropdownTriggerIcon'}
+{'tag': 'DIV', 'text': 'Premier League Online Football Betting', 'class': 'css-2xbs02', 'testName': 'seo-footer-wrapper'}
+{'tag': 'FOOTER', 'text': 'Gambling can be addictive. Play responsibly.', 'class': 'css-1af6abk', 'testName': 'kmf-footer-official-mini-app'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1thcdlx e1pg1gpv0', 'testName': 'social-media'}
+{'tag': 'DIV', 'text': 'Gambling can be addictive. Play responsibly.', 'class': 'css-1k1xwa e1pg1gpv0', 'testName': 'responsible-gaming'}
+{'tag': 'DIV', 'text': 'Gambling can be addictive. Play responsibly.', 'class': 'e57zfx40 css-16f4yxu e1pg1gpv0', 'testName': 'rg-section'}
+{'tag': 'A', 'text': '', 'class': 'css-17q8k4s e1f6nj7d0', 'testName': 'responsible-gaming-logo'}
+{'tag': 'DIV', 'text': 'Gambling can be addictive. Play responsibly.', 'class': 'css-r0pgbf e1am4wh0', 'testName': 'responsible-gaming-info'}
+{'tag': 'DIV', 'text': 'Gambling can be addictive. Play responsibly.', 'class': 'css-1g2gmv0', 'testName': 'text-wrapper'}
+{'tag': 'DIV', 'text': 'Safer Gambling', 'class': 'css-1qvfxtq', 'testName': 'responsible-gaming-links'}
+{'tag': 'A', 'text': 'Safer Gambling', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Terms and Conditions', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Privacy Notice', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Fair Gambling Policy', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Security Information', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Cookies', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-path-with-route'}
+{'tag': 'A', 'text': 'Help', 'class': 'css-vyqksx e1f6nj7d0', 'testName': 'link-help'}
+{'tag': 'DIV', 'text': '', 'class': 'css-1thcdlx e1pg1gpv0', 'testName': 'regulatory-logos-container'}
+{'tag': 'DIV', 'text': '', 'class': 'e57zfx40 css-18u9e1r e1pg1gpv0', 'testName': 'regulatory-logos'}
+{'tag': 'DIV', 'text': 'Our Partners', 'class': 'css-1thcdlx e1pg1gpv0', 'testName': 'partners-logos'}
+{'tag': 'DIV', 'text': 'Security & Trust', 'class': 'css-1idthuu e1pg1gpv0', 'testName': 'logos-section'}
+{'tag': 'DIV', 'text': 'Security & Trust', 'class': 'e57zfx40 css-6kkfk2 e1pg1gpv0', 'testName': 'security-logos'}
+{'tag': 'DIV', 'text': 'Secure Payment Methods', 'class': 'e57zfx40 css-h4pfrl e1pg1gpv0', 'testName': 'payment-logos'}
+{'tag': 'DIV', 'text': 'Safer Gambling', 'class': 'css-1thcdlx e1pg1gpv0', 'testName': 'official-partners-logos'}
+{'tag': 'DIV', 'text': '© Copyright 2025, Unibet. All rights reserved', 'class': 'css-1thcdlx e1pg1gpv0', 'testName': 'legal-row'}
+{'tag': 'DIV', 'text': '© Copyright 2025, Unibet. All rights reserved', 'class': 'e57zfx40 css-ohmrls e1pg1gpv0', 'testName': 'legal-lines'}
+{'tag': 'DIV', 'text': '© Copyright 2025, Unibet. All rights reserved', 'class': 'css-16ovelp e1am4wh0', 'testName': 'copyright-container-text'}
+{'tag': 'DIV', 'text': '', 'class': 'ot-pc-header', 'testName': 'N/A'}
+{'tag': 'H4', 'text': 'Strictly Necessary Cookies', 'class': 'ot-cat-header', 'testName': 'N/A'}
+{'tag': 'H4', 'text': 'Functional Cookies', 'class': 'ot-cat-header', 'testName': 'N/A'}
+{'tag': 'H4', 'text': 'Targeting Cookies', 'class': 'ot-cat-header', 'testName': 'N/A'}
+{'tag': 'H4', 'text': 'Performance Cookies', 'class': 'ot-cat-header', 'testName': 'N/A'}
+{'tag': 'H4', 'text': 'Social Media Cookies', 'class': 'ot-cat-header', 'testName': 'N/A'}

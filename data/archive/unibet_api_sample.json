@@ -1,0 +1,3665 @@
+{
+  "_typ": "LobbyPageViewResponse",
+  "view": {
+    "_typ": "LobbyPageView",
+    "featuredMatches": [
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767125700000,
+          "value": "2025-12-30T20:15:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "9aeff242543aab92866199c804545b7e",
+          "48b3daec4fdf8a5e5ec4f77292454c51",
+          "9da648732397e5da876b7d3ec1640818",
+          "a71a196c91b73832df17e7c7ab600bdd",
+          "2be3abaef35eb21e84a7eb6627397a41",
+          "ed2f2285ef607196b7e528e24d724eec"
+        ],
+        "timeStampBFFUtc": "2025-12-30T12:21:34.450Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767125700000,
+              "value": "2025-12-30T20:15:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:31:38.900Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Manchester United",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "4w8t4tn85elmsgielekkaqqqa",
+                  "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:4w8t4tn85elmsgielekkaqqqa:plain:offering",
+                  "price": 1.37
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:draw:plain:offering",
+                  "price": 5
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Wolves",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "6vn3hmx6yt0x1ooawvi48dp4q",
+                  "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:6vn3hmx6yt0x1ooawvi48dp4q:plain:offering",
+                  "price": 7.5
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Manchester United",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "4w8t4tn85elmsgielekkaqqqa",
+                "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:4w8t4tn85elmsgielekkaqqqa:plain:offering",
+                "price": 1.37
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:draw:plain:offering",
+                "price": 5
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Wolves",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "6vn3hmx6yt0x1ooawvi48dp4q",
+                "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:6vn3hmx6yt0x1ooawvi48dp4q:plain:offering",
+                "price": 7.5
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "3acf32eeca2803eadc7d294401a445d0:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "3acf32eeca2803eadc7d294401a445d0",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "Manchester United vs Wolves"
+      },
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767123000000,
+          "value": "2025-12-30T19:30:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "56a02903218cb6c982c1c23886807549",
+          "3714a314dc7de09ccaaa5e2c7dd722f4",
+          "910bbd7b182de0e3c921382667aaf2d6",
+          "88cc0d9a0a1f1de97d20aa0affde983e",
+          "e7cf772d53e9907e994ef8f505fe7a96",
+          "ebf8bb50a521f3d04543979cc3a08e5b",
+          "3d04e88f6a1588c8730056cce86f2fa6"
+        ],
+        "timeStampBFFUtc": "2025-12-30T13:31:47.793Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767123000000,
+              "value": "2025-12-30T19:30:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:31:13.264Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Chelsea",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "321g08q47cjssv4ncgwp8pv6i",
+                  "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:321g08q47cjssv4ncgwp8pv6i:plain:offering",
+                  "price": 1.54
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:draw:plain:offering",
+                  "price": 4.75
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Bournemouth",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "2wq88kqee7fnbdklywiop0y27",
+                  "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:2wq88kqee7fnbdklywiop0y27:plain:offering",
+                  "price": 5.5
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Chelsea",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "321g08q47cjssv4ncgwp8pv6i",
+                "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:321g08q47cjssv4ncgwp8pv6i:plain:offering",
+                "price": 1.54
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:draw:plain:offering",
+                "price": 4.75
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Bournemouth",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "2wq88kqee7fnbdklywiop0y27",
+                "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:2wq88kqee7fnbdklywiop0y27:plain:offering",
+                "price": 5.5
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "0b6f7ca5fc5d4bb63ad4b9338623ce71:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "Chelsea vs Bournemouth"
+      },
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767125700000,
+          "value": "2025-12-30T20:15:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "48b3daec4fdf8a5e5ec4f77292454c51",
+          "888b661f7abeee6945b4cbe243612be6",
+          "35a19b173398b86654546007af489087",
+          "e7cf772d53e9907e994ef8f505fe7a96",
+          "399c62b1bdecd52016c0305906f340a6",
+          "ebf8bb50a521f3d04543979cc3a08e5b"
+        ],
+        "timeStampBFFUtc": "2025-12-30T13:35:52.020Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767125700000,
+              "value": "2025-12-30T20:15:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:30:45.846Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Arsenal",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "6ja1abbjtsbj6yjrgsn2z6cgs",
+                  "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:6ja1abbjtsbj6yjrgsn2z6cgs:plain:offering",
+                  "price": 1.42
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:draw:plain:offering",
+                  "price": 4.75
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Aston Villa",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "66h75xf6wttjh6749i8q6bk93",
+                  "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:66h75xf6wttjh6749i8q6bk93:plain:offering",
+                  "price": 7
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Arsenal",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "6ja1abbjtsbj6yjrgsn2z6cgs",
+                "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:6ja1abbjtsbj6yjrgsn2z6cgs:plain:offering",
+                "price": 1.42
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:draw:plain:offering",
+                "price": 4.75
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Aston Villa",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "66h75xf6wttjh6749i8q6bk93",
+                "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:66h75xf6wttjh6749i8q6bk93:plain:offering",
+                "price": 7
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "86eb4448b6598ef7cb5221a132943006:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "86eb4448b6598ef7cb5221a132943006",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "Arsenal vs Aston Villa"
+      },
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767123000000,
+          "value": "2025-12-30T19:30:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "3714a314dc7de09ccaaa5e2c7dd722f4",
+          "910bbd7b182de0e3c921382667aaf2d6",
+          "9da648732397e5da876b7d3ec1640818",
+          "05a0a024eb9dfe37705806d44cab24b3",
+          "8aefa2b7ace8eba063a6af42d1953e98",
+          "9cde8f224c8536259efbeb86a3e1614a"
+        ],
+        "timeStampBFFUtc": "2025-12-30T13:36:32.288Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767123000000,
+              "value": "2025-12-30T19:30:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:23:11.219Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Burnley",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "69ngbn5taco5ou961yv4t9sq7",
+                  "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:69ngbn5taco5ou961yv4t9sq7:plain:offering",
+                  "price": 5.5
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:draw:plain:offering",
+                  "price": 4.2
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Newcastle United",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "7dcaauztf5f8noo2o430mo2vz",
+                  "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:7dcaauztf5f8noo2o430mo2vz:plain:offering",
+                  "price": 1.6
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Burnley",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "69ngbn5taco5ou961yv4t9sq7",
+                "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:69ngbn5taco5ou961yv4t9sq7:plain:offering",
+                "price": 5.5
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:draw:plain:offering",
+                "price": 4.2
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Newcastle United",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "7dcaauztf5f8noo2o430mo2vz",
+                "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:7dcaauztf5f8noo2o430mo2vz:plain:offering",
+                "price": 1.6
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "d06682a24ceb2d16831f45f7baf595a5:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "d06682a24ceb2d16831f45f7baf595a5",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "Burnley vs Newcastle United"
+      },
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767123000000,
+          "value": "2025-12-30T19:30:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "3ffd01f4b5f111fa010ecc4983d0180c",
+          "888b661f7abeee6945b4cbe243612be6",
+          "05a0a024eb9dfe37705806d44cab24b3",
+          "c14281b80192cfcd5aa1b85cbeaecec0",
+          "399c62b1bdecd52016c0305906f340a6",
+          "6dccd29537dd14659949bad1b7ae6953",
+          "63c8589d2fad9bdb2b2faa1534288c56"
+        ],
+        "timeStampBFFUtc": "2025-12-30T13:31:40.620Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767123000000,
+              "value": "2025-12-30T19:30:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:31:34.876Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Nottingham Forest",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "76sgnd4ze7lo13d3dp98btakv",
+                  "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:76sgnd4ze7lo13d3dp98btakv:plain:offering",
+                  "price": 2.1
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:draw:plain:offering",
+                  "price": 3.25
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Everton",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "6eorr03si0i88g7avdk0ramsf",
+                  "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:6eorr03si0i88g7avdk0ramsf:plain:offering",
+                  "price": 3.75
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Nottingham Forest",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "76sgnd4ze7lo13d3dp98btakv",
+                "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:76sgnd4ze7lo13d3dp98btakv:plain:offering",
+                "price": 2.1
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:draw:plain:offering",
+                "price": 3.25
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Everton",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "6eorr03si0i88g7avdk0ramsf",
+                "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:6eorr03si0i88g7avdk0ramsf:plain:offering",
+                "price": 3.75
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "8264f2a182d0c5081fb9cc2b612206cd:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "8264f2a182d0c5081fb9cc2b612206cd",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "Nottingham Forest vs Everton"
+      },
+      {
+        "_typ": "FixtureContest",
+        "isLiveAndNoLiveOffers": false,
+        "propositionGroupKeys": [
+          "556207a1-faff-48ba-b10e-30a0c8989d99",
+          "e62db713-9071-4b42-a24c-7861e79ad492",
+          "7acbf4ec-2584-4fab-bffe-dec041b02965",
+          "5e070fd8-4d07-4b77-98d4-6f574f11181e",
+          "df85dfd6-d1da-42d6-9819-38ab6c5c1a1f",
+          "2b3e78a2-7c27-4f35-894b-35f02da6f53f",
+          "e6dc82ae-515a-464c-97a7-8c09e45f3f11",
+          "cb7a91ec-e630-4b53-8914-514ecc19ba94",
+          "afe91026-2538-4c3b-a533-fd02693d93e1",
+          "other"
+        ],
+        "hasMorePropositions": false,
+        "categoriesDetailed": [
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england:premier_league",
+            "name": "Premier League"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football:england",
+            "name": "England"
+          },
+          {
+            "_typ": "CategoryDetailed",
+            "categoryRn": "football",
+            "name": "Football"
+          }
+        ],
+        "startDateTimeUtc": {
+          "_typ": "Date",
+          "unixms": 1767123000000,
+          "value": "2025-12-30T19:30:00.000Z"
+        },
+        "propositionCount": 133,
+        "relatedContests": [
+          "ad8e77c4d24677b80e0cbdcfafc74a99",
+          "46d13626f2ab057c9a882b0b8acaa523",
+          "71648755479ab2f01d8c258625069656",
+          "35a19b173398b86654546007af489087",
+          "98ca11180bc893dbd332908808e0a963",
+          "8aefa2b7ace8eba063a6af42d1953e98",
+          "ed2f2285ef607196b7e528e24d724eec",
+          "63c8589d2fad9bdb2b2faa1534288c56"
+        ],
+        "timeStampBFFUtc": "2025-12-30T13:31:40.264Z",
+        "hasInHouseStats": false,
+        "classification": "Fixture",
+        "liveOddsBooked": true,
+        "propositions": [
+          {
+            "_typ": "FixtureContestProposition",
+            "propositionGroupParentIds": [
+              "556207a1-faff-48ba-b10e-30a0c8989d99"
+            ],
+            "marketCountFilter": {
+              "_typ": "PropositionMarketCountFilters",
+              "pricesCount": 1,
+              "tenantKey": "base"
+            },
+            "startDateTimeUtc": {
+              "_typ": "Date",
+              "unixms": 1767123000000,
+              "value": "2025-12-30T19:30:00.000Z"
+            },
+            "propositionType": "1x2",
+            "timeStampBFFUtc": "2025-12-20T17:31:25.166Z",
+            "propositionKey": "1x2",
+            "displayType": "OneRow",
+            "displayName": "Full Time Result",
+            "bettingOpen": false,
+            "allowMulti": "Always",
+            "variants": [
+              [
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "1",
+                  "optionDisplayName": "1",
+                  "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "West Ham",
+                  "optionType": "T1",
+                  "variantKey": "plain",
+                  "optionKey": "2asm8p56deefa9muwfv9t7iq6",
+                  "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:2asm8p56deefa9muwfv9t7iq6:plain:offering",
+                  "price": 3.5
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "X",
+                  "optionDisplayName": "X",
+                  "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Draw",
+                  "optionType": "Draw",
+                  "variantKey": "plain",
+                  "optionKey": "draw",
+                  "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:draw:plain:offering",
+                  "price": 3.75
+                },
+                {
+                  "_typ": "FixtureContestPropositionOption",
+                  "optionDisplayBetName": "2",
+                  "optionDisplayName": "2",
+                  "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                  "bettingOpen": true,
+                  "variantName": "Plain",
+                  "variantType": "Plain",
+                  "optionName": "Brighton",
+                  "optionType": "T2",
+                  "variantKey": "plain",
+                  "optionKey": "1guzjukuvxjk76ahwh9vn6h7h",
+                  "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:1guzjukuvxjk76ahwh9vn6h7h:plain:offering",
+                  "price": 2
+                }
+              ]
+            ],
+            "options": [
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "1",
+                "optionDisplayName": "1",
+                "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "West Ham",
+                "optionType": "T1",
+                "variantKey": "plain",
+                "optionKey": "2asm8p56deefa9muwfv9t7iq6",
+                "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:2asm8p56deefa9muwfv9t7iq6:plain:offering",
+                "price": 3.5
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "X",
+                "optionDisplayName": "X",
+                "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Draw",
+                "optionType": "Draw",
+                "variantKey": "plain",
+                "optionKey": "draw",
+                "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:draw:plain:offering",
+                "price": 3.75
+              },
+              {
+                "_typ": "FixtureContestPropositionOption",
+                "optionDisplayBetName": "2",
+                "optionDisplayName": "2",
+                "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                "bettingOpen": true,
+                "variantName": "Plain",
+                "variantType": "Plain",
+                "optionName": "Brighton",
+                "optionType": "T2",
+                "variantKey": "plain",
+                "optionKey": "1guzjukuvxjk76ahwh9vn6h7h",
+                "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:1guzjukuvxjk76ahwh9vn6h7h:plain:offering",
+                "price": 2
+              }
+            ],
+            "status": "Active",
+            "order": 0,
+            "name": "Full Time Result",
+            "key": "3f7ae041c4c4daad0780dfd9ffc64385:1x2"
+          }
+        ],
+        "sportVariant": "Male",
+        "contestType": "Football",
+        "contestKey": "3f7ae041c4c4daad0780dfd9ffc64385",
+        "categories": [
+          "football:england:premier_league",
+          "football:england",
+          "football"
+        ],
+        "allowMulti": "Always",
+        "hasStream": false,
+        "category": "football:england:premier_league",
+        "hasStats": true,
+        "status": "PreGame",
+        "name": "West Ham vs Brighton"
+      }
+    ],
+    "marketFilters": [
+      {
+        "_typ": "LobbyMarketFilter",
+        "propositionType": "1x2",
+        "displayName": "Full Time Result",
+        "active": true,
+        "key": "1x2"
+      },
+      {
+        "_typ": "LobbyMarketFilter",
+        "propositionType": "total",
+        "displayName": "Total Goals",
+        "active": false,
+        "key": "total"
+      },
+      {
+        "_typ": "LobbyMarketFilter",
+        "propositionType": "both_teams_to_score",
+        "displayName": "Both Teams to Score",
+        "active": false,
+        "key": "both_teams_to_score"
+      },
+      {
+        "_typ": "LobbyMarketFilter",
+        "propositionType": "double_chance",
+        "displayName": "Double Chance",
+        "active": false,
+        "key": "double_chance"
+      },
+      {
+        "_typ": "LobbyMarketFilter",
+        "propositionType": "3_way_handicap",
+        "displayName": "3-Way Handicap",
+        "active": false,
+        "key": "3_way_handicap"
+      }
+    ],
+    "pageHeader": {
+      "_typ": "PageHeader",
+      "breadcrumbs": [
+        {
+          "_typ": "Breadcrumb",
+          "displayName": "Football",
+          "categoryRn": "football"
+        },
+        {
+          "_typ": "Breadcrumb",
+          "displayName": "England",
+          "categoryRn": "football:england"
+        }
+      ],
+      "contestType": "Football",
+      "headerText": "Premier League",
+      "categoryRn": "football:england:premier_league"
+    },
+    "lobbyType": "leagueLobby",
+    "matches": [
+      {
+        "_typ": "AccordionItem",
+        "contestGroups": [
+          {
+            "_typ": "LobbyContestByGroupHeader",
+            "identifier": "Today",
+            "contests": [
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767123000000,
+                  "value": "2025-12-30T19:30:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3714a314dc7de09ccaaa5e2c7dd722f4",
+                  "910bbd7b182de0e3c921382667aaf2d6",
+                  "9da648732397e5da876b7d3ec1640818",
+                  "05a0a024eb9dfe37705806d44cab24b3",
+                  "8aefa2b7ace8eba063a6af42d1953e98",
+                  "9cde8f224c8536259efbeb86a3e1614a"
+                ],
+                "timeStampBFFUtc": "2025-12-30T13:36:32.288Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767123000000,
+                      "value": "2025-12-30T19:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:23:11.219Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Burnley",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "69ngbn5taco5ou961yv4t9sq7",
+                        "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:69ngbn5taco5ou961yv4t9sq7:plain:offering",
+                        "price": 5.5
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:draw:plain:offering",
+                        "price": 4.2
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:36:26.741Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Newcastle United",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "7dcaauztf5f8noo2o430mo2vz",
+                        "priceKey": "d06682a24ceb2d16831f45f7baf595a5:base:1x2:7dcaauztf5f8noo2o430mo2vz:plain:offering",
+                        "price": 1.6
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "d06682a24ceb2d16831f45f7baf595a5:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "d06682a24ceb2d16831f45f7baf595a5",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Burnley vs Newcastle United"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767123000000,
+                  "value": "2025-12-30T19:30:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "56a02903218cb6c982c1c23886807549",
+                  "3714a314dc7de09ccaaa5e2c7dd722f4",
+                  "910bbd7b182de0e3c921382667aaf2d6",
+                  "88cc0d9a0a1f1de97d20aa0affde983e",
+                  "e7cf772d53e9907e994ef8f505fe7a96",
+                  "ebf8bb50a521f3d04543979cc3a08e5b",
+                  "3d04e88f6a1588c8730056cce86f2fa6"
+                ],
+                "timeStampBFFUtc": "2025-12-30T13:31:47.793Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767123000000,
+                      "value": "2025-12-30T19:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:31:13.264Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Chelsea",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "321g08q47cjssv4ncgwp8pv6i",
+                        "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:321g08q47cjssv4ncgwp8pv6i:plain:offering",
+                        "price": 1.54
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:draw:plain:offering",
+                        "price": 4.75
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:33:25.213Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Bournemouth",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "2wq88kqee7fnbdklywiop0y27",
+                        "priceKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71:base:1x2:2wq88kqee7fnbdklywiop0y27:plain:offering",
+                        "price": 5.5
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "0b6f7ca5fc5d4bb63ad4b9338623ce71:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "0b6f7ca5fc5d4bb63ad4b9338623ce71",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Chelsea vs Bournemouth"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767123000000,
+                  "value": "2025-12-30T19:30:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3ffd01f4b5f111fa010ecc4983d0180c",
+                  "888b661f7abeee6945b4cbe243612be6",
+                  "05a0a024eb9dfe37705806d44cab24b3",
+                  "c14281b80192cfcd5aa1b85cbeaecec0",
+                  "399c62b1bdecd52016c0305906f340a6",
+                  "6dccd29537dd14659949bad1b7ae6953",
+                  "63c8589d2fad9bdb2b2faa1534288c56"
+                ],
+                "timeStampBFFUtc": "2025-12-30T13:31:40.620Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767123000000,
+                      "value": "2025-12-30T19:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:31:34.876Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Nottingham Forest",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "76sgnd4ze7lo13d3dp98btakv",
+                        "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:76sgnd4ze7lo13d3dp98btakv:plain:offering",
+                        "price": 2.1
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:draw:plain:offering",
+                        "price": 3.25
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:31:35.002Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Everton",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "6eorr03si0i88g7avdk0ramsf",
+                        "priceKey": "8264f2a182d0c5081fb9cc2b612206cd:base:1x2:6eorr03si0i88g7avdk0ramsf:plain:offering",
+                        "price": 3.75
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "8264f2a182d0c5081fb9cc2b612206cd:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "8264f2a182d0c5081fb9cc2b612206cd",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Nottingham Forest vs Everton"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767123000000,
+                  "value": "2025-12-30T19:30:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "46d13626f2ab057c9a882b0b8acaa523",
+                  "71648755479ab2f01d8c258625069656",
+                  "35a19b173398b86654546007af489087",
+                  "98ca11180bc893dbd332908808e0a963",
+                  "8aefa2b7ace8eba063a6af42d1953e98",
+                  "ed2f2285ef607196b7e528e24d724eec",
+                  "63c8589d2fad9bdb2b2faa1534288c56"
+                ],
+                "timeStampBFFUtc": "2025-12-30T13:31:40.264Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767123000000,
+                      "value": "2025-12-30T19:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:31:25.166Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "West Ham",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "2asm8p56deefa9muwfv9t7iq6",
+                        "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:2asm8p56deefa9muwfv9t7iq6:plain:offering",
+                        "price": 3.5
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:draw:plain:offering",
+                        "price": 3.75
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:31:34.443Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Brighton",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "1guzjukuvxjk76ahwh9vn6h7h",
+                        "priceKey": "3f7ae041c4c4daad0780dfd9ffc64385:base:1x2:1guzjukuvxjk76ahwh9vn6h7h:plain:offering",
+                        "price": 2
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "3f7ae041c4c4daad0780dfd9ffc64385:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "3f7ae041c4c4daad0780dfd9ffc64385",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "West Ham vs Brighton"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767125700000,
+                  "value": "2025-12-30T20:15:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "48b3daec4fdf8a5e5ec4f77292454c51",
+                  "888b661f7abeee6945b4cbe243612be6",
+                  "35a19b173398b86654546007af489087",
+                  "e7cf772d53e9907e994ef8f505fe7a96",
+                  "399c62b1bdecd52016c0305906f340a6",
+                  "ebf8bb50a521f3d04543979cc3a08e5b"
+                ],
+                "timeStampBFFUtc": "2025-12-30T13:35:52.020Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767125700000,
+                      "value": "2025-12-30T20:15:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:30:45.846Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Arsenal",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "6ja1abbjtsbj6yjrgsn2z6cgs",
+                        "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:6ja1abbjtsbj6yjrgsn2z6cgs:plain:offering",
+                        "price": 1.42
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:draw:plain:offering",
+                        "price": 4.75
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:35:46.087Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Aston Villa",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "66h75xf6wttjh6749i8q6bk93",
+                        "priceKey": "86eb4448b6598ef7cb5221a132943006:base:1x2:66h75xf6wttjh6749i8q6bk93:plain:offering",
+                        "price": 7
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "86eb4448b6598ef7cb5221a132943006:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "86eb4448b6598ef7cb5221a132943006",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Arsenal vs Aston Villa"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767125700000,
+                  "value": "2025-12-30T20:15:00.000Z"
+                },
+                "propositionCount": 133,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "9aeff242543aab92866199c804545b7e",
+                  "48b3daec4fdf8a5e5ec4f77292454c51",
+                  "9da648732397e5da876b7d3ec1640818",
+                  "a71a196c91b73832df17e7c7ab600bdd",
+                  "2be3abaef35eb21e84a7eb6627397a41",
+                  "ed2f2285ef607196b7e528e24d724eec"
+                ],
+                "timeStampBFFUtc": "2025-12-30T12:21:34.450Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767125700000,
+                      "value": "2025-12-30T20:15:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:31:38.900Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Manchester United",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "4w8t4tn85elmsgielekkaqqqa",
+                        "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:4w8t4tn85elmsgielekkaqqqa:plain:offering",
+                        "price": 1.37
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:draw:plain:offering",
+                        "price": 5
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:28:07.409Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Wolves",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "6vn3hmx6yt0x1ooawvi48dp4q",
+                        "priceKey": "3acf32eeca2803eadc7d294401a445d0:base:1x2:6vn3hmx6yt0x1ooawvi48dp4q:plain:offering",
+                        "price": 7.5
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "3acf32eeca2803eadc7d294401a445d0:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "3acf32eeca2803eadc7d294401a445d0",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Manchester United vs Wolves"
+              }
+            ],
+            "header": ""
+          }
+        ],
+        "identifier": "Today",
+        "header": "Today",
+        "number": 6
+      },
+      {
+        "_typ": "AccordionItem",
+        "contestGroups": [
+          {
+            "_typ": "LobbyContestByGroupHeader",
+            "identifier": "01 Jan 2026",
+            "contests": [
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767288600000,
+                  "value": "2026-01-01T17:30:00.000Z"
+                },
+                "propositionCount": 115,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3ffd01f4b5f111fa010ecc4983d0180c",
+                  "f1b1865874c4f5e5b3834b1c7fa93b2b",
+                  "4d130b1f5a2d72bb1a3b4b7a6a41ecf9",
+                  "98ca11180bc893dbd332908808e0a963",
+                  "9cde8f224c8536259efbeb86a3e1614a",
+                  "225195c5e8eb76e2c3d569b95a48b5e1"
+                ],
+                "timeStampBFFUtc": "2025-12-29T17:31:38.451Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767288600000,
+                      "value": "2026-01-01T17:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:23:15.652Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T12:54:01.637Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Crystal Palace",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "6zkobkorp0qyc9wbk1aiooqtu",
+                        "priceKey": "fe9fe9e25daa49131f30132aef7aab1d:base:1x2:6zkobkorp0qyc9wbk1aiooqtu:plain:offering",
+                        "price": 2.15
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T12:54:01.637Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "fe9fe9e25daa49131f30132aef7aab1d:base:1x2:draw:plain:offering",
+                        "price": 3.3
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T12:54:01.637Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Fulham",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "5sxd9f3b1yqc39uuijhb64wad",
+                        "priceKey": "fe9fe9e25daa49131f30132aef7aab1d:base:1x2:5sxd9f3b1yqc39uuijhb64wad:plain:offering",
+                        "price": 3.35
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "fe9fe9e25daa49131f30132aef7aab1d:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "fe9fe9e25daa49131f30132aef7aab1d",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Crystal Palace vs Fulham"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767288600000,
+                  "value": "2026-01-01T17:30:00.000Z"
+                },
+                "propositionCount": 115,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3612962c9cf163f1c6513d921628ee00",
+                  "f1b1865874c4f5e5b3834b1c7fa93b2b",
+                  "a71a196c91b73832df17e7c7ab600bdd",
+                  "06a70e61e29ad13db5501a6dc5adb654",
+                  "2be3abaef35eb21e84a7eb6627397a41",
+                  "225195c5e8eb76e2c3d569b95a48b5e1"
+                ],
+                "timeStampBFFUtc": "2025-12-30T11:37:14.764Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767288600000,
+                      "value": "2026-01-01T17:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:30:48.274Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T12:05:25.961Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Liverpool",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "2cbf295o4zs7vewfdl01sel1z",
+                        "priceKey": "e934fd2dd144087a77dce5665ce002b4:base:1x2:2cbf295o4zs7vewfdl01sel1z:plain:offering",
+                        "price": 1.54
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T12:05:25.961Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "e934fd2dd144087a77dce5665ce002b4:base:1x2:draw:plain:offering",
+                        "price": 4.4
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T12:05:25.961Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Leeds United",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "5k6s1t6s3qyhxau2sc9unkkhw",
+                        "priceKey": "e934fd2dd144087a77dce5665ce002b4:base:1x2:5k6s1t6s3qyhxau2sc9unkkhw:plain:offering",
+                        "price": 5.5
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "e934fd2dd144087a77dce5665ce002b4:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "e934fd2dd144087a77dce5665ce002b4",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Liverpool vs Leeds United"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767297600000,
+                  "value": "2026-01-01T20:00:00.000Z"
+                },
+                "propositionCount": 115,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "9aeff242543aab92866199c804545b7e",
+                  "3612962c9cf163f1c6513d921628ee00",
+                  "4d130b1f5a2d72bb1a3b4b7a6a41ecf9",
+                  "88cc0d9a0a1f1de97d20aa0affde983e",
+                  "6dccd29537dd14659949bad1b7ae6953",
+                  "e373e10a5aa855638d55edd75cba2c45"
+                ],
+                "timeStampBFFUtc": "2025-12-29T20:01:19.305Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767297600000,
+                      "value": "2026-01-01T20:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:23:04.928Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T13:08:15.935Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Brentford",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "10hvxjd686ly8pac4mbyso1o",
+                        "priceKey": "72f217f01d7ca06035c2d9529be84d97:base:1x2:10hvxjd686ly8pac4mbyso1o:plain:offering",
+                        "price": 2.25
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T13:08:15.935Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "72f217f01d7ca06035c2d9529be84d97:base:1x2:draw:plain:offering",
+                        "price": 3.5
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T13:08:15.935Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Tottenham",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "6timo9utr4idkqgp8l74c9zuo",
+                        "priceKey": "72f217f01d7ca06035c2d9529be84d97:base:1x2:6timo9utr4idkqgp8l74c9zuo:plain:offering",
+                        "price": 3.05
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "72f217f01d7ca06035c2d9529be84d97:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "72f217f01d7ca06035c2d9529be84d97",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Brentford vs Tottenham"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767297600000,
+                  "value": "2026-01-01T20:00:00.000Z"
+                },
+                "propositionCount": 115,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "46d13626f2ab057c9a882b0b8acaa523",
+                  "71648755479ab2f01d8c258625069656",
+                  "c14281b80192cfcd5aa1b85cbeaecec0",
+                  "06a70e61e29ad13db5501a6dc5adb654",
+                  "3d04e88f6a1588c8730056cce86f2fa6",
+                  "e373e10a5aa855638d55edd75cba2c45"
+                ],
+                "timeStampBFFUtc": "2025-12-29T23:28:07.107Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767297600000,
+                      "value": "2026-01-01T20:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-20T17:31:31.756Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T11:19:25.094Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Sunderland",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "2qx2np4xj67nwjnqvkfb8vb0n",
+                        "priceKey": "529dfab08f8e0f103898b05c8064e32f:base:1x2:2qx2np4xj67nwjnqvkfb8vb0n:plain:offering",
+                        "price": 7
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T11:19:25.094Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "529dfab08f8e0f103898b05c8064e32f:base:1x2:draw:plain:offering",
+                        "price": 4.75
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T11:19:25.094Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Manchester City",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "5b8f9l7fjvsbqxh8echgq45ax",
+                        "priceKey": "529dfab08f8e0f103898b05c8064e32f:base:1x2:5b8f9l7fjvsbqxh8echgq45ax:plain:offering",
+                        "price": 1.42
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "529dfab08f8e0f103898b05c8064e32f:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "529dfab08f8e0f103898b05c8064e32f",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Sunderland vs Manchester City"
+              }
+            ],
+            "header": ""
+          }
+        ],
+        "identifier": "01 Jan 2026",
+        "header": "01 Jan 2026",
+        "number": 4
+      },
+      {
+        "_typ": "AccordionItem",
+        "contestGroups": [
+          {
+            "_typ": "LobbyContestByGroupHeader",
+            "identifier": "03 Jan 2026",
+            "contests": [
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767443400000,
+                  "value": "2026-01-03T12:30:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3ffd01f4b5f111fa010ecc4983d0180c",
+                  "48b3daec4fdf8a5e5ec4f77292454c51",
+                  "c14281b80192cfcd5aa1b85cbeaecec0",
+                  "e7cf772d53e9907e994ef8f505fe7a96",
+                  "86eb4448b6598ef7cb5221a132943006",
+                  "8264f2a182d0c5081fb9cc2b612206cd",
+                  "63c8589d2fad9bdb2b2faa1534288c56"
+                ],
+                "timeStampBFFUtc": "2025-12-29T12:30:51.366Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767443400000,
+                      "value": "2026-01-03T12:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:07:21.267Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T12:37:14.828Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Aston Villa",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "66h75xf6wttjh6749i8q6bk93",
+                        "priceKey": "399c62b1bdecd52016c0305906f340a6:base:1x2:66h75xf6wttjh6749i8q6bk93:plain:offering",
+                        "price": 1.82
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T12:37:14.828Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "399c62b1bdecd52016c0305906f340a6:base:1x2:draw:plain:offering",
+                        "price": 3.6
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T12:37:14.828Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Nottingham Forest",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "76sgnd4ze7lo13d3dp98btakv",
+                        "priceKey": "399c62b1bdecd52016c0305906f340a6:base:1x2:76sgnd4ze7lo13d3dp98btakv:plain:offering",
+                        "price": 4.25
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "399c62b1bdecd52016c0305906f340a6:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "399c62b1bdecd52016c0305906f340a6",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Aston Villa vs Nottingham Forest"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767452400000,
+                  "value": "2026-01-03T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "46d13626f2ab057c9a882b0b8acaa523",
+                  "910bbd7b182de0e3c921382667aaf2d6",
+                  "35a19b173398b86654546007af489087",
+                  "05a0a024eb9dfe37705806d44cab24b3",
+                  "d06682a24ceb2d16831f45f7baf595a5",
+                  "3f7ae041c4c4daad0780dfd9ffc64385"
+                ],
+                "timeStampBFFUtc": "2025-12-29T15:03:30.624Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767452400000,
+                      "value": "2026-01-03T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:07:18.132Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T02:11:08.282Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Brighton",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "1guzjukuvxjk76ahwh9vn6h7h",
+                        "priceKey": "8aefa2b7ace8eba063a6af42d1953e98:base:1x2:1guzjukuvxjk76ahwh9vn6h7h:plain:offering",
+                        "price": 1.5
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T02:11:08.282Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "8aefa2b7ace8eba063a6af42d1953e98:base:1x2:draw:plain:offering",
+                        "price": 4.35
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T02:11:08.282Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Burnley",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "69ngbn5taco5ou961yv4t9sq7",
+                        "priceKey": "8aefa2b7ace8eba063a6af42d1953e98:base:1x2:69ngbn5taco5ou961yv4t9sq7:plain:offering",
+                        "price": 6
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "8aefa2b7ace8eba063a6af42d1953e98:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "8aefa2b7ace8eba063a6af42d1953e98",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Brighton vs Burnley"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767452400000,
+                  "value": "2026-01-03T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "71648755479ab2f01d8c258625069656",
+                  "9aeff242543aab92866199c804545b7e",
+                  "a71a196c91b73832df17e7c7ab600bdd",
+                  "98ca11180bc893dbd332908808e0a963",
+                  "3f7ae041c4c4daad0780dfd9ffc64385",
+                  "3acf32eeca2803eadc7d294401a445d0",
+                  "63c8589d2fad9bdb2b2faa1534288c56"
+                ],
+                "timeStampBFFUtc": "2025-12-29T20:44:06.786Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767452400000,
+                      "value": "2026-01-03T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:06:52.905Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-29T20:44:00.687Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Wolves",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "6vn3hmx6yt0x1ooawvi48dp4q",
+                        "priceKey": "ed2f2285ef607196b7e528e24d724eec:base:1x2:6vn3hmx6yt0x1ooawvi48dp4q:plain:offering",
+                        "price": 2.45
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-29T20:44:00.687Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "ed2f2285ef607196b7e528e24d724eec:base:1x2:draw:plain:offering",
+                        "price": 3.4
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-29T20:44:00.687Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "West Ham",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "2asm8p56deefa9muwfv9t7iq6",
+                        "priceKey": "ed2f2285ef607196b7e528e24d724eec:base:1x2:2asm8p56deefa9muwfv9t7iq6:plain:offering",
+                        "price": 2.8
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "ed2f2285ef607196b7e528e24d724eec:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "ed2f2285ef607196b7e528e24d724eec",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Wolves vs West Ham"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767461400000,
+                  "value": "2026-01-03T17:30:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "910bbd7b182de0e3c921382667aaf2d6",
+                  "888b661f7abeee6945b4cbe243612be6",
+                  "35a19b173398b86654546007af489087",
+                  "88cc0d9a0a1f1de97d20aa0affde983e",
+                  "86eb4448b6598ef7cb5221a132943006",
+                  "0b6f7ca5fc5d4bb63ad4b9338623ce71"
+                ],
+                "timeStampBFFUtc": "2025-12-30T11:36:13.266Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767461400000,
+                      "value": "2026-01-03T17:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:07:02.874Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T09:24:35.185Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Bournemouth",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "2wq88kqee7fnbdklywiop0y27",
+                        "priceKey": "ebf8bb50a521f3d04543979cc3a08e5b:base:1x2:2wq88kqee7fnbdklywiop0y27:plain:offering",
+                        "price": 5.25
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T09:24:35.185Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "ebf8bb50a521f3d04543979cc3a08e5b:base:1x2:draw:plain:offering",
+                        "price": 4.2
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T09:24:35.185Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Arsenal",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "6ja1abbjtsbj6yjrgsn2z6cgs",
+                        "priceKey": "ebf8bb50a521f3d04543979cc3a08e5b:base:1x2:6ja1abbjtsbj6yjrgsn2z6cgs:plain:offering",
+                        "price": 1.6
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "ebf8bb50a521f3d04543979cc3a08e5b:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "ebf8bb50a521f3d04543979cc3a08e5b",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Bournemouth vs Arsenal"
+              }
+            ],
+            "header": ""
+          }
+        ],
+        "identifier": "03 Jan 2026",
+        "header": "03 Jan 2026",
+        "number": 4
+      },
+      {
+        "_typ": "AccordionItem",
+        "contestGroups": [
+          {
+            "_typ": "LobbyContestByGroupHeader",
+            "identifier": "04 Jan 2026",
+            "contests": [
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767529800000,
+                  "value": "2026-01-04T12:30:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "48b3daec4fdf8a5e5ec4f77292454c51",
+                  "f1b1865874c4f5e5b3834b1c7fa93b2b",
+                  "9da648732397e5da876b7d3ec1640818",
+                  "06a70e61e29ad13db5501a6dc5adb654",
+                  "3acf32eeca2803eadc7d294401a445d0",
+                  "e934fd2dd144087a77dce5665ce002b4"
+                ],
+                "timeStampBFFUtc": "2025-12-30T12:31:00.649Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767529800000,
+                      "value": "2026-01-04T12:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:06:59.182Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T12:30:54.733Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Leeds United",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "5k6s1t6s3qyhxau2sc9unkkhw",
+                        "priceKey": "2be3abaef35eb21e84a7eb6627397a41:base:1x2:5k6s1t6s3qyhxau2sc9unkkhw:plain:offering",
+                        "price": 2.8
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T12:30:54.733Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "2be3abaef35eb21e84a7eb6627397a41:base:1x2:draw:plain:offering",
+                        "price": 3.45
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T12:30:54.733Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Manchester United",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "4w8t4tn85elmsgielekkaqqqa",
+                        "priceKey": "2be3abaef35eb21e84a7eb6627397a41:base:1x2:4w8t4tn85elmsgielekkaqqqa:plain:offering",
+                        "price": 2.45
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "2be3abaef35eb21e84a7eb6627397a41:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "2be3abaef35eb21e84a7eb6627397a41",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Leeds United vs Manchester United"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767538800000,
+                  "value": "2026-01-04T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "9aeff242543aab92866199c804545b7e",
+                  "888b661f7abeee6945b4cbe243612be6",
+                  "05a0a024eb9dfe37705806d44cab24b3",
+                  "88cc0d9a0a1f1de97d20aa0affde983e",
+                  "8264f2a182d0c5081fb9cc2b612206cd",
+                  "72f217f01d7ca06035c2d9529be84d97"
+                ],
+                "timeStampBFFUtc": "2025-12-28T20:27:27.254Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767538800000,
+                      "value": "2026-01-04T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:06:47.158Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-30T11:48:20.256Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Everton",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "6eorr03si0i88g7avdk0ramsf",
+                        "priceKey": "6dccd29537dd14659949bad1b7ae6953:base:1x2:6eorr03si0i88g7avdk0ramsf:plain:offering",
+                        "price": 2.38
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-30T11:48:20.256Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "6dccd29537dd14659949bad1b7ae6953:base:1x2:draw:plain:offering",
+                        "price": 3.25
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-30T11:48:20.256Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Brentford",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "10hvxjd686ly8pac4mbyso1o",
+                        "priceKey": "6dccd29537dd14659949bad1b7ae6953:base:1x2:10hvxjd686ly8pac4mbyso1o:plain:offering",
+                        "price": 3.05
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "6dccd29537dd14659949bad1b7ae6953:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "6dccd29537dd14659949bad1b7ae6953",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Everton vs Brentford"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767538800000,
+                  "value": "2026-01-04T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3ffd01f4b5f111fa010ecc4983d0180c",
+                  "3612962c9cf163f1c6513d921628ee00",
+                  "a71a196c91b73832df17e7c7ab600bdd",
+                  "98ca11180bc893dbd332908808e0a963",
+                  "fe9fe9e25daa49131f30132aef7aab1d",
+                  "e934fd2dd144087a77dce5665ce002b4"
+                ],
+                "timeStampBFFUtc": "2025-12-28T20:35:23.424Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767538800000,
+                      "value": "2026-01-04T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:07:39.714Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-29T16:45:05.373Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Fulham",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "5sxd9f3b1yqc39uuijhb64wad",
+                        "priceKey": "225195c5e8eb76e2c3d569b95a48b5e1:base:1x2:5sxd9f3b1yqc39uuijhb64wad:plain:offering",
+                        "price": 3.6
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-29T16:45:05.373Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "225195c5e8eb76e2c3d569b95a48b5e1:base:1x2:draw:plain:offering",
+                        "price": 3.6
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-29T16:45:05.373Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Liverpool",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "2cbf295o4zs7vewfdl01sel1z",
+                        "priceKey": "225195c5e8eb76e2c3d569b95a48b5e1:base:1x2:2cbf295o4zs7vewfdl01sel1z:plain:offering",
+                        "price": 1.95
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "225195c5e8eb76e2c3d569b95a48b5e1:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "225195c5e8eb76e2c3d569b95a48b5e1",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Fulham vs Liverpool"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767538800000,
+                  "value": "2026-01-04T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3714a314dc7de09ccaaa5e2c7dd722f4",
+                  "f1b1865874c4f5e5b3834b1c7fa93b2b",
+                  "9da648732397e5da876b7d3ec1640818",
+                  "4d130b1f5a2d72bb1a3b4b7a6a41ecf9",
+                  "d06682a24ceb2d16831f45f7baf595a5",
+                  "fe9fe9e25daa49131f30132aef7aab1d"
+                ],
+                "timeStampBFFUtc": "2025-12-28T18:35:34.325Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767538800000,
+                      "value": "2026-01-04T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:06:47.205Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-29T19:05:03.825Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Newcastle United",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "7dcaauztf5f8noo2o430mo2vz",
+                        "priceKey": "9cde8f224c8536259efbeb86a3e1614a:base:1x2:7dcaauztf5f8noo2o430mo2vz:plain:offering",
+                        "price": 1.78
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-29T19:05:03.825Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "9cde8f224c8536259efbeb86a3e1614a:base:1x2:draw:plain:offering",
+                        "price": 3.8
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-29T19:05:03.825Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Crystal Palace",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "6zkobkorp0qyc9wbk1aiooqtu",
+                        "priceKey": "9cde8f224c8536259efbeb86a3e1614a:base:1x2:6zkobkorp0qyc9wbk1aiooqtu:plain:offering",
+                        "price": 4.35
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "9cde8f224c8536259efbeb86a3e1614a:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "9cde8f224c8536259efbeb86a3e1614a",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Newcastle United vs Crystal Palace"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767538800000,
+                  "value": "2026-01-04T15:00:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "4d130b1f5a2d72bb1a3b4b7a6a41ecf9",
+                  "06a70e61e29ad13db5501a6dc5adb654",
+                  "72f217f01d7ca06035c2d9529be84d97",
+                  "529dfab08f8e0f103898b05c8064e32f"
+                ],
+                "timeStampBFFUtc": "2025-12-28T20:25:03.650Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767538800000,
+                      "value": "2026-01-04T15:00:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:07:36.419Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-28T20:24:57.599Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Tottenham",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "6timo9utr4idkqgp8l74c9zuo",
+                        "priceKey": "e373e10a5aa855638d55edd75cba2c45:base:1x2:6timo9utr4idkqgp8l74c9zuo:plain:offering",
+                        "price": 1.82
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-28T20:24:57.599Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "e373e10a5aa855638d55edd75cba2c45:base:1x2:draw:plain:offering",
+                        "price": 3.6
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-28T20:24:57.599Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Sunderland",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "2qx2np4xj67nwjnqvkfb8vb0n",
+                        "priceKey": "e373e10a5aa855638d55edd75cba2c45:base:1x2:2qx2np4xj67nwjnqvkfb8vb0n:plain:offering",
+                        "price": 4.35
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "e373e10a5aa855638d55edd75cba2c45:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "e373e10a5aa855638d55edd75cba2c45",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Tottenham vs Sunderland"
+              },
+              {
+                "_typ": "LobbyFixtureContest",
+                "categoriesDetailed": [
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england:premier_league",
+                    "name": "Premier League"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football:england",
+                    "name": "England"
+                  },
+                  {
+                    "_typ": "CategoryDetailed",
+                    "categoryRn": "football",
+                    "name": "Football"
+                  }
+                ],
+                "startDateTimeUtc": {
+                  "_typ": "Date",
+                  "unixms": 1767547800000,
+                  "value": "2026-01-04T17:30:00.000Z"
+                },
+                "propositionCount": 83,
+                "relatedContests": [
+                  "ad8e77c4d24677b80e0cbdcfafc74a99",
+                  "3714a314dc7de09ccaaa5e2c7dd722f4",
+                  "71648755479ab2f01d8c258625069656",
+                  "c14281b80192cfcd5aa1b85cbeaecec0",
+                  "e7cf772d53e9907e994ef8f505fe7a96",
+                  "0b6f7ca5fc5d4bb63ad4b9338623ce71",
+                  "529dfab08f8e0f103898b05c8064e32f"
+                ],
+                "timeStampBFFUtc": "2025-12-28T20:27:43.940Z",
+                "liveOddsBooked": true,
+                "propositions": [
+                  {
+                    "_typ": "LobbyFixtureContestProposition",
+                    "marketCountFilter": {
+                      "_typ": "PropositionMarketCountFilters",
+                      "pricesCount": 1,
+                      "tenantKey": "base"
+                    },
+                    "startDateTimeUtc": {
+                      "_typ": "Date",
+                      "unixms": 1767547800000,
+                      "value": "2026-01-04T17:30:00.000Z"
+                    },
+                    "propositionType": "1x2",
+                    "timeStampBFFUtc": "2025-12-27T17:08:09.204Z",
+                    "propositionKey": "1x2",
+                    "displayName": "Full Time Result",
+                    "bettingOpen": false,
+                    "allowMulti": "Always",
+                    "options": [
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "1",
+                        "optionDisplayName": "1",
+                        "timeStampBFFUtc": "2025-12-28T20:29:22.362Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Manchester City",
+                        "optionType": "T1",
+                        "variantKey": "plain",
+                        "optionKey": "5b8f9l7fjvsbqxh8echgq45ax",
+                        "priceKey": "3d04e88f6a1588c8730056cce86f2fa6:base:1x2:5b8f9l7fjvsbqxh8echgq45ax:plain:offering",
+                        "price": 1.75
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "X",
+                        "optionDisplayName": "X",
+                        "timeStampBFFUtc": "2025-12-28T20:29:22.362Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Draw",
+                        "optionType": "Draw",
+                        "variantKey": "plain",
+                        "optionKey": "draw",
+                        "priceKey": "3d04e88f6a1588c8730056cce86f2fa6:base:1x2:draw:plain:offering",
+                        "price": 4.2
+                      },
+                      {
+                        "_typ": "FixtureContestPropositionOption",
+                        "optionDisplayBetName": "2",
+                        "optionDisplayName": "2",
+                        "timeStampBFFUtc": "2025-12-28T20:29:22.362Z",
+                        "bettingOpen": true,
+                        "variantName": "Plain",
+                        "variantType": "Plain",
+                        "optionName": "Chelsea",
+                        "optionType": "T2",
+                        "variantKey": "plain",
+                        "optionKey": "321g08q47cjssv4ncgwp8pv6i",
+                        "priceKey": "3d04e88f6a1588c8730056cce86f2fa6:base:1x2:321g08q47cjssv4ncgwp8pv6i:plain:offering",
+                        "price": 4
+                      }
+                    ],
+                    "status": "Active",
+                    "key": "3d04e88f6a1588c8730056cce86f2fa6:1x2"
+                  }
+                ],
+                "contestType": "Football",
+                "contestKey": "3d04e88f6a1588c8730056cce86f2fa6",
+                "categories": [
+                  "football:england:premier_league",
+                  "football:england",
+                  "football"
+                ],
+                "allowMulti": "Always",
+                "hasStream": false,
+                "category": "football:england:premier_league",
+                "status": "PreGame",
+                "name": "Manchester City vs Chelsea"
+              }
+            ],
+            "header": ""
+          }
+        ],
+        "identifier": "04 Jan 2026",
+        "header": "04 Jan 2026",
+        "number": 6
+      }
+    ],
+    "tab": "matches"
+  }
+}

@@ -1,51 +1,35 @@
 # Winner Scraper - Duplicate Games Report
-Generated at: 2025-12-29 12:20:42.507810
-Total Duplicates: 45
+Generated at: 2026-03-01 16:47:37.692174
+Total Duplicates: 29
 
 | Date | Game (Hebrew) | Reason |
 |---|---|---|
-| 251229 | קובנטרי - איפסוויץ' | Exact match key already processed |
-| 251229 | לסטר - דרבי קאונטי | Exact match key already processed |
-| 251229 | מידלסברו - האל | Exact match key already processed |
-| 251229 | מילוול - בריסטול סיטי | Exact match key already processed |
-| 251229 | נוריץ' - ווטפורד | Exact match key already processed |
-| 251229 | אוקספורד יונייטד - סוונסי | Exact match key already processed |
-| 251229 | פורטסמות' - צ'רלטון | Exact match key already processed |
-| 251229 | שפילד וונסדיי - בלקבורן | Exact match key already processed |
-| 251229 | סטוק - שפילד יונייטד | Exact match key already processed |
-| 251229 | ווסט ברומיץ' - קווינס פארק ריינג'רס | Exact match key already processed |
-| 251229 | רקסהאם - פרסטון | Exact match key already processed |
-| 251229 | בירמינגהאם - סאות'המפטון | Exact match key already processed |
-| 260101 | ברנטפורד - טוטנהאם | Exact match key already processed |
-| 260101 | קריסטל פאלאס - פולהאם | Exact match key already processed |
-| 260101 | ליברפול - לידס | Exact match key already processed |
-| 260101 | סנדרלנד - מנצ'סטר סיטי | Exact match key already processed |
-| 260102 | ראיו וייקאנו - חטאפה | Exact match key already processed |
-| 260102 | טולוז - לאנס | Exact match key already processed |
-| 260102 | ז'יל ויסנטה - ספורטינג ליסבון | Exact match key already processed |
-| 260102 | ויטוריה גימראייש - נאסיונל מדיירה | Exact match key already processed |
-| 260102 | אייבר - מיראנדס | Exact match key already processed |
-| 251229 | רומא - גנואה | Exact match key already processed |
-| 251231 | הפועל באר שבע - הפועל ירושלים | Exact match key already processed |
-| 260101 | בית"ר ירושלים - הפועל תל אביב | Exact match key already processed |
-| 251231 | מכבי נתניה - הפועל פתח תקוה | Exact match key already processed |
-| 251231 | מ.ס. אשדוד - מכבי חיפה | Exact match key already processed |
-| 260102 | קליארי - מילאן | Exact match key already processed |
-| 251231 | סודאן - בורקינה פאסו | Exact match key already processed |
-| 251231 | גיניאה המשוונית - אלג'יריה | Exact match key already processed |
-| 251231 | גאבון - חוף השנהב | Exact match key already processed |
-| 251231 | מוזמביק - קמרון | Exact match key already processed |
-| 251231 | מכבי נתניה - הפועל פתח תקוה | Exact match key already processed |
-| 251231 | מכבי נתניה - הפועל פתח תקוה | Exact match key already processed |
-| 251231 | מ.ס. אשדוד - מכבי חיפה | Exact match key already processed |
-| 251231 | מ.ס. אשדוד - מכבי חיפה | Exact match key already processed |
-| 251231 | הפועל באר שבע - הפועל ירושלים | Exact match key already processed |
-| 251231 | הפועל באר שבע - הפועל ירושלים | Exact match key already processed |
-| 251231 | סנטרל קואסט - בריסביין רוארס | Exact match key already processed |
-| 251231 | נאום - אל איתיחד ג'דה | Exact match key already processed |
-| 251231 | אל שבאב - אל קדיסיה | Exact match key already processed |
-| 251231 | אל חלוד - אל הילאל ריאד | Exact match key already processed |
-| 251231 | בריטון פרי - בארי טאון | Exact match key already processed |
-| 251231 | קונה קואיי - ניו סיינטס | Exact match key already processed |
-| 260101 | בית"ר ירושלים - הפועל תל אביב | Exact match key already processed |
-| 260102 | ראיו וייקאנו - חטאפה | Exact match key already processed |
+| 260303 | בורנמות' - ברנטפורד | Exact match key already processed |
+| 260303 | אברטון - ברנלי | Exact match key already processed |
+| 260303 | לידס - סנדרלנד | Exact match key already processed |
+| 260305 | טוטנהאם - קריסטל פאלאס | Exact match key already processed |
+| 260303 | וולבס - ליברפול | Exact match key already processed |
+| 260302 | ריאל מדריד - חטאפה | Exact match key already processed |
+| 260302 | ז'יל ויסנטה - בנפיקה ליסבון | Exact match key already processed |
+| 260302 | קורדובה - פ.צ. אנדורה | Exact match key already processed |
+| 260302 | פיזה - בולוניה | Exact match key already processed |
+| 260302 | אודינזה - פיורנטינה | Exact match key already processed |
+| 260302 | בירמינגהאם - מידלסברו | Exact match key already processed |
+| 260301 | ארסנל - צ'לסי | Exact match key already processed |
+| 260301 | רומא - יובנטוס | Exact match key already processed |
+| 260302 | ריאל מדריד - חטאפה | Exact match key already processed |
+| 260302 | אודינזה - פיורנטינה | Exact match key already processed |
+| 260302 | פיזה - בולוניה | Exact match key already processed |
+| 260302 | לודוגורץ - לוקומוטיב פלובדיב | Exact match key already processed |
+| 260302 | אמן - אוטרכט מילואים | Exact match key already processed |
+| 260302 | פיירנסה - פלגיירס 1932 | Exact match key already processed |
+| 260302 | מניסה - צ'ורום | Exact match key already processed |
+| 260302 | סט. פטריק - גאלוואי | Exact match key already processed |
+| 260302 | רודינה מוסקבה - שיניק ירוסלאב | Exact match key already processed |
+| 260302 | אומוניה ניקוסיה - אפולון לימסול | Exact match key already processed |
+| 260302 | ויצ'יסטה קרקוב - פולוניה ורשה | Exact match key already processed |
+| 260302 | איי.אם.טי נובי בלגרד - ראדניק סורדוליצה | Exact match key already processed |
+| 260302 | פולטבה - קודריבקה | Exact match key already processed |
+| 260303 | שטראסבורג - ריימס | Exact match key already processed |
+| 260303 | קומו - אינטר | Exact match key already processed |
+| 260303 | ספורטינג ליסבון - פורטו | Exact match key already processed |

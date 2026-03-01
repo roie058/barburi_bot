@@ -1,0 +1,162 @@
+[
+    {
+        "Game": "Wolverhampton Wanderers - West Ham",
+        "Status": "Partial Missing ('West Ham' not found)",
+        "Details": "'West Ham' found in 3 games."
+    },
+    {
+        "Game": "Everton - Wolverhampton Wanderers",
+        "Status": "Partial Missing ('Everton' not found)",
+        "Details": "'Everton' found in 2 games."
+    },
+    {
+        "Game": "Alverca - Famalicao",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Santa Clara - FC Porto",
+        "Status": "Partial Missing ('Santa Clara' not found)",
+        "Details": "'Santa Clara' found in 1 games."
+    },
+    {
+        "Game": "Benfica - Estoril",
+        "Status": "Partial Missing ('Benfica' not found)",
+        "Details": "'Benfica' found in 3 games."
+    },
+    {
+        "Game": "Rio Ave - Casa Pia",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Tondela - Arouca",
+        "Status": "Partial Missing ('Tondela' not found)",
+        "Details": "'Tondela' found in 1 games."
+    },
+    {
+        "Game": "Estrela - Braga",
+        "Status": "Partial Missing ('Braga' not found)",
+        "Details": "'Braga' found in 2 games."
+    },
+    {
+        "Game": "Gangan - Boulogne",
+        "Status": "Partial Missing ('Boulogne' not found)",
+        "Details": "'Boulogne' found in 2 games."
+    },
+    {
+        "Game": "Amiens - Nancy",
+        "Status": "GAME EXISTS (Name Mismatch?)",
+        "Details": "Found: Amiens SC - Nancy (Date: 2026-01-03 21:00)"
+    },
+    {
+        "Game": "Ethnicus - A.A.L. Limassol",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Sporting Lisbon B - Academico de Viseu",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Flaggers 1932 - Olveirense",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Triestina Calcio 1918 - Alcione Milano",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Benevento Calcio - FC Crotone",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Iraklis Gerolakkou - Spartakos Kitiou",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Halknors Idlio - Asil Lisi",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Aya Napa - Salamina Famagusta",
+        "Status": "Partial Missing ('Salamina Famagusta' not found)",
+        "Details": "'Salamina Famagusta' found in 1 games."
+    },
+    {
+        "Game": "Al-Hazem - Neom SC",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Al-Ittihad - Al-Taawoun",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Al-Fateh - Al-Shabab",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Macarthur FC - Auckland FC",
+        "Status": "Partial Missing ('Auckland FC' not found)",
+        "Details": "'Auckland FC' found in 3 games."
+    },
+    {
+        "Game": "Melbourne City - Brisbane Roar FC",
+        "Status": "Partial Missing ('Melbourne City' not found)",
+        "Details": "'Melbourne City' found in 2 games."
+    },
+    {
+        "Game": "Al Batah (United Arab Emirates) - Diba al Fugirah",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Ajman Club - Al Ittihad Kalba",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Galatasaray - Trabzonspor",
+        "Status": "Partial Missing ('Galatasaray' not found)",
+        "Details": "'Galatasaray' found in 2 games."
+    },
+    {
+        "Game": "Fenerbahce - Samsunspor",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Livingston - St. Mirren",
+        "Status": "Teams Found Separately",
+        "Details": "T1 in 2 games, T2 in 2 games."
+    },
+    {
+        "Game": "Sporting CP - Vitoria Guimarães",
+        "Status": "Partial Missing ('Sporting CP' not found)",
+        "Details": "'Sporting CP' found in 3 games."
+    },
+    {
+        "Game": "Al Sailiya - Al Rayyan",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "Prachoup - Buriram United",
+        "Status": "Not Scraped (Teams Missing)",
+        "Details": ""
+    },
+    {
+        "Game": "kidus giorgis - Wolaita Dicha",
+        "Status": "GAME EXISTS (Name Mismatch?)",
+        "Details": "Found: Kidus Giorgis - Wolaita Dicha (Date: 2026-01-03 14:00)"
+    }
+]

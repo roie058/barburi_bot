@@ -12,14 +12,21 @@ class WinnerScraper:
         self.translation_cache = self.load_corrections()
 
     def load_corrections(self):
+        # Load mappings
+        self.translation_cache = {}
         try:
-            path = "data/name_mappings.json"
-            if not os.path.exists(path):
-                path = "../data/name_mappings.json"
+            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+            path = os.path.join(base_dir, "data", "name_mappings.json")
             with open(path, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except:
-            return {}
+                self.translation_cache = json.load(f)
+            # print(f"DEBUG: WinnerScraper loaded mappings from {path}")
+        except Exception as e:
+            print(f"Error loading name_mappings.json in winner.py: {e}")
+            try:
+                with open("data/name_mappings.json", "r", encoding="utf-8") as f:
+                    self.translation_cache = json.load(f)
+            except: pass
+        return self.translation_cache
 
     async def get_translation(self, text):
         if text in self.translation_cache:
@@ -157,10 +164,13 @@ class WinnerScraper:
                     team1_en = await self.get_translation(team1_he)
                     team2_en = await self.get_translation(team2_he)
                     
-                    processed_count += 1
                     if processed_count % 20 == 0 or processed_count == len(valid_games):
                         print(f"Processed {processed_count}/{len(valid_games)} valid matches...")
                     
+                    processed_count += 1
+                    
+                    league_name = game.get("l_desc") or game.get("league", "")
+
                     all_matches.append({
                         "game": f"{team1_en} - {team2_en}",
                         "date": e_date,
@@ -169,7 +179,10 @@ class WinnerScraper:
                         "num_2": odd2,
                         "link": self.base_url,
                         "team1": team1_en,
-                        "team2": team2_en
+                        "team2": team2_en,
+                        "team1_hebrew": team1_he,
+                        "team2_hebrew": team2_he,
+                        "league": league_name
                     })
                 
                 if duplicates_count > 0 or invalid_odds_count > 0:
