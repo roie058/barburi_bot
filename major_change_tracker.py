@@ -3,6 +3,7 @@ import pandas as pd
 import asyncio
 import os
 import time
+import json
 from datetime import datetime
 
 from scrapers.winner import WinnerScraper
@@ -109,7 +110,11 @@ async def run_tracker():
     from message import major_change_notification, bet_notifications
 
     new_matches_df_rows = []
+    major_change_games = []
     
+    # Needs Unibet / Pinnacle data?
+    leagues_needing_remote_check = set()
+
     print("Analyzing matches for changes...")
     for idx, row in winner_df.iterrows():
         match_id = get_match_id(row['game'], row['date'])
@@ -122,6 +127,9 @@ async def run_tracker():
                 INSERT INTO matches (id, game, date, team1, team2, team1_hebrew, team2_hebrew, num_1, num_X, num_2, link, league)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """, (match_id, row['game'], row['date'], row['team1'], row['team2'], row.get('team1_hebrew', ''), row.get('team2_hebrew', ''), row['num_1'], row['num_X'], row['num_2'], row['link'], row['league']))
+            
+            if 'league' in row and pd.notna(row['league']):
+                leagues_needing_remote_check.add(row['league'])
             continue
 
         # 2. Existing Match - Check for changes
@@ -166,73 +174,149 @@ async def run_tracker():
             if flip_res:
                 major_changes_count += 1
                 print(f"🚨 MAJOR CHANGE DETECTED for {row['game']}! Gap: {flip_res['gap']}")
-                
-                # Fetch Unibet/Pinnacle odds for major changes
-                print("Fetching Unibet and Pinnacle context...")
-                from scrapers.pinnacle import PinnacleScraper
-                from scrapers.unibet import UnibetScraper
-                
-                # We need to fetch Unibet and Pinnacle
-                try:
-                    pinn_scraper = PinnacleScraper(headless=True)
-                    unibet_scraper = UnibetScraper(headless=False)
+                major_change_games.append({
+                    "row": row,
+                    "old_odds": old_odds,
+                    "new_odds": new_odds
+                })
+                if 'league' in row and pd.notna(row['league']):
+                    leagues_needing_remote_check.add(row['league'])
+
+    # --- BATCH FETCH UNIBET & PINNACLE ONCE ---
+    unibet_df = pd.DataFrame()
+    pinn_df = pd.DataFrame()
+
+    if new_matches_df_rows or major_change_games:
+        print(f"Fetching remote data for {len(leagues_needing_remote_check)} required leagues...")
+        from scrapers.pinnacle import PinnacleScraper
+        from scrapers.unibet import UnibetScraper
+        
+        pinn_scraper = PinnacleScraper(headless=True)
+        unibet_scraper = UnibetScraper(headless=False)
+        
+        unibet_target_leagues = []
+        missing_unibet_leagues = []
+        pinnacle_target_leagues = []
+        missing_pinnacle_leagues = []
+        
+        if leagues_needing_remote_check:
+            # 1. Map Unibet
+            mapping_unibet = {}
+            try:
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+                map_path_u = os.path.join(base_dir, "winner_to_unibet_leagues.json")
+                if os.path.exists(map_path_u):
+                    with open(map_path_u, "r", encoding="utf-8") as f:
+                        mapping_unibet = json.load(f)
+            except Exception as e:
+                print(f"Error loading Unibet mapping: {e}")
+
+            if not mapping_unibet:
+                print(f"WARNING: mapping_unibet is empty. Either the file doesn't exist, is empty, or failed to parse.")
+
+            for l in leagues_needing_remote_check:
+                if l in mapping_unibet and mapping_unibet[l]:
+                    url = mapping_unibet[l]
+                    if "/betting/odds/" in url:
+                        suffix = url.split("/betting/odds/")[1]
+                        unibet_target_leagues.append(suffix)
+                else:
+                    missing_unibet_leagues.append(l)
                     
-                    # Target specific Unibet league for this major change
-                    unibet_target_leagues = None
-                    if 'league' in row:
-                        mapping = {}
-                        try:
-                            import os, json
-                            base_dir = os.path.dirname(os.path.abspath(__file__))
-                            map_path = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                            if os.path.exists(map_path):
-                                with open(map_path, "r", encoding="utf-8") as f:
-                                    mapping = json.load(f)
-                        except: pass
-                        if row['league'] in mapping and mapping[row['league']]:
-                            url = mapping[row['league']]
-                            if "/betting/odds/" in url:
-                                unibet_target_leagues = [url.split("/betting/odds/")[1]]
-                    
-                    results = await asyncio.gather(
-                        pinn_scraper.get_odds(),
-                        unibet_scraper.get_odds(leagues=unibet_target_leagues),
-                        return_exceptions=True
-                    )
-                    
-                    pinn_df = results[0] if not isinstance(results[0], Exception) else pd.DataFrame()
-                    unibet_df = results[1] if not isinstance(results[1], Exception) else pd.DataFrame()
-                    
-                    # Single item DataFrame to test against
-                    test_df = pd.DataFrame([row.to_dict()])
-                    
-                    # Run comparison to extract exact matching unibet/pinnacle row
-                    unibet_opps = []
-                    pinn_opps = []
-                    
-                    if not unibet_df.empty:
-                        unibet_opps, _, _ = compare_games(test_df, unibet_df, remote_name="Unibet")
-                    if not pinn_df.empty:
-                        pinn_opps, _, _ = compare_games(test_df, pinn_df, remote_name="Pinnacle")
+            # 2. Map Pinnacle
+            mapping_pinnacle = {}
+            try:
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+                map_path_p = os.path.join(base_dir, "winner_to_pinnacle_leagues.json")
+                if os.path.exists(map_path_p):
+                    with open(map_path_p, "r", encoding="utf-8") as f:
+                        mapping_pinnacle = json.load(f)
+                else:
+                    print(f"ERROR: Pinnacle mapping file not found at {map_path_p}")
+            except Exception as e:
+                print(f"Error loading Pinnacle mapping: {e}")
+            
+            for l in leagues_needing_remote_check:
+                if l in mapping_pinnacle and mapping_pinnacle[l]:
+                    pinnacle_target_leagues.append(mapping_pinnacle[l])
+                else:
+                    missing_pinnacle_leagues.append(l)
                         
-                    alert_data = {
-                        "game": row['game'],
-                        "date": row['date'],
-                        "old_winner_odds": old_odds,
-                        "new_winner_odds": new_odds
-                    }
+        unibet_target_leagues = list(set(unibet_target_leagues))
+        pinnacle_target_leagues = list(set(pinnacle_target_leagues))
+        
+        if missing_unibet_leagues:
+            print(f"⚠️ Missing Unibet Mapping for {len(missing_unibet_leagues)} leagues. Please add them to winner_to_unibet_leagues.json: {missing_unibet_leagues}")
+            # Append only unique missing leagues
+            os.makedirs('reports', exist_ok=True)
+            existing = set()
+            if os.path.exists('reports/missing_unibet_leagues.md'):
+                with open('reports/missing_unibet_leagues.md', 'r', encoding='utf-8') as f:
+                    existing = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
+            with open('reports/missing_unibet_leagues.md', 'a', encoding='utf-8') as f:
+                for l in missing_unibet_leagues:
+                    if l not in existing:
+                        f.write(f"- {l}\n")
+                        existing.add(l)
                     
-                    # Compare_games returns favorite_flip opportunities. If it matched, 
-                    # we can extract the remote odds from the opportunity.
-                    if unibet_opps:
-                        alert_data['unibet_odds'] = unibet_opps[0].get('unibet_odds')
-                    if pinn_opps:
-                        alert_data['pinnacle_odds'] = pinn_opps[0].get('pinnacle_odds')
-                        
-                    major_change_notification(alert_data)
-                    
-                except Exception as e:
-                    print(f"Error fetching remote odds for major change context: {e}")
+        if missing_pinnacle_leagues:
+            print(f"⚠️ Missing Pinnacle Mapping for {len(missing_pinnacle_leagues)} leagues. Please add them to winner_to_pinnacle_leagues.json: {missing_pinnacle_leagues}")
+            # Append only unique missing leagues
+            os.makedirs('reports', exist_ok=True)
+            existing_pin = set()
+            if os.path.exists('reports/missing_pinnacle_leagues.md'):
+                with open('reports/missing_pinnacle_leagues.md', 'r', encoding='utf-8') as f:
+                    existing_pin = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
+            with open('reports/missing_pinnacle_leagues.md', 'a', encoding='utf-8') as f:
+                for l in missing_pinnacle_leagues:
+                    if l not in existing_pin:
+                        f.write(f"- {l}\n")
+                        existing_pin.add(l)
+        
+        # We MUST NOT pass None to unibet, otherwise it scrapes all mapped leagues!
+        # If unibet_target_leagues is empty, passing [] makes Unibet skip scraping (it returns empty quickly)
+        print(f"Mapped to {len(unibet_target_leagues)} Unibet leagues: {unibet_target_leagues}")
+        print(f"Mapped to {len(pinnacle_target_leagues)} Pinnacle leagues: {pinnacle_target_leagues}")
+        
+        try:
+            results = await asyncio.gather(
+                pinn_scraper.get_odds(leagues=pinnacle_target_leagues),
+                unibet_scraper.get_odds(leagues=unibet_target_leagues),
+                return_exceptions=True
+            )
+            pinn_df = results[0] if not isinstance(results[0], Exception) else pd.DataFrame()
+            unibet_df = results[1] if not isinstance(results[1], Exception) else pd.DataFrame()
+        except Exception as e:
+            print(f"Error fetching remote data: {e}")
+
+    # Process Major Changes
+    for mc in major_change_games:
+        row = mc['row']
+        old_odds = mc['old_odds']
+        new_odds = mc['new_odds']
+        
+        test_df = pd.DataFrame([row.to_dict()])
+        unibet_opps = []
+        pinn_opps = []
+        
+        if not unibet_df.empty:
+            unibet_opps, _, _ = compare_games(test_df, unibet_df, remote_name="Unibet")
+        if not pinn_df.empty:
+            pinn_opps, _, _ = compare_games(test_df, pinn_df, remote_name="Pinnacle")
+            
+        alert_data = {
+            "game": row['game'],
+            "date": row['date'],
+            "old_winner_odds": old_odds,
+            "new_winner_odds": new_odds
+        }
+        
+        if unibet_opps:
+            alert_data['unibet_odds'] = unibet_opps[0].get('unibet_odds')
+        if pinn_opps:
+            alert_data['pinnacle_odds'] = pinn_opps[0].get('pinnacle_odds')
+            
+        major_change_notification(alert_data)
 
     # Process New Matches exactly like regular bot
     if new_matches_df_rows:
@@ -240,49 +324,11 @@ async def run_tracker():
         new_df = pd.DataFrame(new_matches_df_rows)
         
         try:
-            from scrapers.pinnacle import PinnacleScraper
-            from scrapers.unibet import UnibetScraper
             from message_state import should_send_notification, mark_notification_sent
             
-            pinn_scraper = PinnacleScraper(headless=True)
-            unibet_scraper = UnibetScraper(headless=False)
-            
-            # Optimization: Map new Winner leagues to Unibet target leagues
-            unibet_target_leagues = None
-            if 'league' in new_df.columns:
-                active_leagues = new_df['league'].unique()
-                mapping = {}
-                try:
-                    import os, json
-                    base_dir = os.path.dirname(os.path.abspath(__file__))
-                    map_path = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                    if os.path.exists(map_path):
-                        with open(map_path, "r", encoding="utf-8") as f:
-                            mapping = json.load(f)
-                except: pass
-
-                unibet_target_leagues = []
-                for l in active_leagues:
-                    if l in mapping and mapping[l]:
-                        url = mapping[l]
-                        if "/betting/odds/" in url:
-                            suffix = url.split("/betting/odds/")[1]
-                            unibet_target_leagues.append(suffix)
-                unibet_target_leagues = list(set(unibet_target_leagues)) if unibet_target_leagues else None
-            
-            print(f"Fetching standard Unibet (Targets: {len(unibet_target_leagues) if unibet_target_leagues else 'All'}) and Pinnacle odds for new matches...")
-            results = await asyncio.gather(
-                pinn_scraper.get_odds(),
-                unibet_scraper.get_odds(leagues=unibet_target_leagues),
-                return_exceptions=True
-            )
-            
-            pinn_df = results[0] if not isinstance(results[0], Exception) else pd.DataFrame()
-            unibet_df = results[1] if not isinstance(results[1], Exception) else pd.DataFrame()
-            
             all_opportunities = []
-            
             unmatched_new_df = new_df
+            
             if not unibet_df.empty:
                 print("Comparing New Matches vs Unibet...")
                 unibet_opps, _, unibet_matched_indices = compare_games(new_df, unibet_df, remote_name="Unibet")

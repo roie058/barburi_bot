@@ -162,7 +162,7 @@ class UnibetScraper:
                                 # Short sleep on retry
                                 await asyncio.sleep(2 + attempt)
 
-                            await page.goto(url, timeout=30000)
+                            await page.goto(url, timeout=60000)
                             try:
                                 await page.wait_for_load_state("networkidle", timeout=5000)
                             except: pass
@@ -414,7 +414,7 @@ class UnibetScraper:
                                 league_matches = matches
                                 break # Success
                             
-                            # Break if empty league (no error title)
+                            # Retry if empty league (no error title)
                             if not matches and attempt < 2:
                                 title = await page.title()
                                 if not any(x in title for x in ["503", "Unavailable", "Just a moment", "Challenge", "Error"]):
@@ -425,8 +425,12 @@ class UnibetScraper:
                                         with open(f"unibet_failed_{attempt}.html", "w", encoding="utf-8") as f:
                                             f.write(content)
                                     except: pass
-                                    break
-
+                                    # Continue instead of break to allow retry
+                                    continue
+                                
+                                # If title had an error, then break immediately
+                                break
+                                
                         except Exception as e:
                             # Only print real errors, not just retries
                             # print(f"DEBUG: Error in _scrape_logic loop for {param}: {e}", flush=True)

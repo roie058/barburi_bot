@@ -1,345 +1,508 @@
 game,date,num_1,num_X,num_2,link,team1,team2,team1_hebrew,team2_hebrew,league
-Akhmet Grozny - CSKA Moscow,260301,2.55,2.75,2.0,https://www.winner.co.il,Akhmet Grozny,CSKA Moscow,אחמט גרוזני,"צסק""א מוסקבה",רוסית ראשונה
-P.C. Copenhagen - Randers,260301,1.4,3.35,4.0,https://www.winner.co.il,P.C. Copenhagen,Randers,פ.צ. קופנהגן,ראנדרס,דנית ראשונה
-Fredericia - Silkburg,260301,2.1,3.0,2.25,https://www.winner.co.il,Fredericia,Silkburg,פרדריקיה,סילקבורג,דנית ראשונה
-Midland - Brondby,260301,1.4,3.4,4.2,https://www.winner.co.il,Midland,Brondby,מידטיילנד,ברונדבי,דנית ראשונה
-Vail - Aarhus,260301,4.2,3.35,1.4,https://www.winner.co.il,Vail,Aarhus,ויילה,ארהוס,דנית ראשונה
-Vyborg - Nordsland,260301,1.95,3.1,2.35,https://www.winner.co.il,Vyborg,Nordsland,ויבורג,נורדסלנד,דנית ראשונה
-Sondriska - Odense,260301,1.9,3.0,2.55,https://www.winner.co.il,Sondriska,Odense,סונדריסקה,אודנסה,דנית ראשונה
-Wichysta Krakow - Polonia Warsaw,260302,1.7,3.1,2.95,https://www.winner.co.il,Wichysta Krakow,Polonia Warsaw,ויצ'יסטה קרקוב,פולוניה ורשה,ליגה פולנית שנייה
-Neipulomycea - Pogon Zidlicha,260306,2.0,2.7,2.65,https://www.winner.co.il,Neipulomycea,Pogon Zidlicha,נייפולומיצה,פוגון זידליצ'ה,ליגה פולנית שנייה
-Poltava - Kudryavka,260302,2.9,2.95,1.75,https://www.winner.co.il,Poltava,Kudryavka,פולטבה,קודריבקה,אוקראינית ראשונה
-Crafty Lviv - Colossus Koblibka,260301,2.0,2.55,2.75,https://www.winner.co.il,Crafty Lviv,Colossus Koblibka,קרפטי לבוב,קולוס קובליבקה,אוקראינית ראשונה
-Bravo Ljubljana - roasting,260301,3.45,3.45,1.5,https://www.winner.co.il,Bravo Ljubljana,roasting,בראבו לובליאנה,צלייה,סלובנית ראשונה
-Lustenau - First Vienna,260306,1.8,2.85,3.0,https://www.winner.co.il,Lustenau,First Vienna,לוסטנאו,פירסט וינה,אוסטרית שניה
-Wayne - Sturm Graz amateurs,260306,1.6,3.15,3.25,https://www.winner.co.il,Wayne,Sturm Graz amateurs,וויין,שטורם גראץ חובבים,אוסטרית שניה
-Lipring - Bregenz,260306,1.7,3.1,2.9,https://www.winner.co.il,Lipring,Bregenz,ליפרינג,ברגנץ,אוסטרית שניה
-UTA Arad - A.C.S.B,260301,3.55,2.9,1.6,https://www.winner.co.il,UTA Arad,A.C.S.B,אראד,אפ.סי.אס.בי,רומנית ראשונה
-Unirea 2004 - Rapid 1923,260302,4.4,3.25,1.4,https://www.winner.co.il,Unirea 2004,Rapid 1923,אוניראה סלובוזיה,רפיד בוקרשט,רומנית ראשונה
-Dinamo Bucureşti - Champions Crate,260301,1.55,2.75,4.1,https://www.winner.co.il,Dinamo Bucureşti,Champions Crate,דינמו בוקרשט,צ'מפיונס ארגס,רומנית ראשונה
-Chesikzarda Myrkorea - Farul Constanța,260306,2.75,2.75,1.9,https://www.winner.co.il,Chesikzarda Myrkorea,Farul Constanța,צ'סיקזרדה מיירקוראה,פרול קונסטנטה,רומנית ראשונה
-Ingolstadt - Duisburg,260304,2.15,3.0,2.2,https://www.winner.co.il,Ingolstadt,Duisburg,אינגולסטד,דואיסבורג,גרמנית שלישית
-Zaarbricken - Vaughan Wiesbaden,260304,1.65,3.15,3.05,https://www.winner.co.il,Zaarbricken,Vaughan Wiesbaden,זארבריקן,ווהן ויסבאדן,גרמנית שלישית
-Stuttgart amateurs - Qutbs Energy,260303,2.15,3.0,2.2,https://www.winner.co.il,Stuttgart amateurs,Qutbs Energy,שטוטגרט חובבים,אנרגי קוטבוס,גרמנית שלישית
-hall - Hoffenheim amateurs,260303,2.05,3.05,2.3,https://www.winner.co.il,hall,Hoffenheim amateurs,אולם,הופנהיים חובבים,גרמנית שלישית
-Osnabruck - Victoria Cologne,260303,1.55,3.0,3.55,https://www.winner.co.il,Osnabruck,Victoria Cologne,אוסנאברוק,ויקטוריה קלן,גרמנית שלישית
-the balsa - Hanseatic Rostock,260304,3.95,3.35,1.45,https://www.winner.co.il,the balsa,Hanseatic Rostock,הבלסה,האנזה רוסטוק,גרמנית שלישית
-Indeed - Schweinfurt 05,260304,1.45,3.35,3.8,https://www.winner.co.il,Indeed,Schweinfurt 05,אאכן,שוויינפורט 05,גרמנית שלישית
-Roth Essen - Waldorf Mannheim 07,260304,1.65,3.1,3.05,https://www.winner.co.il,Roth Essen,Waldorf Mannheim 07,רוט אסן,וולדורף מנהיים 07,גרמנית שלישית
-Munich 1860 - Erzagbirga Oha,260303,1.65,3.05,3.15,https://www.winner.co.il,Munich 1860,Erzagbirga Oha,מינכן 1860,ארזגבירגה אוהה,גרמנית שלישית
-Worrell - Regensburg,260303,1.55,3.2,3.55,https://www.winner.co.il,Worrell,Regensburg,וורל,רגנסבורג,גרמנית שלישית
-Cog - Esbjerg,260306,2.6,2.95,1.9,https://www.winner.co.il,Cog,Esbjerg,קוג,אסביירג,דנית שניה
-Colding - were moved,260306,1.65,2.9,3.35,https://www.winner.co.il,Colding,were moved,קולדינג,הוברו,דנית שניה
-Aalborg - Aarhus Pharm,260306,1.9,3.0,2.6,https://www.winner.co.il,Aalborg,Aarhus Pharm,אלבורג,ארהוס פרמד,דנית שניה
-French - Kazinsbartsycki,260301,1.1,4.6,8.0,https://www.winner.co.il,French,Kazinsbartsycki,פרנצוורוש,קזינסברציקי,הונגרית ראשונה
-Pushkash Academy - Spartacus,260301,1.9,2.6,2.9,https://www.winner.co.il,Pushkash Academy,Spartacus,אקדמיית פושקש,ספרטקוס,הונגרית ראשונה
-Salzburg - Hartberg,260301,1.35,3.5,4.4,https://www.winner.co.il,Salzburg,Hartberg,זלצבורג,הארטברג,אוסטרית ראשונה
-Wolfsburger - Sturm Graz,260301,2.15,2.75,2.4,https://www.winner.co.il,Wolfsburger,Sturm Graz,וולפסברגר,שטורם גראץ,אוסטרית ראשונה
-Austria Vienna - Lask Linz,260301,2.35,2.65,2.25,https://www.winner.co.il,Austria Vienna,Lask Linz,אוסטריה וינה,לאסק לינץ,אוסטרית ראשונה
-Blau Wies Linz - Tyrol,260301,2.05,2.65,2.6,https://www.winner.co.il,Blau Wies Linz,Tyrol,בלאו וויס לינץ,טירול,אוסטרית ראשונה
-Altach - Rapid Vienna,260301,2.35,2.6,2.3,https://www.winner.co.il,Altach,Rapid Vienna,אלטאך,ראפיד וינה,אוסטרית ראשונה
-Grazer - Reid,260301,2.6,2.7,2.05,https://www.winner.co.il,Grazer,Reid,גרייזר,ריד,אוסטרית ראשונה
-Zhable Lubin - Wisla Plucek,260302,2.15,2.7,2.45,https://www.winner.co.il,Zhable Lubin,Wisla Plucek,ז'גלבי לובין,ויסלה פלוצק,פולנית ראשונה
-Go to Poznan - Rotten Chestkhova,260301,1.95,2.95,2.55,https://www.winner.co.il,Go to Poznan,Rotten Chestkhova,לך פוזנן,רקוב צ'סטחובה,פולנית ראשונה
-Lachia Gdansk - Bialystok,260306,2.15,3.1,2.2,https://www.winner.co.il,Lachia Gdansk,Bialystok,לכיה גדנסק,ביאליסטוק,פולנית ראשונה
-Dinamo Zagreb - Goritza,260301,1.2,3.8,6.4,https://www.winner.co.il,Dinamo Zagreb,Goritza,דינמו זגרב,גוריצה,קרואטית ראשונה
-Istra - Osayk,260306,2.25,2.65,2.35,https://www.winner.co.il,Istra,Osayk,איסטרה,אוסייק,קרואטית ראשונה
-IMT Novi Belgrade - Radnik Sordolica,260302,2.2,2.8,2.3,https://www.winner.co.il,IMT Novi Belgrade,Radnik Sordolica,איי.אם.טי נובי בלגרד,ראדניק סורדוליצה,סרבית ראשונה
-Radnitsky 1923 - Red Star Belgrade,260301,5.4,3.95,1.25,https://www.winner.co.il,Radnitsky 1923,Red Star Belgrade,רדניצקי 1923,הכוכב האדום בלגרד,סרבית ראשונה
-Preston North End - Oxford United,260306,1.8,2.75,3.0,https://www.winner.co.il,Preston North End,Oxford United,פרסטון,אוקספורד יונייטד,צ'מפיונשיפ
-Dordrecht - Maastricht,260306,1.3,3.7,4.6,https://www.winner.co.il,Dordrecht,Maastricht,דורדרכט,מאסטריכט,הולנדית שניה
-P.C. Eindhoven - Jong Ajax,260306,1.55,3.3,3.35,https://www.winner.co.il,P.C. Eindhoven,Jong Ajax,פ.צ. איינדהובן,אייאקס מילואים,הולנדית שניה
-Helmond Sport - Aus,260306,1.85,2.85,2.8,https://www.winner.co.il,Helmond Sport,Aus,הלמונד ספורט,אוס,הולנדית שניה
-Rhoda - PSV Eindhoven reserve,260306,1.35,3.7,4.0,https://www.winner.co.il,Rhoda,PSV Eindhoven reserve,רודה,פ.ס.וו איינדהובן מילואים,הולנדית שניה
-and fall - R.K.S,260306,2.1,3.1,2.2,https://www.winner.co.il,and fall,R.K.S,ונלו,ר.ק.ס,הולנדית שניה
-Arsenal - Chelsea,260301,1.45,4.25,5.4,https://www.winner.co.il,Arsenal,Chelsea,ארסנל,צ'לסי,פרמייר ליג
-Bournemouth - Brentford,260303,1.65,12.0,1.8,https://www.winner.co.il,Bournemouth,Brentford,בורנמות',ברנטפורד,פרמייר ליג
-Brighton - Arsenal,260304,4.8,3.75,1.6,https://www.winner.co.il,Brighton,Arsenal,ברייטון,ארסנל,פרמייר ליג
-Everton - Burnley,260303,1.35,8.0,2.5,https://www.winner.co.il,Everton,Burnley,אברטון,ברנלי,פרמייר ליג
-Fulham - West Ham,260304,2.05,3.25,3.2,https://www.winner.co.il,Fulham,West Ham,פולהאם,ווסטהאם,פרמייר ליג
-Leeds United - Sunderland,260303,1.5,7.0,2.2,https://www.winner.co.il,Leeds United,Sunderland,לידס,סנדרלנד,פרמייר ליג
-Newcastle United - Manchester United,260304,2.35,3.55,2.45,https://www.winner.co.il,Newcastle United,Manchester United,ניוקאסל,מנצ'סטר יונייטד,פרמייר ליג
-Tottenham - Crystal Palace,260305,1.65,8.4,1.85,https://www.winner.co.il,Tottenham,Crystal Palace,טוטנהאם,קריסטל פאלאס,פרמייר ליג
-Wolves - Liverpool,260303,6.2,4.6,1.35,https://www.winner.co.il,Wolves,Liverpool,וולבס,ליברפול,פרמייר ליג
-Aston Villa - Chelsea,260304,2.6,3.4,2.3,https://www.winner.co.il,Aston Villa,Chelsea,אסטון וילה,צ'לסי,פרמייר ליג
-Manchester City - Nottingham Forest,260304,1.35,4.8,6.8,https://www.winner.co.il,Manchester City,Nottingham Forest,מנצ'סטר סיטי,נוטינגהאם פורסט,פרמייר ליג
-PSM Makassar - Persita Tangerang,260302,1.85,2.8,2.9,https://www.winner.co.il,PSM Makassar,Persita Tangerang,מקאסר,פרסיטה טנדרנג,אינדונזית ראשונה
-Persebaya - Persib Bandung,260302,3.0,2.85,1.75,https://www.winner.co.il,Persebaya,Persib Bandung,פרסבאיה סורבאיה,פרסיב באנדונג,אינדונזית ראשונה
-Persik Kediri - PSBS Biak,260305,1.45,3.25,4.0,https://www.winner.co.il,Persik Kediri,PSBS Biak,פרסיק קדירי,ביאק נומפור,אינדונזית ראשונה
-Persija Jakarta - Borneo,260303,1.5,3.1,3.9,https://www.winner.co.il,Persija Jakarta,Borneo,פרסיג'ה ג'קארטה,בורניאו,אינדונזית ראשונה
-Arema - Bali United,260306,1.7,2.95,3.05,https://www.winner.co.il,Arema,Bali United,ארמה,באלי יונייטד,אינדונזית ראשונה
-Madura United - Malut United,260303,2.7,3.0,1.85,https://www.winner.co.il,Madura United,Malut United,מדורה יונייטד,מאלוט יונייטד,אינדונזית ראשונה
-Persijap Jepara - Persis Solo,260305,1.75,2.8,3.15,https://www.winner.co.il,Persijap Jepara,Persis Solo,פרסיג'פ ג'פארה,פרסיס סולו,אינדונזית ראשונה
-Semen Padang FC - PSIM Yogyakarta,260304,2.1,2.9,2.35,https://www.winner.co.il,Semen Padang FC,PSIM Yogyakarta,סמן פדאנג,פסים יוגיאקרטה,אינדונזית ראשונה
-Real Betis - Sevilla,260301,1.65,3.55,4.5,https://www.winner.co.il,Real Betis,Sevilla,ריאל בטיס,סביליה,ספרדית ראשונה
-Girona - Celta de Vigo,260301,2.25,3.15,2.85,https://www.winner.co.il,Girona,Celta de Vigo,ג'ירונה,סלטה ויגו,ספרדית ראשונה
-Valencia - Osasuna,260301,2.25,2.95,3.05,https://www.winner.co.il,Valencia,Osasuna,ולנסיה,אוסאסונה,ספרדית ראשונה
-Real Madrid - Getafe,260302,1.2,9.4,3.15,https://www.winner.co.il,Real Madrid,Getafe,ריאל מדריד,חטאפה,ספרדית ראשונה
-Celta de Vigo - Real Madrid,260306,3.9,3.7,1.7,https://www.winner.co.il,Celta de Vigo,Real Madrid,סלטה ויגו,ריאל מדריד,ספרדית ראשונה
-Pharco FC - Karba Ismailia,260302,2.3,2.45,2.45,https://www.winner.co.il,Pharco FC,Karba Ismailia,פרקו,קרבה איסמעיליה,מצרית ראשונה
-Al Ittihad Al Iskandari - Ghazl El Mahallah,260302,1.85,2.4,3.35,https://www.winner.co.il,Al Ittihad Al Iskandari,Ghazl El Mahallah,אל איתיחד אל איסקנדרי,גזל אל מחלה,מצרית ראשונה
-El Mokawloon - Al-Ahli,260305,5.2,2.95,1.4,https://www.winner.co.il,El Mokawloon,Al-Ahli,אל מוֹקאוולוּן,אל אהלי,מצרית ראשונה
-Metz - Brest,260301,3.3,3.25,2.0,https://www.winner.co.il,Metz,Brest,מץ,ברסט,צרפתית ראשונה
-Lorient - Auxerre,260301,1.95,3.2,3.5,https://www.winner.co.il,Lorient,Auxerre,לוריין,אוקזר,צרפתית ראשונה
-Lille - Nantes,260301,1.45,4.0,5.8,https://www.winner.co.il,Lille,Nantes,ליל,נאנט,צרפתית ראשונה
-Marseille - Lyon,260301,1.9,3.35,3.5,https://www.winner.co.il,Marseille,Lyon,מארסיי,ליון,צרפתית ראשונה
-Paris SG - Monaco,260306,1.25,5.4,7.0,https://www.winner.co.il,Paris SG,Monaco,פאריס סן ז'רמן,מונאקו,צרפתית ראשונה
-Rio Ave - Famalicao,260301,3.2,2.9,1.7,https://www.winner.co.il,Rio Ave,Famalicao,ריו אווה,פמליקאו,פורטוגלית ראשונה
-Tondela - Santa Clara,260301,2.6,2.45,2.2,https://www.winner.co.il,Tondela,Santa Clara,טונדלה,סנטה קלרה אזורס,פורטוגלית ראשונה
-Gil Vicente - Benfica,260302,4.3,3.1,1.45,https://www.winner.co.il,Gil Vicente,Benfica,ז'יל ויסנטה,בנפיקה ליסבון,פורטוגלית ראשונה
-Casa Pia - Moreirense,260301,2.25,2.55,2.45,https://www.winner.co.il,Casa Pia,Moreirense,קאסה פיה ליסבון,מוריירנסה,פורטוגלית ראשונה
-Famalicao - Arouca,260306,1.55,3.1,3.65,https://www.winner.co.il,Famalicao,Arouca,פמליקאו,ארוקה,פורטוגלית ראשונה
-Molenbeek 47 - Japan,260301,2.35,2.85,2.1,https://www.winner.co.il,Molenbeek 47,Japan,מולנביק 47,יופן,בלגית שניה
-Lomel - Serialing,260301,1.4,3.35,4.1,https://www.winner.co.il,Lomel,Serialing,לומל,סיריינג,בלגית שניה
-Birschhot-Wilreik - Genk B,260306,1.3,3.7,5.0,https://www.winner.co.il,Birschhot-Wilreik,Genk B,בירשחוט-וילרייק,גנק ב',בלגית שניה
-Japan - Ghent reserve,260306,1.85,3.0,2.65,https://www.winner.co.il,Japan,Ghent reserve,יופן,גנט מילואים,בלגית שניה
-Cultural Leonesa - Las Palmas,260301,2.55,2.6,2.1,https://www.winner.co.il,Cultural Leonesa,Las Palmas,קולטורל לאונסה,לאס פלמאס,ספרדית שניה
-Mirandés - AD Ceuta,260301,2.05,2.6,2.65,https://www.winner.co.il,Mirandés,AD Ceuta,מיראנדס,סאוטה,ספרדית שניה
-Eibar - Cádiz,260301,1.5,2.95,4.1,https://www.winner.co.il,Eibar,Cádiz,אייבר,קאדיס,ספרדית שניה
-Sporting Gijón - Leganes,260301,1.7,2.8,3.2,https://www.winner.co.il,Sporting Gijón,Leganes,ספורטינג גיחון,לגאנס,ספרדית שניה
-Cordoba - Andorra,260302,1.45,11.0,2.15,https://www.winner.co.il,Cordoba,Andorra,קורדובה,פ.צ. אנדורה,ספרדית שניה
-Cádiz - Real Zaragoza,260306,1.8,2.75,3.0,https://www.winner.co.il,Cádiz,Real Zaragoza,קאדיס,סראגוסה,ספרדית שניה
-Balsica Petrich - CSKA Sofia B.,260302,3.0,2.7,1.85,https://www.winner.co.il,Balsica Petrich,CSKA Sofia B.,בלסיצה פטריץ',"צסק""א סופיה ב'",בולגרית שניה
-Samsunspor - Gaziantep,260301,1.65,2.95,3.35,https://www.winner.co.il,Samsunspor,Gaziantep,סמסונספור,גזישיר גזיינטפ,טורקית ראשונה
-Antalisspor - Fenerbahçe,260301,4.3,3.3,1.4,https://www.winner.co.il,Antalisspor,Fenerbahçe,אנטליספור,פנרבחצ'ה,טורקית ראשונה
-Nancy - Montpellier,260306,2.35,2.65,2.25,https://www.winner.co.il,Nancy,Montpellier,נאנסי,מונפלייה,צרפתית שניה
-Stade Lavallois - Gangan,260306,3.1,2.65,1.8,https://www.winner.co.il,Stade Lavallois,Gangan,לאבאל,גנגאן,צרפתית שניה
-Rodez - Grenoble,260306,1.8,2.85,2.95,https://www.winner.co.il,Rodez,Grenoble,רודה אביירון,גרנובל,צרפתית שניה
-Pau - Bastia,260306,1.95,2.75,2.75,https://www.winner.co.il,Pau,Bastia,פו,באסטיה,צרפתית שניה
-Boulogne - Amiens SC,260306,1.9,2.8,2.8,https://www.winner.co.il,Boulogne,Amiens SC,בולון,אמיין,צרפתית שניה
-Manisa FK - Corum Belediyespor,260302,2.7,3.0,1.85,https://www.winner.co.il,Manisa FK,Corum Belediyespor,מניסה,צ'ורום,טורקית שניה
-Sakaryaspor - Surrier,260301,2.4,2.9,2.05,https://www.winner.co.il,Sakaryaspor,Surrier,סקריאספור,סארייר,טורקית שניה
-Surrier - Ümraniyespor,260306,1.55,3.05,3.5,https://www.winner.co.il,Surrier,Ümraniyespor,סארייר,אומרניספור,טורקית שניה
-Pendixspor - and count,260306,1.65,2.95,3.2,https://www.winner.co.il,Pendixspor,and count,פנדיקספור,ונספור,טורקית שניה
-Aris Limassol - Pafos,260301,2.25,2.8,2.25,https://www.winner.co.il,Aris Limassol,Pafos,אריס לימסול,פאפוס,קפריסאית ראשונה
-Omonia Nicosia - Apollon Limassol,260302,1.75,2.85,3.0,https://www.winner.co.il,Omonia Nicosia,Apollon Limassol,אומוניה ניקוסיה,אפולון לימסול,קפריסאית ראשונה
-Larnaca - Olympiakos Nicosia,260301,1.25,3.65,5.8,https://www.winner.co.il,Larnaca,Olympiakos Nicosia,א.א.ק. לרנקה,אולימפיאקוס ניקוסיה,קפריסאית ראשונה
-Richards Bay - Kaiser Chips,260303,3.65,2.5,1.75,https://www.winner.co.il,Richards Bay,Kaiser Chips,ריצ'רדס ביי,קייזר צ'יפס,דרום אפריקאית ראשונה
-Siwalhala - Stellenbosch,260303,2.45,2.35,2.45,https://www.winner.co.il,Siwalhala,Stellenbosch,סיוולהלה,סטלנבוש,דרום אפריקאית ראשונה
-Galaxy - Orbit College,260303,1.6,2.75,3.9,https://www.winner.co.il,Galaxy,Orbit College,גלקסי,אורביט קולג',דרום אפריקאית ראשונה
-Mantova - Carrarese,260301,2.1,2.65,2.5,https://www.winner.co.il,Mantova,Carrarese,מנטובה 1911,קאררסה 1908,איטלקית שניה
-Bari - Empoli,260304,2.45,2.65,2.15,https://www.winner.co.il,Bari,Empoli,בארי,אמפולי,איטלקית שניה
-Cesena - Monza,260303,2.85,2.65,1.9,https://www.winner.co.il,Cesena,Monza,צ'זנה,מונזה,איטלקית שניה
-Virtus Entella - Modena,260303,3.0,2.65,1.85,https://www.winner.co.il,Virtus Entella,Modena,וירטוס אנטלה,מודנה,איטלקית שניה
-Carrarese - Catanzaro,260304,2.1,2.7,2.5,https://www.winner.co.il,Carrarese,Catanzaro,קאררסה 1908,קטנזארו 1929,איטלקית שניה
-Frosinone - Pescara,260304,1.4,3.45,3.9,https://www.winner.co.il,Frosinone,Pescara,פרוסינונה,פסקארה,איטלקית שניה
-Palermo - Mantova,260304,1.35,3.3,4.7,https://www.winner.co.il,Palermo,Mantova,פאלרמו,מנטובה 1911,איטלקית שניה
-Juve Stabia - Sampdoria,260304,2.05,2.55,2.7,https://www.winner.co.il,Juve Stabia,Sampdoria,יובה סטאביה,סמפדוריה,איטלקית שניה
-Padova - Spezia,260303,2.45,2.5,2.25,https://www.winner.co.il,Padova,Spezia,פאדובה,ספציה,איטלקית שניה
-Reggiana - Sudtirol,260303,2.5,2.45,2.25,https://www.winner.co.il,Reggiana,Sudtirol,רג'יאנה,פ.צ. סודטירול,איטלקית שניה
-Venezia - Avellino,260303,1.25,3.65,5.8,https://www.winner.co.il,Venezia,Avellino,ונציה,א.ס. אבלינו,איטלקית שניה
-Ludogorets - Plovdiv locomotive,260302,1.25,3.5,6.0,https://www.winner.co.il,Ludogorets,Plovdiv locomotive,לודוגורץ,לוקומוטיב פלובדיב,בולגרית ראשונה
-Levski Sofia - Locomotive Sofia,260301,1.2,3.8,6.4,https://www.winner.co.il,Levski Sofia,Locomotive Sofia,לבסקי סופיה,לוקומוטיב סופיה,בולגרית ראשונה
-Cherno Mora and Arena - Arda Kardzheli,260304,1.8,2.65,3.2,https://www.winner.co.il,Cherno Mora and Arena,Arda Kardzheli,צ'רנו מורה וארנה,ארדה קרדז'לי,בולגרית ראשונה
-CSKA Sofia - Botev and Ratsa,260304,1.2,3.65,6.6,https://www.winner.co.il,CSKA Sofia,Botev and Ratsa,"צסק""א סופיה",בוטב וראטסה,בולגרית ראשונה
-Plovdiv locomotive - CSKA 1948 Sofia,260305,2.55,2.7,2.05,https://www.winner.co.il,Plovdiv locomotive,CSKA 1948 Sofia,לוקומוטיב פלובדיב,"צסק""א 1948 סופיה",בולגרית ראשונה
-Locomotive Sofia - Dobrish,260305,1.65,2.75,3.6,https://www.winner.co.il,Locomotive Sofia,Dobrish,לוקומוטיב סופיה,דובריש,בולגרית ראשונה
-Botev Plovdiv - September Sofia,260303,1.25,3.45,5.8,https://www.winner.co.il,Botev Plovdiv,September Sofia,בוטב פלובדיב,ספטמברי סופיה,בולגרית ראשונה
-Spartak and Arena - Montana,260303,2.15,2.65,2.45,https://www.winner.co.il,Spartak and Arena,Montana,ספרטק וארנה,מונטנה,בולגרית ראשונה
-Ludogorets - Levski Sofia,260305,1.85,2.7,2.85,https://www.winner.co.il,Ludogorets,Levski Sofia,לודוגורץ,לבסקי סופיה,בולגרית ראשונה
-Zagora - Sofia Sofia,260303,2.5,2.5,2.2,https://www.winner.co.il,Zagora,Sofia Sofia,זאגורה,סלביה סופיה,בולגרית ראשונה
-Sofia Sofia - Spartak and Arena,260306,1.5,3.05,4.1,https://www.winner.co.il,Sofia Sofia,Spartak and Arena,סלביה סופיה,ספרטק וארנה,בולגרית ראשונה
-Obania - Florrie,260306,2.5,2.55,2.2,https://www.winner.co.il,Obania,Florrie,אובאנייה,פלורי,צרפתית שלישית
-Concarno - Dijon,260306,2.95,2.65,1.9,https://www.winner.co.il,Concarno,Dijon,קונקרנו,דיז'ון,צרפתית שלישית
-Borg A Bears - Rowan,260306,3.65,2.75,1.65,https://www.winner.co.il,Borg A Bears,Rowan,בורג א ברס,רואן,צרפתית שלישית
-Paris Atlético - Le Foy,260306,2.9,2.6,1.95,https://www.winner.co.il,Paris Atlético,Le Foy,פאריס אתלטיקו,לה פוי,צרפתית שלישית
-Con - Chaturo,260306,1.75,2.85,3.1,https://www.winner.co.il,Con,Chaturo,קון,שאטורו,צרפתית שלישית
-Brioshin - Orleans,260306,2.55,2.65,2.1,https://www.winner.co.il,Brioshin,Orleans,בריושין,אורליאן,צרפתית שלישית
-Quilly Rowan - Versailles,260306,2.95,2.55,1.95,https://www.winner.co.il,Quilly Rowan,Versailles,קווילי רואן,ורסלייז,צרפתית שלישית
-Villefranche - Valancen,260306,2.6,2.65,2.05,https://www.winner.co.il,Villefranche,Valancen,וילפרנש,ואלנסיין,צרפתית שלישית
-Alcione Milano - Gianna Arminio,260303,2.2,2.75,2.3,https://www.winner.co.il,Alcione Milano,Gianna Arminio,אלציונה מילאנו,ג'יאנה ארמיניו,"איטלקית שלישית, בית א'"
-Citadel - Inter Milan until 23,260303,1.9,2.8,2.75,https://www.winner.co.il,Citadel,Inter Milan until 23,צ'יטאדלה,אינטר מילאנו עד 23,"איטלקית שלישית, בית א'"
-Vicenza Virtus - Taranto,260303,1.4,3.15,4.6,https://www.winner.co.il,Vicenza Virtus,Taranto,ויצ'נזה וירטוס,טרנטו,"איטלקית שלישית, בית א'"
-lomazana - Arzignano,260303,1.85,2.85,2.8,https://www.winner.co.il,lomazana,Arzignano,לומזאנה,ארזיגנאנו,"איטלקית שלישית, בית א'"
-Lecho 1912 - Renata,260303,1.75,2.85,3.05,https://www.winner.co.il,Lecho 1912,Renata,לצ'ו 1912,רנאטה,"איטלקית שלישית, בית א'"
-Triestina Calcio 1918 - Dolomites in Belonzi,260303,1.9,2.95,2.65,https://www.winner.co.il,Triestina Calcio 1918,Dolomites in Belonzi,טריאסטינה 1918,דולומיטי בלונזי,"איטלקית שלישית, בית א'"
-Ospitalto - Aurora pro mushroom,260303,1.75,2.85,3.0,https://www.winner.co.il,Ospitalto,Aurora pro mushroom,אוספיטאלטו,אורורה פרו פטריה,"איטלקית שלישית, בית א'"
-Pargolets 1932 - Peru Vercelli,260303,2.25,2.8,2.25,https://www.winner.co.il,Pargolets 1932,Peru Vercelli,פרגולטס 1932,פרו ורצ'לי,"איטלקית שלישית, בית א'"
-Virtus Verona - Novara,260303,2.25,2.8,2.2,https://www.winner.co.il,Virtus Verona,Novara,וירטוס ורונה,נובארה,"איטלקית שלישית, בית א'"
-Albinolpa - Onion Brescia,260303,3.15,2.9,1.7,https://www.winner.co.il,Albinolpa,Onion Brescia,אלבינולפה,אוניון ברשיה,"איטלקית שלישית, בית א'"
-Sigma Olomouc - Bohemians Prague,260301,1.8,2.65,3.15,https://www.winner.co.il,Sigma Olomouc,Bohemians Prague,סיגמה אולומוץ,בוהמייאנס פראג,צ'כית ראשונה
-Pisa - Bologna,260302,3.8,3.15,1.9,https://www.winner.co.il,Pisa,Bologna,פיזה,בולוניה,איטלקית ראשונה
-Roma - Juventus,260301,2.55,2.7,2.85,https://www.winner.co.il,Roma,Juventus,רומא,יובנטוס,איטלקית ראשונה
-Torino - Lazio,260301,2.7,2.75,2.7,https://www.winner.co.il,Torino,Lazio,טורינו,לאציו,איטלקית ראשונה
-Udinese - Fiorentina,260302,1.9,7.2,1.65,https://www.winner.co.il,Udinese,Fiorentina,אודינזה,פיורנטינה,איטלקית ראשונה
-Napoli - Torino,260306,1.4,4.1,6.8,https://www.winner.co.il,Napoli,Torino,נאפולי,טורינו,איטלקית ראשונה
-Adelaide United - Wellington Phoenix,260306,1.55,3.4,3.15,https://www.winner.co.il,Adelaide United,Wellington Phoenix,אדלייד יונייטד,וולינגטון פניקס,אוסטרלית ראשונה
-Eintracht Frankfurt - Freiburg,260301,2.05,3.3,3.2,https://www.winner.co.il,Eintracht Frankfurt,Freiburg,איינטרכט פרנקפורט,פרייבורג,גרמנית ראשונה
-Hamburg - Leipzig,260301,3.75,3.65,1.75,https://www.winner.co.il,Hamburg,Leipzig,המבורג,לייפציג,גרמנית ראשונה
-Circle Bruges - Dender,260301,1.55,3.0,3.65,https://www.winner.co.il,Circle Bruges,Dender,סרקל ברוז',דנדר,בלגית ראשונה
-Charleroi - Club Brugge,260301,2.9,3.0,1.75,https://www.winner.co.il,Charleroi,Club Brugge,שרלרואה,קלאב ברוז',בלגית ראשונה
-Westerlo - Union Saint-Gilloise,260301,3.5,3.05,1.55,https://www.winner.co.il,Westerlo,Union Saint-Gilloise,ווסטרלו,סן ז'ילואז,בלגית ראשונה
-PAOK - Asters Tripolis,260301,1.2,3.9,6.8,https://www.winner.co.il,PAOK,Asters Tripolis,פאוק סלוניקי,אסטרס טריפוליס,יוונית ראשונה
-Panathinaikos - Aris Thessaloniki,260301,1.6,2.7,4.0,https://www.winner.co.il,Panathinaikos,Aris Thessaloniki,פנאתינייקוס,אריס סלוניקי,יוונית ראשונה
-Volus - A.A.K. Athens,260301,6.6,3.7,1.2,https://www.winner.co.il,Volus,A.A.K. Athens,וולוס,א.א.ק. אתונה,יוונית ראשונה
-Excelsior - Go Ahed Eagles,260301,2.1,2.85,2.35,https://www.winner.co.il,Excelsior,Go Ahed Eagles,אקסלסיור,גו אהד איגלס,הולנדית ראשונה
-Utrecht - Alkmaar,260301,1.9,2.85,2.65,https://www.winner.co.il,Utrecht,Alkmaar,אוטרכט,אלקמאר,הולנדית ראשונה
-Feirense - Flaggers 1932,260302,2.05,2.6,2.65,https://www.winner.co.il,Feirense,Flaggers 1932,פיירנסה,פלגיירס 1932,פורטוגלית שניה
-Pacos Ferreira - Olveirense,260301,2.05,2.7,2.5,https://www.winner.co.il,Pacos Ferreira,Olveirense,פאקו פריירה,אולביירנסה,פורטוגלית שניה
-Penafiel - Benfica B,260301,2.4,2.75,2.1,https://www.winner.co.il,Penafiel,Benfica B,פנאפייל,בנפיקה ליסבון ב',פורטוגלית שניה
-Wolves up to 21 - Redding until 21,260302,1.9,3.15,2.45,https://www.winner.co.il,Wolves up to 21,Redding until 21,וולבס עד 21,רדינג עד 21,"פרמייר ליג 2, עד 21"
-Al-Taawoun - Al-Fateh,260306,1.7,3.05,2.95,https://www.winner.co.il,Al-Taawoun,Al-Fateh,אל טאוון,אל פתח,סעודית ראשונה
-Damac - Al Riyadh,260305,2.0,2.6,2.7,https://www.winner.co.il,Damac,Al Riyadh,דאמאק,אל ריאד,סעודית ראשונה
-Al Kholood - Al Qadisiyah,260305,4.9,3.8,1.3,https://www.winner.co.il,Al Kholood,Al Qadisiyah,אל חלוד,אל קדיסיה,סעודית ראשונה
-Al Ahli (SAU) - Al-Ittihad,260306,1.6,3.1,3.25,https://www.winner.co.il,Al Ahli (SAU),Al-Ittihad,אל אהלי סעודי,אל איתיחד ג'דה,סעודית ראשונה
-Al-Khaleej - Al-Hazem,260306,1.55,3.15,3.35,https://www.winner.co.il,Al-Khaleej,Al-Hazem,אל חליג',אל חאזם,סעודית ראשונה
-Cheltenham - Barrow,260306,2.2,2.75,2.35,https://www.winner.co.il,Cheltenham,Barrow,צ'לטנהאם,בארו,אנגלית שניה
-Bayern Munich - Borussia Mönchengladbach,260306,1.1,7.8,13.0,https://www.winner.co.il,Bayern Munich,Borussia Mönchengladbach,ביירן מינכן,בורוסיה מינשנגלדבאך,גרמנית ראשונה
-RAAL La Louvière - Antwerp,260306,2.15,2.7,2.4,https://www.winner.co.il,RAAL La Louvière,Antwerp,ראל לה לובייר,אנטוורפן,בלגית ראשונה
-Heracles - Utrecht,260306,2.8,2.9,1.85,https://www.winner.co.il,Heracles,Utrecht,הראקלס,אוטרכט,הולנדית ראשונה
-Shabbos - Academico de Viseu,260306,2.5,2.5,2.25,https://www.winner.co.il,Shabbos,Academico de Viseu,שאבס,אקדמיקה ויסו,פורטוגלית שניה
-Albersberg - Magdeburg,260306,1.75,3.2,2.8,https://www.winner.co.il,Albersberg,Magdeburg,אלברסברג,מגדבורג,גרמנית שניה
-Schalke 04 - Arminia Bielefeld,260306,1.7,2.95,3.1,https://www.winner.co.il,Schalke 04,Arminia Bielefeld,שאלקה 04,ארמיניה בילפלד,גרמנית שניה
-Austin Up. si - DC United,260301,1.7,2.9,3.15,https://www.winner.co.il,Austin Up. si,DC United,אוסטין אפ. סי,די.סי. יונייטד,MLS
-Philadelphia - New York City,260301,1.85,2.8,2.85,https://www.winner.co.il,Philadelphia,New York City,פילדלפיה,ניו יורק סיטי,MLS
-San Diego FC - Set. Louis City,260302,1.4,3.55,3.9,https://www.winner.co.il,San Diego FC,Set. Louis City,סן דייגו אף.סי,סט. לואיס סיטי,MLS
-Orlando City - Inter Miami,260302,2.75,3.15,1.75,https://www.winner.co.il,Orlando City,Inter Miami,אורלנדו סיטי,אינטר מיאמי,MLS
-Dynamo Kyiv - Ingults Petrova,260303,1.1,4.3,9.2,https://www.winner.co.il,Dynamo Kyiv,Ingults Petrova,דינמו קייב,אינגולטס פטרובה,גביע אוקראיני
-CSKA Moscow - Krasnodar,260304,2.2,2.9,2.2,https://www.winner.co.il,CSKA Moscow,Krasnodar,"צסק""א מוסקבה",קרסנודר,גביע רוסי
-Dynamo Moscow - Spartak Moscow,260305,2.35,2.85,2.1,https://www.winner.co.il,Dynamo Moscow,Spartak Moscow,דינמו מוסקבה,ספרטק מוסקבה,גביע רוסי
-Alanyaspor - Galatasaray,260303,2.45,3.05,1.95,https://www.winner.co.il,Alanyaspor,Galatasaray,אלניהספור,גלאטסראיי,גביע טורקי
-Başakşehir - Trabzonspor,260303,1.95,2.9,2.55,https://www.winner.co.il,Başakşehir,Trabzonspor,איסטנבול בסאקסהיר,טרבזונספור,גביע טורקי
-Orebro - The Amarbi,260302,5.2,4.0,1.25,https://www.winner.co.il,Orebro,The Amarbi,אורברו,האמרבי,גביע שבדי
-Sandvikens - Gaius,260302,4.7,3.65,1.3,https://www.winner.co.il,Sandvikens,Gaius,סנדויקנס,גאיס,גביע שבדי
-Carouge - Arao,260306,3.3,3.1,1.6,https://www.winner.co.il,Carouge,Arao,קארוג',אראו,שוויצרית שניה
-Rappersville Dove - Vaduz,260306,3.2,3.05,1.65,https://www.winner.co.il,Rappersville Dove,Vaduz,ראפרסוויל יונה,ואדוז,שוויצרית שניה
-Stade Nyon - Neuchatel Xamax,260306,2.35,2.75,2.15,https://www.winner.co.il,Stade Nyon,Neuchatel Xamax,סטאד ניון,נוישאטל קסאמקס,שוויצרית שניה
-Fort - Lampoon Warriors,260306,1.3,3.55,4.7,https://www.winner.co.il,Fort,Lampoon Warriors,פורט,למפון ווריורס,תאילנדית ראשונה
-Waterford - Bohemians,260306,3.2,2.95,1.65,https://www.winner.co.il,Waterford,Bohemians,ווטרפורד,בוהמיינס,אירית ראשונה
-Shamrock Rovers - Derry City,260306,2.0,2.7,2.6,https://www.winner.co.il,Shamrock Rovers,Derry City,שמרוק רוברס,דרי סיטי,אירית ראשונה
-Barnsley - Wycombe,260303,2.35,2.9,2.1,https://www.winner.co.il,Barnsley,Wycombe,בארנסלי,וויקומב,אנגלית ראשונה
-Exeter - Burton Albion,260303,2.0,2.75,2.6,https://www.winner.co.il,Exeter,Burton Albion,אקסטר,ברטון אלביון,אנגלית ראשונה
-Boreham Wood - York City,260303,2.35,3.05,2.0,https://www.winner.co.il,Boreham Wood,York City,בורהאם ווד,יורק סיטי,אנגלית מחוזית
-Bromley - Oldham,260303,1.75,2.85,3.05,https://www.winner.co.il,Bromley,Oldham,ברומלי,אולדהאם,אנגלית שניה
-Universidad Concepcion - Everton Vienna del Mar,260301,1.9,2.6,2.95,https://www.winner.co.il,Universidad Concepcion,Everton Vienna del Mar,אוניברסידד קונספסיון,אברטון וינה דל מר,צ'ילאנית ראשונה
-portal - Jaguars,260305,1.4,2.85,5.2,https://www.winner.co.il,portal,Jaguars,פורטלצה,ז'גוארס,"קולומביאנית ראשונה, אפרטורה"
-Club Deportivo Junior - Allianz and Waldopar,260306,1.4,3.1,4.6,https://www.winner.co.il,Club Deportivo Junior,Allianz and Waldopar,קלאב דפורטיבו ג'וניור,אליאנזה ולדופאר,"קולומביאנית ראשונה, אפרטורה"
-Basel - Grasshoppers,260305,1.35,3.5,4.4,https://www.winner.co.il,Basel,Grasshoppers,באזל,גראסהופרס,שוויצרית ראשונה
-Lugano - Sivan,260304,1.75,2.95,2.9,https://www.winner.co.il,Lugano,Sivan,לוגאנו,סיון,שוויצרית ראשונה
-Young Boys - P.C. Zurich,260301,1.45,3.5,3.75,https://www.winner.co.il,Young Boys,P.C. Zurich,יאנג בויז,פ.צ. ציריך,שוויצרית ראשונה
-Lucerne - Young Boys,260304,2.3,3.1,2.0,https://www.winner.co.il,Lucerne,Young Boys,לוצרן,יאנג בויז,שוויצרית ראשונה
-Grasshoppers - Lugano,260301,2.7,2.85,1.9,https://www.winner.co.il,Grasshoppers,Lugano,גראסהופרס,לוגאנו,שוויצרית ראשונה
-Thon - Set. Galen,260305,1.85,3.05,2.65,https://www.winner.co.il,Thon,Set. Galen,ת'ון,סט. גאלן,שוויצרית ראשונה
-Winterthur - Servette,260303,4.4,3.6,1.35,https://www.winner.co.il,Winterthur,Servette,וינטרת'ור,סרבט ז'נבה,שוויצרית ראשונה
-Janros - Bogota International,260306,1.7,2.7,3.4,https://www.winner.co.il,Janros,Bogota International,יאנרוס,אינטרנסיונל בוגוטה,"קולומביאנית ראשונה, אפרטורה"
-Wealdstone - Morecambe,260303,1.75,3.05,2.9,https://www.winner.co.il,Wealdstone,Morecambe,וולדסטון,מורקאמב,אנגלית מחוזית
-Hamburg - Bayer Leverkusen,260304,3.2,3.35,2.0,https://www.winner.co.il,Hamburg,Bayer Leverkusen,המבורג,באייר לברקוזן,גרמנית ראשונה
-Kona Kuai - New Saints,260303,3.7,3.2,1.5,https://www.winner.co.il,Kona Kuai,New Saints,קונה קואיי,ניו סיינטס,וויילשית ראשונה
-Walsall - Fleetwood Town,260303,2.1,2.75,2.4,https://www.winner.co.il,Walsall,Fleetwood Town,וולסול,פליטווד טאון,אנגלית שניה
-Barry Town - Penybont,260303,1.6,3.0,3.45,https://www.winner.co.il,Barry Town,Penybont,בארי טאון,פניבונט,וויילשית ראשונה
-Rochdale - Berkeley Town,260303,1.15,3.8,8.0,https://www.winner.co.il,Rochdale,Berkeley Town,רוצ'דייל,ברקלי טאון,אנגלית מחוזית
-Glenthorne - Carrick Rangers,260303,1.4,3.25,4.5,https://www.winner.co.il,Glenthorne,Carrick Rangers,גלנטורן,קאריק,צפון אירית ראשונה
-Sportivo Locoano - Rubio no,260302,1.8,2.7,3.05,https://www.winner.co.il,Sportivo Locoano,Rubio no,ספורטיבו לוקואנו,רוביו נו,"פרגוואית ראשונה, אפרטורה"
-Sportivo San Lorenzo - Libertad Asuncion,260303,3.2,2.85,1.7,https://www.winner.co.il,Sportivo San Lorenzo,Libertad Asuncion,ספורטיבו סן לורנצו,ליברטד אסונסיון,"פרגוואית ראשונה, אפרטורה"
-Busan Park - Saungnam,260302,2.35,2.6,2.3,https://www.winner.co.il,Busan Park,Saungnam,בוסאן פארק,סאונגנאם,דרום קוריאנית שניה
-Antofagasta - Puerto Montt,260301,1.85,2.75,2.85,https://www.winner.co.il,Antofagasta,Puerto Montt,אנטופגסטה,פוארטו מונט,צ'יליאנית שניה
-from Gaines - San Marcos,260302,2.15,2.4,2.7,https://www.winner.co.il,from Gaines,San Marcos,מאגאיינס,סן מרקוס,צ'יליאנית שניה
-San Luis de Quilota - Kurisu Onido,260303,2.05,2.45,2.8,https://www.winner.co.il,San Luis de Quilota,Kurisu Onido,סן לואיס דה קילוטה,קוריסו אונידו,צ'יליאנית שניה
-Tigers - Real Cartagena,260303,3.25,2.65,1.8,https://www.winner.co.il,Tigers,Real Cartagena,טיגרס,ריאל קרטחנה,קולומביאנית שניה
-Dunfermline Athletic - Ross County,260303,2.05,2.65,2.6,https://www.winner.co.il,Dunfermline Athletic,Ross County,דאנפרמלין אתלטיק,רוס קאונטי,סקוטית שניה
-Grimsby - Salford City,260303,1.85,2.85,2.8,https://www.winner.co.il,Grimsby,Salford City,גרימסבי,סלפורד סיטי,אנגלית שניה
-Chesterfield - Colchester,260303,1.9,2.7,2.75,https://www.winner.co.il,Chesterfield,Colchester,צ'סטרפילד,קולצ'סטר,אנגלית שניה
-Rodina Moscow - Shinik Yaroslav,260302,1.5,2.9,4.2,https://www.winner.co.il,Rodina Moscow,Shinik Yaroslav,רודינה מוסקבה,שיניק ירוסלאב,רוסית שניה
-rape - Boca Juniors,260305,2.5,2.55,2.2,https://www.winner.co.il,rape,Boca Juniors,לאנוס,בוקה ג'וניורס,ארגנטינאית ראשונה
-Newell's Old Boys - Rosario Central,260301,3.35,2.55,1.8,https://www.winner.co.il,Newell's Old Boys,Rosario Central,ניואלס אולד בויס,רוסאריו סנטרל,ארגנטינאית ראשונה
-Estudiantes La Plata - Velez Sarsfield,260303,1.95,2.35,3.3,https://www.winner.co.il,Estudiantes La Plata,Velez Sarsfield,אסטודיאנטס לה פלטה,ולז סארספילד,ארגנטינאית ראשונה
-Deportivo Reistra - Platansa,260303,2.35,2.2,2.65,https://www.winner.co.il,Deportivo Reistra,Platansa,דפורטיבו רייסטרה,פלאטנסה,ארגנטינאית ראשונה
-Defensa i Justisia - rape,260302,2.15,2.55,2.55,https://www.winner.co.il,Defensa i Justisia,rape,דיפנסה אי חוסטיסיה,לאנוס,ארגנטינאית ראשונה
-Instituto Córdoba - Union Santa Fe,260302,2.15,2.45,2.7,https://www.winner.co.il,Instituto Córdoba,Union Santa Fe,אינסטיטוטו קורדובה,אוניון סנטה פה,ארגנטינאית ראשונה
-Tigra - Gymnasium La Plata,260302,1.8,2.5,3.35,https://www.winner.co.il,Tigra,Gymnasium La Plata,טיגרה,גימנסיה לה פלטה,ארגנטינאית ראשונה
-Argentinos Juniors - Barracks Central,260302,1.25,3.25,7.0,https://www.winner.co.il,Argentinos Juniors,Barracks Central,ארגנטינוס ג'וניורס,באראקס סנטרל,ארגנטינאית ראשונה
-at Anfield - aldusive,260303,1.7,2.6,3.55,https://www.winner.co.il,at Anfield,aldusive,באנפילד,אלדוסיבי,ארגנטינאית ראשונה
-Independiente Riveravia - River Plate,260303,2.6,2.65,2.05,https://www.winner.co.il,Independiente Riveravia,River Plate,אינדפנדיינטה ריברדביה,ריבר פלייט,ארגנטינאית ראשונה
-Atlético Tucuman - Racing Club,260304,2.65,2.55,2.1,https://www.winner.co.il,Atlético Tucuman,Racing Club,אתלטיקו טוקומן,ראסינג קלאב,ארגנטינאית ראשונה
-Huracan - Belgrano,260304,2.2,2.35,2.7,https://www.winner.co.il,Huracan,Belgrano,הוראקן,בלגראנו,ארגנטינאית ראשונה
-Sarmiento - Estudiantes Rio Cuarto,260303,1.95,2.4,3.15,https://www.winner.co.il,Sarmiento,Estudiantes Rio Cuarto,סארמיינטו,אסטודיאנטס ריו קווארטו,ארגנטינאית ראשונה
-Rotherham - Mansfield,260303,2.2,2.75,2.3,https://www.winner.co.il,Rotherham,Mansfield,רות'רהאם,מנספילד,אנגלית ראשונה
-Yeovil Town - Tamworth,260303,2.15,2.85,2.3,https://www.winner.co.il,Yeovil Town,Tamworth,יאוביל,טאמוורת',אנגלית מחוזית
-Birmingham City - Middlesbrough,260302,1.7,8.8,1.75,https://www.winner.co.il,Birmingham City,Middlesbrough,בירמינגהאם,מידלסברו,צ'מפיונשיפ
-Ipswich Town - Hull City,260303,1.3,3.55,5.0,https://www.winner.co.il,Ipswich Town,Hull City,איפסוויץ',האל,צ'מפיונשיפ
-Newport County - Tranmere Rovers,260303,2.5,2.75,2.05,https://www.winner.co.il,Newport County,Tranmere Rovers,ניופורט קאונטי,טראנמיר רוברס,אנגלית שניה
-Club Atlanta - Atlético Patronato Paraná,260303,1.8,2.45,3.6,https://www.winner.co.il,Club Atlanta,Atlético Patronato Paraná,קלאב אטלנטה,אתלטיקו פטרונטו פאראנה,ארגנטינאית שניה
-Salzburg - Altach,260304,1.3,3.55,5.2,https://www.winner.co.il,Salzburg,Altach,זלצבורג,אלטאך,גביע אוסטרי
-Reid - Lask Linz,260304,2.25,2.7,2.35,https://www.winner.co.il,Reid,Lask Linz,ריד,לאסק לינץ,גביע אוסטרי
-Southend United - Truro City,260303,1.2,3.8,6.0,https://www.winner.co.il,Southend United,Truro City,סאות'נד יונייטד,טרורו סיטי,אנגלית מחוזית
-Kyphisias - PAOK,260304,6.8,3.8,1.2,https://www.winner.co.il,Kyphisias,PAOK,קיפיסיאס,פאוק סלוניקי,יוונית ראשונה
-Panathinaikos - OFI Crete,260304,1.35,3.3,4.7,https://www.winner.co.il,Panathinaikos,OFI Crete,פנאתינייקוס,אופי כרתים,יוונית ראשונה
-Boston United - Woking,260303,1.85,2.8,2.8,https://www.winner.co.il,Boston United,Woking,בוסטון יונייטד,ווקינג,אנגלית מחוזית
-mint - Independiente del Valle,260303,4.4,3.05,1.45,https://www.winner.co.il,mint,Independiente del Valle,מנטה,אינדפנדיינטה דל ואלה,אקוודורית ראשונה
-Strasbourg - Stade Reims,260303,1.5,3.55,4.5,https://www.winner.co.il,Strasbourg,Stade Reims,שטראסבורג,ריימס,גביע צרפתי
-Lorient - Nice,260304,2.0,3.15,2.85,https://www.winner.co.il,Lorient,Nice,לוריין,ניס,גביע צרפתי
-Marseille - Toulouse,260304,1.5,3.55,4.4,https://www.winner.co.il,Marseille,Toulouse,מארסיי,טולוז,גביע צרפתי
-Lyon - Lens,260305,2.2,3.15,2.5,https://www.winner.co.il,Lyon,Lens,ליון,לאנס,גביע צרפתי
-Alkmaar - Telstar,260304,1.3,3.85,4.7,https://www.winner.co.il,Alkmaar,Telstar,אלקמאר,טלסטאר,גביע הולנדי
-Nijmegen - FC Eindhoven,260303,3.2,3.45,1.55,https://www.winner.co.il,Nijmegen,FC Eindhoven,ניימיכן,איינדהובן,גביע הולנדי
-Sporting CP - FC Porto,260303,1.9,2.6,3.0,https://www.winner.co.il,Sporting CP,FC Porto,ספורטינג ליסבון,פורטו,גביע פורטוגלי
-Amiens SC - Troyes,260302,3.2,2.9,1.7,https://www.winner.co.il,Amiens SC,Troyes,אמיין,טרואה,צרפתית שניה
-East Bengal - Goa,260305,1.75,2.9,3.0,https://www.winner.co.il,East Bengal,Goa,איסט בנגל,גואה,הודית ראשונה
-Aberdeen - Celtic,260304,4.6,3.55,1.35,https://www.winner.co.il,Aberdeen,Celtic,אברדין,סלטיק,סקוטית ראשונה
-Deportivo Maldonado - Hobantod Las Piedades,260303,1.65,2.75,3.45,https://www.winner.co.il,Deportivo Maldonado,Hobantod Las Piedades,דפורטיבו מלדונדו,חובנטוד לאס פיאדרס,אורוגוואית ראשונה
-Como - Inter,260303,2.75,3.0,2.1,https://www.winner.co.il,Como,Inter,קומו,אינטר,גביע איטלקי
-Kakamega - Bummt,260302,1.5,2.8,4.4,https://www.winner.co.il,Kakamega,Bummt,קקמגה,בומט,קנייתית ראשונה
-Lazio - Atalanta,260304,3.0,3.0,2.0,https://www.winner.co.il,Lazio,Atalanta,לאציו,אטאלנטה,גביע איטלקי
-Dinamo Bucureşti - Metalol Buzau,260305,1.15,3.9,8.2,https://www.winner.co.il,Dinamo Bucureşti,Metalol Buzau,דינמו בוקרשט,מטאלול בוזאו,גביע רומני
-Universitatea Cluj - Hermannstadt,260303,1.55,2.85,4.0,https://www.winner.co.il,Universitatea Cluj,Hermannstadt,אונבירסיטטה קלוז',הרמנשטאדש,גביע רומני
-Universitatea Craiova - CFR 1907 Cluj,260304,1.9,2.7,2.8,https://www.winner.co.il,Universitatea Craiova,CFR 1907 Cluj,קלאב ספורט אוניברסיטטה קראיובה,קלוז',גביע רומני
-Champions Crate - Gloria Bystrica,260304,1.3,3.45,5.6,https://www.winner.co.il,Champions Crate,Gloria Bystrica,צ'מפיונס ארגס,גלוריה ביסטריצה,גביע רומני
-Port Vale - Bristol City,260303,3.55,3.2,1.75,https://www.winner.co.il,Port Vale,Bristol City,פורט וייל,בריסטול סיטי,גביע אנגלי
-Chengdu Rongcheng - Shenzhen Feng City,260306,1.1,4.2,8.0,https://www.winner.co.il,Chengdu Rongcheng,Shenzhen Feng City,צ'נגדו רונגצ'נג,שנזן פנג סיטי,סינית ראשונה
-Wolves - Liverpool,260306,5.4,4.2,1.35,https://www.winner.co.il,Wolves,Liverpool,וולבס,ליברפול,גביע אנגלי
-artist - Jong Utrecht,260302,1.75,3.15,2.7,https://www.winner.co.il,artist,Jong Utrecht,אמן,אוטרכט מילואים,הולנדית שניה
-Falkirk - Dundee United,260306,1.7,2.9,3.15,https://www.winner.co.il,Falkirk,Dundee United,פאלקירק,דנדי יונייטד,גביע סקוטלנד
-Maderoira - flamenco,260303,8.0,3.6,1.2,https://www.winner.co.il,Maderoira,flamenco,מדוריירה,פלמנגו,"אליפות קאריוקה, ברזיל"
-Cambor - Elmira City,260303,1.6,3.45,3.0,https://www.winner.co.il,Cambor,Elmira City,קאמבור,אלמירה סיטי,הולנדית שניה
-Doncaster - Stockport,260303,2.2,2.85,2.2,https://www.winner.co.il,Doncaster,Stockport,דונקסטר,סטוקפורט,גביע ליגות נמוכות
-Aberroth - Air United,260303,2.05,2.85,2.45,https://www.winner.co.il,Aberroth,Air United,אברואת',אייר יונייטד,סקוטית שניה
-Hartlepool - Sutton United,260303,1.75,2.95,2.95,https://www.winner.co.il,Hartlepool,Sutton United,הארטלפול,סאטון יונייטד,אנגלית מחוזית
-Gangwon - Machida Zelbia,260303,2.7,2.7,1.95,https://www.winner.co.il,Gangwon,Machida Zelbia,גאנגוון,מצ'ידה זלביה,ליגת האלופות האסיאתית
-Seoul - Whistle Cuba,260304,2.4,2.75,2.15,https://www.winner.co.il,Seoul,Whistle Cuba,סיאול,ויסל קובה,ליגת האלופות האסיאתית
-Johor Darul Tazim - Surferza Hiroshima,260304,2.35,2.85,2.15,https://www.winner.co.il,Johor Darul Tazim,Surferza Hiroshima,ג'והור דרול טזים,סנפרצה הירושימה,ליגת האלופות האסיאתית
-Melbourne City - Buriram United,260303,2.0,2.85,2.5,https://www.winner.co.il,Melbourne City,Buriram United,מלבורן סיטי,בוריראם יונייטד,ליגת האלופות האסיאתית
-Set. Patrick - Galway,260302,1.6,2.8,3.7,https://www.winner.co.il,Set. Patrick,Galway,סט. פטריק,גאלוואי,אירית ראשונה
-Gateshead - Braintree,260304,1.75,3.15,2.85,https://www.winner.co.il,Gateshead,Braintree,גייטסהד,בריינטרי,אנגלית מחוזית
-aluminum - roasting,260305,4.3,3.55,1.35,https://www.winner.co.il,aluminum,roasting,אלומיני,צלייה,סלובנית ראשונה
-Rafid Vienna amateurs - Austria Salzburg,260303,2.45,2.95,2.0,https://www.winner.co.il,Rafid Vienna amateurs,Austria Salzburg,רפיד וינה חובבים,אוסטריה זלצבורג,אוסטרית שניה
-Rayo Vallecano - Real Oviedo,260304,1.65,3.45,4.8,https://www.winner.co.il,Rayo Vallecano,Real Oviedo,ראיו וייקאנו,אוביידו,ספרדית ראשונה
-Javelin - Don't spray,260302,1.65,2.85,3.3,https://www.winner.co.il,Javelin,Don't spray,ג'בליין,אל זלפה,סעודית שניה
-Al Arabi (KWT) - Jeddah Club,260302,2.3,2.7,2.25,https://www.winner.co.il,Al Arabi (KWT),Jeddah Club,אל ערבי,ג'דה קלאב,סעודית שניה
-Adela - Al Faisali,260302,3.25,3.05,1.65,https://www.winner.co.il,Adela,Al Faisali,אדלה,אל פייסאלי,סעודית שניה
-Al Draih - Al Batin,260302,1.25,3.7,6.0,https://www.winner.co.il,Al Draih,Al Batin,אל דרייה,אל באטין,סעודית שניה
-in Baltica Kalingrad - Zenit St. Petersburg,260303,3.2,2.75,1.75,https://www.winner.co.il,in Baltica Kalingrad,Zenit St. Petersburg,בלטיקה קלינגרד,זניט סט. פטרסבורג,גביע רוסי
-Barcelona - Atlético Madrid,260303,1.45,4.1,4.0,https://www.winner.co.il,Barcelona,Atlético Madrid,ברצלונה,אתלטיקו מדריד,גביע ספרדי
-Independiente Petrolero - Guavira Montero,260303,1.8,2.95,2.9,https://www.winner.co.il,Independiente Petrolero,Guavira Montero,אינדפנדיינטה פטרולרו,גואבירה מונטרו,סוד אמריקנה
-Montevideo City Turku - Sporting Defensor,260303,1.85,2.65,3.0,https://www.winner.co.il,Montevideo City Turku,Sporting Defensor,מונטווידאו סיטי טורקו,ספורטינג דפנסור,סוד אמריקנה
-Puerto Cabello - Mongoose,260304,1.7,2.8,3.25,https://www.winner.co.il,Puerto Cabello,Mongoose,פוארטו קבייו,מונגס,סוד אמריקנה
-Alianza Atlético - Deportivo Gracilso,260304,1.8,2.65,3.15,https://www.winner.co.il,Alianza Atlético,Deportivo Gracilso,אליאנסה אתלטיקו,דפורטיבו גרסילסו,סוד אמריקנה
-Coversel - Odex Italiano,260304,1.75,2.8,3.15,https://www.winner.co.il,Coversel,Odex Italiano,קוברסל,אודקס איטליאנו,סוד אמריקנה
-Macarthur FC - Central Coast Mariners,260304,1.5,3.3,3.65,https://www.winner.co.il,Macarthur FC,Central Coast Mariners,מאקארתור,סנטרל קואסט,אוסטרלית ראשונה
-Rostov - FC Dynamo Makhachkala,260304,1.7,2.65,3.45,https://www.winner.co.il,Rostov,FC Dynamo Makhachkala,רוסטוב,פ.צ דינמו מחצ'קלה,גביע רוסי
-Karelia Sobtov - Orenburg,260304,2.2,2.9,2.25,https://www.winner.co.il,Karelia Sobtov,Orenburg,קריליה סובטוב,אורנבורג,גביע רוסי
-Real Sociedad - Athletic Bilbao,260304,1.9,3.0,3.2,https://www.winner.co.il,Real Sociedad,Athletic Bilbao,ריאל סוסיאדד,אתלטיק בילבאו,גביע ספרדי
-radome - Areca Gdynia,260305,1.55,2.95,3.7,https://www.winner.co.il,radome,Areca Gdynia,ראדום,ארקה גדיניה,פולנית ראשונה
-Luton - Northampton,260304,1.4,3.3,4.3,https://www.winner.co.il,Luton,Northampton,לוטון,נורת'המפטון,גביע ליגות נמוכות
-Blooming Santa Cruz - San Antonio Bolo Bolo,260304,1.55,3.15,3.6,https://www.winner.co.il,Blooming Santa Cruz,San Antonio Bolo Bolo,בלומינג סנטה קרוז,סן אנטוניו בולו בולו,סוד אמריקנה
-Cambrian & Kilditch - Tarthomas,260301,1.1,4.3,8.6,https://www.winner.co.il,Cambrian & Kilditch,Tarthomas,קמבריאן&קלידץ',טרתומס,וולשית שניה דרום
-Sportivo Trinidadana - Club Olympia,260305,3.2,2.75,1.75,https://www.winner.co.il,Sportivo Trinidadana,Club Olympia,ספורטיבו טרינידנסה,קלאב אולימפיה,סוד אמריקנה
-Cuenca - Libertad board,260305,1.6,2.8,3.8,https://www.winner.co.il,Cuenca,Libertad board,קואנקה,ליברטאד לוחה,סוד אמריקנה
-Universidad de Chile - Palestine,260305,1.45,3.05,4.2,https://www.winner.co.il,Universidad de Chile,Palestine,אוניברסידד דה צ'ילה,פלסטינו,סוד אמריקנה
-Caracas - Metropolitanus,260304,1.75,2.7,3.3,https://www.winner.co.il,Caracas,Metropolitanus,קראקאס,מטרופוליטנוס,סוד אמריקנה
-National Medellin - A millionaire,260305,1.5,2.8,4.3,https://www.winner.co.il,National Medellin,A millionaire,נאסיונל מדיין,מילונאריוס,סוד אמריקנה
-Karbobo - Sporting Crystal,260304,2.2,2.7,2.4,https://www.winner.co.il,Karbobo,Sporting Crystal,קרבובו,ספורטינג קריסטל,גביע ליברטדורס
-Arsenal Tula - Locomotive Moscow,260305,6.0,3.85,1.2,https://www.winner.co.il,Arsenal Tula,Locomotive Moscow,ארסנל טולה,לוקומוטיב מוסקבה,גביע רוסי
-Rayo Cantabria - Lalted de Villaviciosa,260301,1.6,2.95,3.55,https://www.winner.co.il,Rayo Cantabria,Lalted de Villaviciosa,ראיו קנטבריה,לאלטד דה וילוויסיוסה,ספרדית רביעית
-Boston River - Montevideo Racing Club,260305,2.1,2.6,2.55,https://www.winner.co.il,Boston River,Montevideo Racing Club,בוסטון ריבר,ראסינג קלאב מונטוידיאו,סוד אמריקנה
-Nacional Asuncion - raclette,260305,1.5,3.0,4.2,https://www.winner.co.il,Nacional Asuncion,raclette,נאסיונל אסונסיון,רקולטה,סוד אמריקנה
-Barcelona Sporting Club - Botafogo,260304,2.15,2.7,2.45,https://www.winner.co.il,Barcelona Sporting Club,Botafogo,ברצלונה ספורטינג קלאב,בוטאפוגו,גביע ליברטדורס
-America de Cali - Atletico Bucaramanga,260306,1.9,2.55,2.95,https://www.winner.co.il,America de Cali,Atletico Bucaramanga,אמריקה דה קאלי,אתלטיקו בוקרמנגה,סוד אמריקנה
-Cianciano - Malgar,260306,2.15,2.85,2.35,https://www.winner.co.il,Cianciano,Malgar,סיאנסיאנו,מלגאר,סוד אמריקנה
-Ornessa - case,260306,1.75,2.65,3.3,https://www.winner.co.il,Ornessa,case,אורנסה,מקרה,סוד אמריקנה
-Dundee United - St. Mirren,260303,2.1,2.8,2.4,https://www.winner.co.il,Dundee United,St. Mirren,דנדי יונייטד,סט. מירן,סקוטית ראשונה
-Hobantod Las Piedades - Independiente Medellín,260306,2.55,2.7,2.05,https://www.winner.co.il,Hobantod Las Piedades,Independiente Medellín,חובנטוד לאס פיאדרס,אינדפנדיינטה מדיין,גביע ליברטדורס
-O'Higgins - Tolima,260305,2.0,2.65,2.65,https://www.winner.co.il,O'Higgins,Tolima,או'היגינס,טולימה,גביע ליברטדורס
-Check out United - Ulinzi,260302,2.35,2.55,2.3,https://www.winner.co.il,Check out United,Ulinzi,בידקו יונייטד,יולינזי,קנייתית ראשונה
-Alliance - San Francisco FC,260303,1.95,2.7,2.7,https://www.winner.co.il,Alliance,San Francisco FC,אליאנצה,סאן פרנסיסקו אף.סי,"פנמית ראשונה, קלאוסורה"
-Columba - Stade Renard,260302,1.8,2.7,3.1,https://www.winner.co.il,Columba,Stade Renard,קולומבה,סטאד רנאר,קמרונית ראשונה
-Gandsar Kapan - Noah,260302,5.0,3.25,1.35,https://www.winner.co.il,Gandsar Kapan,Noah,גנדסאר קאפאן,נואה,ארמנית ראשונה
+Zenit St. Petersburg - Spartak Moscow,260314,1.55,3.0,3.65,https://www.winner.co.il,Zenit St. Petersburg,Spartak Moscow,זניט סט. פטרסבורג,ספרטק מוסקבה,רוסית ראשונה
+Rostov - Dynamo Moscow,260314,2.55,2.85,2.0,https://www.winner.co.il,Rostov,Dynamo Moscow,רוסטוב,דינמו מוסקבה,רוסית ראשונה
+Nizhny Novgorod - Karelia Sobtov,260315,1.95,2.75,2.65,https://www.winner.co.il,Nizhny Novgorod,Karelia Sobtov,ניז'ני נובוגרד,קריליה סובטוב,רוסית ראשונה
+Robin Kazan - Locomotive Moscow,260315,2.6,2.8,1.95,https://www.winner.co.il,Robin Kazan,Locomotive Moscow,רובין קאזאן,לוקומוטיב מוסקבה,רוסית ראשונה
+in Baltica Kalingrad - CSKA Moscow,260314,2.3,2.7,2.25,https://www.winner.co.il,in Baltica Kalingrad,CSKA Moscow,בלטיקה קלינגרד,"צסק""א מוסקבה",רוסית ראשונה
+Akron Togliatti - Akhmet Grozny,260315,2.35,2.8,2.15,https://www.winner.co.il,Akron Togliatti,Akhmet Grozny,אקרון טוליאטי,אחמט גרוזני,רוסית ראשונה
+Sochi - Krasnodar,260314,5.0,3.5,1.3,https://www.winner.co.il,Sochi,Krasnodar,סוצ'י,קרסנודר,רוסית ראשונה
+FC Dynamo Makhachkala - Orenburg,260313,1.9,2.65,2.9,https://www.winner.co.il,FC Dynamo Makhachkala,Orenburg,פ.צ דינמו מחצ'קלה,אורנבורג,רוסית ראשונה
+Wisla Krakow - Madez laznica,260313,1.4,3.4,4.1,https://www.winner.co.il,Wisla Krakow,Madez laznica,ויסלה קראקוב,מיידז לזניקה,ליגה פולנית שנייה
+The ruins of Glogov - Neipulomycea,260313,1.95,2.75,2.65,https://www.winner.co.il,The ruins of Glogov,Neipulomycea,חרוברי גלוגוף,נייפולומיצה,ליגה פולנית שנייה
+Colossus Koblibka - Zoria,260315,2.25,2.7,2.3,https://www.winner.co.il,Colossus Koblibka,Zoria,קולוס קובליבקה,זוריה,אוקראינית ראשונה
+Dynamo Kyiv - Obolon Kyiv,260313,1.3,3.4,5.4,https://www.winner.co.il,Dynamo Kyiv,Obolon Kyiv,דינמו קייב,אובולון קייב,אוקראינית ראשונה
+L. N. Z. Cherkasy - Alexandria,260314,1.4,3.0,5.0,https://www.winner.co.il,L. N. Z. Cherkasy,Alexandria,אל.אנ.זי צ'רקסי,אולכסנדרייה,אוקראינית ראשונה
+Shakhtar Donetsk - Metalist 1925,260315,1.2,3.8,6.6,https://www.winner.co.il,Shakhtar Donetsk,Metalist 1925,שחטאר דונייצק,מטאליסט 1925,אוקראינית ראשונה
+Cooper - roasting,260315,2.35,3.05,2.05,https://www.winner.co.il,Cooper,roasting,קופר,צלייה,סלובנית ראשונה
+Maribor - Teacher 05,260314,1.3,3.5,4.8,https://www.winner.co.il,Maribor,Teacher 05,מאריבור,מורה 05,סלובנית ראשונה
+Primorye - aluminum,260315,2.1,2.95,2.35,https://www.winner.co.il,Primorye,aluminum,פרימורייה,אלומיני,סלובנית ראשונה
+Radomelia - Olympia Ljubljana,260314,3.15,2.9,1.7,https://www.winner.co.il,Radomelia,Olympia Ljubljana,רדומלייה,אולימפיה לובליאנה,סלובנית ראשונה
+Austria Klagenfurt - Wayne,260313,2.9,2.85,1.8,https://www.winner.co.il,Austria Klagenfurt,Wayne,אוסטריה קלגנפורט,וויין,אוסטרית שניה
+Hertha Wells - Kappenberger,260313,1.75,2.9,2.95,https://www.winner.co.il,Hertha Wells,Kappenberger,הרטה וולס,קאפפנברגר,אוסטרית שניה
+Bregenz - Admira Vacker,260313,4.0,3.35,1.45,https://www.winner.co.il,Bregenz,Admira Vacker,ברגנץ,אדמירה ואקר,אוסטרית שניה
+Rafid Vienna amateurs - Amstetten,260313,3.65,3.25,1.5,https://www.winner.co.il,Rafid Vienna amateurs,Amstetten,רפיד וינה חובבים,אמסטטן,אוסטרית שניה
+Austria Salzburg - Lipring,260313,2.65,3.05,1.85,https://www.winner.co.il,Austria Salzburg,Lipring,אוסטריה זלצבורג,ליפרינג,אוסטרית שניה
+Indeed - Qutbs Energy,260313,2.35,3.0,2.05,https://www.winner.co.il,Indeed,Qutbs Energy,אאכן,אנרגי קוטבוס,גרמנית שלישית
+B93 Copenhagen - Cog,260313,2.05,3.05,2.3,https://www.winner.co.il,B93 Copenhagen,Cog,בי93 קופנהגן,קוג,דנית שניה
+Lingby - Middlepart,260313,1.25,3.8,5.6,https://www.winner.co.il,Lingby,Middlepart,לינגבי,מידלפארט,דנית שניה
+Pakshi - Zalgareshgi,260314,1.65,3.1,3.05,https://www.winner.co.il,Pakshi,Zalgareshgi,פאקשי,ז'לגרשגי,הונגרית ראשונה
+Opsht - Kisbarda,260314,1.8,2.85,2.9,https://www.winner.co.il,Opsht,Kisbarda,אויפשט,קיסברדה,הונגרית ראשונה
+Diosghori - Kazinsbartsycki,260313,1.45,3.1,4.0,https://www.winner.co.il,Diosghori,Kazinsbartsycki,דיושגורי,קזינסברציקי,הונגרית ראשונה
+ITO conversion - M.T.K. Budapest,260313,1.3,3.8,4.4,https://www.winner.co.il,ITO conversion,M.T.K. Budapest,אי.טי.או גיור,מ.ט.ק. בודפשט,הונגרית ראשונה
+talkative - Spartacus,260314,1.8,2.8,2.95,https://www.winner.co.il,talkative,Spartacus,דברצני,ספרטקוס,הונגרית ראשונה
+Areca Gdynia - Widzew Lodz,260315,2.7,2.75,1.95,https://www.winner.co.il,Areca Gdynia,Widzew Lodz,ארקה גדיניה,וידז'ב לודז',פולנית ראשונה
+Tremlika - Motor Lublin,260313,2.0,3.05,2.4,https://www.winner.co.il,Tremlika,Motor Lublin,טרמליקה,מוטור לובלין,פולנית ראשונה
+Zhable Lubin - Go to Poznan,260315,3.0,2.85,1.8,https://www.winner.co.il,Zhable Lubin,Go to Poznan,ז'גלבי לובין,לך פוזנן,פולנית ראשונה
+Gornik - Rotten Chestkhova,260315,2.15,2.75,2.35,https://www.winner.co.il,Gornik,Rotten Chestkhova,גורניק,רקוב צ'סטחובה,פולנית ראשונה
+radome - Legia Warsaw,260313,2.45,2.9,2.0,https://www.winner.co.il,radome,Legia Warsaw,ראדום,לגיה ורשה,פולנית ראשונה
+Szczecin - Corona Kielce,260316,1.75,3.0,2.85,https://www.winner.co.il,Szczecin,Corona Kielce,שצ'צ'ין,קורונה קיילצה,פולנית ראשונה
+Krakow Krakow - Wisla Plucek,260314,1.8,2.75,3.1,https://www.winner.co.il,Krakow Krakow,Wisla Plucek,קרקוביה קרקוב,ויסלה פלוצק,פולנית ראשונה
+Bialystok - Glibice,260314,1.6,2.95,3.45,https://www.winner.co.il,Bialystok,Glibice,ביאליסטוק,גליביצ'ה,פולנית ראשונה
+Katowice - Lachia Gdansk,260314,2.15,3.0,2.25,https://www.winner.co.il,Katowice,Lachia Gdansk,קאטוביץ',לכיה גדנסק,פולנית ראשונה
+Greenock - Partick thistle,260313,3.25,2.8,1.7,https://www.winner.co.il,Greenock,Partick thistle,גרינוק,פרטיק ת'יסל,סקוטית שניה
+Reika - Istra,260315,1.4,3.15,4.6,https://www.winner.co.il,Reika,Istra,רייקה,איסטרה,קרואטית ראשונה
+Osayk - Goritza,260314,1.95,2.55,2.9,https://www.winner.co.il,Osayk,Goritza,אוסייק,גוריצה,קרואטית ראשונה
+Dinamo Zagreb - Slavan,260314,1.2,3.9,6.0,https://www.winner.co.il,Dinamo Zagreb,Slavan,דינמו זגרב,סלאבן,קרואטית ראשונה
+and Razdin - Vokovar,260313,1.8,2.8,3.0,https://www.winner.co.il,and Razdin,Vokovar,ורזדין,ווקובאר,קרואטית ראשונה
+Haydock Split - Lokomotiva Zagreb,260315,1.45,3.1,4.2,https://www.winner.co.il,Haydock Split,Lokomotiva Zagreb,היידוק ספליט,לוקומוטיבה זאגרב,קרואטית ראשונה
+Radnicki Nice - Spartak Subotica,260314,1.55,2.9,3.8,https://www.winner.co.il,Radnicki Nice,Spartak Subotica,רדניצקי ניס,ספרטק סובוטיצה,סרבית ראשונה
+Radnik Sordolica - Yavor Ivanita,260314,1.7,2.75,3.45,https://www.winner.co.il,Radnik Sordolica,Yavor Ivanita,ראדניק סורדוליצה,יאבור איבניצה,סרבית ראשונה
+break up - OK Belgrade,260316,2.95,2.9,1.75,https://www.winner.co.il,break up,OK Belgrade,נפרדק,או.אפ.קיי בלגרד,סרבית ראשונה
+IMT Novi Belgrade - Red Star Belgrade,260315,7.8,4.1,1.15,https://www.winner.co.il,IMT Novi Belgrade,Red Star Belgrade,איי.אם.טי נובי בלגרד,הכוכב האדום בלגרד,סרבית ראשונה
+Partisan Belgrade - Topola edema,260314,1.4,3.35,4.5,https://www.winner.co.il,Partisan Belgrade,Topola edema,פרטיזן בלגרד,בצקה טופולה,סרבית ראשונה
+Zelzenicher Panchevo - Maldust Lockney,260315,1.4,2.95,4.9,https://www.winner.co.il,Zelzenicher Panchevo,Maldust Lockney,זלזניצ'ר פנצ'בו,מלדוסט לוקני,סרבית ראשונה
+Radnitsky 1923 - Vividina Novi Sad,260315,2.35,2.85,2.1,https://www.winner.co.il,Radnitsky 1923,Vividina Novi Sad,רדניצקי 1923,וויוודינה נובי סאד,סרבית ראשונה
+Novi scattered - Cukrichki Belgrade,260315,1.95,2.75,2.65,https://www.winner.co.il,Novi scattered,Cukrichki Belgrade,נובי פזר,צ'וקריצ'קי בלגרד,סרבית ראשונה
+Birmingham City - Queens Park Rangers,260311,1.45,3.1,4.1,https://www.winner.co.il,Birmingham City,Queens Park Rangers,בירמינגהאם,קווינס פארק ריינג'רס,צ'מפיונשיפ
+Norwich City - Sheffield United,260311,2.15,2.85,2.35,https://www.winner.co.il,Norwich City,Sheffield United,נוריץ',שפילד יונייטד,צ'מפיונשיפ
+Middlesbrough - Charlton Athletic,260311,1.25,10.5,2.85,https://www.winner.co.il,Middlesbrough,Charlton Athletic,מידלסברו,צ'רלטון,צ'מפיונשיפ
+West Bromwich - Southampton,260311,1.9,7.8,1.65,https://www.winner.co.il,West Bromwich,Southampton,ווסט ברומיץ',סאות'המפטון,צ'מפיונשיפ
+Birmingham City - Sheffield United,260314,2.0,2.95,2.4,https://www.winner.co.il,Birmingham City,Sheffield United,בירמינגהאם,שפילד יונייטד,צ'מפיונשיפ
+Oxford United - Blackburn Rovers,260311,2.3,2.55,2.4,https://www.winner.co.il,Oxford United,Blackburn Rovers,אוקספורד יונייטד,בלקבורן,צ'מפיונשיפ
+Coventry City - Preston North End,260311,1.3,3.55,4.8,https://www.winner.co.il,Coventry City,Preston North End,קובנטרי,פרסטון,צ'מפיונשיפ
+Coventry City - Southampton,260314,1.6,3.2,3.2,https://www.winner.co.il,Coventry City,Southampton,קובנטרי,סאות'המפטון,צ'מפיונשיפ
+Millwall - Blackburn Rovers,260314,1.55,2.9,4.0,https://www.winner.co.il,Millwall,Blackburn Rovers,מילוול,בלקבורן,צ'מפיונשיפ
+Norwich City - Preston North End,260314,1.45,3.2,4.0,https://www.winner.co.il,Norwich City,Preston North End,נוריץ',פרסטון,צ'מפיונשיפ
+Middlesbrough - Bristol City,260314,1.4,3.3,4.2,https://www.winner.co.il,Middlesbrough,Bristol City,מידלסברו,בריסטול סיטי,צ'מפיונשיפ
+Leicester City - Queens Park Rangers,260314,1.9,2.85,2.7,https://www.winner.co.il,Leicester City,Queens Park Rangers,לסטר,קווינס פארק ריינג'רס,צ'מפיונשיפ
+Oxford United - Charlton Athletic,260314,1.9,2.65,2.85,https://www.winner.co.il,Oxford United,Charlton Athletic,אוקספורד יונייטד,צ'רלטון,צ'מפיונשיפ
+Sheffield Wednesday - Ipswich Town,260314,7.6,4.2,1.15,https://www.winner.co.il,Sheffield Wednesday,Ipswich Town,שפילד וונסדיי,איפסוויץ',צ'מפיונשיפ
+West Bromwich - Hull City,260314,1.85,2.8,2.8,https://www.winner.co.il,West Bromwich,Hull City,ווסט ברומיץ',האל,צ'מפיונשיפ
+Stoke City - Watford,260314,2.25,2.75,2.25,https://www.winner.co.il,Stoke City,Watford,סטוק,ווטפורד,צ'מפיונשיפ
+Wrexham - Swansea City,260313,1.95,2.8,2.65,https://www.winner.co.il,Wrexham,Swansea City,רקסהאם,סוונסי,צ'מפיונשיפ
+artist - Dan Haag,260313,3.9,3.45,1.4,https://www.winner.co.il,artist,Dan Haag,אמן,דן האג,הולנדית שניה
+Jong Ajax - Dan Boss,260313,2.5,3.2,1.85,https://www.winner.co.il,Jong Ajax,Dan Boss,אייאקס מילואים,דן בוס,הולנדית שניה
+Jong Utrecht - Helmond Sport,260313,1.6,3.2,3.15,https://www.winner.co.il,Jong Utrecht,Helmond Sport,אוטרכט מילואים,הלמונד ספורט,הולנדית שניה
+PSV Eindhoven reserve - P.C. Eindhoven,260313,2.0,3.15,2.35,https://www.winner.co.il,PSV Eindhoven reserve,P.C. Eindhoven,פ.ס.וו איינדהובן מילואים,פ.צ. איינדהובן,הולנדית שניה
+Maastricht - and fall,260313,2.55,3.15,1.85,https://www.winner.co.il,Maastricht,and fall,מאסטריכט,ונלו,הולנדית שניה
+R.K.S - Jong AZ,260313,1.65,3.3,2.95,https://www.winner.co.il,R.K.S,Jong AZ,ר.ק.ס,אלקמאר מילואים,הולנדית שניה
+Cambor - Rhoda,260313,1.45,3.45,3.6,https://www.winner.co.il,Cambor,Rhoda,קאמבור,רודה,הולנדית שניה
+Aus - Willem,260313,2.85,3.15,1.7,https://www.winner.co.il,Aus,Willem,אוס,ווילם,הולנדית שניה
+Vitsa Arnheim - Elmira City,260313,2.15,3.2,2.1,https://www.winner.co.il,Vitsa Arnheim,Elmira City,ויטסה ארנהיים,אלמירה סיטי,הולנדית שניה
+Dan Boss - PSV Eindhoven reserve,260316,1.55,3.55,3.0,https://www.winner.co.il,Dan Boss,PSV Eindhoven reserve,דן בוס,פ.ס.וו איינדהובן מילואים,הולנדית שניה
+Helmond Sport - Cambor,260316,3.55,3.35,1.5,https://www.winner.co.il,Helmond Sport,Cambor,הלמונד ספורט,קאמבור,הולנדית שניה
+Jong AZ - Maastricht,260316,1.5,3.4,3.45,https://www.winner.co.il,Jong AZ,Maastricht,אלקמאר מילואים,מאסטריכט,הולנדית שניה
+Rhoda - Vitsa Arnheim,260316,1.7,3.2,2.85,https://www.winner.co.il,Rhoda,Vitsa Arnheim,רודה,ויטסה ארנהיים,הולנדית שניה
+Arsenal - Everton,260314,1.35,4.4,7.6,https://www.winner.co.il,Arsenal,Everton,ארסנל,אברטון,פרמייר ליג
+Burnley - Bournemouth,260314,3.75,3.55,1.8,https://www.winner.co.il,Burnley,Bournemouth,ברנלי,בורנמות',פרמייר ליג
+Chelsea - Newcastle United,260314,1.75,3.85,3.6,https://www.winner.co.il,Chelsea,Newcastle United,צ'לסי,ניוקאסל,פרמייר ליג
+Liverpool - Tottenham,260315,1.3,5.0,7.0,https://www.winner.co.il,Liverpool,Tottenham,ליברפול,טוטנהאם,פרמייר ליג
+Manchester United - Aston Villa,260315,1.7,3.7,4.0,https://www.winner.co.il,Manchester United,Aston Villa,מנצ'סטר יונייטד,אסטון וילה,פרמייר ליג
+Crystal Palace - Leeds United,260315,2.25,3.1,2.9,https://www.winner.co.il,Crystal Palace,Leeds United,קריסטל פאלאס,לידס,פרמייר ליג
+Sunderland - Brighton,260314,3.15,3.1,2.15,https://www.winner.co.il,Sunderland,Brighton,סנדרלנד,ברייטון,פרמייר ליג
+Nottingham Forest - Fulham,260315,2.1,3.2,3.1,https://www.winner.co.il,Nottingham Forest,Fulham,נוטינגהאם פורסט,פולהאם,פרמייר ליג
+West Ham - Manchester City,260314,4.2,3.95,1.6,https://www.winner.co.il,West Ham,Manchester City,ווסטהאם,מנצ'סטר סיטי,פרמייר ליג
+Persis Solo - Bali United,260312,2.3,3.0,2.1,https://www.winner.co.il,Persis Solo,Bali United,פרסיס סולו,באלי יונייטד,אינדונזית ראשונה
+Deportivo Alavés - Villarreal,260313,3.2,3.2,2.05,https://www.winner.co.il,Deportivo Alavés,Villarreal,אלאבס,ויאריאל,ספרדית ראשונה
+Atlético Madrid - Getafe,260314,1.5,3.55,6.2,https://www.winner.co.il,Atlético Madrid,Getafe,אתלטיקו מדריד,חטאפה,ספרדית ראשונה
+Barcelona - Sevilla,260315,1.2,5.8,8.2,https://www.winner.co.il,Barcelona,Sevilla,ברצלונה,סביליה,ספרדית ראשונה
+Real Betis - Celta de Vigo,260315,2.1,3.1,3.2,https://www.winner.co.il,Real Betis,Celta de Vigo,ריאל בטיס,סלטה ויגו,ספרדית ראשונה
+Girona - Athletic Bilbao,260314,2.6,3.1,2.45,https://www.winner.co.il,Girona,Athletic Bilbao,ג'ירונה,אתלטיק בילבאו,ספרדית ראשונה
+Real Oviedo - Valencia,260314,2.7,3.0,2.45,https://www.winner.co.il,Real Oviedo,Valencia,אוביידו,ולנסיה,ספרדית ראשונה
+Real Madrid - Elche,260314,1.2,5.6,8.8,https://www.winner.co.il,Real Madrid,Elche,ריאל מדריד,אלצ'ה,ספרדית ראשונה
+Mallorca - Espanyol,260315,2.25,2.95,3.05,https://www.winner.co.il,Mallorca,Espanyol,מאיורקה,אספניול,ספרדית ראשונה
+Real Sociedad - Osasuna,260315,1.85,3.3,3.85,https://www.winner.co.il,Real Sociedad,Osasuna,ריאל סוסיאדד,אוסאסונה,ספרדית ראשונה
+Rayo Vallecano - Levante,260316,1.65,3.55,4.6,https://www.winner.co.il,Rayo Vallecano,Levante,ראיו וייקאנו,לבאנטה,ספרדית ראשונה
+Lorient - Lens,260314,3.85,3.45,1.8,https://www.winner.co.il,Lorient,Lens,לוריין,לאנס,צרפתית ראשונה
+Le Havre - Lyon,260315,3.6,3.25,1.9,https://www.winner.co.il,Le Havre,Lyon,לה האבר,ליון,צרפתית ראשונה
+Strasbourg - Paris FC,260315,1.7,3.55,4.1,https://www.winner.co.il,Strasbourg,Paris FC,שטראסבורג,פ.צ. פאריס,צרפתית ראשונה
+Metz - Toulouse,260315,3.65,3.15,1.95,https://www.winner.co.il,Metz,Toulouse,מץ,טולוז,צרפתית ראשונה
+Stade Rennes - Lille,260315,2.2,3.15,2.95,https://www.winner.co.il,Stade Rennes,Lille,ראן,ליל,צרפתית ראשונה
+Angers - Nice,260314,2.95,3.1,2.25,https://www.winner.co.il,Angers,Nice,אנז'ר,ניס,צרפתית ראשונה
+Monaco - Brest,260314,1.6,3.85,4.4,https://www.winner.co.il,Monaco,Brest,מונאקו,ברסט,צרפתית ראשונה
+Marseille - Auxerre,260313,1.4,4.3,6.0,https://www.winner.co.il,Marseille,Auxerre,מארסיי,אוקזר,צרפתית ראשונה
+Nacional da Madeira - Estoril,260315,2.1,2.95,2.3,https://www.winner.co.il,Nacional da Madeira,Estoril,נאסיונל מדיירה,אשטוריל,פורטוגלית ראשונה
+Gil Vicente - Alverca,260314,1.5,2.95,4.1,https://www.winner.co.il,Gil Vicente,Alverca,ז'יל ויסנטה,אלברקה,פורטוגלית ראשונה
+Rio Ave - Estrela da Amadora,260315,2.0,2.8,2.6,https://www.winner.co.il,Rio Ave,Estrela da Amadora,ריו אווה,אסטרלה אמדורה,פורטוגלית ראשונה
+AVS Futebol - Santa Clara,260315,3.6,2.75,1.65,https://www.winner.co.il,AVS Futebol,Santa Clara,איי.וי.אס,סנטה קלרה אזורס,פורטוגלית ראשונה
+FC Porto - Moreirense,260315,1.1,4.2,9.2,https://www.winner.co.il,FC Porto,Moreirense,פורטו,מוריירנסה,פורטוגלית ראשונה
+Vitoria Guimarães - Famalicao,260314,2.1,2.75,2.45,https://www.winner.co.il,Vitoria Guimarães,Famalicao,ויטוריה גימראייש,פמליקאו,פורטוגלית ראשונה
+Arouca - Benfica,260314,7.0,4.1,1.15,https://www.winner.co.il,Arouca,Benfica,ארוקה,בנפיקה ליסבון,פורטוגלית ראשונה
+in warren - Molenbeek 47,260311,1.2,3.85,5.8,https://www.winner.co.il,in warren,Molenbeek 47,בוורן,מולנביק 47,בלגית שניה
+Royal Fran Burien - Lochran Tamsa,260312,2.25,2.9,2.2,https://www.winner.co.il,Royal Fran Burien,Lochran Tamsa,רויאל פראן בוריין,לוקרן טמסה,בלגית שניה
+Ghent reserve - Lomel,260311,2.55,2.95,1.9,https://www.winner.co.il,Ghent reserve,Lomel,גנט מילואים,לומל,בלגית שניה
+Royal Olympic Charleroi - Serialing,260311,1.9,2.85,2.65,https://www.winner.co.il,Royal Olympic Charleroi,Serialing,רויאל אולימפיק שרלרואה,סיריינג,בלגית שניה
+Anderlecht B - Japan,260313,2.45,3.0,1.95,https://www.winner.co.il,Anderlecht B,Japan,אנדרלכט ב',יופן,בלגית שניה
+Leirsa Kampenzonen - Petro Eisden,260313,3.1,2.95,1.7,https://www.winner.co.il,Leirsa Kampenzonen,Petro Eisden,ליירסה קמפנזונן,פאטרו אייסדן,בלגית שניה
+Albacete - Las Palmas,260316,2.3,2.7,2.25,https://www.winner.co.il,Albacete,Las Palmas,אלבסטה,לאס פלמאס,ספרדית שניה
+AD Ceuta - Deportivo la Coruña,260314,2.45,2.75,2.1,https://www.winner.co.il,AD Ceuta,Deportivo la Coruña,סאוטה,דפורטיבו לה קורוניה,ספרדית שניה
+Cordoba - Real Sociedad B,260315,1.45,3.25,3.9,https://www.winner.co.il,Cordoba,Real Sociedad B,קורדובה,ריאל סוסיאדד ב',ספרדית שניה
+Cultural Leonesa - Racing Santander,260314,2.6,2.9,1.9,https://www.winner.co.il,Cultural Leonesa,Racing Santander,קולטורל לאונסה,ראסינג דה סנטנדר,ספרדית שניה
+Eibar - Burgos,260315,1.8,2.55,3.35,https://www.winner.co.il,Eibar,Burgos,אייבר,בורגוס,ספרדית שניה
+Sporting Gijón - Castellón,260315,2.35,2.8,2.15,https://www.winner.co.il,Sporting Gijón,Castellón,ספורטינג גיחון,קאסטיון,ספרדית שניה
+Mirandés - Cádiz,260313,2.15,2.65,2.5,https://www.winner.co.il,Mirandés,Cádiz,מיראנדס,קאדיס,ספרדית שניה
+Málaga - Huesca,260315,1.6,2.8,3.8,https://www.winner.co.il,Málaga,Huesca,מלאגה,הואסקה,ספרדית שניה
+Real Valladolid - Leganes,260314,1.8,2.75,3.05,https://www.winner.co.il,Real Valladolid,Leganes,ויאדוליד,לגאנס,ספרדית שניה
+Granada - Andorra,260315,1.65,2.85,3.35,https://www.winner.co.il,Granada,Andorra,גרנאדה,פ.צ. אנדורה,ספרדית שניה
+Real Zaragoza - Almería,260314,2.6,2.85,1.95,https://www.winner.co.il,Real Zaragoza,Almería,סראגוסה,אלמריה,ספרדית שניה
+Vysochina will be excited - Croods,260313,1.7,2.95,3.05,https://www.winner.co.il,Vysochina will be excited,Croods,ויסוצ'ינה יהלבה,קרודים,צ'כית שניה
+Born - Listen to Brno,260316,1.55,3.15,3.55,https://www.winner.co.il,Born,Listen to Brno,ברנו,ליסן ברנו,צ'כית שניה
+to their father - Pribram,260313,1.65,3.05,3.2,https://www.winner.co.il,to their father,Pribram,לאבם,פריברם,צ'כית שניה
+Kasimpsa - Eyupspor,260315,1.65,3.0,3.3,https://www.winner.co.il,Kasimpsa,Eyupspor,קסימפסה,איופספור,טורקית ראשונה
+Genchelbirligi - Besiktas,260315,3.9,3.25,1.45,https://www.winner.co.il,Genchelbirligi,Besiktas,גנצ'לרבירליג'י,בשיקטאש,טורקית ראשונה
+Karagümrük - Fenerbahçe,260313,5.6,3.65,1.25,https://www.winner.co.il,Karagümrük,Fenerbahçe,פתיח קרגומרוק,פנרבחצ'ה,טורקית ראשונה
+Goztepe - Alanyaspor,260314,1.85,2.75,2.95,https://www.winner.co.il,Goztepe,Alanyaspor,גוזטפה,אלניהספור,טורקית ראשונה
+Trabzonspor - Rizaspur,260314,1.55,3.2,3.55,https://www.winner.co.il,Trabzonspor,Rizaspur,טרבזונספור,ריזאספור,טורקית ראשונה
+Antalisspor - Gaziantep,260313,2.15,2.75,2.35,https://www.winner.co.il,Antalisspor,Gaziantep,אנטליספור,גזישיר גזיינטפ,טורקית ראשונה
+Kochalispur - Konyaspor,260314,1.95,2.6,2.8,https://www.winner.co.il,Kochalispur,Konyaspor,קוצ'אליספור,קוניאספור,טורקית ראשונה
+Galatasaray - Başakşehir,260314,1.4,3.5,3.95,https://www.winner.co.il,Galatasaray,Başakşehir,גלאטסראיי,איסטנבול בסאקסהיר,טורקית ראשונה
+Samsunspor - Kayserispur,260315,1.65,2.9,3.3,https://www.winner.co.il,Samsunspor,Kayserispur,סמסונספור,קייסריספור,טורקית ראשונה
+Gangan - Amiens SC,260313,1.4,3.3,4.2,https://www.winner.co.il,Gangan,Amiens SC,גנגאן,אמיין,צרפתית שניה
+Red Star - Dunkerque,260314,2.2,2.75,2.35,https://www.winner.co.il,Red Star,Dunkerque,רד סטאר 93,דנקירק,צרפתית שניה
+Nancy - Le Mans,260313,2.3,2.65,2.3,https://www.winner.co.il,Nancy,Le Mans,נאנסי,לה מאן,צרפתית שניה
+Clermont - Pau,260313,2.15,2.8,2.3,https://www.winner.co.il,Clermont,Pau,קלרמונט,פו,צרפתית שניה
+Stade Reims - Rodez,260314,1.4,3.3,4.3,https://www.winner.co.il,Stade Reims,Rodez,ריימס,רודה אביירון,צרפתית שניה
+Montpellier - Stade Lavallois,260313,1.7,2.75,3.4,https://www.winner.co.il,Montpellier,Stade Lavallois,מונפלייה,לאבאל,צרפתית שניה
+Grenoble - Saint-Étienne,260314,3.55,3.05,1.55,https://www.winner.co.il,Grenoble,Saint-Étienne,גרנובל,סט. אטיין,צרפתית שניה
+Bastia - Boulogne,260313,1.85,2.6,3.15,https://www.winner.co.il,Bastia,Boulogne,באסטיה,בולון,צרפתית שניה
+Salta Vigo B - Tenerife,260313,2.9,2.8,1.8,https://www.winner.co.il,Salta Vigo B,Tenerife,סלטה ויגו ב',טנריפה,ספרדית שלישית
+Mérida - Guadalajara,260313,1.4,3.15,4.8,https://www.winner.co.il,Mérida,Guadalajara,מרידה,גוואדלחרה,ספרדית שלישית
+Jimenastic de Tarragona - Savedal,260313,2.55,2.6,2.1,https://www.winner.co.il,Jimenastic de Tarragona,Savedal,חימנסטיק דה טראגונה,סאבדל,ספרדית שלישית
+Boluspor - Corum Belediyespor,260312,2.85,3.0,1.75,https://www.winner.co.il,Boluspor,Corum Belediyespor,בולוספור,צ'ורום,טורקית שניה
+Arsenal Arokspor - Bendrimspur,260312,1.35,3.45,4.9,https://www.winner.co.il,Arsenal Arokspor,Bendrimspur,אסנלר ארוקספור,בנדרימספור,טורקית שניה
+Iğdır - Bodrum,260312,1.65,3.0,3.15,https://www.winner.co.il,Iğdır,Bodrum,איגדיר בלדיספור,בודרום,טורקית שניה
+Ankara Keçiörengücü - Sakaryaspor,260311,1.55,3.2,3.4,https://www.winner.co.il,Ankara Keçiörengücü,Sakaryaspor,אנקרה קצ'יורנגוצ'ו,סקריאספור,טורקית שניה
+Corum Belediyespor - Arsenal Arokspor,260316,2.35,3.05,2.05,https://www.winner.co.il,Corum Belediyespor,Arsenal Arokspor,צ'ורום,אסנלר ארוקספור,טורקית שניה
+Bendrimspur - Iğdır,260316,2.3,2.9,2.1,https://www.winner.co.il,Bendrimspur,Iğdır,בנדרימספור,איגדיר בלדיספור,טורקית שניה
+Bodrum - Boluspor,260316,1.55,3.2,3.35,https://www.winner.co.il,Bodrum,Boluspor,בודרום,בולוספור,טורקית שניה
+Akritas Chlorakas - Pafos,260314,7.4,4.1,1.15,https://www.winner.co.il,Akritas Chlorakas,Pafos,אקריטס חלורקס,פאפוס,קפריסאית ראשונה
+Ypsonas - Enosis Neon Paralimni,260316,1.1,4.3,11.0,https://www.winner.co.il,Ypsonas,Enosis Neon Paralimni,קרסאבה ייפסונאס,פראלמיני,קפריסאית ראשונה
+Aris Limassol - APOEL,260315,1.9,2.9,2.65,https://www.winner.co.il,Aris Limassol,APOEL,אריס לימסול,אפואל ניקוסיה,קפריסאית ראשונה
+Anorthosis - Apollon Limassol,260315,3.0,2.8,1.8,https://www.winner.co.il,Anorthosis,Apollon Limassol,אנורת'וסיס פמגוסטה,אפולון לימסול,קפריסאית ראשונה
+A.A.L. Limassol - Omonia Aradippou,260314,1.8,2.8,2.95,https://www.winner.co.il,A.A.L. Limassol,Omonia Aradippou,א.א.ל. לימסול,אראדיפו,קפריסאית ראשונה
+Omonia Nicosia - Olympiakos Nicosia,260315,1.2,3.8,5.8,https://www.winner.co.il,Omonia Nicosia,Olympiakos Nicosia,אומוניה ניקוסיה,אולימפיאקוס ניקוסיה,קפריסאית ראשונה
+Ethnicus - Larnaca,260316,5.0,3.3,1.35,https://www.winner.co.il,Ethnicus,Larnaca,אתניקוס,א.א.ק. לרנקה,קפריסאית ראשונה
+Stellenbosch - Galaxy,260313,1.85,2.55,3.2,https://www.winner.co.il,Stellenbosch,Galaxy,סטלנבוש,גלקסי,דרום אפריקאית ראשונה
+Bari - Reggiana,260314,1.95,2.65,2.8,https://www.winner.co.il,Bari,Reggiana,בארי,רג'יאנה,איטלקית שניה
+Cesena - Frosinone,260314,2.25,3.0,2.1,https://www.winner.co.il,Cesena,Frosinone,צ'זנה,פרוסינונה,איטלקית שניה
+Empoli - Mantova,260314,1.8,2.85,2.9,https://www.winner.co.il,Empoli,Mantova,אמפולי,מנטובה 1911,איטלקית שניה
+Virtus Entella - Avellino,260315,1.95,2.5,2.95,https://www.winner.co.il,Virtus Entella,Avellino,וירטוס אנטלה,א.ס. אבלינו,איטלקית שניה
+Juve Stabia - Carrarese,260314,1.9,2.65,2.8,https://www.winner.co.il,Juve Stabia,Carrarese,יובה סטאביה,קאררסה 1908,איטלקית שניה
+Monza - Palermo,260314,1.9,2.7,2.8,https://www.winner.co.il,Monza,Palermo,מונזה,פאלרמו,איטלקית שניה
+Sudtirol - Pescara,260315,1.6,2.95,3.55,https://www.winner.co.il,Sudtirol,Pescara,פ.צ. סודטירול,פסקארה,איטלקית שניה
+Modena - Spezia,260313,1.55,2.95,3.9,https://www.winner.co.il,Modena,Spezia,מודנה,ספציה,איטלקית שניה
+Padova - Catanzaro,260314,2.5,2.6,2.15,https://www.winner.co.il,Padova,Catanzaro,פאדובה,קטנזארו 1929,איטלקית שניה
+Sampdoria - Venezia,260314,3.4,2.7,1.7,https://www.winner.co.il,Sampdoria,Venezia,סמפדוריה,ונציה,איטלקית שניה
+Botev Plovdiv - Botev and Ratsa,260314,1.6,2.8,3.85,https://www.winner.co.il,Botev Plovdiv,Botev and Ratsa,בוטב פלובדיב,בוטב וראטסה,בולגרית ראשונה
+Arda Kardzheli - Dobrish,260316,1.45,2.85,4.5,https://www.winner.co.il,Arda Kardzheli,Dobrish,ארדה קרדז'לי,דובריש,בולגרית ראשונה
+Spartak and Arena - CSKA 1948 Sofia,260314,4.4,3.25,1.4,https://www.winner.co.il,Spartak and Arena,CSKA 1948 Sofia,ספרטק וארנה,"צסק""א 1948 סופיה",בולגרית ראשונה
+Cherno Mora and Arena - Montana,260315,1.25,3.45,6.2,https://www.winner.co.il,Cherno Mora and Arena,Montana,צ'רנו מורה וארנה,מונטנה,בולגרית ראשונה
+Plovdiv locomotive - September Sofia,260313,1.5,3.0,4.1,https://www.winner.co.il,Plovdiv locomotive,September Sofia,לוקומוטיב פלובדיב,ספטמברי סופיה,בולגרית ראשונה
+Zagora - Levski Sofia,260315,7.2,3.75,1.2,https://www.winner.co.il,Zagora,Levski Sofia,זאגורה,לבסקי סופיה,בולגרית ראשונה
+Locomotive Sofia - Sofia Sofia,260313,1.7,2.9,3.1,https://www.winner.co.il,Locomotive Sofia,Sofia Sofia,לוקומוטיב סופיה,סלביה סופיה,בולגרית ראשונה
+Ludogorets - CSKA Sofia,260314,1.6,2.95,3.55,https://www.winner.co.il,Ludogorets,CSKA Sofia,לודוגורץ,"צסק""א סופיה",בולגרית ראשונה
+Dijon - Obania,260313,1.4,3.2,4.7,https://www.winner.co.il,Dijon,Obania,דיז'ון,אובאנייה,צרפתית שלישית
+Chaturo - Villefranche,260313,1.9,2.7,2.85,https://www.winner.co.il,Chaturo,Villefranche,שאטורו,וילפרנש,צרפתית שלישית
+Rowan - Brioshin,260313,1.4,3.15,4.6,https://www.winner.co.il,Rowan,Brioshin,רואן,בריושין,צרפתית שלישית
+Florrie - Quilly Rowan,260313,1.55,2.85,3.8,https://www.winner.co.il,Florrie,Quilly Rowan,פלורי,קווילי רואן,צרפתית שלישית
+Le Foy - Con,260313,1.85,2.75,2.9,https://www.winner.co.il,Le Foy,Con,לה פוי,קון,צרפתית שלישית
+Orleans - Paris Atlético,260313,1.75,2.85,3.05,https://www.winner.co.il,Orleans,Paris Atlético,אורליאן,פאריס אתלטיקו,צרפתית שלישית
+Versailles - Borg A Bears,260313,1.55,2.9,3.75,https://www.winner.co.il,Versailles,Borg A Bears,ורסלייז,בורג א ברס,צרפתית שלישית
+Sushu - Concarno,260313,1.7,2.85,3.3,https://www.winner.co.il,Sushu,Concarno,סושו,קונקרנו,צרפתית שלישית
+Vicenza Virtus - Inter Milan until 23,260316,1.35,3.25,5.4,https://www.winner.co.il,Vicenza Virtus,Inter Milan until 23,ויצ'נזה וירטוס,אינטר מילאנו עד 23,"איטלקית שלישית, בית א'"
+Alcione Milano - Onion Brescia,260313,3.4,2.7,1.7,https://www.winner.co.il,Alcione Milano,Onion Brescia,אלציונה מילאנו,אוניון ברשיה,"איטלקית שלישית, בית א'"
+Kralova - Banic Ostrava,260314,2.0,2.75,2.6,https://www.winner.co.il,Kralova,Banic Ostrava,קראלובה,באניק אוסטרבה,צ'כית ראשונה
+Victoria Pelzen - Bohemians Prague,260315,1.3,3.5,5.0,https://www.winner.co.il,Victoria Pelzen,Bohemians Prague,ויקטוריה פלזן,בוהמייאנס פראג,צ'כית ראשונה
+Fastev Zelin - Slavia Prague,260314,5.4,3.4,1.3,https://www.winner.co.il,Fastev Zelin,Slavia Prague,פאסטב זלין,סלביה פראג,צ'כית ראשונה
+Sloven Lieberts - Tablecloth,260315,1.6,2.8,3.7,https://www.winner.co.il,Sloven Lieberts,Tablecloth,סלובן ליברץ,טפליצה,צ'כית ראשונה
+Dukla Prague - Yablonz,260314,3.2,2.75,1.75,https://www.winner.co.il,Dukla Prague,Yablonz,דוקלה פראג,יאבלונץ,צ'כית ראשונה
+Sparta Prague - Slovacko,260315,1.15,4.0,7.6,https://www.winner.co.il,Sparta Prague,Slovacko,ספרטה פראג,סלובצקו,צ'כית ראשונה
+Sigma Olomouc - carbine,260315,1.75,2.8,3.0,https://www.winner.co.il,Sigma Olomouc,carbine,סיגמה אולומוץ,קרבינה,צ'כית ראשונה
+From Lada Bolslav - Pradovice,260314,1.95,2.8,2.65,https://www.winner.co.il,From Lada Bolslav,Pradovice,מלאדה בולסלאב,פראדוביצה,צ'כית ראשונה
+Cremonese - Fiorentina,260316,3.55,3.3,1.9,https://www.winner.co.il,Cremonese,Fiorentina,קרמונזה,פיורנטינה,איטלקית ראשונה
+Lazio - AC Milan,260315,3.6,3.1,1.95,https://www.winner.co.il,Lazio,AC Milan,לאציו,מילאן,איטלקית ראשונה
+Torino - Parma,260313,2.1,2.9,3.45,https://www.winner.co.il,Torino,Parma,טורינו,פארמה,איטלקית ראשונה
+Udinese - Juventus,260314,5.6,3.8,1.5,https://www.winner.co.il,Udinese,Juventus,אודינזה,יובנטוס,איטלקית ראשונה
+Como - Roma,260315,2.05,3.15,3.25,https://www.winner.co.il,Como,Roma,קומו,רומא,איטלקית ראשונה
+Inter - Atalanta,260314,1.4,4.45,5.8,https://www.winner.co.il,Inter,Atalanta,אינטר,אטאלנטה,איטלקית ראשונה
+Sassuolo - Bologna,260315,2.5,3.1,2.6,https://www.winner.co.il,Sassuolo,Bologna,ססואולו,בולוניה,איטלקית ראשונה
+Pisa - Cagliari,260315,2.45,2.85,2.85,https://www.winner.co.il,Pisa,Cagliari,פיזה,קליארי,איטלקית ראשונה
+Napoli - Lecce,260314,1.25,4.8,9.6,https://www.winner.co.il,Napoli,Lecce,נאפולי,לצ'ה,איטלקית ראשונה
+Hellas Verona - Genoa,260315,3.05,2.85,2.3,https://www.winner.co.il,Hellas Verona,Genoa,ורונה,גנואה,איטלקית ראשונה
+Brisbane Roar FC - Western Sydney,260313,2.4,2.9,2.05,https://www.winner.co.il,Brisbane Roar FC,Western Sydney,בריסביין רוארס,ווסטרן סידני,אוסטרלית ראשונה
+Wellington Phoenix - Perth Glory,260314,1.85,2.95,2.7,https://www.winner.co.il,Wellington Phoenix,Perth Glory,וולינגטון פניקס,פרת' גלורי,אוסטרלית ראשונה
+Central Coast Mariners - Adelaide United,260314,2.5,3.05,1.95,https://www.winner.co.il,Central Coast Mariners,Adelaide United,סנטרל קואסט,אדלייד יונייטד,אוסטרלית ראשונה
+Newcastle Jets - Auckland FC,260314,2.15,3.15,2.15,https://www.winner.co.il,Newcastle Jets,Auckland FC,ניוקאסל ג'טס,אוקלנד,אוסטרלית ראשונה
+Melbourne Victory - Macarthur FC,260315,1.6,3.15,3.15,https://www.winner.co.il,Melbourne Victory,Macarthur FC,מלבורן ויקטורי,מאקארתור,אוסטרלית ראשונה
+Neom SC - Al-Taawoun,260312,2.0,2.8,2.5,https://www.winner.co.il,Neom SC,Al-Taawoun,נאום,אל טאוון,סעודית ראשונה
+Al-Hazem - Al Kholood,260312,2.3,2.85,2.15,https://www.winner.co.il,Al-Hazem,Al Kholood,אל חאזם,אל חלוד,סעודית ראשונה
+Al Qadisiyah - Al Ahli (SAU),260313,2.2,2.85,2.2,https://www.winner.co.il,Al Qadisiyah,Al Ahli (SAU),אל קדיסיה,אל אהלי סעודי,סעודית ראשונה
+Al-Shabab - Al Akhdoud,260314,1.25,3.8,5.6,https://www.winner.co.il,Al-Shabab,Al Akhdoud,אל שבאב,אל אחדוד,סעודית ראשונה
+Al Riyadh - Al-Ittihad,260313,4.4,3.55,1.35,https://www.winner.co.il,Al Riyadh,Al-Ittihad,אל ריאד,אל איתיחד ג'דה,סעודית ראשונה
+Al Fayha - Al Ittifaq (SAU),260313,1.95,2.8,2.65,https://www.winner.co.il,Al Fayha,Al Ittifaq (SAU),אל פייחה,אל איתיפק,סעודית ראשונה
+Al-Najma - Damac,260312,2.6,2.75,2.0,https://www.winner.co.il,Al-Najma,Damac,אל נג'מה,דאמאק,סעודית ראשונה
+Al-Fateh - Al Hilal (SAU),260314,5.4,4.3,1.2,https://www.winner.co.il,Al-Fateh,Al Hilal (SAU),אל פתח,אל הילאל ריאד,סעודית ראשונה
+Al-Khaleej - Al Nassr,260314,5.4,4.1,1.2,https://www.winner.co.il,Al-Khaleej,Al Nassr,אל חליג',אל נאסר ריאד,סעודית ראשונה
+Sumgait - Maki,260313,2.05,2.65,2.65,https://www.winner.co.il,Sumgait,Maki,סומגאיט,שמאקי,אזרית ראשונה
+Araz Nakhchivan - A victim will be blackened,260313,1.45,3.2,4.1,https://www.winner.co.il,Araz Nakhchivan,A victim will be blackened,אראז נחצ'יבאן,קרבן ייבלק,אזרית ראשונה
+Colchester - Crawley Town,260313,1.55,3.0,3.6,https://www.winner.co.il,Colchester,Crawley Town,קולצ'סטר,קרואלי טאון,אנגלית שניה
+Bayer Leverkusen - Bayern Munich,260314,4.5,4.2,1.55,https://www.winner.co.il,Bayer Leverkusen,Bayern Munich,באייר לברקוזן,ביירן מינכן,גרמנית ראשונה
+Werder Bremen - Mainz,260315,2.2,3.3,2.9,https://www.winner.co.il,Werder Bremen,Mainz,ורדר ברמן,מיינץ,גרמנית ראשונה
+Borussia Dortmund - Augsburg,260314,1.35,4.6,6.2,https://www.winner.co.il,Borussia Dortmund,Augsburg,בורוסיה דורטמונד,אוגסבורג,גרמנית ראשונה
+Hoffenheim - Wolfsburg,260314,1.4,4.6,5.4,https://www.winner.co.il,Hoffenheim,Wolfsburg,הופנהיים,וולפסבורג,גרמנית ראשונה
+Eintracht Frankfurt - Heidenheim,260314,1.5,4.2,5.0,https://www.winner.co.il,Eintracht Frankfurt,Heidenheim,איינטרכט פרנקפורט,היידנהיים,גרמנית ראשונה
+Borussia Mönchengladbach - St. Pauli,260313,1.95,3.15,3.65,https://www.winner.co.il,Borussia Mönchengladbach,St. Pauli,בורוסיה מינשנגלדבאך,סט. פאולי,גרמנית ראשונה
+Hamburg - 1. FC Koln,260314,2.05,3.35,3.15,https://www.winner.co.il,Hamburg,1. FC Koln,המבורג,פ.צ. קלן,גרמנית ראשונה
+Stuttgart - Leipzig,260315,2.2,3.65,2.65,https://www.winner.co.il,Stuttgart,Leipzig,שטוטגרט,לייפציג,גרמנית ראשונה
+Freiburg - 1. FC Union Berlin,260315,2.1,3.1,3.25,https://www.winner.co.il,Freiburg,1. FC Union Berlin,פרייבורג,אוניון ברלין,גרמנית ראשונה
+Larne - Dungannon,260313,1.4,3.3,4.2,https://www.winner.co.il,Larne,Dungannon,לארנה,דנגאנון,צפון אירית ראשונה
+Mechelen - Anderlecht,260315,2.7,2.95,1.85,https://www.winner.co.il,Mechelen,Anderlecht,מכלן,אנדרלכט,בלגית ראשונה
+Union Saint-Gilloise - Dender,260314,1.15,3.95,7.0,https://www.winner.co.il,Union Saint-Gilloise,Dender,סן ז'ילואז,דנדר,בלגית ראשונה
+Circle Bruges - RAAL La Louvière,260315,1.75,2.85,3.1,https://www.winner.co.il,Circle Bruges,RAAL La Louvière,סרקל ברוז',ראל לה לובייר,בלגית ראשונה
+Gent - Zulte Waregem,260313,1.8,3.0,2.7,https://www.winner.co.il,Gent,Zulte Waregem,גנט,זולטה וארגם,בלגית ראשונה
+Westerlo - Club Brugge,260314,3.7,3.55,1.45,https://www.winner.co.il,Westerlo,Club Brugge,ווסטרלו,קלאב ברוז',בלגית ראשונה
+Antwerp - Standard Liege,260315,1.95,2.7,2.75,https://www.winner.co.il,Antwerp,Standard Liege,אנטוורפן,סטאנדרד ליאז',בלגית ראשונה
+Panseraikos - Aris Thessaloniki,260314,4.4,2.9,1.45,https://www.winner.co.il,Panseraikos,Aris Thessaloniki,פנסראיקוס,אריס סלוניקי,יוונית ראשונה
+Panathinaikos - Panaitolikos,260315,1.2,3.8,6.8,https://www.winner.co.il,Panathinaikos,Panaitolikos,פנאתינייקוס,פנאיתוליקוס,יוונית ראשונה
+Atromitos - A.A.K. Athens,260315,5.2,3.25,1.35,https://www.winner.co.il,Atromitos,A.A.K. Athens,אטרומיטוס,א.א.ק. אתונה,יוונית ראשונה
+PAOK - to Badiakos,260315,1.25,3.65,6.0,https://www.winner.co.il,PAOK,to Badiakos,פאוק סלוניקי,לבאדיאקוס,יוונית ראשונה
+Genk - St. Truidense,260315,1.9,3.05,2.55,https://www.winner.co.il,Genk,St. Truidense,גנק,סט טרוידן,בלגית ראשונה
+OFI Crete - Olympiakos,260314,7.4,3.95,1.15,https://www.winner.co.il,OFI Crete,Olympiakos,אופי כרתים,אולימפיאקוס,יוונית ראשונה
+Charleroi - Leuven,260314,1.65,2.9,3.25,https://www.winner.co.il,Charleroi,Leuven,שרלרואה,לובן,בלגית ראשונה
+Kyphisias - Volus,260315,1.9,2.7,2.8,https://www.winner.co.il,Kyphisias,Volus,קיפיסיאס,וולוס,יוונית ראשונה
+Larissa - Asters Tripolis,260314,2.05,2.6,2.65,https://www.winner.co.il,Larissa,Asters Tripolis,לאריסה,אסטרס טריפוליס,יוונית ראשונה
+PEC Zwolle - Croningen,260313,2.45,3.0,2.0,https://www.winner.co.il,PEC Zwolle,Croningen,זוולה,כרונינגן,הולנדית ראשונה
+Volendam - Fortuna Sittard,260314,2.0,3.0,2.4,https://www.winner.co.il,Volendam,Fortuna Sittard,וולנדאם,פורטונה סיטארד,הולנדית ראשונה
+Alkmaar - Heracles,260315,1.3,3.75,4.9,https://www.winner.co.il,Alkmaar,Heracles,אלקמאר,הראקלס,הולנדית ראשונה
+Go Ahed Eagles - Nak Breda,260315,1.9,3.0,2.55,https://www.winner.co.il,Go Ahed Eagles,Nak Breda,גו אהד איגלס,נאק ברדה,הולנדית ראשונה
+Hirnbein - Telstar,260314,1.5,3.35,3.55,https://www.winner.co.il,Hirnbein,Telstar,הירנביין,טלסטאר,הולנדית ראשונה
+Ajax - Sparta Rotterdam,260314,1.45,3.45,3.85,https://www.winner.co.il,Ajax,Sparta Rotterdam,אייאקס,ספרטה רוטרדם,הולנדית ראשונה
+Feyenoord - Excelsior,260315,1.2,4.1,5.8,https://www.winner.co.il,Feyenoord,Excelsior,פיינורד,אקסלסיור,הולנדית ראשונה
+FC Eindhoven - Nijmegen,260314,1.3,4.1,4.5,https://www.winner.co.il,FC Eindhoven,Nijmegen,איינדהובן,ניימיכן,הולנדית ראשונה
+Twente - Utrecht,260315,1.4,3.35,4.2,https://www.winner.co.il,Twente,Utrecht,טוונטה,אוטרכט,הולנדית ראשונה
+Porto B - Olveirense,260316,1.85,2.85,2.85,https://www.winner.co.il,Porto B,Olveirense,פורטו ב',אולביירנסה,פורטוגלית שניה
+Torreense - Portimonense,260316,1.65,2.85,3.3,https://www.winner.co.il,Torreense,Portimonense,טורנסה,פורטימוננסה,פורטוגלית שניה
+Sporting Lisbon B - Shabbos,260313,2.2,2.75,2.3,https://www.winner.co.il,Sporting Lisbon B,Shabbos,ספורטינג ליסבון ב',שאבס,פורטוגלית שניה
+Farense - Flaggers 1932,260313,2.05,2.7,2.6,https://www.winner.co.il,Farense,Flaggers 1932,פארנסה,פלגיירס 1932,פורטוגלית שניה
+Arminia Bielefeld - Paderborn,260314,2.25,2.9,2.15,https://www.winner.co.il,Arminia Bielefeld,Paderborn,ארמיניה בילפלד,פאדרבורן,גרמנית שניה
+Greuther Furth - Albersberg,260313,3.45,3.25,1.55,https://www.winner.co.il,Greuther Furth,Albersberg,גרויטר פירט,אלברסברג,גרמנית שניה
+Dynamo Dresden - Preussen Munster,260315,1.85,2.95,2.75,https://www.winner.co.il,Dynamo Dresden,Preussen Munster,דינמו דרזדן,מונסטר,גרמנית שניה
+Braunschweig - Fortuna Dusseldorf,260314,2.6,2.9,1.95,https://www.winner.co.il,Braunschweig,Fortuna Dusseldorf,בראונשווייג,פורטונה דיסלדורף,גרמנית שניה
+Holstein Kiel - Nuremberg,260314,2.1,2.95,2.3,https://www.winner.co.il,Holstein Kiel,Nuremberg,הולשטיין קיל,נירנברג,גרמנית שניה
+Schalke 04 - Hanover,260315,2.05,2.85,2.45,https://www.winner.co.il,Schalke 04,Hanover,שאלקה 04,האנובר,גרמנית שניה
+Kaiserslautern - Karlsruhe,260315,1.75,3.05,2.9,https://www.winner.co.il,Kaiserslautern,Karlsruhe,קייזרסלאוטרן,קרלסרוהה,גרמנית שניה
+Hertha Berlin - Bochum,260314,1.8,3.05,2.75,https://www.winner.co.il,Hertha Berlin,Bochum,הרטה ברלין,בוכום,גרמנית שניה
+Magdeburg - Darmstadt,260313,2.05,3.05,2.3,https://www.winner.co.il,Magdeburg,Darmstadt,מגדבורג,דרמשטאדט,גרמנית שניה
+New York City - Colorado,260315,1.4,3.35,4.1,https://www.winner.co.il,New York City,Colorado,ניו יורק סיטי,קולורדו,MLS
+Chicago - DC United,260315,1.45,3.25,3.9,https://www.winner.co.il,Chicago,DC United,שיקגו,די.סי. יונייטד,MLS
+Orlando City - Montreal,260315,1.6,3.2,3.3,https://www.winner.co.il,Orlando City,Montreal,אורלנדו סיטי,מונטריאול,MLS
+Toronto - New York Red Bulls,260314,2.15,2.9,2.25,https://www.winner.co.il,Toronto,New York Red Bulls,טורונטו,ניו יורק רד בולס,MLS
+Columbus - Nashville,260315,1.75,3.15,2.75,https://www.winner.co.il,Columbus,Nashville,קולומבוס,נאשוויל,MLS
+Atlanta United - Philadelphia,260314,2.2,2.9,2.2,https://www.winner.co.il,Atlanta United,Philadelphia,אטלנטה יונייטד,פילדלפיה,MLS
+Charlotte - Inter Miami,260315,2.8,3.2,1.7,https://www.winner.co.il,Charlotte,Inter Miami,שארלוט,אינטר מיאמי,MLS
+Los Angeles Galaxy - Kansas City,260315,1.4,3.65,3.9,https://www.winner.co.il,Los Angeles Galaxy,Kansas City,לוס אנג'לס גלקסי,קנזס סיטי,MLS
+San Jose Earthquake - Seattle,260316,2.0,2.9,2.45,https://www.winner.co.il,San Jose Earthquake,Seattle,סן חוזה ארת'קווייק,סיאטל,MLS
+Dallas - San Diego FC,260315,2.45,3.0,2.0,https://www.winner.co.il,Dallas,San Diego FC,דאלאס,סן דייגו אף.סי,MLS
+Houston - Portland,260315,1.8,2.8,2.95,https://www.winner.co.il,Houston,Portland,יוסטון,פורטלנד,MLS
+Vancouver - Minnesota United,260315,1.35,3.6,4.5,https://www.winner.co.il,Vancouver,Minnesota United,ונקובר,מינסוטה יונייטד,MLS
+New England - Cincinnati,260315,2.3,3.05,2.05,https://www.winner.co.il,New England,Cincinnati,ניו אינגלנד,סינסינטי,MLS
+Real Salt Lake - Austin Up. si,260315,1.85,2.9,2.8,https://www.winner.co.il,Real Salt Lake,Austin Up. si,ריאל סולט לייק,אוסטין אפ. סי,MLS
+Los Angeles FC - Set. Louis City,260315,1.25,3.9,5.2,https://www.winner.co.il,Los Angeles FC,Set. Louis City,לוס אנג'לס אפ.סי,סט. לואיס סיטי,MLS
+Aberdeen - Falkirk,260314,2.4,2.85,2.05,https://www.winner.co.il,Aberdeen,Falkirk,אברדין,פאלקירק,סקוטית ראשונה
+Celtic - Motherwell,260314,1.5,3.2,3.8,https://www.winner.co.il,Celtic,Motherwell,סלטיק,מאת'רוול,סקוטית ראשונה
+Dundee FC - Dundee United,260315,1.9,2.85,2.65,https://www.winner.co.il,Dundee FC,Dundee United,דנדי,דנדי יונייטד,סקוטית ראשונה
+Hibernian - Livingston,260314,1.3,3.55,4.9,https://www.winner.co.il,Hibernian,Livingston,היברניאן,ליבינגסטון,סקוטית ראשונה
+Kilmarnock - Hearts,260314,3.75,3.05,1.55,https://www.winner.co.il,Kilmarnock,Hearts,קילמרנוק,הארטס,סקוטית ראשונה
+St. Mirren - Rangers,260315,3.85,3.1,1.5,https://www.winner.co.il,St. Mirren,Rangers,סט. מירן,גלזגו ריינג'רס,סקוטית ראשונה
+Arao - Vaduz,260313,2.2,3.1,2.1,https://www.winner.co.il,Arao,Vaduz,אראו,ואדוז,שוויצרית שניה
+Iberdon Sport - Will,260313,1.8,2.95,2.75,https://www.winner.co.il,Iberdon Sport,Will,איברדון ספורט,וויל,שוויצרית שניה
+in Linzona - Carouge,260313,2.3,2.95,2.1,https://www.winner.co.il,in Linzona,Carouge,בלינזונה,קארוג',שוויצרית שניה
+Nakhon Rechsima - Chiangrai United,260313,2.55,2.75,2.0,https://www.winner.co.il,Nakhon Rechsima,Chiangrai United,נקהון רצ'סימה,צ'יאנגראי יונייטד,תאילנדית ראשונה
+Bohemians - Galway,260313,1.5,2.95,4.1,https://www.winner.co.il,Bohemians,Galway,בוהמיינס,גאלוואי,אירית ראשונה
+Sligo Rovers - Shamrock Rovers,260313,4.2,3.05,1.45,https://www.winner.co.il,Sligo Rovers,Shamrock Rovers,סליגו רוברס,שמרוק רוברס,אירית ראשונה
+Dundalk - Waterford,260313,1.7,2.9,3.05,https://www.winner.co.il,Dundalk,Waterford,דנדאלק,ווטרפורד,אירית ראשונה
+Derry City - Shelburne,260313,1.9,2.75,2.8,https://www.winner.co.il,Derry City,Shelburne,דרי סיטי,שלבורן,אירית ראשונה
+Set. Patrick - Drogheda United,260313,1.5,2.9,4.1,https://www.winner.co.il,Set. Patrick,Drogheda United,סט. פטריק,דרוגהדה יונייטד,אירית ראשונה
+Tigers - Gaius Quartario,260316,1.25,3.65,5.6,https://www.winner.co.il,Tigers,Gaius Quartario,טיגרס,גאיוס קוורטאריו,מקסיקנית ראשונה
+America de Mexico - Mazatlan,260316,1.25,3.65,5.6,https://www.winner.co.il,America de Mexico,Mazatlan,אמריקה דה מקסיקו,מזטלאן,מקסיקנית ראשונה
+flamenco - Cruzeiro,260312,1.4,3.2,4.4,https://www.winner.co.il,flamenco,Cruzeiro,פלמנגו,קרוזיירו,ברזילאית ראשונה
+Atlético Mineiro - International,260311,1.95,2.8,2.65,https://www.winner.co.il,Atlético Mineiro,International,אתלטיקו מיניירו,אינטרנסיונל,ברזילאית ראשונה
+Sao Paulo - Chapuquansa,260313,1.25,3.55,5.6,https://www.winner.co.il,Sao Paulo,Chapuquansa,סאו פאולו,שאפוקואנסה,ברזילאית ראשונה
+Vitoria Bahia - Atlético Mineiro,260314,2.25,2.8,2.25,https://www.winner.co.il,Vitoria Bahia,Atlético Mineiro,ויטוריה באהיה,אתלטיקו מיניירו,ברזילאית ראשונה
+Fluminense - Farnansa,260315,1.5,2.9,4.1,https://www.winner.co.il,Fluminense,Farnansa,פלומיננזה,פארננסה,ברזילאית ראשונה
+Salvador Bahia - Vitoria Bahia,260312,1.55,2.95,3.8,https://www.winner.co.il,Salvador Bahia,Vitoria Bahia,סלבדור באהיה,ויטוריה באהיה,ברזילאית ראשונה
+Palmeiras - Mirasol,260315,1.3,3.5,5.2,https://www.winner.co.il,Palmeiras,Mirasol,פלמייראס,מיראסול,ברזילאית ראשונה
+Vasco da Gama - Palmeiras,260313,2.6,2.85,1.95,https://www.winner.co.il,Vasco da Gama,Palmeiras,ואסקו דה גמא,פלמייראס,ברזילאית ראשונה
+Red Bull Bargentino - Sao Paulo,260316,2.15,2.65,2.45,https://www.winner.co.il,Red Bull Bargentino,Sao Paulo,רד בול ברגנטינו,סאו פאולו,ברזילאית ראשונה
+Cruzeiro - Vasco da Gama,260316,1.45,3.05,4.2,https://www.winner.co.il,Cruzeiro,Vasco da Gama,קרוזיירו,ואסקו דה גמא,ברזילאית ראשונה
+International - Salvador Bahia,260315,1.9,2.75,2.8,https://www.winner.co.il,International,Salvador Bahia,אינטרנסיונל,סלבדור באהיה,ברזילאית ראשונה
+Botafogo - flamenco,260315,2.95,2.75,1.85,https://www.winner.co.il,Botafogo,flamenco,בוטאפוגו,פלמנגו,ברזילאית ראשונה
+Curitiba - Ramo,260315,1.6,2.7,4.0,https://www.winner.co.il,Curitiba,Ramo,קוריטיבה,רמו,ברזילאית ראשונה
+Ramo - Fluminense,260312,2.85,2.9,1.8,https://www.winner.co.il,Ramo,Fluminense,רמו,פלומיננזה,ברזילאית ראשונה
+Santos - Corinthians,260315,1.95,2.65,2.75,https://www.winner.co.il,Santos,Corinthians,סנטוס,קורינתיאנס,ברזילאית ראשונה
+Corinthians - Curitiba,260312,1.4,3.1,4.5,https://www.winner.co.il,Corinthians,Curitiba,קורינתיאנס,קוריטיבה,ברזילאית ראשונה
+His bones - Red Bull Bargentino,260313,1.8,2.9,2.9,https://www.winner.co.il,His bones,Red Bull Bargentino,גרמיו,רד בול ברגנטינו,ברזילאית ראשונה
+Is Cam? - viking,260314,3.65,3.45,1.45,https://www.winner.co.il,Is Cam?,viking,האם קאם,ויקינג,נורבגית ראשונה
+Kpom Oslo - Start,260315,1.7,2.95,3.0,https://www.winner.co.il,Kpom Oslo,Start,קפום אוסלו,סטארט,נורבגית ראשונה
+Christiansund - Bran,260315,3.75,3.4,1.45,https://www.winner.co.il,Christiansund,Bran,כריסטיאנסונד,בראן,נורבגית ראשונה
+Tromsø - Fredrikstad,260315,1.6,3.0,3.4,https://www.winner.co.il,Tromsø,Fredrikstad,טרומסו,פרדריקסטאד,נורבגית ראשונה
+and to Ranga - Sandfjord,260315,1.8,3.15,2.6,https://www.winner.co.il,and to Ranga,Sandfjord,ולרנגה,סנדפיורד,נורבגית ראשונה
+motherland - Rosenberg,260314,1.7,3.15,2.9,https://www.winner.co.il,motherland,Rosenberg,מולדה,רוזנבורג,נורבגית ראשונה
+Alsonds - Lilstrom,260315,2.6,3.15,1.8,https://www.winner.co.il,Alsonds,Lilstrom,אלסונדס,לילסטרום,נורבגית ראשונה
+Birmingham Legion - Hartford,260311,2.25,2.9,2.2,https://www.winner.co.il,Birmingham Legion,Hartford,בירמינגהם לגיון,הארטפורד,"ארה""ב שניה"
+Port Vale - Bradford,260311,2.75,2.7,1.95,https://www.winner.co.il,Port Vale,Bradford,פורט וייל,ברדפורד,אנגלית ראשונה
+Wimbledon - Blackpool,260311,1.9,2.75,2.8,https://www.winner.co.il,Wimbledon,Blackpool,ווימבלדון,בלקפול,אנגלית ראשונה
+Union La Clara - O'Higgins,260316,2.2,2.7,2.35,https://www.winner.co.il,Union La Clara,O'Higgins,אוניון לה קלרה,או'היגינס,צ'ילאנית ראשונה
+Newlance - Deportes La Serena,260316,1.65,2.85,3.3,https://www.winner.co.il,Newlance,Deportes La Serena,נובלנס,דפורטס לה סרנה,צ'ילאנית ראשונה
+Universidad Concepcion - Palestine,260315,2.3,2.9,2.15,https://www.winner.co.il,Universidad Concepcion,Palestine,אוניברסידד קונספסיון,פלסטינו,צ'ילאנית ראשונה
+Coversel - Deportes Limache,260315,2.25,2.8,2.2,https://www.winner.co.il,Coversel,Deportes Limache,קוברסל,דפורטס לימצ'ה,צ'ילאנית ראשונה
+America de Cali - Tolima,260315,1.7,2.65,3.4,https://www.winner.co.il,America de Cali,Tolima,אמריקה דה קאלי,טולימה,"קולומביאנית ראשונה, אפרטורה"
+Jaguars - Independiente Medellín,260316,2.95,2.8,1.8,https://www.winner.co.il,Jaguars,Independiente Medellín,ז'גוארס,אינדפנדיינטה מדיין,"קולומביאנית ראשונה, אפרטורה"
+Club Deportivo Junior - portal,260316,1.4,3.15,4.7,https://www.winner.co.il,Club Deportivo Junior,portal,קלאב דפורטיבו ג'וניור,פורטלצה,"קולומביאנית ראשונה, אפרטורה"
+Deportivo Ferreira - Riongro Eagles,260315,2.55,2.55,2.15,https://www.winner.co.il,Deportivo Ferreira,Riongro Eagles,דפורטיבו פריירה,ריונגרו אגווילס,"קולומביאנית ראשונה, אפרטורה"
+Anfi - Zamalek,260311,3.65,2.65,1.65,https://www.winner.co.il,Anfi,Zamalek,אנפי,זמלק,מצרית ראשונה
+Zed A.P.C - Modern Sport FC,260311,2.45,2.3,2.45,https://www.winner.co.il,Zed A.P.C,Modern Sport FC,זד אפ.סי,מודרן ספורט,מצרית ראשונה
+Set. Galen - Lugano,260314,1.8,3.0,2.7,https://www.winner.co.il,Set. Galen,Lugano,סט. גאלן,לוגאנו,שוויצרית ראשונה
+P.C. Zurich - Sivan,260314,2.5,3.0,1.95,https://www.winner.co.il,P.C. Zurich,Sivan,פ.צ. ציריך,סיון,שוויצרית ראשונה
+Thon - Grasshoppers,260314,1.45,3.3,3.95,https://www.winner.co.il,Thon,Grasshoppers,ת'ון,גראסהופרס,שוויצרית ראשונה
+Lausanne Sport - Young Boys,260315,2.15,3.15,2.15,https://www.winner.co.il,Lausanne Sport,Young Boys,לוזאן ספורט,יאנג בויז,שוויצרית ראשונה
+Lucerne - Winterthur,260315,1.25,4.0,4.8,https://www.winner.co.il,Lucerne,Winterthur,לוצרן,וינטרת'ור,שוויצרית ראשונה
+Basel - Servette,260315,1.85,3.1,2.6,https://www.winner.co.il,Basel,Servette,באזל,סרבט ז'נבה,שוויצרית ראשונה
+Jago United - Seoul,260315,2.85,2.75,1.85,https://www.winner.co.il,Jago United,Seoul,ג'גו יונייטד,סיאול,דרום קוריאנית ראשונה
+Gangwon - Anyan,260315,1.85,2.7,3.0,https://www.winner.co.il,Gangwon,Anyan,גאנגוון,אניאן,דרום קוריאנית ראשונה
+Dijon Citizens - Gimcheon sangmu,260314,1.85,2.9,2.8,https://www.winner.co.il,Dijon Citizens,Gimcheon sangmu,דייז'ון סיטיזנס,גימצ'און סנגמו,דרום קוריאנית ראשונה
+Llanelli Town - Britton Perry,260313,4.8,3.6,1.3,https://www.winner.co.il,Llanelli Town,Britton Perry,לנלי,בריטון פרי,וויילשית ראשונה
+Haverfordwest - Cardiff Metropolitan,260313,2.05,2.75,2.5,https://www.winner.co.il,Haverfordwest,Cardiff Metropolitan,האברפורדווסט,קרדיף מטרופוליטן,וויילשית ראשונה
+Flint Town United - Balla Town,260313,1.55,3.15,3.55,https://www.winner.co.il,Flint Town United,Balla Town,פלינט טאון יונייטד,באלה טאון,וויילשית ראשונה
+Caernarfon - Kona Kuai,260313,2.5,2.95,2.0,https://www.winner.co.il,Caernarfon,Kona Kuai,קרנרפון,קונה קואיי,וויילשית ראשונה
+Nacional Asuncion - Rubio no,260315,1.65,2.75,3.6,https://www.winner.co.il,Nacional Asuncion,Rubio no,נאסיונל אסונסיון,רוביו נו,"פרגוואית ראשונה, אפרטורה"
+Sportivo Emiliano - Guarani Club,260316,2.35,2.65,2.25,https://www.winner.co.il,Sportivo Emiliano,Guarani Club,ספורטיבו אמליאנו,קלאב גווארני,"פרגוואית ראשונה, אפרטורה"
+Cerro Fortano - Sportivo Trinidadana,260315,1.35,3.25,5.2,https://www.winner.co.il,Cerro Fortano,Sportivo Trinidadana,סרו פורטנו,ספורטיבו טרינידנסה,"פרגוואית ראשונה, אפרטורה"
+raclette - Club Olympia,260314,3.9,3.0,1.5,https://www.winner.co.il,raclette,Club Olympia,רקולטה,קלאב אולימפיה,"פרגוואית ראשונה, אפרטורה"
+May 2 - Libertad Asuncion,260314,3.5,2.8,1.65,https://www.winner.co.il,May 2,Libertad Asuncion,2 במאי,ליברטד אסונסיון,"פרגוואית ראשונה, אפרטורה"
+Sportivo Locoano - Sportivo San Lorenzo,260313,1.55,2.9,3.8,https://www.winner.co.il,Sportivo Locoano,Sportivo San Lorenzo,ספורטיבו לוקואנו,ספורטיבו סן לורנצו,"פרגוואית ראשונה, אפרטורה"
+Brentford - Wolves,260316,1.5,3.95,5.0,https://www.winner.co.il,Brentford,Wolves,ברנטפורד,וולבס,פרמייר ליג
+Bogota - Tigers,260311,1.85,2.65,3.0,https://www.winner.co.il,Bogota,Tigers,בוגוטה,טיגרס,קולומביאנית שניה
+Itgoi rape - Enbigado,260311,3.5,2.7,1.7,https://www.winner.co.il,Itgoi rape,Enbigado,איטגוי לאונס,אנביגאדו,קולומביאנית שניה
+Estudiantes La Plata - rape,260314,1.8,2.6,3.35,https://www.winner.co.il,Estudiantes La Plata,rape,אסטודיאנטס לה פלטה,לאנוס,ארגנטינאית ראשונה
+Deportivo Reistra - Gymnasium Mendoza,260312,1.95,2.4,3.2,https://www.winner.co.il,Deportivo Reistra,Gymnasium Mendoza,דפורטיבו רייסטרה,גימנסיה מנדוזה,ארגנטינאית ראשונה
+Defensa i Justisia - Central Cordoba,260312,1.75,2.6,3.45,https://www.winner.co.il,Defensa i Justisia,Central Cordoba,דיפנסה אי חוסטיסיה,סנטרל קורדובה,ארגנטינאית ראשונה
+Boca Juniors - San Lorenzo,260312,1.5,2.65,4.6,https://www.winner.co.il,Boca Juniors,San Lorenzo,בוקה ג'וניורס,סן לורנצו,ארגנטינאית ראשונה
+Tajeras de Córdoba - Instituto Córdoba,260313,1.9,2.55,2.95,https://www.winner.co.il,Tajeras de Córdoba,Instituto Córdoba,טאז'ראס דה קורדובה,אינסטיטוטו קורדובה,ארגנטינאית ראשונה
+at Anfield - Gymnasium La Plata,260311,1.95,2.5,2.95,https://www.winner.co.il,at Anfield,Gymnasium La Plata,באנפילד,גימנסיה לה פלטה,ארגנטינאית ראשונה
+Argentinos Juniors - Rosario Central,260311,1.8,2.45,3.45,https://www.winner.co.il,Argentinos Juniors,Rosario Central,ארגנטינוס ג'וניורס,רוסאריו סנטרל,ארגנטינאית ראשונה
+Independiente Riveravia - Barracks Central,260312,1.4,3.0,5.2,https://www.winner.co.il,Independiente Riveravia,Barracks Central,אינדפנדיינטה ריברדביה,באראקס סנטרל,ארגנטינאית ראשונה
+Atlético Tucuman - aldusive,260312,1.7,2.65,3.6,https://www.winner.co.il,Atlético Tucuman,aldusive,אתלטיקו טוקומן,אלדוסיבי,ארגנטינאית ראשונה
+Huracan - River Plate,260313,2.65,2.45,2.15,https://www.winner.co.il,Huracan,River Plate,הוראקן,ריבר פלייט,ארגנטינאית ראשונה
+Estudiantes Rio Cuarto - Belgrano,260313,3.0,2.55,1.9,https://www.winner.co.il,Estudiantes Rio Cuarto,Belgrano,אסטודיאנטס ריו קווארטו,בלגראנו,ארגנטינאית ראשונה
+Belgrano - Tajeras de Córdoba,260315,2.1,2.5,2.7,https://www.winner.co.il,Belgrano,Tajeras de Córdoba,בלגראנו,טאז'ראס דה קורדובה,ארגנטינאית ראשונה
+Union Santa Fe - Boca Juniors,260316,2.45,2.5,2.3,https://www.winner.co.il,Union Santa Fe,Boca Juniors,אוניון סנטה פה,בוקה ג'וניורס,ארגנטינאית ראשונה
+San Lorenzo - Defensa i Justisia,260316,1.9,2.45,3.2,https://www.winner.co.il,San Lorenzo,Defensa i Justisia,סן לורנצו,דיפנסה אי חוסטיסיה,ארגנטינאית ראשונה
+Platansa - Velez Sarsfield,260314,2.35,2.35,2.55,https://www.winner.co.il,Platansa,Velez Sarsfield,פלאטנסה,ולז סארספילד,ארגנטינאית ראשונה
+River Plate - Sarmiento,260316,1.25,3.6,6.4,https://www.winner.co.il,River Plate,Sarmiento,ריבר פלייט,סארמיינטו,ארגנטינאית ראשונה
+aldusive - Huracan,260316,2.9,2.4,2.05,https://www.winner.co.il,aldusive,Huracan,אלדוסיבי,הוראקן,ארגנטינאית ראשונה
+Barracks Central - Atlético Tucuman,260316,2.25,2.55,2.4,https://www.winner.co.il,Barracks Central,Atlético Tucuman,באראקס סנטרל,אתלטיקו טוקומן,ארגנטינאית ראשונה
+Tigra - Argentinos Juniors,260315,2.85,2.5,2.0,https://www.winner.co.il,Tigra,Argentinos Juniors,טיגרה,ארגנטינוס ג'וניורס,ארגנטינאית ראשונה
+Rosario Central - at Anfield,260315,1.5,2.85,4.4,https://www.winner.co.il,Rosario Central,at Anfield,רוסאריו סנטרל,באנפילד,ארגנטינאית ראשונה
+Gymnasium La Plata - Independiente Riveravia,260315,2.1,2.6,2.55,https://www.winner.co.il,Gymnasium La Plata,Independiente Riveravia,גימנסיה לה פלטה,אינדפנדיינטה ריברדביה,ארגנטינאית ראשונה
+Leifia - Rigas School,260313,3.5,3.25,1.5,https://www.winner.co.il,Leifia,Rigas School,לייפיה,ריגאס סקולה,ליגה לטבית
+Khor Pakan - Diba al Fugirah,260311,1.7,3.05,2.95,https://www.winner.co.il,Khor Pakan,Diba al Fugirah,ח'ור פאקאן,דיבא אל פוגירח,"ליגת המפרץ, איחוד האמירויות"
+Sharjah - Al Nasr (UAE),260311,1.95,2.95,2.5,https://www.winner.co.il,Sharjah,Al Nasr (UAE),שארג'ה,אל נאסר דובאי,"ליגת המפרץ, איחוד האמירויות"
+Retreat - Dziugas,260311,3.35,3.0,1.6,https://www.winner.co.il,Retreat,Dziugas,ריטריאיי,דזיוגאס,ליגה ליטאית
+Wuhan Three Towns - Dalian Zhixing,260313,2.55,2.9,1.95,https://www.winner.co.il,Wuhan Three Towns,Dalian Zhixing,ווהאן טרי טאונס,דליאן ז'ישינג,סינית ראשונה
+Shenzhen Feng City - Tianjin,260314,2.2,2.8,2.25,https://www.winner.co.il,Shenzhen Feng City,Tianjin,שנזן פנג סיטי,טיאנג'ין,סינית ראשונה
+Chowping Tonglianlong - Liaoning Shenyang Urban,260314,1.9,2.9,2.7,https://www.winner.co.il,Chowping Tonglianlong,Liaoning Shenyang Urban,צ'ופינג טונגליאנלונג,ליאונינג שניאנג אורבן,סינית ראשונה
+Zhejiang Professional - Shanghai is hated,260314,2.7,3.05,1.8,https://www.winner.co.il,Zhejiang Professional,Shanghai is hated,ז'גיאנג פרופשיונל,שנחאי שנואה,סינית ראשונה
+Chengdu Rongcheng - Qingdu Manti,260315,1.15,4.2,7.0,https://www.winner.co.il,Chengdu Rongcheng,Qingdu Manti,צ'נגדו רונגצ'נג,קינגדו מנטי,סינית ראשונה
+Hanan - Yunnan Yukon,260315,1.6,3.2,3.25,https://www.winner.co.il,Hanan,Yunnan Yukon,חנאן,יונאן יוקון,סינית ראשונה
+Shanghai Port - Qingdao West Coast,260315,1.35,3.7,4.2,https://www.winner.co.il,Shanghai Port,Qingdao West Coast,שנחאי פורט,קינגדאו ווסט קוסט,סינית ראשונה
+Shandong Taishan - Beijing Guan,260314,1.8,3.25,2.6,https://www.winner.co.il,Shandong Taishan,Beijing Guan,שאנדונג טיישן,בייג'ין גואן,סינית ראשונה
+Chenmari - dump,260312,2.65,3.05,1.85,https://www.winner.co.il,Chenmari,dump,צ'נמרי,דמפו,ליגה הודית שניה
+Annecy - Troyes,260316,2.45,2.7,2.15,https://www.winner.co.il,Annecy,Troyes,אנסי,טרואה,צרפתית שניה
+Da Nang - Jia Lai,260313,1.65,2.85,3.5,https://www.winner.co.il,Da Nang,Jia Lai,דה נאנג,ג'יה לאי,וייטנאמית ראשונה
+Nam Din - Dong Thanh Hua,260313,1.25,3.7,6.0,https://www.winner.co.il,Nam Din,Dong Thanh Hua,נאם דין,דונג ת'אן הואה,וייטנאמית ראשונה
+Hanoi - Song Lam,260313,1.3,3.45,5.4,https://www.winner.co.il,Hanoi,Song Lam,האנוי,סונג לם,וייטנאמית ראשונה
+Tampines Rovers - Bangkok United,260312,2.8,3.05,1.75,https://www.winner.co.il,Tampines Rovers,Bangkok United,טמפינס רוברס,בנגקוק יונייטד,גביע ההתאחדות האסייאתית
+Altlineka - Luckenwalde,260311,1.55,3.1,3.45,https://www.winner.co.il,Altlineka,Luckenwalde,אלטליניקה,לוקנוולדה,גרמנית רביעית צפון מזרח
+Pershov - Tetran Liptovsky,260311,1.85,2.85,2.7,https://www.winner.co.il,Pershov,Tetran Liptovsky,פרשוב,טטרן ליפטובסקי,גביע סלובקי
+Bravo Ljubljana - Nafta to charity,260312,1.6,3.05,3.5,https://www.winner.co.il,Bravo Ljubljana,Nafta to charity,בראבו לובליאנה,נפטה לנדבה,גביע סלובני
+Portsmouth - Derby County,260316,1.9,2.7,2.8,https://www.winner.co.il,Portsmouth,Derby County,פורטסמות',דרבי קאונטי,צ'מפיונשיפ
+Real Murcia - Marbella,260311,1.55,2.85,4.1,https://www.winner.co.il,Real Murcia,Marbella,ריאל מורסיה,מרבלה,ספרדית שלישית
+Al Shabab Kuwait - Sohar SC,260311,1.85,2.75,2.95,https://www.winner.co.il,Al Shabab Kuwait,Sohar SC,אל-שבאב,סוחר,עומאנית ראשונה
+Al-Seeb - Al Nasser (Oman),260312,1.4,3.1,4.9,https://www.winner.co.il,Al-Seeb,Al Nasser (Oman),אל שיב,אל נאסר (עומאן),עומאנית ראשונה
+organs - Oman,260311,2.75,2.65,2.0,https://www.winner.co.il,organs,Oman,איברי,עומאן,עומאנית ראשונה
+Al-Rustaq - smiley,260311,2.35,2.6,2.25,https://www.winner.co.il,Al-Rustaq,smiley,אל רוסטק,סמעיל,עומאנית ראשונה
+Sur - Saham,260311,1.95,2.65,2.75,https://www.winner.co.il,Sur,Saham,סור,סחם,עומאנית ראשונה
+Al-Nahda - Al Habora,260312,1.35,3.05,5.4,https://www.winner.co.il,Al-Nahda,Al Habora,אל נחדה,אל חאבורה,עומאנית ראשונה
+Velez Mostar - APK Sarajevo,260311,2.2,2.6,2.45,https://www.winner.co.il,Velez Mostar,APK Sarajevo,ולז מוסטאר,אפ.קיי. סרייבו,גביע בוסניה והרצגובינה
+Sporting Crystal - Sport Boys,260315,1.3,3.5,5.2,https://www.winner.co.il,Sporting Crystal,Sport Boys,ספורטינג קריסטל,ספורט בויס,פרואנית ראשונה
+Cusco - Cianciano,260316,2.0,2.85,2.5,https://www.winner.co.il,Cusco,Cianciano,קוסקו,סיאנסיאנו,פרואנית ראשונה
+Malgar - Atlético Grau,260315,1.3,3.35,6.0,https://www.winner.co.il,Malgar,Atlético Grau,מלגאר,אתלטיקו גראו,פרואנית ראשונה
+Alianza Atlético - Mokgua,260315,1.5,2.9,4.2,https://www.winner.co.il,Alianza Atlético,Mokgua,אליאנסה אתלטיקו,מוקגואה,פרואנית ראשונה
+Cajamarca - Commerciantes Unidos,260313,1.55,2.95,3.75,https://www.winner.co.il,Cajamarca,Commerciantes Unidos,קג'מרקה,קומרסיאנטס יונידוס,פרואנית ראשונה
+Sporting Crystal - Karbobo,260311,1.7,2.7,3.5,https://www.winner.co.il,Sporting Crystal,Karbobo,ספורטינג קריסטל,קרבובו,גביע ליברטדורס
+Torpedo Moscow - naphthachemic,260316,1.8,2.7,3.05,https://www.winner.co.il,Torpedo Moscow,naphthachemic,טורפדו מוסקבה,נפטחימיק,רוסית שניה
+Independiente Medellín - Hobantod Las Piedades,260313,1.3,3.25,5.4,https://www.winner.co.il,Independiente Medellín,Hobantod Las Piedades,אינדפנדיינטה מדיין,חובנטוד לאס פיאדרס,גביע ליברטדורס
+Tolima - O'Higgins,260312,1.45,2.95,4.4,https://www.winner.co.il,Tolima,O'Higgins,טולימה,או'היגינס,גביע ליברטדורס
+Budo Glimmet - Sporting CP,260311,2.1,3.45,2.9,https://www.winner.co.il,Budo Glimmet,Sporting CP,בודו גלימט,ספורטינג ליסבון,ליגת האלופות
+Real Madrid - Manchester City,260311,2.0,10.5,1.5,https://www.winner.co.il,Real Madrid,Manchester City,ריאל מדריד,מנצ'סטר סיטי,ליגת האלופות
+Paris SG - Chelsea,260311,1.55,11.5,1.9,https://www.winner.co.il,Paris SG,Chelsea,פאריס סן ז'רמן,צ'לסי,ליגת האלופות
+Bayer Leverkusen - Arsenal,260311,6.1,4.3,1.4,https://www.winner.co.il,Bayer Leverkusen,Arsenal,באייר לברקוזן,ארסנל,ליגת האלופות
+Bologna - Roma,260312,2.8,2.7,2.25,https://www.winner.co.il,Bologna,Roma,בולוניה,רומא,הליגה האירופית
+Celta de Vigo - Lyon,260312,1.9,3.05,3.1,https://www.winner.co.il,Celta de Vigo,Lyon,סלטה ויגו,ליון,הליגה האירופית
+Nottingham Forest - Midland,260312,1.45,3.7,4.7,https://www.winner.co.il,Nottingham Forest,Midland,נוטינגהאם פורסט,מידטיילנד,הליגה האירופית
+French - Braga,260312,2.7,2.95,2.15,https://www.winner.co.il,French,Braga,פרנצוורוש,בראגה,הליגה האירופית
+Lille - Aston Villa,260312,2.65,2.95,2.2,https://www.winner.co.il,Lille,Aston Villa,ליל,אסטון וילה,הליגה האירופית
+Genk - Freiburg,260312,2.45,3.0,2.35,https://www.winner.co.il,Genk,Freiburg,גנק,פרייבורג,הליגה האירופית
+Panathinaikos - Real Betis,260312,3.2,2.9,1.95,https://www.winner.co.il,Panathinaikos,Real Betis,פנאתינייקוס,ריאל בטיס,הליגה האירופית
+Stuttgart - FC Porto,260312,1.95,3.05,3.05,https://www.winner.co.il,Stuttgart,FC Porto,שטוטגרט,פורטו,הליגה האירופית
+Sigma Olomouc - Mainz,260312,3.75,3.2,1.7,https://www.winner.co.il,Sigma Olomouc,Mainz,סיגמה אולומוץ,מיינץ,קונפרנס ליג
+roasting - A.A.K. Athens,260312,3.05,3.2,1.9,https://www.winner.co.il,roasting,A.A.K. Athens,צלייה,א.א.ק. אתונה,קונפרנס ליג
+Reika - Strasbourg,260312,3.4,3.25,1.75,https://www.winner.co.il,Reika,Strasbourg,רייקה,שטראסבורג,קונפרנס ליג
+Alkmaar - Sparta Prague,260312,2.0,3.1,2.9,https://www.winner.co.il,Alkmaar,Sparta Prague,אלקמאר,ספרטה פראג,קונפרנס ליג
+Go to Poznan - Shakhtar Donetsk,260312,2.4,2.95,2.4,https://www.winner.co.il,Go to Poznan,Shakhtar Donetsk,לך פוזנן,שחטאר דונייצק,קונפרנס ליג
+Crystal Palace - Larnaca,260312,1.15,4.8,9.2,https://www.winner.co.il,Crystal Palace,Larnaca,קריסטל פאלאס,א.א.ק. לרנקה,קונפרנס ליג
+Samsunspor - Rayo Vallecano,260312,2.9,3.05,2.0,https://www.winner.co.il,Samsunspor,Rayo Vallecano,סמסונספור,ראיו וייקאנו,קונפרנס ליג
+Fiorentina - Rotten Chestkhova,260312,1.65,3.25,3.8,https://www.winner.co.il,Fiorentina,Rotten Chestkhova,פיורנטינה,רקוב צ'סטחובה,קונפרנס ליג
+Central Espanyol - Sero Largo,260315,2.25,2.45,2.5,https://www.winner.co.il,Central Espanyol,Sero Largo,סנטרל אספניול,סרו לארגו,אורוגוואית ראשונה
+Danube - Hobantod Las Piedades,260316,1.8,2.65,3.2,https://www.winner.co.il,Danube,Hobantod Las Piedades,דנוביו,חובנטוד לאס פיאדרס,אורוגוואית ראשונה
+Deportivo Maldonado - Sporting Defensor,260315,2.05,2.65,2.6,https://www.winner.co.il,Deportivo Maldonado,Sporting Defensor,דפורטיבו מלדונדו,ספורטינג דפנסור,אורוגוואית ראשונה
+Terrazine - Sklicha,260315,2.0,2.75,2.55,https://www.winner.co.il,Terrazine,Sklicha,טרנצין,סקליצ'ה,סלובקית ראשונה
+Slovenian Bratislava - Jilina,260315,1.45,3.45,3.75,https://www.winner.co.il,Slovenian Bratislava,Jilina,סלובן ברטיסלבה,ז'ילינה,סלובקית ראשונה
+San Diego FC - Deportivo Toluca,260312,1.95,2.95,2.55,https://www.winner.co.il,San Diego FC,Deportivo Toluca,סן דייגו אף.סי,דפורטיבו טולוקה,ליגת האלופות צפון/מרכז אמריקה
+Vancouver - Seattle,260313,1.6,3.0,3.45,https://www.winner.co.il,Vancouver,Seattle,ונקובר,סיאטל,ליגת האלופות צפון/מרכז אמריקה
+Cincinnati - Tigers,260313,2.3,2.7,2.25,https://www.winner.co.il,Cincinnati,Tigers,סינסינטי,טיגרס,ליגת האלופות צפון/מרכז אמריקה
+Nashville - Inter Miami,260312,2.25,3.1,2.1,https://www.winner.co.il,Nashville,Inter Miami,נאשוויל,אינטר מיאמי,ליגת האלופות צפון/מרכז אמריקה
+Gagra - Safari,260311,2.0,2.85,2.5,https://www.winner.co.il,Gagra,Safari,גאגרה,ספאארי,גיאורגית ראשונה
+Torpedo Kutaisi - Iberia 1999,260311,2.65,2.75,1.95,https://www.winner.co.il,Torpedo Kutaisi,Iberia 1999,טורפדו קוטאיסי,איבריה 1999,גיאורגית ראשונה
+Samgurali - Atomic dynamo,260312,1.7,3.0,3.0,https://www.winner.co.il,Samgurali,Atomic dynamo,סמגורלי,דינמו באטומי,גיאורגית ראשונה
+Dila Guri - Tachiboli,260312,1.4,3.25,4.2,https://www.winner.co.il,Dila Guri,Tachiboli,דילה גורי,טקיבולי,גיאורגית ראשונה
+Shabab Al Ahli Dubai - Al Ittihad Kalba,260311,1.15,4.3,7.4,https://www.winner.co.il,Shabab Al Ahli Dubai,Al Ittihad Kalba,שבאב אל אהלי דובאי,אל איתיחד קלבה,"ליגת המפרץ, איחוד האמירויות"
+Al Ain - Al Wasl,260312,1.65,3.0,3.2,https://www.winner.co.il,Al Ain,Al Wasl,אל עין,אל וואסל,"ליגת המפרץ, איחוד האמירויות"
+Baniyas Club - Al Wahda,260312,3.35,3.05,1.6,https://www.winner.co.il,Baniyas Club,Al Wahda,בניאס,אל וואחדה,"ליגת המפרץ, איחוד האמירויות"
+Queen's University - Limavady United,260311,3.05,2.9,1.7,https://www.winner.co.il,Queen's University,Limavady United,קווינס יוניברסיטי,לימאבדי יונייטד,צפון אירית שניה
+Sondriska - Aarhus,260315,2.8,3.0,1.8,https://www.winner.co.il,Sondriska,Aarhus,סונדריסקה,ארהוס,דנית ראשונה
+Brondby - Vyborg,260315,1.9,2.95,2.65,https://www.winner.co.il,Brondby,Vyborg,ברונדבי,ויבורג,דנית ראשונה
+Midland - Nordsland,260315,1.35,3.75,4.3,https://www.winner.co.il,Midland,Nordsland,מידטיילנד,נורדסלנד,דנית ראשונה
+Fredericia - Randers,260313,2.65,3.0,1.85,https://www.winner.co.il,Fredericia,Randers,פרדריקיה,ראנדרס,דנית ראשונה
+Odense - P.C. Copenhagen,260315,2.75,3.05,1.8,https://www.winner.co.il,Odense,P.C. Copenhagen,אודנסה,פ.צ. קופנהגן,דנית ראשונה
+Antequera - Algeciras,260311,2.15,2.45,2.65,https://www.winner.co.il,Antequera,Algeciras,אנטקוורה,אלגסיראס,ספרדית שלישית
+Agamek - Sogdiana,260312,1.85,2.85,2.75,https://www.winner.co.il,Agamek,Sogdiana,אגמק,סוגדיאנה,אוזבקית ראשונה
+Dynamo Samarkand - Nassaf,260312,2.2,2.55,2.5,https://www.winner.co.il,Dynamo Samarkand,Nassaf,דינמו סמרקנד,נאסאף,אוזבקית ראשונה
+Silkburg - Vail,260316,1.85,3.0,2.65,https://www.winner.co.il,Silkburg,Vail,סילקבורג,ויילה,דנית ראשונה
+Botoșani - Unirea 2004,260316,1.45,3.15,4.3,https://www.winner.co.il,Botoșani,Unirea 2004,בוטוסאני,אוניראה סלובוזיה,רומנית ראשונה
+A.C.S.B - Metaloglobus,260315,1.1,4.7,8.6,https://www.winner.co.il,A.C.S.B,Metaloglobus,אפ.סי.אס.בי,מטלוגלובוס בוקרשט,רומנית ראשונה
+Oțelul - Chesikzarda Myrkorea,260314,1.5,2.9,4.0,https://www.winner.co.il,Oțelul,Chesikzarda Myrkorea,אוטלול גלאטי,צ'סיקזרדה מיירקוראה,רומנית ראשונה
+UTA Arad - Hermannstadt,260313,2.05,2.65,2.65,https://www.winner.co.il,UTA Arad,Hermannstadt,אראד,הרמנשטאדש,רומנית ראשונה
+Orlando Pirates - Richards Bay,260311,1.2,3.6,7.6,https://www.winner.co.il,Orlando Pirates,Richards Bay,אורלנדו פייראטס,ריצ'רדס ביי,דרום אפריקאית ראשונה
+Lask Linz - Hartberg,260313,1.5,3.15,3.75,https://www.winner.co.il,Lask Linz,Hartberg,לאסק לינץ,הארטברג,אוסטרית ראשונה
+Salzburg - Rapid Vienna,260315,1.5,3.2,3.8,https://www.winner.co.il,Salzburg,Rapid Vienna,זלצבורג,ראפיד וינה,אוסטרית ראשונה
+Austria Vienna - Sturm Graz,260315,1.9,2.8,2.7,https://www.winner.co.il,Austria Vienna,Sturm Graz,אוסטריה וינה,שטורם גראץ,אוסטרית ראשונה
+Reid - Tyrol,260314,1.75,2.85,3.1,https://www.winner.co.il,Reid,Tyrol,ריד,טירול,אוסטרית ראשונה
+Altach - Blau Wies Linz,260314,1.95,2.65,2.8,https://www.winner.co.il,Altach,Blau Wies Linz,אלטאך,בלאו וויס לינץ,אוסטרית ראשונה
+Grazer - Wolfsburger,260314,2.3,2.75,2.2,https://www.winner.co.il,Grazer,Wolfsburger,גרייזר,וולפסברגר,אוסטרית ראשונה
+Al Ahli Doha - Al Arabi Doha,260313,2.7,3.15,1.8,https://www.winner.co.il,Al Ahli Doha,Al Arabi Doha,אל אהלי דוחא,אל ערבי דוחא,קטארית ראשונה
+Al Rayyan - To a parking lot,260313,1.2,4.1,5.4,https://www.winner.co.il,Al Rayyan,To a parking lot,אל ריאן,אל שחנייה,קטארית ראשונה
+Al Sadd - Umm Salal,260313,1.15,4.7,6.2,https://www.winner.co.il,Al Sadd,Umm Salal,אל-סעאד (קטאר),אום סלאל,קטארית ראשונה
+Hanchela - Kairat,260313,2.55,2.6,2.1,https://www.winner.co.il,Hanchela,Kairat,חנצ'לה,קבילה,אלג'יראית ראשונה
+Falkir - I.B.V,260311,2.0,3.35,2.2,https://www.winner.co.il,Falkir,I.B.V,פאלקיר,איי.בי.וי,גביע הליגה האיסלנדי
+Paradou AC - MC Alger,260313,3.1,2.75,1.75,https://www.winner.co.il,Paradou AC,MC Alger,פרדו,מ.ס. אלג'ר,אלג'יראית ראשונה
+ASO Chlef - ES Mostaganem,260313,1.7,2.75,3.4,https://www.winner.co.il,ASO Chlef,ES Mostaganem,שלף,מוסטאגנם,אלג'יראית ראשונה
+Rapid 1923 - Dinamo Bucureşti,260314,1.85,2.75,2.9,https://www.winner.co.il,Rapid 1923,Dinamo Bucureşti,רפיד בוקרשט,דינמו בוקרשט,רומנית ראשונה
+Universitatea Cluj - CFR 1907 Cluj,260316,2.2,2.65,2.4,https://www.winner.co.il,Universitatea Cluj,CFR 1907 Cluj,אונבירסיטטה קלוז',קלוז',רומנית ראשונה
+Tenerife B - Las Palmas Atlético,260311,1.85,3.0,2.7,https://www.winner.co.il,Tenerife B,Las Palmas Atlético,טנריפה ב',לאס פלמס אתלטיקו,ספרדית רביעית
+reflection - Crains,260311,2.25,3.05,2.05,https://www.winner.co.il,reflection,Crains,בבואה,קריינס,שוויצרית שלישית
+Bola - Lucerne B,260311,1.95,3.2,2.3,https://www.winner.co.il,Bola,Lucerne B,בולה,לוצרן ב',שוויצרית שלישית
+Uganda Rabbis - Logazi Municipal,260311,1.4,2.95,5.2,https://www.winner.co.il,Uganda Rabbis,Logazi Municipal,אוגנדה רבניו,לוגאזי מוניסיפל,אוגנדית ראשונה
+Stoke City - Nottingham,260311,2.95,3.05,1.7,https://www.winner.co.il,Stoke City,Nottingham,סטוק,נוטינגהאם,"צ'מפיונשיפ , נשים"
+Kopotofa - Puerto Golfito,260311,2.1,2.9,2.35,https://www.winner.co.il,Kopotofa,Puerto Golfito,קופוטופה,פוארט גולפיטו,"ליגה שניה קוסטה ריקה, קלאוסורה"

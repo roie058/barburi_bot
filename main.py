@@ -49,41 +49,60 @@ async def run_bot():
             with open("debug_main_state.txt", "w", encoding="utf-8") as f:
                   f.write(f"Active Leagues Count: {len(active_leagues)}\n")
             
-            print(f"Found {len(active_leagues)} active leagues in Winner.")
+            print(f"Targeting {len(active_leagues)} active leagues for Unibet mapping.")
             
-            # Load mapping
-            mapping = {}
+            # Load Unibet mapping
+            mapping_unibet = {}
             try:
                 base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                if not os.path.exists(map_path): map_path = "winner_to_unibet_leagues.json"
+                map_path_u = os.path.join(base_dir, "winner_to_unibet_leagues.json")
+                if not os.path.exists(map_path_u): map_path_u = "winner_to_unibet_leagues.json"
                 
-                with open(map_path, "r", encoding="utf-8") as f:
-                    mapping = json.load(f)
+                with open(map_path_u, "r", encoding="utf-8") as f:
+                    mapping_unibet = json.load(f)
             except Exception as e:
-                print(f"Mapping file error: {e}")
+                print(f"Unibet Mapping file error: {e}")
 
             unibet_target_leagues = []
             for l in active_leagues:
-                if l in mapping and mapping[l]:
-                    url = mapping[l]
+                if l in mapping_unibet and mapping_unibet[l]:
+                    url = mapping_unibet[l]
                     if "/betting/odds/" in url:
                         suffix = url.split("/betting/odds/")[1]
                         unibet_target_leagues.append(suffix)
             
             unibet_target_leagues = list(set(unibet_target_leagues))
 
-            with open("debug_main_state.txt", "a", encoding="utf-8") as f:
-                f.write(f"Target Count: {len(unibet_target_leagues)}\n")
+            # Load Pinnacle mapping
+            mapping_pinnacle = {}
+            try:
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+                map_path_p = os.path.join(base_dir, "winner_to_pinnacle_leagues.json")
+                if not os.path.exists(map_path_p): map_path_p = "winner_to_pinnacle_leagues.json"
+                
+                with open(map_path_p, "r", encoding="utf-8") as f:
+                    mapping_pinnacle = json.load(f)
+            except Exception as e:
+                pass # Expected if it doesn't exist yet
 
-            print(f"Optimization: Mapped to {len(unibet_target_leagues)} target Unibet leagues.")
+            pinnacle_target_leagues = []
+            for l in active_leagues:
+                if l in mapping_pinnacle and mapping_pinnacle[l]:
+                    pinnacle_target_leagues.append(mapping_pinnacle[l])
+            pinnacle_target_leagues = list(set(pinnacle_target_leagues))
+
+            with open("debug_main_state.txt", "a", encoding="utf-8") as f:
+                f.write(f"Target Unibet Count: {len(unibet_target_leagues)}\n")
+                f.write(f"Target Pinnacle Count: {len(pinnacle_target_leagues)}\n")
+
+            print(f"Optimization: Mapped to {len(unibet_target_leagues)} Unibet leagues and {len(pinnacle_target_leagues)} Pinnacle leagues.")
     except Exception as e:
         print(f"Optimization crash: {e}")
 
     
     print("Fetching Unibet and Pinnacle odds...")
     results = await asyncio.gather(
-        pinnacle.get_odds(),
+        pinnacle.get_odds(leagues=pinnacle_target_leagues),
         unibet.get_odds(leagues=unibet_target_leagues),
         return_exceptions=True
     )

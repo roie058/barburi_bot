@@ -83,7 +83,7 @@ class PinnacleScraper:
             
         return matches
 
-    async def get_odds(self):
+    async def get_odds(self, leagues=None):
         async with async_playwright() as p:
             print(f"Launching browser (headless={self.headless})...")
             browser = await p.chromium.launch(
@@ -113,10 +113,25 @@ class PinnacleScraper:
                 await page.wait_for_timeout(7000) 
 
                 unique_leagues = {l['id']: l for l in captured_leagues if l.get('matchupCount', 0) > 0}
-                print(f"Found {len(unique_leagues)} active leagues. Fetching DOMs...")
+                
+                # Filter by provided leagues if argument exists
+                target_league_objects = []
+                if leagues is not None:
+                    if not leagues:
+                        print("PinnacleScraper: Scrape list is empty, skipping scrape.")
+                        return pd.DataFrame()
+                        
+                    for l_obj in unique_leagues.values():
+                        if l_obj['name'] in leagues:
+                            target_league_objects.append(l_obj)
+                            
+                    print(f"Found {len(unique_leagues)} active leagues. Filtered down to {len(target_league_objects)} target leagues. Fetching DOMs...")
+                else:
+                    target_league_objects = list(unique_leagues.values())
+                    print(f"Found {len(unique_leagues)} active leagues. Fetching DOMs for all...")
                 
                 # We sort leagues by matchupCount to prioritize big leagues if we hit limits
-                sorted_leagues = sorted(unique_leagues.values(), key=lambda x: x.get('matchupCount', 0), reverse=True)
+                sorted_leagues = sorted(target_league_objects, key=lambda x: x.get('matchupCount', 0), reverse=True)
                 
                 all_matches = []
                 chunk_size = 5 # Parallel tabs
