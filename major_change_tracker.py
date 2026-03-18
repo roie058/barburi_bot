@@ -12,7 +12,7 @@ DB_PATH = "data/tracker.sqlite"
 
 def init_db():
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=60.0)
     cursor = conn.cursor()
 
     # Store latest odds
@@ -96,7 +96,7 @@ async def run_tracker():
 
     print(f"Retrieved {len(winner_df)} games from Winner.")
     
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=60.0)
     cursor = conn.cursor()
         
     cursor.execute("SELECT id, num_1, num_X, num_2, team1_hebrew, team2_hebrew FROM matches")
@@ -181,6 +181,10 @@ async def run_tracker():
                 })
                 if 'league' in row and pd.notna(row['league']):
                     leagues_needing_remote_check.add(row['league'])
+
+    # IMPORTANT: Commit the transaction here to release the SQLite write lock!
+    # The upcoming remote scraping can take 5+ minutes, and we don't want to block the database.
+    conn.commit()
 
     # --- BATCH FETCH UNIBET & PINNACLE ONCE ---
     unibet_df = pd.DataFrame()
@@ -275,8 +279,8 @@ async def run_tracker():
         
         # We MUST NOT pass None to unibet, otherwise it scrapes all mapped leagues!
         # If unibet_target_leagues is empty, passing [] makes Unibet skip scraping (it returns empty quickly)
-        print(f"Mapped to {len(unibet_target_leagues)} Unibet leagues: {unibet_target_leagues}")
-        print(f"Mapped to {len(pinnacle_target_leagues)} Pinnacle leagues: {pinnacle_target_leagues}")
+        print(f"Mapped to {len(unibet_target_leagues)} Unibet leagues.")
+        print(f"Mapped to {len(pinnacle_target_leagues)} Pinnacle leagues.")
         
         try:
             results = await asyncio.gather(

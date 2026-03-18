@@ -1,0 +1,522 @@
+{
+  "global-navigation": {
+    "count": 1,
+    "text": "Help\n|\nAbout Us\n|\nSafer Gambling\n|\nApps\n|\nBlog\n|\nF"
+  },
+  "secondary-links-wrapper": {
+    "count": 1,
+    "text": "Help\n|\nAbout Us\n|\nSafer Gambling\n|\nApps\n|\nBlog\n|\nF"
+  },
+  "product-language-shortcut": {
+    "count": 1,
+    "text": ""
+  },
+  "secondary-links-desktop": {
+    "count": 1,
+    "text": "Help\n|\nAbout Us\n|\nSafer Gambling\n|\nApps\n|\nBlog\n|\nF"
+  },
+  "main-menu-secondary-links-help": {
+    "count": 1,
+    "text": "Help"
+  },
+  "main-menu-secondary-links-about-us": {
+    "count": 1,
+    "text": "About Us"
+  },
+  "main-menu-secondary-links-safer-gambling-cms": {
+    "count": 1,
+    "text": "Safer Gambling"
+  },
+  "main-menu-secondary-links-apps": {
+    "count": 1,
+    "text": "Apps"
+  },
+  "main-menu-secondary-links-blog": {
+    "count": 1,
+    "text": "Blog"
+  },
+  "main-menu-secondary-links-fair-gambling-policy": {
+    "count": 1,
+    "text": "Fair Gaming Policy"
+  },
+  "main-menu-secondary-links-community": {
+    "count": 1,
+    "text": "Unibet Community"
+  },
+  "anchor-link": {
+    "count": 1,
+    "text": "Unibet Community"
+  },
+  "brand-desktop-logo": {
+    "count": 1,
+    "text": ""
+  },
+  "desktop-menu": {
+    "count": 1,
+    "text": "Sports\nRacing\nCasino\nLive Casino\nBingo\nPoker\nPromo"
+  },
+  "nav-item-mainLink-betting": {
+    "count": 1,
+    "text": "Sports"
+  },
+  "dropdown-wrapper": {
+    "count": 6,
+    "text": "Sports lobbyVirtual SportsSponsorsBetting GuideSpo"
+  },
+  "nav-item-secondaryLink-betting": {
+    "count": 1,
+    "text": "Sports lobby"
+  },
+  "nav-item-secondaryLink-virtual-sports": {
+    "count": 1,
+    "text": "Virtual Sports"
+  },
+  "nav-item-secondaryLink-sponsors": {
+    "count": 1,
+    "text": "Sponsors"
+  },
+  "nav-item-secondaryLink-guides-lobby": {
+    "count": 6,
+    "text": "Betting Guide"
+  },
+  "nav-item-special": {
+    "count": 6,
+    "text": "Sports promotions"
+  },
+  "nav-item-mainLink-racing": {
+    "count": 1,
+    "text": "Racing"
+  },
+  "nav-item-secondaryLink-racing": {
+    "count": 1,
+    "text": "Racing"
+  },
+  "nav-item-secondaryLink-racing-rules": {
+    "count": 1,
+    "text": "Racing rules"
+  },
+  "nav-item-mainLink-casino": {
+    "count": 1,
+    "text": "Casino"
+  },
+  "nav-item-secondaryLink-casino": {
+    "count": 1,
+    "text": "Casino lobby"
+  },
+  "nav-item-secondaryLink-tournaments": {
+    "count": 1,
+    "text": "Tournaments"
+  },
+  "nav-item-mainLink-live-casino": {
+    "count": 1,
+    "text": "Live Casino"
+  },
+  "nav-item-secondaryLink-livecasino": {
+    "count": 1,
+    "text": "Live Casino lobby"
+  },
+  "nav-item-mainLink-bingo": {
+    "count": 1,
+    "text": "Bingo"
+  },
+  "nav-item-secondaryLink-bingo": {
+    "count": 1,
+    "text": "Bingo Lobby"
+  },
+  "nav-item-secondaryLink-bingo-tournaments": {
+    "count": 1,
+    "text": "Bingo Tournaments"
+  },
+  "nav-item-secondaryLink-bingo-wheel": {
+    "count": 1,
+    "text": "BingoWheel"
+  },
+  "nav-item-secondaryLink-jackpots": {
+    "count": 1,
+    "text": "Jackpots"
+  },
+  "nav-item-mainLink-poker": {
+    "count": 1,
+    "text": "Poker"
+  },
+  "nav-item-secondaryLink-poker": {
+    "count": 1,
+    "text": "Poker Lobby"
+  },
+  "nav-item-secondaryLink-poker-unibet-open": {
+    "count": 1,
+    "text": "Live events"
+  },
+  "nav-item-secondaryLink-poker-loyalty": {
+    "count": 1,
+    "text": "Unibet Poker Loyalty"
+  },
+  "nav-item-mainLink-promotion-lobby": {
+    "count": 1,
+    "text": "Promotions"
+  },
+  "account-section": {
+    "count": 1,
+    "text": "Log in\nCreate account"
+  },
+  "login-buttons-wrapper": {
+    "count": 1,
+    "text": "Log in\nCreate account"
+  },
+  "header-login-button": {
+    "count": 1,
+    "text": "Log in"
+  },
+  "header-registration-button": {
+    "count": 1,
+    "text": "Create account"
+  },
+  "base-layout": {
+    "count": 1,
+    "text": "Home\nIn-Play\nExplore\nFavourites\nALL SPORTS\nRacing\n"
+  },
+  "banner-notification-control": {
+    "count": 1,
+    "text": ""
+  },
+  "banner-queue": {
+    "count": 1,
+    "text": ""
+  },
+  "lobby-layout": {
+    "count": 1,
+    "text": "Home\nIn-Play\nExplore\nFavourites\nALL SPORTS\nRacing\n"
+  },
+  "mainScrollBox": {
+    "count": 1,
+    "text": "Home\nIn-Play\nExplore\nFavourites\nALL SPORTS\nRacing\n"
+  },
+  "navButtonsStack": {
+    "count": 1,
+    "text": "Home\nIn-Play\nExplore\nFavourites"
+  },
+  "homeBtn": {
+    "count": 1,
+    "text": "Home"
+  },
+  "navIcon": {
+    "count": 4,
+    "text": ""
+  },
+  "inPlayBtn": {
+    "count": 1,
+    "text": "In-Play"
+  },
+  "exploreBtn": {
+    "count": 1,
+    "text": "Explore"
+  },
+  "favouritesBtn": {
+    "count": 1,
+    "text": "Favourites"
+  },
+  "searchBar": {
+    "count": 1,
+    "text": ""
+  },
+  "searchIcon": {
+    "count": 1,
+    "text": ""
+  },
+  "aZMenuBoxContainer": {
+    "count": 1,
+    "text": "ALL SPORTS\nRacing\nAmerican Football\nAustralian Rul"
+  },
+  "aZMenuStack": {
+    "count": 1,
+    "text": "ALL SPORTS\nRacing\nAmerican Football\nAustralian Rul"
+  },
+  "aZIconHeaderLargeScreen": {
+    "count": 1,
+    "text": ""
+  },
+  "aZNavStack": {
+    "count": 1,
+    "text": "ALL SPORTS\nRacing\nAmerican Football\nAustralian Rul"
+  },
+  "aZNavSportsHeader": {
+    "count": 1,
+    "text": "ALL SPORTS"
+  },
+  "aZNavSportLine": {
+    "count": 35,
+    "text": "Racing"
+  },
+  "sportIcon": {
+    "count": 35,
+    "text": ""
+  },
+  "aZNavSportTitle": {
+    "count": 35,
+    "text": "Racing"
+  },
+  "pageHeaderStack": {
+    "count": 1,
+    "text": "Football"
+  },
+  "topSection": {
+    "count": 1,
+    "text": ""
+  },
+  "favouriteContainer": {
+    "count": 28,
+    "text": ""
+  },
+  "pageHeaderTitlesStack": {
+    "count": 1,
+    "text": "Football"
+  },
+  "scoreboardStack": {
+    "count": 22,
+    "text": "Football"
+  },
+  "contestCardTeamsStack": {
+    "count": 22,
+    "text": "Football"
+  },
+  "nonContestStackInHeader": {
+    "count": 1,
+    "text": "Football"
+  },
+  "headerTitle": {
+    "count": 1,
+    "text": "Football"
+  },
+  "quickbrowseTriggerArrow": {
+    "count": 1,
+    "text": ""
+  },
+  "tabsMenuStack": {
+    "count": 1,
+    "text": "Featured\nNext to go\nCompetitions\nOutrights"
+  },
+  "tabsMenuHeaderText": {
+    "count": 4,
+    "text": "Featured"
+  },
+  "propositionFiltersStack": {
+    "count": 1,
+    "text": "Full Time Result\nTotal Goals\nBoth Teams to Score\nD"
+  },
+  "propositionChipMenuFilter": {
+    "count": 1,
+    "text": "Full Time Result\nTotal Goals\nBoth Teams to Score\nD"
+  },
+  "groupFilter": {
+    "count": 4,
+    "text": "Full Time Result"
+  },
+  "allCompetitionsText": {
+    "count": 1,
+    "text": "Top Competitions"
+  },
+  "liveToggle": {
+    "count": 2,
+    "text": "Live"
+  },
+  "categoryBoxInAccordion": {
+    "count": 6,
+    "text": "UEFA Champions League\n4\nToday\nHome\nDraw\nAway\n17:45"
+  },
+  "MainHeader": {
+    "count": 6,
+    "text": "UEFA Champions League\n4"
+  },
+  "flagImage": {
+    "count": 6,
+    "text": ""
+  },
+  "MainHeaderText": {
+    "count": 6,
+    "text": "UEFA Champions League"
+  },
+  "MainHeaderNumber": {
+    "count": 6,
+    "text": "4"
+  },
+  "subHeader": {
+    "count": 8,
+    "text": "Today\nHome\nDraw\nAway"
+  },
+  "subHeaderLeftText": {
+    "count": 8,
+    "text": "Today"
+  },
+  "subHeaderProposition": {
+    "count": 24,
+    "text": "Home"
+  },
+  "contestCard": {
+    "count": 21,
+    "text": "17:45\nBarcelona\nNewcastle United\n4/7\n15/4\n4/1\n+128"
+  },
+  "contestTimeInCardContainer": {
+    "count": 21,
+    "text": "17:45"
+  },
+  "contestTimeInCard": {
+    "count": 21,
+    "text": "17:45"
+  },
+  "prematchTeamsStackHeader": {
+    "count": 21,
+    "text": "Barcelona\nNewcastle United"
+  },
+  "teamNamesInHeader": {
+    "count": 41,
+    "text": "Barcelona"
+  },
+  "statsBtnsInCard": {
+    "count": 21,
+    "text": ""
+  },
+  "contestCardPropositionsContainer": {
+    "count": 21,
+    "text": "4/7\n15/4\n4/1"
+  },
+  "propositionBtnsStack": {
+    "count": 20,
+    "text": "4/7\n15/4\n4/1"
+  },
+  "largePropositionBtn": {
+    "count": 60,
+    "text": "4/7"
+  },
+  "propositionOptionBtn": {
+    "count": 60,
+    "text": "4/7"
+  },
+  "propositionOptionValue": {
+    "count": 60,
+    "text": "4/7"
+  },
+  "contestCardPropositionsCount": {
+    "count": 21,
+    "text": "+128"
+  },
+  "viewAll": {
+    "count": 6,
+    "text": "View all UEFA Champions League"
+  },
+  "viewAllText": {
+    "count": 6,
+    "text": "View all UEFA Champions League"
+  },
+  "statsIconBox": {
+    "count": 6,
+    "text": ""
+  },
+  "statsIconStream": {
+    "count": 6,
+    "text": ""
+  },
+  "EmptyPlaceholderContainer": {
+    "count": 1,
+    "text": ""
+  },
+  "propositionEmptyPlaceholder": {
+    "count": 3,
+    "text": ""
+  },
+  "oddsFormatDropdownTrigger": {
+    "count": 1,
+    "text": "Odds Format"
+  },
+  "oddsFormatDropdownTriggerIcon": {
+    "count": 1,
+    "text": ""
+  },
+  "seo-footer-wrapper": {
+    "count": 1,
+    "text": "Bet on Football: Best Football Odds\n\nFootball bett"
+  },
+  "kmf-footer-official-mini-app": {
+    "count": 1,
+    "text": "Gambling can be addictive. Play responsibly.\nSafer"
+  },
+  "social-media": {
+    "count": 1,
+    "text": ""
+  },
+  "": {
+    "count": 25,
+    "text": ""
+  },
+  "responsible-gaming": {
+    "count": 1,
+    "text": "Gambling can be addictive. Play responsibly.\nSafer"
+  },
+  "rg-section": {
+    "count": 1,
+    "text": "Gambling can be addictive. Play responsibly."
+  },
+  "responsible-gaming-logo": {
+    "count": 1,
+    "text": ""
+  },
+  "responsible-gaming-info": {
+    "count": 1,
+    "text": "Gambling can be addictive. Play responsibly."
+  },
+  "text-wrapper": {
+    "count": 1,
+    "text": "Gambling can be addictive. Play responsibly."
+  },
+  "responsible-gaming-links": {
+    "count": 1,
+    "text": "Safer Gambling\nTerms and Conditions\nPrivacy Notice"
+  },
+  "link-path-with-route": {
+    "count": 6,
+    "text": "Safer Gambling"
+  },
+  "link-help": {
+    "count": 1,
+    "text": "Help"
+  },
+  "regulatory-logos-container": {
+    "count": 1,
+    "text": ""
+  },
+  "regulatory-logos": {
+    "count": 1,
+    "text": ""
+  },
+  "partners-logos": {
+    "count": 1,
+    "text": "Our Partners"
+  },
+  "logos-section": {
+    "count": 1,
+    "text": "Security & Trust\nSecure Payment Methods"
+  },
+  "security-logos": {
+    "count": 1,
+    "text": "Security & Trust"
+  },
+  "payment-logos": {
+    "count": 1,
+    "text": "Secure Payment Methods"
+  },
+  "official-partners-logos": {
+    "count": 1,
+    "text": "Safer Gambling"
+  },
+  "legal-row": {
+    "count": 1,
+    "text": "\u00a9 Copyright 2026, Unibet. All rights reserved\nUnib"
+  },
+  "legal-lines": {
+    "count": 1,
+    "text": "\u00a9 Copyright 2026, Unibet. All rights reserved\nUnib"
+  },
+  "copyright-container-text": {
+    "count": 1,
+    "text": "\u00a9 Copyright 2026, Unibet. All rights reserved"
+  }
+}

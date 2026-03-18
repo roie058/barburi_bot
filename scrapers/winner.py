@@ -1,9 +1,14 @@
 import asyncio
 import json
 import os
+import random
 import pandas as pd
 from playwright.async_api import async_playwright
 from deep_translator import GoogleTranslator
+from scrapers.stealth_config import (
+    STEALTH_ARGS, get_context_options, apply_stealth,
+    human_delay, human_scroll
+)
 
 class WinnerScraper:
     def __init__(self, headless=True):
@@ -19,7 +24,6 @@ class WinnerScraper:
             path = os.path.join(base_dir, "data", "name_mappings.json")
             with open(path, "r", encoding="utf-8") as f:
                 self.translation_cache = json.load(f)
-            # print(f"DEBUG: WinnerScraper loaded mappings from {path}")
         except Exception as e:
             print(f"Error loading name_mappings.json in winner.py: {e}")
             try:
@@ -54,8 +58,15 @@ class WinnerScraper:
 
     async def get_odds(self):
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=self.headless)
-            page = await browser.new_page()
+            browser = await p.chromium.launch(
+                headless=self.headless,
+                args=STEALTH_ARGS
+            )
+            context = await browser.new_context(
+                **get_context_options(locale="he-IL", timezone="Asia/Jerusalem")
+            )
+            page = await context.new_page()
+            await apply_stealth(page)
             
             captured_data = []
 
@@ -77,11 +88,9 @@ class WinnerScraper:
                 await page.goto(target_url, timeout=60000)
                 
                 print("Scrolling to load more matches...")
-                for _ in range(10):
-                    await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                    await page.wait_for_timeout(1500)
+                await human_scroll(page, scroll_count=random.randint(8, 12))
                 
-                await page.wait_for_timeout(2000) 
+                await human_delay(1800, 500)
                 
                 if not captured_data:
                     print("No useful data found in intercepted responses.")

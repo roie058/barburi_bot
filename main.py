@@ -1,5 +1,4 @@
 import asyncio
-print("DEBUG: LOADED MODIFIED MAIN.PY")
 import time
 import pandas as pd
 import json
@@ -46,8 +45,6 @@ async def run_bot():
         if not winner_df.empty and 'league' in winner_df.columns:
             active_leagues = winner_df['league'].unique()
             # Log count only
-            with open("debug_main_state.txt", "w", encoding="utf-8") as f:
-                  f.write(f"Active Leagues Count: {len(active_leagues)}\n")
             
             print(f"Targeting {len(active_leagues)} active leagues for Unibet mapping.")
             
@@ -90,10 +87,7 @@ async def run_bot():
                 if l in mapping_pinnacle and mapping_pinnacle[l]:
                     pinnacle_target_leagues.append(mapping_pinnacle[l])
             pinnacle_target_leagues = list(set(pinnacle_target_leagues))
-
-            with open("debug_main_state.txt", "a", encoding="utf-8") as f:
-                f.write(f"Target Unibet Count: {len(unibet_target_leagues)}\n")
-                f.write(f"Target Pinnacle Count: {len(pinnacle_target_leagues)}\n")
+            # Logging targeting counts internally
 
             print(f"Optimization: Mapped to {len(unibet_target_leagues)} Unibet leagues and {len(pinnacle_target_leagues)} Pinnacle leagues.")
     except Exception as e:

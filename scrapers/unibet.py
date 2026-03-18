@@ -4,12 +4,16 @@ from playwright.async_api import async_playwright
 import pandas as pd
 import json
 import os
+import random
 from datetime import datetime, timedelta
+from scrapers.stealth_config import (
+    STEALTH_ARGS, get_context_options, apply_stealth,
+    human_delay
+)
 
 class UnibetScraper:
     def __init__(self, headless=False):
         # Default to headless=False as Unibet blocks headless/API often.
-        # But we can try headless=True later if stability is proven.
         self.headless = headless
         self.base_url = "https://www.unibet.co.uk"
 
@@ -101,26 +105,20 @@ class UnibetScraper:
         
     async def get_odds(self, leagues=None):
         async with async_playwright() as p:
-            # Launch with minimal args (matching debug script that worked)
+            # Launch with stealth args
             browser = await p.chromium.launch(
                 headless=self.headless,
-                # Removed aggressive stealth args that might trigger detection
+                args=STEALTH_ARGS,
+                channel="chrome"
             )
             
-            context = await browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                viewport={"width": 1920, "height": 1080}
-            )
+            context = await browser.new_context(**get_context_options())
             
-            # Load leagues
             # Load leagues
             target_params = []
             if leagues is not None:
                 target_params = leagues
                 if not target_params: 
-                    # If empty list passed, we should respect it? 
-                    # But if empty, loop below 'for p in target_params' does nothing.
-                    # So 'all_matches' stays empty. Correct.
                     print("UnibetScraper: Scrape list is empty, skipping scrape.")
             else:
                 json_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'unibet_leagues.json')
@@ -143,7 +141,7 @@ class UnibetScraper:
             
             all_matches = []
             
-            # Increased semaphore to 4 for better speed (Visible Browser)
+            # Reduced semaphore from 4 to 3 to look less aggressive
             sem = asyncio.Semaphore(4)
 
             # Define the actual scraping logic as a local async function (captured self)
@@ -153,14 +151,15 @@ class UnibetScraper:
                 try:
                     # Page instantiation protected
                     page = await context.new_page()
+                    await apply_stealth(page)
                     url = f"https://www.unibet.co.uk/betting/sports/filter/{param}"
 
                     # Retry logic
                     for attempt in range(3):
                         try:
                             if attempt > 0:
-                                # Short sleep on retry
-                                await asyncio.sleep(2 + attempt)
+                                # Randomized retry delay
+                                await human_delay(2500 + attempt * 1000, 800)
 
                             await page.goto(url, timeout=60000)
                             try:
@@ -169,35 +168,30 @@ class UnibetScraper:
 
                             # Handle cookie banner
                             try:
-                                # Start with a solid wait for the banner
                                 await page.wait_for_selector("#onetrust-accept-btn-handler", timeout=5000)
                                 await page.click("#onetrust-accept-btn-handler")
-                                await asyncio.sleep(2) # Wait for animation
+                                await human_delay(1800, 500)
                             except: pass
 
                             # Wait for hydration (CRITICAL: matches debug script)
-                            # print(f"DEBUG: Waiting 5s for hydration...", flush=True)
-                            await asyncio.sleep(5)
+                            await human_delay(4500, 1500)
 
                             # Scroll logic for THIS tab (Dynamic Deep Scroll)
                             prev_height = 0
                             no_change_count = 0
                             
-                            # Scroll & Expand Strategy (Maximize Coverage)
-                            # Instead of just scrolling to bottom, we Expand AS we scroll to catch "Middle Dates"
-                            
-                            MAX_SCROLLS = 40 # Sufficient for Jan 26
+                            MAX_SCROLLS = random.randint(12, 18)  # Reduced from 35-45 for efficiency
                             
                             for _ in range(MAX_SCROLLS): 
-                                # 1. Scroll small amount
-                                await page.evaluate("window.scrollBy(0, 600)") 
-                                await asyncio.sleep(0.5)
+                                # 1. Scroll random amount
+                                scroll_amount = random.randint(400, 800)
+                                await page.evaluate(f"window.scrollBy(0, {scroll_amount})") 
+                                await human_delay(450, 200)
                                 
                                 # 2. Try to Expand Headers in Viewport (Iterative)
                                 try:
                                     await page.evaluate("""() => {
                                         const dateHeaders = document.querySelectorAll('[data-test-name="MainHeader"], [data-test-name="match-group-header"]');
-                                        // Also generic "Show More" buttons
                                         const buttons = Array.from(document.querySelectorAll('button, div[role="button"]'));
                                         buttons.forEach(b => {
                                              if (b.innerText.toLowerCase().includes("show more")) b.click();
@@ -205,33 +199,24 @@ class UnibetScraper:
                                     }""")
                                 except: pass
                                 
-                                await asyncio.sleep(0.5) # Wait for expansion/loading
-
-                                # Check if at bottom? (Optional, but safe to just run loop)
-                            
-                            # Final Expansion Pass -> Removed as we parse Hidden DOM now.
+                                await human_delay(450, 200)
 
                             # Fast DOM extraction via JS evaluation
-                            # UPDATED: Use textContent to capture HIDDEN (collapsed) matches without needing to expand
                             try:
                                 js_script = r"""() => {
-                                    // Select both Headers and Cards to track Date context
                                     const selector = '[data-test-name="contestCard"], [data-test-name="match-group-header"], [data-test-name="MainHeaderText"], [data-test-name="MainHeader"], .KambiBC-event-groups-list__header';
                                     const allNodes = Array.from(document.querySelectorAll(selector));
                                     
                                     let nodeLog = [];
                                     const results = [];
-                                    let currentDate = "Today"; // Default
+                                    let currentDate = "Today";
                                     
-                                    // Regex for Date Dates (e.g. 02 Jan, Monday, Today)
                                     const dateRegex = new RegExp("^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Today|Tomorrow)|([0-9]{1,2} (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec))", "i");
 
                                     allNodes.forEach((node, nodeIdx) => {
                                         try {
-                                            // USE textContent for headers (simple), innerHTML for cards (complex structure)
                                             const textContent = node.textContent.replace(/[\n\r]+/g, ' ').trim(); 
                                             
-                                            // 1. HEADER LOGIC
                                             let isHeader = false;
                                             const isCard = node.matches('[data-test-name="contestCard"]');
                                             
@@ -254,23 +239,13 @@ class UnibetScraper:
                                                 if (dateRegex.test(textContent)) {
                                                     currentDate = textContent.trim();
                                                 }
-                                                return; // Done with this node
+                                                return;
                                             }
 
-                                            // 2. CARD LOGIC (Hidden Data Parser)
                                             if (isCard) {
-                                                // Strategy: use innerHTML to preserve separation between elements (Teams, Time, Odds)
-                                                // 1. Get HTML
                                                 const html = node.innerHTML;
-                                                // 2. Replace tags with Pipe separator
                                                 const separated = html.replace(/<[^>]+>/g, '|');
-                                                // 3. Split and Clean
                                                 const parts = separated.split('|').map(p => p.trim()).filter(p => p.length > 0 && p !== '&nbsp;');
-                                                
-                                                // distinct parts: ["19:30", "Real Sociedad", "Barcelona", "1.50", "4.00", "5.00", "+123"]
-                                                
-                                                // Filter out garbage
-                                                // We rely on finding the ODDS to anchor the parsing.
                                                 
                                                 const isOdd = (s) => ( /^[0-9]+\/[0-9]+$/.test(s) ) || ( /^[0-9]+(\.[0-9]+)?$/.test(s) && parseFloat(s) > 1.0 && s.length < 8 );
                                                 
@@ -278,7 +253,6 @@ class UnibetScraper:
                                                 parts.forEach((p, i) => { if(isOdd(p)) oddsIndices.push(i); });
                                                 
                                                 if (oddsIndices.length >= 3) {
-                                                    // Assumes odds are sequential? usually yes: 1, X, 2
                                                     const o1_idx = oddsIndices[0];
                                                     const ox_idx = oddsIndices[1];
                                                     const o2_idx = oddsIndices[2];
@@ -295,33 +269,25 @@ class UnibetScraper:
                                                     const ox = parseOdd(parts[ox_idx]);
                                                     const o2 = parseOdd(parts[o2_idx]);
                                                     
-                                                    // Everything before odds is potential Team/Time info
                                                     const preOdds = parts.slice(0, o1_idx);
                                                     
-                                                    // Filter out noise
                                                     const candidates = preOdds.filter(c => 
-                                                        !c.match(/^[0-9]+$/) && // Skip specific IDs
+                                                        !c.match(/^[0-9]+$/) &&
                                                         c !== "Live" && c !== "Cash Out" && c !== "Streaming" && c !== "Watch"
                                                     );
                                                     
-                                                    // Look for Time (HH:MM)
                                                     let time = "";
                                                     const timeIdx = candidates.findIndex(c => /^[0-9]{2}:[0-9]{2}$/.test(c));
                                                     if (timeIdx !== -1) {
                                                         time = candidates[timeIdx];
-                                                        candidates.splice(timeIdx, 1); // Remove time
+                                                        candidates.splice(timeIdx, 1);
                                                     }
-                                                    
-                                                    // Remaining should be teams
-                                                    // Usually 2 distinct items: ["Real Sociedad", "Barcelona"]
-                                                    // Or 1 mashed item? With innerHTML replace, they are usually separate divs.
                                                     
                                                     let t1 = "", t2 = "";
                                                     if (candidates.length >= 2) {
-                                                        t1 = candidates[candidates.length-2]; // Take last 2 valid text items
+                                                        t1 = candidates[candidates.length-2];
                                                         t2 = candidates[candidates.length-1];
                                                     } else if (candidates.length === 1) {
-                                                        // Maybe dash separated?
                                                         if (candidates[0].includes(' - ')) {
                                                             [t1, t2] = candidates[0].split(' - ');
                                                         } else {
@@ -329,9 +295,6 @@ class UnibetScraper:
                                                         }
                                                     }
                                                     
-                                                    // Date Construction
-                                                    // Use header date + time
-                                                    // Or check if a date string is in candidates
                                                     let finalDate = currentDate;
                                                     if (time) finalDate = finalDate + " " + time;
                                                     
@@ -346,9 +309,7 @@ class UnibetScraper:
                                                     }
                                                 }
                                             }
-                                        } catch(err) {
-                                            // nodeLog.push("Error: " + err.toString());
-                                        }
+                                        } catch(err) {}
                                     });
                                     return { results, nodeLog }; 
                                 }"""
@@ -357,12 +318,7 @@ class UnibetScraper:
                                 pass
                                 matches = []
                                 
-                            # Parsing return which is now { results: [...], nodeLog: [...] } or []
                             if isinstance(matches, dict):
-                                # if matches.get('nodeLog'):
-                                #     print("DEBUG JS LOG:", flush=True)
-                                #     for l in matches['nodeLog'][:20]:
-                                #         print(f"  {l}", flush=True)
                                 matches = matches.get('results', [])
                                 
                             # --- FALLBACK SCRAPER ---
@@ -418,22 +374,16 @@ class UnibetScraper:
                             if not matches and attempt < 2:
                                 title = await page.title()
                                 if not any(x in title for x in ["503", "Unavailable", "Just a moment", "Challenge", "Error"]):
-                                    # DEBUG: Dump the HTML if we expected matches but got none
                                     try:
-                                        # print(f"DEBUG: 0 matches found for {param}. Dumping HTML...", flush=True)
                                         content = await page.content()
                                         with open(f"unibet_failed_{attempt}.html", "w", encoding="utf-8") as f:
                                             f.write(content)
                                     except: pass
-                                    # Continue instead of break to allow retry
                                     continue
                                 
-                                # If title had an error, then break immediately
                                 break
                                 
                         except Exception as e:
-                            # Only print real errors, not just retries
-                            # print(f"DEBUG: Error in _scrape_logic loop for {param}: {e}", flush=True)
                             import traceback
                             traceback.print_exc()
                             pass
@@ -443,9 +393,6 @@ class UnibetScraper:
                     return league_matches
 
                 except Exception as e:
-                    # Critical page failure (e.g. TargetClosed)
-                    # print(f"DEBUG: Critical error for {param}: {e}", flush=True) 
-                    # Don't throw, just return empty
                     if page: 
                         try: await page.close()
                         except: pass
@@ -456,13 +403,14 @@ class UnibetScraper:
             async def scrape_league(param):
                 async with sem:
                     try:
-                        print(f"Scraping Unibet: {param}", flush=True) # Print only when actually started
+                        # Add random stagger between tasks starting
+                        await asyncio.sleep(random.uniform(0.3, 1.5))
+                        print(f"Scraping Unibet: {param}", flush=True)
                         return await asyncio.wait_for(_scrape_logic(context, param), timeout=120.0)
                     except asyncio.TimeoutError:
                         print(f"Timeout: {param}", flush=True)
                         return []
                     except Exception as e:
-                        # print(f"DEBUG: Error {param}: {e}", flush=True)
                         return []
             
             tasks = [scrape_league(p) for p in target_params]
@@ -479,17 +427,11 @@ class UnibetScraper:
 
             print(f"Concurrent DOM Scrape Finished. Found {len(all_matches)} matches.", flush=True)
             
-            # Print specifically the future games we are looking for
-            # for m in all_matches:
-            #      if 'Everton' in str(m) or 'Leeds' in str(m) or 'Jan' in str(m):
-            #          print(f"DEBUG_UNIBET_MATCH: {m}", flush=True)
-            
             return pd.DataFrame(all_matches)
 
 if __name__ == "__main__":
     scraper = UnibetScraper(headless=True)
     print("Running Debug Test for Premier League with Retry Logic...")
-    # Add multiple leagues to test concurrency/retries if needed, but start with 1
     df = asyncio.run(scraper.get_odds(leagues=["football/england/premier_league"]))
     if not df.empty:
         pd.set_option('display.max_rows', None)

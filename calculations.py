@@ -192,8 +192,8 @@ def compare_games(winner_df: pd.DataFrame, remote_df: pd.DataFrame, remote_name:
                 score_swapped = (s3 + s4) / 2
                 
                 # Validation: Both sides must have decent similarity to avoid "One strong match + Random"
-                # e.g. "Valencia - Elche" vs "Celta - Valencia" (s4=1.0, s3=0.3) -> Avg=0.65 (Passes old check)
-                MIN_SIDE_SCORE = 0.55
+                # e.g. "Valencia - Elche" vs "Celta - Valencia" (s4=1.0, s3=0.3) -> Avg=0.65 
+                MIN_SIDE_SCORE = 0.75
                 
                 valid_straight = (s1 > MIN_SIDE_SCORE and s2 > MIN_SIDE_SCORE)
                 valid_swapped = (s3 > MIN_SIDE_SCORE and s4 > MIN_SIDE_SCORE)
@@ -204,8 +204,8 @@ def compare_games(winner_df: pd.DataFrame, remote_df: pd.DataFrame, remote_name:
                 if valid_swapped and score_swapped > best_score:
                     best_score = score_swapped
                 
-                # Using 0.65 as a safe cutoff for normalized name comparison
-                if best_score > 0.65 and best_score > max_overall_score:
+                # Using 0.82 as a safe cutoff for normalized name comparison
+                if best_score > 0.82 and best_score > max_overall_score:
                     max_overall_score = best_score
                     best_match = r_game
 
@@ -240,8 +240,8 @@ def compare_games(winner_df: pd.DataFrame, remote_df: pd.DataFrame, remote_name:
                     global_best_score = g_score
                     global_best_match = r_game
             
-            # High threshold (0.80) to trust name over date
-            if global_best_score > 0.80:
+            # High threshold (0.88) to trust name over date
+            if global_best_score > 0.88:
                 best_match = global_best_match
                     
         if best_match:

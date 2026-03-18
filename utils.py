@@ -83,7 +83,7 @@ def match_datasets(df1, df2):
                     best_score = top_score
                     best_match = g2
             
-            if best_score > 0.70: # 70% matching threshold
+            if best_score > 0.85: # 85% matching threshold
                 matched.append((g1, best_match))
             else:
                 unmatched1.append(g1)

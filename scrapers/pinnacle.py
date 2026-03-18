@@ -1,7 +1,12 @@
 import asyncio
+import random
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 import pandas as pd
+from scrapers.stealth_config import (
+    STEALTH_ARGS, get_context_options, apply_stealth,
+    human_delay
+)
 
 class PinnacleScraper:
     def __init__(self, headless=True):
@@ -69,10 +74,11 @@ class PinnacleScraper:
         url = f"https://www.pinnacle.com/en/soccer/{slug}/matchups/"
         
         page = await context.new_page()
+        await apply_stealth(page)
         matches = []
         try:
             await page.goto(url, timeout=30000)
-            await page.wait_for_timeout(3000) # Give it time to render React
+            await human_delay(2500, 1000)  # Randomized wait for React render
             html = await page.content()
             matches = self.extract_matches(html, url)
         except Exception as e:
@@ -85,13 +91,15 @@ class PinnacleScraper:
 
     async def get_odds(self, leagues=None):
         async with async_playwright() as p:
-            print(f"Launching browser (headless={self.headless})...")
+            print(f"Launching Pinnacle browser (headless={self.headless})...")
             browser = await p.chromium.launch(
                 headless=self.headless,
-                args=['--disable-blink-features=AutomationControlled', '--disable-infobars']
+                args=STEALTH_ARGS,
+                channel="chrome"
             )
-            context = await browser.new_context()
+            context = await browser.new_context(**get_context_options())
             page = await context.new_page()
+            await apply_stealth(page)
 
             try:
                 # 1. Discover All Leagues using API intercept
@@ -110,7 +118,7 @@ class PinnacleScraper:
 
                 page.on("response", handle_leagues)
                 await page.goto(leagues_url, timeout=60000)
-                await page.wait_for_timeout(7000) 
+                await human_delay(6000, 2000)  # Randomized wait
 
                 unique_leagues = {l['id']: l for l in captured_leagues if l.get('matchupCount', 0) > 0}
                 
@@ -134,22 +142,27 @@ class PinnacleScraper:
                 sorted_leagues = sorted(target_league_objects, key=lambda x: x.get('matchupCount', 0), reverse=True)
                 
                 all_matches = []
-                chunk_size = 5 # Parallel tabs
+                chunk_size = 3  # Reduced from 5 to look less aggressive
                 
                 for i in range(0, len(sorted_leagues), chunk_size):
                     chunk = sorted_leagues[i:i+chunk_size]
                     print(f"Processing chunk {i // chunk_size + 1}/{len(sorted_leagues) // chunk_size + 1}...")
                     
-                    tasks = [self.fetch_league_page(context, l['name']) for l in chunk]
+                    tasks = []
+                    for l in chunk:
+                        tasks.append(self.fetch_league_page(context, l['name']))
+                        # Stagger tab launches within a chunk
+                        await asyncio.sleep(random.uniform(0.3, 1.0))
+                    
                     results = await asyncio.gather(*tasks)
                     
                     for row_matches in results:
                         all_matches.extend(row_matches)
                         
-                    # Small sleep between batches to avoid IP ban
-                    await asyncio.sleep(1)
+                    # Randomized sleep between batches
+                    await human_delay(1200, 600)
 
-                print(f"Successfully extracted {len(all_matches)} matches via DOM.")
+                print(f"Pinnacle: Successfully extracted {len(all_matches)} matches via DOM.")
                 
                 df = pd.DataFrame(all_matches)
                 if not df.empty:
