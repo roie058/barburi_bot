@@ -7,6 +7,7 @@ from scrapers.pinnacle import PinnacleScraper
 from scrapers.winner import WinnerScraper
 from scrapers.unibet import UnibetScraper
 from calculations import compare_games
+from utils import update_unibet_team_map
 from message import bet_notifications
 from message_state import should_send_notification, mark_notification_sent
 
@@ -111,6 +112,9 @@ async def run_bot():
     if isinstance(unibet_df, Exception):
         print(f"Unibet scraper failed: {unibet_df}")
         unibet_df = pd.DataFrame()
+    else:
+        # Update Unibet team name mapping
+        update_unibet_team_map(unibet_df)
         
     print(f"Got {len(winner_df)} Winner, {len(unibet_df)} Unibet, {len(pinnacle_df)} Pinnacle matches.")
     

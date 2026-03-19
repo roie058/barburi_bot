@@ -1,5 +1,7 @@
 
 import difflib
+import json
+import os
 
 class GameWrapper:
     def __init__(self, data):
@@ -88,4 +90,67 @@ def match_datasets(df1, df2):
             else:
                 unmatched1.append(g1)
                 
+
     return len(matched), matched, unmatched1
+
+def update_unibet_team_map(unibet_df):
+    """
+    Updates data/unibet_teams_map.json with team names from unibet_df.
+    - Keys: Unibet English names
+    - Values: Hebrew names from name_mappings.json if found, else empty string.
+    """
+    if unibet_df is None or unibet_df.empty:
+        return
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    mappings_path = os.path.join(base_dir, "data", "name_mappings.json")
+    unibet_map_path = os.path.join(base_dir, "data", "unibet_teams_map.json")
+
+    # 1. Load existing name_mappings (Hebrew -> English)
+    reverse_map = {}
+    if os.path.exists(mappings_path):
+        try:
+            with open(mappings_path, "r", encoding="utf-8") as f:
+                name_mappings = json.load(f)
+                # Create reverse map: English -> Hebrew
+                for heb, eng in name_mappings.items():
+                    if eng not in reverse_map:
+                        reverse_map[eng] = heb
+        except Exception as e:
+            print(f"Error loading name_mappings.json: {e}")
+
+    # 2. Load existing unibet_teams_map.json
+    unibet_teams_map = {}
+    if os.path.exists(unibet_map_path):
+        try:
+            with open(unibet_map_path, "r", encoding="utf-8") as f:
+                unibet_teams_map = json.load(f)
+        except Exception as e:
+            print(f"Error loading unibet_teams_map.json: {e}")
+
+    # 3. Extract unique team names from unibet_df
+    new_teams = set()
+    if 'team1' in unibet_df.columns:
+        new_teams.update(unibet_df['team1'].unique())
+    if 'team2' in unibet_df.columns:
+        new_teams.update(unibet_df['team2'].unique())
+
+    # 4. Map new teams
+    changed = False
+    for team in new_teams:
+        if team not in unibet_teams_map:
+            # Try to find in reverse_map
+            hebrew_name = reverse_map.get(team, "")
+            unibet_teams_map[team] = hebrew_name
+            changed = True
+
+    # 5. Save if changed
+    if changed:
+        try:
+            # Ensure data directory exists
+            os.makedirs(os.path.dirname(unibet_map_path), exist_ok=True)
+            with open(unibet_map_path, "w", encoding="utf-8") as f:
+                json.dump(unibet_teams_map, f, ensure_ascii=False, indent=4)
+            print(f"Updated {unibet_map_path} with new Unibet team names.")
+        except Exception as e:
+            print(f"Error saving unibet_teams_map.json: {e}")

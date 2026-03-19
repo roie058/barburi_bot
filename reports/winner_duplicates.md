@@ -1,13 +1,11 @@
 # Winner Scraper - Duplicate Games Report
-Generated at: 2026-03-18 17:55:48.973853
-Total Duplicates: 31
+Generated at: 2026-03-18 19:12:32.151816
+Total Duplicates: 30
 
 | Date | Game (Hebrew) | Reason |
 |---|---|---|
 | 260322 | ריאל מדריד - אתלטיקו מדריד | Exact match key already processed |
 | 260323 | קאסטיון - קולטורל לאונסה | Exact match key already processed |
-| 260318 | איופספור - טרבזונספור | Exact match key already processed |
-| 260318 | איסטנבול בסאקסהיר - אנטליספור | Exact match key already processed |
 | 260318 | סאות'המפטון - נוריץ' | Exact match key already processed |
 | 260318 | טוטנהאם - אתלטיקו מדריד | Exact match key already processed |
 | 260318 | ליברפול - גלאטסראיי | Exact match key already processed |
@@ -33,5 +31,6 @@ Total Duplicates: 31
 | 260323 | סלרניטאנה - אלטמורה | Exact match key already processed |
 | 260323 | חליאבינסק - טורפדו מוסקבה | Exact match key already processed |
 | 260323 | רודינה מוסקבה - פשנוקופסקיי | Exact match key already processed |
+| 260323 | אינדפנדיינטה סנטה פה - אינדפנדיינטה מדיין | Exact match key already processed |
 | 260323 | ספורטיבו טרינידנסה - רקולטה | Exact match key already processed |
 | 260323 | אוניראה סלובוזיה - אוטלול גלאטי | Exact match key already processed |

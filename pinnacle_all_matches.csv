@@ -1,24 +1,259 @@
 game,date,num_1,num_X,num_2,link
+Bournemouth - Manchester United,20:00,3.22,3.83,2.17,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Brighton - Liverpool,12:30,3.2,3.67,2.23,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Fulham - Burnley,15:00,1.613,3.99,5.98,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Everton - Chelsea,17:30,3.53,3.58,2.12,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Leeds United - Brentford,20:00,2.51,3.49,2.88,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Newcastle United - Sunderland,12:00,1.657,4.05,5.35,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Tottenham Hotspur - Nottingham Forest,14:15,2.53,3.41,2.91,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Aston Villa - West Ham United,14:15,1.97,3.52,4.09,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+West Ham United - Wolverhampton,20:00,1.763,3.87,4.39,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Arsenal - Bournemouth,12:30,1.311,5.38,9.18,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Crystal Palace - Newcastle United,15:00,2.81,3.46,2.47,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Brentford - Everton,15:00,2.18,3.27,3.51,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Nottingham Forest - Aston Villa,15:00,2.58,3.31,2.78,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Burnley - Brighton,15:00,4.11,3.85,1.819,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Liverpool - Fulham,17:30,1.502,4.59,5.77,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Sunderland - Tottenham Hotspur,14:00,2.66,3.43,2.62,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Chelsea - Manchester City,16:30,2.69,3.89,2.37,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Manchester United - Leeds United,20:00,1.564,4.32,5.4,https://www.pinnacle.com/en/soccer/england-premier-league/matchups/
+Midtjylland - Nottingham Forest,17:45,3.32,3.61,2.19,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Freiburg - Genk,17:45,1.581,4.34,5.72,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Lyon - Celta Vigo,17:45,2.07,3.41,3.87,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Roma - Bologna,20:00,1.854,3.56,4.63,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Aston Villa - Lille,20:00,1.671,4.12,5.1,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Real Betis - Panathinaikos,20:00,1.406,4.9,8.08,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Porto - Stuttgart,20:00,2.5,3.61,2.81,https://www.pinnacle.com/en/soccer/uefa-europa-league/matchups/
+Cagliari - Napoli,17:30,6.13,3.86,1.625,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Genoa - Udinese,19:45,2.2,3.17,3.78,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Parma - Cremonese,14:00,2.11,2.97,4.44,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+AC Milan - Torino,17:00,1.373,5.22,8.42,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Juventus - Sassuolo,19:45,1.346,5.4,9.07,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Como - Pisa,11:30,1.274,6.06,10.59,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Atalanta - Hellas Verona,14:00,1.396,4.88,8.52,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Bologna - Lazio,14:00,2.32,3.08,3.61,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Roma - Lecce,17:00,1.434,4.48,8.44,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Fiorentina - Internazionale,19:45,4.94,4.5,1.632,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Lecce - Atalanta,14:00,4.62,3.74,1.751,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Sassuolo - Cagliari,14:00,1.97,2.96,4.83,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Hellas Verona - Fiorentina,17:00,4.07,3.43,1.943,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Lazio - Parma,19:45,1.813,3.37,4.87,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Cremonese - Bologna,14:00,4.04,3.57,1.909,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Pisa - Torino,17:00,2.76,3.19,2.68,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Udinese - Como,14:00,4.55,3.56,1.813,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Juventus - Genoa,17:00,1.369,4.73,8.72,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Napoli - AC Milan,19:45,2.55,2.96,3.11,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+Internazionale - Roma,19:45,1.625,3.91,5.1,https://www.pinnacle.com/en/soccer/italy-serie-a/matchups/
+RB Leipzig - Hoffenheim,19:30,1.925,4.22,3.58,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Bayern Munich - Union Berlin,14:30,1.169,9.06,13.11,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Heidenheim - Bayer Leverkusen,14:30,5.29,4.47,1.602,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+FC Koln - Borussia Monchengladbach,14:30,2.35,3.48,3.12,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Wolfsburg - Werder Bremen,14:30,2.48,3.7,2.78,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Borussia Dortmund - Hamburger SV,17:30,1.409,5.18,7.33,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Mainz 05 - Eintracht Frankfurt,14:30,2.1,3.71,3.48,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+St. Pauli - Freiburg,16:30,2.83,3.04,2.85,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Augsburg - Stuttgart,18:30,3.45,3.92,2.04,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Hoffenheim - Mainz 05,14:30,1.793,4.08,3.98,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Freiburg - Bayern Munich,14:30,7.05,5.59,1.357,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Hamburger SV - Augsburg,14:30,2.3,3.36,3.15,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Borussia Monchengladbach - Heidenheim,14:30,1.558,4.39,5.35,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Bayer Leverkusen - Wolfsburg,14:30,1.398,5.09,6.85,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Werder Bremen - RB Leipzig,14:30,3.29,3.85,2.05,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Stuttgart - Borussia Dortmund,17:30,2.36,3.96,2.67,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Union Berlin - St. Pauli,14:30,2.12,3.37,3.55,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Eintracht Frankfurt - FC Koln,16:30,2.05,3.64,3.47,https://www.pinnacle.com/en/soccer/germany-bundesliga/matchups/
+Spartak Moscow - Dynamo Moscow,17:45,1.934,4.01,3.66,https://www.pinnacle.com/en/soccer/russia-cup/matchups/
+Krylia Sovetov - Lokomotiv Moscow,15:30,4.11,3.58,1.909,https://www.pinnacle.com/en/soccer/russia-cup/matchups/
+Toronto FC - Columbus Crew,17:00,2.57,3.54,2.64,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Philadelphia Union - Chicago Fire,20:30,2.25,3.06,3.59,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Nashville SC - Orlando City,22:00,1.613,4.34,4.89,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Atlanta United - D.C. United,23:30,1.98,3.51,3.83,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Charlotte FC - New York Red Bulls,23:30,2.08,3.06,4.13,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+St Louis City SC - New England Revolution,00:30,1.862,3.96,3.79,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Sporting Kansas City - Colorado Rapids,00:30,2.43,3.17,3.1,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+FC Dallas - Houston Dynamo,00:30,2.19,3.45,3.3,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Austin FC - Los Angeles FC,00:30,3.72,3.5,2.02,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Vancouver Whitecaps - San Jose Earthquakes,02:30,1.571,3.7,6.72,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+FC Cincinnati - CF Montreal,17:00,1.699,4.01,4.63,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+New York City - Inter Miami,17:00,2.24,3.46,3.18,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Minnesota United - Seattle Sounders,18:30,2.71,3.34,2.62,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Portland Timbers - Los Angeles Galaxy,20:30,2.49,3.6,2.7,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+San Diego FC - Real Salt Lake,23:00,1.68,4.09,4.66,https://www.pinnacle.com/en/soccer/usa-major-league-soccer/matchups/
+Banfield - CA Tigre,00:00,2.96,2.82,2.81,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Atletico Tucuman - Gimnasia La Plata,00:00,2.12,3.19,3.77,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Velez Sarsfield - Lanus,18:30,2.16,3.02,3.89,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Defensa y Justicia - Union de Santa Fe,20:45,2.9,2.88,2.8,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Newells Old Boys - Gimnasia Mendoza,20:45,2.36,2.94,3.5,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Independiente - Talleres de Cordoba,23:00,1.97,3.16,4.38,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Belgrano - Racing Club,01:15,2.88,2.88,2.82,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Sarmiento de Junin - Aldosivi,18:30,2.22,2.87,3.96,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Estudiantes Rio Cuarto - River Plate,20:45,5.91,3.24,1.735,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Boca Juniors - Instituto,23:00,1.751,3.33,5.47,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Argentinos Juniors - Platense,01:15,1.704,3.35,5.87,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Independiente Rivadavia - Rosario Central,01:15,2.61,3.03,2.97,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Estudiantes de La Plata - Central Cordoba,22:00,1.518,4.03,6.67,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+Huracan - Barracas Central,00:15,1.781,3.17,5.66,https://www.pinnacle.com/en/soccer/argentina-liga-pro/matchups/
+MK Dons - Colchester United,20:00,1.694,3.81,5.03,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Cambridge United - Salford City,12:30,1.826,3.41,4.45,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Accrington Stanley - Chesterfield,15:00,3.85,3.95,1.806,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Shrewsbury Town - Crewe Alexandra,15:00,2.59,3.18,2.76,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Fleetwood Town - Crawley Town,15:00,1.704,3.63,4.86,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Oldham Athletic - Harrogate Town,15:00,1.684,3.82,4.71,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Grimsby Town - Barrow,15:00,1.617,3.92,5.13,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Walsall - Newport County,15:00,1.704,3.61,4.88,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Tranmere Rovers - Swindon Town,15:00,3.76,3.64,1.909,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Gillingham - Bristol Rovers,15:00,2.39,3.46,2.81,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Notts County - Cheltenham Town,15:00,1.588,3.96,5.35,https://www.pinnacle.com/en/soccer/england-league-2/matchups/
+Southampton - Norwich City,19:45,1.909,3.77,4.05,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Preston North End - Stoke City,20:00,2.54,3.3,2.84,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Blackburn Rovers - Middlesbrough,12:30,4.33,3.68,1.819,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Derby County - Birmingham City,12:30,2.96,3.27,2.47,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Ipswich Town - Millwall,12:30,1.709,3.88,4.74,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Queens Park Rangers - Portsmouth,15:00,2.89,3.24,2.54,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Sheffield United - Wrexham,15:00,1.99,3.62,3.65,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Bristol City - West Bromwich Albion,15:00,2.49,3.41,2.81,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Watford - Leicester City,15:00,2.02,3.73,3.47,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Hull City - Sheffield Wednesday,15:00,1.324,5.22,8.55,https://www.pinnacle.com/en/soccer/england-championship/matchups/
+Swansea City - Coventry City,17:15,3.37,3.41,2.17,https://www.pinnacle.com/en/soccer/england-championship/matchups/
 Huesca - Almeria,19:30,2.97,3.25,2.47,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Leganes - Ceuta,13:00,1.917,3.51,4.06,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
-FC Andorra - Eibar,15:15,2.42,3.19,3.1,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Racing Santander - Albacete,15:15,1.826,3.84,4.09,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
-Cadiz - Malaga,17:30,2.71,3.21,2.72,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
-Deportivo La Coruna - Real Zaragoza,20:00,1.636,3.87,5.39,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
+FC Andorra - Eibar,15:15,2.42,3.19,3.1,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
+Cadiz - Malaga,17:30,2.72,3.21,2.7,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
+Deportivo La Coruna - Real Zaragoza,20:00,1.645,3.85,5.32,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Burgos - Cordoba,13:00,2.28,3.16,3.38,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Mirandes - Real Valladolid,15:15,2.95,3.08,2.6,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Real Sociedad II - Granada,15:15,2.6,3.22,2.82,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
 Las Palmas - Sporting Gijon,17:30,1.833,3.47,4.55,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
-Castellon - Cultural Leonesa,19:30,1.347,5.34,7.82,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
-Rotor Volgograd - Fakel Voronezh,16:30,3.78,2.87,2.23,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Ufa - Volga Ulyanovsk,12:00,2.37,3.04,3.23,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-FC Kamaz - Chernomorets Novorossiysk,14:00,1.934,3.26,4.18,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-SKA-Khabarovsk - Arsenal Tula,05:00,2.55,2.94,3.06,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Sokol Saratov - Neftekhimik Nizhnekamsk,10:00,3.22,3.14,2.31,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Ural Yekaterinburg - Yenisey Krasnoyarsk,11:00,1.581,3.83,5.71,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Spartak Kostroma - Shinnik Yaroslavl,13:00,2.09,3.14,3.77,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Chelyabinsk - Torpedo Moscow,14:30,3.04,3.15,2.42,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
-Rodina Moscow - FC Chayka,16:00,1.355,4.8,8.06,https://www.pinnacle.com/en/soccer/russia-first-league/matchups/
+Castellon - Cultural Leonesa,19:30,1.352,5.31,7.72,https://www.pinnacle.com/en/soccer/spain-segunda-division/matchups/
+Palmeiras - Botafogo FR RJ,22:00,1.515,4.34,6.88,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Bahia - Bragantino,22:00,1.884,3.6,4.44,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Athletico Paranaense - Cruzeiro,22:30,2.27,3.41,3.34,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Mirassol - Coritiba,23:00,1.653,3.72,6.14,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Atletico Mineiro - Sao Paulo,23:00,2.47,3.04,3.34,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Vasco da Gama - Fluminense,00:30,3.71,3.25,2.19,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Santos - Internacional,00:30,2.42,3.17,3.29,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Gremio - Vitoria,22:00,1.854,3.63,4.22,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Flamengo - Remo,23:00,1.16,7.59,16.71,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Chapecoense - Corinthians,00:30,3.61,3.21,2.18,https://www.pinnacle.com/en/soccer/brazil-serie-a/matchups/
+Fagiano Okayama - V-Varen Nagasaki,05:00,2.23,3.41,3.24,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Avispa Fukuoka - Gamba Osaka,05:30,3.1,3.14,2.44,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Shimizu S-Pulse - Sanfrecce Hiroshima,04:00,4.32,3.86,1.775,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Tokyo Verdy - FC Tokyo,05:00,3.88,3.12,2.12,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Kyoto Sanga - Nagoya Grampus,05:00,2.34,3.44,3.01,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Kashima Antlers - JEF United Chiba,06:00,1.645,3.95,5.17,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Kawasaki Frontale - Yokohama F. Marinos,06:00,2.01,4.11,3.24,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Cerezo Osaka - Vissel Kobe,06:00,3.29,3.55,2.15,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Kashiwa Reysol - Mito HollyHock,07:00,1.555,3.84,6.53,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Urawa Red Diamonds - Machida Zelvia,07:00,2.79,3.13,2.69,https://www.pinnacle.com/en/soccer/japan-j-league/matchups/
+Emmen - VVV Venlo,19:00,1.934,3.95,3.42,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+TOP Oss - FC Eindhoven,19:00,2.88,3.69,2.24,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Roda JC - Helmond Sport,19:00,1.617,4.21,4.74,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Jong Utrecht - Dordrecht,19:00,2.55,3.55,2.56,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Jong Ajax - Almere City,19:00,3.85,4.37,1.724,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Cambuur Leeuwaarden - Jong AZ Alkmaar,19:00,1.515,4.74,5.04,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Jong PSV - Vitesse Arnhem,19:00,2.87,3.88,2.19,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+RKC Waalwijk - Den Bosch,19:00,1.854,4.01,3.63,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+De Graafschap - ADO Den Haag,11:15,3.3,3.85,2.0,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Maastricht - Willem II,15:45,4.38,4.35,1.636,https://www.pinnacle.com/en/soccer/netherlands-eerste-divisie/matchups/
+Estrela da Amadora - Casa Pia,20:15,2.61,3.05,2.95,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Famalicao - Nacional da Madeira,15:30,1.689,3.96,4.77,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Moreirense - Arouca,15:30,2.45,3.23,3.01,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Santa Clara - Gil Vicente,18:00,2.8,2.89,2.89,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Benfica - Vitoria Guimaraes,18:00,1.285,5.65,9.78,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Tondela - AVS,20:30,1.892,3.45,4.27,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Estoril - Rio Ave,15:30,1.724,3.96,4.49,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Alverca - Sporting CP,18:00,9.27,5.59,1.298,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Braga - Porto,20:30,3.5,3.3,2.17,https://www.pinnacle.com/en/soccer/portugal-primeira-liga/matchups/
+Piast Gliwice - Radomiak Radom,17:00,2.24,3.27,3.31,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Motor Lublin - Zaglebie Lubin,19:30,2.05,3.48,3.56,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Cracovia Krakow - GKS Katowice,13:45,2.06,3.38,3.62,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Lechia Gdansk - Pogon Szczecin,16:30,2.26,3.6,2.98,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Jagiellonia Bialystok - Wisla Plock,19:15,1.653,4.06,4.74,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Korona Kielce - Arka Gdynia,11:15,1.877,2.98,5.26,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Lech Poznan - Nieciecza,13:45,1.418,5.09,6.19,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Widzew Lodz - Gornik Zabrze,16:30,2.45,3.31,2.9,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Legia Warsaw - Rakow Czestochowa,19:15,2.2,3.31,3.34,https://www.pinnacle.com/en/soccer/poland-ekstraklasa/matchups/
+Chaves - UD Leiria,18:00,2.36,2.81,3.53,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Lusitania Lourosa - Academico de Viseu,11:00,3.53,3.15,2.15,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Penafiel - Vizela,14:00,3.14,3.29,2.27,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Maritimo - Oliveirense,15:30,1.349,4.83,8.23,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Portimonense - Porto II,18:00,2.36,3.32,2.98,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Felgueiras - Torreense,11:00,2.42,3.11,3.07,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Feirense - Sporting Lisbon II,14:00,2.45,3.11,3.02,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Leixoes - Pacos Ferreira,15:30,2.32,2.8,3.67,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Benfica II - Farense,18:00,2.5,3.2,2.87,https://www.pinnacle.com/en/soccer/portugal-liga-2/matchups/
+Frosinone - Bari,18:00,1.537,4.45,6.14,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Pescara - Virtus Entella,19:00,2.35,3.37,3.22,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Carrarese - Sampdoria,19:00,2.5,2.91,3.47,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Avellino - Sudtirol,19:00,2.7,2.7,3.41,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Cesena - Catanzaro,14:00,2.45,3.39,2.88,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Padova - Palermo,14:00,4.95,3.57,1.751,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Juve Stabia - Spezia,14:00,2.35,3.07,3.35,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Monza - Venezia,16:15,2.86,2.76,2.97,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+Modena - Mantova,18:30,1.714,3.78,4.84,https://www.pinnacle.com/en/soccer/italy-serie-b/matchups/
+AEK Athens - Celje,17:45,1.234,6.1,11.32,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Rakow Czestochowa - Fiorentina,17:45,2.65,3.33,2.69,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+AEK Larnaca - Crystal Palace,17:45,5.12,4.32,1.591,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Mainz 05 - Sigma Olomouc,17:45,1.337,4.99,9.12,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Rayo Vallecano - Samsunspor,20:00,1.628,3.85,5.53,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Shakhtar Donetsk - Lech Poznan,20:00,2.07,3.55,3.5,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Strasbourg - HNK Rijeka,20:00,1.349,4.93,8.8,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Sparta Prague - AZ Alkmaar,20:00,2.29,3.33,3.2,https://www.pinnacle.com/en/soccer/uefa-conference-league/matchups/
+Karlsruher - Greuther Furth,17:30,2.04,3.71,3.45,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Hannover 96 - Eintracht Braunschweig,17:30,1.515,4.62,5.68,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Elversberg - Arminia Bielefeld,12:00,1.934,3.86,3.66,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Paderborn - Dynamo Dresden,12:00,1.781,3.88,4.33,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Nurnberg - Kaiserslautern,12:00,2.1,3.7,3.31,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Darmstadt - Schalke 04,19:30,2.6,3.34,2.75,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Fortuna Dusseldorf - Hertha BSC,12:30,2.29,3.72,2.91,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Preussen Munster - FC Magdeburg,12:30,2.85,3.64,2.36,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Bochum - Holstein Kiel,12:30,2.0,3.96,3.37,https://www.pinnacle.com/en/soccer/germany-bundesliga-2/matchups/
+Znicz Pruszkow - Stal Rzeszow,17:00,2.22,3.58,2.96,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Gornik Leczna - Pogon Grodzisk Mazowiecki,19:30,2.53,3.6,2.55,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Odra Opole - Wisla Krakow,13:00,4.83,3.76,1.666,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+LKS Lodz - Ruch Chorzow,13:30,2.0,3.32,3.75,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Polonia Warsaw - Miedz Legnica,18:30,2.21,3.58,3.0,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Polonia Bytom - GKS Tychy,18:30,1.892,3.75,3.64,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Puszcza Niepolomice - Slask Wroclaw,18:30,3.06,3.44,2.23,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Stal Mielec - Wieczysta Krakow,13:30,3.84,3.92,1.8,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Pogon Siedlce - Chrobry Glogow,16:00,2.54,3.13,2.83,https://www.pinnacle.com/en/soccer/poland-1st-liga/matchups/
+Heracles Almelo - Excelsior,19:00,2.66,3.05,2.89,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Fortuna Sittard - FC Twente,15:30,5.14,4.25,1.598,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Sparta Rotterdam - Volendam,17:45,1.502,4.65,5.68,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+PEC Zwolle - NAC Breda,20:00,2.32,3.55,2.97,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+NEC Nijmegen - Heerenveen,11:15,1.704,4.38,4.18,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Feyenoord - Ajax,13:30,2.08,3.84,3.24,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+FC Utrecht - Go Ahead Eagles,13:30,1.746,3.52,5.05,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Groningen - AZ Alkmaar,15:45,2.59,3.72,2.53,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Telstar - PSV,15:45,5.8,5.48,1.423,https://www.pinnacle.com/en/soccer/netherlands-eredivisie/matchups/
+Amiens - Le Mans,19:00,3.67,3.36,2.06,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Clermont - Red Star,19:00,2.81,3.03,2.72,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Boulogne - Nancy,19:00,2.37,3.12,3.2,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Stade Lavallois - Grenoble,19:00,2.37,2.95,3.4,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Pau FC - Montpellier,19:00,2.63,3.4,2.63,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Rodez - Bastia,19:00,2.59,3.45,2.64,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Guingamp - Reims,13:00,2.77,3.25,2.59,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Troyes - Dunkerque,13:00,1.909,3.35,4.22,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Saint-Etienne - Annecy,19:00,1.74,3.83,4.47,https://www.pinnacle.com/en/soccer/france-ligue-2/matchups/
+Deportivo Pasto - Boyaca Chico,21:10,1.49,3.85,8.2,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Internacional de Bogota - Deportivo Pereira,23:20,1.478,4.11,7.54,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Atletico Bucaramanga - Once Caldas,00:30,1.943,3.19,4.49,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Deportivo Cali - Independiente Santa Fe,01:30,2.21,3.08,3.69,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Alianza FC - Jaguares de Cordoba,21:10,1.854,3.52,4.15,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Deportes Tolima - Fortaleza CEIF,23:20,1.671,3.5,5.44,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Independiente Medellin - Junior de Barranquilla,01:30,2.01,3.43,3.64,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Aguilas Doradas - America de Cali,21:00,2.96,3.07,2.52,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Once Caldas - Millonarios,23:20,2.21,2.98,3.63,https://www.pinnacle.com/en/soccer/colombia-primera-a/matchups/
+Asociacion Deportiva Tarma - FBC Melgar,20:30,2.99,2.82,2.53,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Cienciano - FC Cajamarca,00:30,1.378,4.89,6.76,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+UCV Moquegua - Cusco,16:00,3.96,3.08,2.0,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Comerciantes Unidos - Universitario de Deportes,18:15,5.08,3.23,1.746,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Los Chankas - Sporting Cristal,20:30,2.58,3.13,2.66,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Alianza Lima - Juan Pablo II College,23:30,1.247,5.64,9.69,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+UTC de Cajamarca - Alianza Atletico,18:00,1.787,3.38,4.49,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Atletico Grau - Deportivo Garcilaso,20:30,1.854,3.17,4.48,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
+Sport Boys - Sport Huancayo,23:00,2.42,3.33,2.74,https://www.pinnacle.com/en/soccer/peru-liga-1/matchups/
 Dinamo Bucuresti - Universitatea Craiova,18:30,2.71,3.21,2.62,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
 FCSB - UTA Arad,17:00,1.467,4.44,6.16,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
 CFR Cluj - Rapid Bucuresti,19:45,2.68,2.6,3.3,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
@@ -27,35 +262,240 @@ Csikszereda - Farul Constanta,15:30,2.62,3.27,2.68,https://www.pinnacle.com/en/s
 Arges Pitesti - Universitatea Cluj,18:30,2.84,2.8,2.84,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
 Hermannstadt - Botosani,17:00,2.39,3.08,3.14,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
 Unirea Slobozia - Otelul Galati,18:30,3.41,3.32,2.14,https://www.pinnacle.com/en/soccer/romania-liga-1/matchups/
-Inter Miami - Nashville SC,23:00,1.74,4.13,4.44,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
-Club America - Philadelphia Union,01:00,1.574,4.39,5.54,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
-Deportivo Toluca - San Diego FC,03:00,1.302,5.92,8.77,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
-Seattle Sounders - Vancouver Whitecaps,03:00,2.98,3.19,2.57,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
-Mount Pleasant - Los Angeles Galaxy,23:00,6.68,5.19,1.307,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
-Tigres UANL - FC Cincinnati,01:00,1.414,4.34,7.95,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Ayutthaya United - Nakhon Ratchasima FC,11:00,1.684,3.86,4.56,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Chonburi - Sukhothai,11:30,1.564,3.96,5.49,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Uthai Thani - Lamphun Warriors,12:00,2.31,3.3,3.02,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Rayong FC - Kanchanaburi,12:30,1.854,3.67,3.88,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Chiangrai United - Port FC,11:00,4.06,3.71,1.8,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+BG Pathum United - Ratchaburi,11:30,2.1,3.56,3.23,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Prachuap - Bangkok United,11:30,2.77,2.81,2.88,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Buriram United - Muang Thong United,12:00,1.152,7.8,12.3,https://www.pinnacle.com/en/soccer/thailand-league-1/matchups/
+Quevilly - Dijon,18:00,5.26,3.47,1.684,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Villefranche - Le Puy,18:30,3.54,3.13,2.15,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Concarneau - Valenciennes,18:30,2.52,2.91,3.09,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Aubagne - Sochaux,18:30,3.44,3.21,2.15,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Paris 13 Atletico - Rouen,18:30,4.15,3.01,2.02,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Versailles - Fleury 91,18:30,2.14,3.28,3.4,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Caen - Orleans,17:00,2.27,3.49,2.95,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Bourg-en-Bresse - Stade Briochin,17:30,2.3,3.1,3.24,https://www.pinnacle.com/en/soccer/france-national/matchups/
+Spartak Varna - Ludogorets Razgrad,16:00,10.33,5.59,1.26,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Slavia Sofia - Botev Plovdiv,16:00,2.47,3.43,2.71,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Septemvri Sofia - Arda,10:30,4.4,3.25,1.869,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+CSKA 1948 - Lokomotiv Sofia,13:00,1.74,3.69,4.43,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Levski Sofia - Cherno More,15:30,1.389,4.38,7.85,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Montana - Beroe,10:30,2.44,3.13,2.97,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+CSKA Sofia - Dobrudzha Dobrich,13:00,1.19,6.08,13.34,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Botev Vratsa - Lokomotiv Plovdiv,15:30,2.31,3.13,3.2,https://www.pinnacle.com/en/soccer/bulgaria-first-league/matchups/
+Chivas Guadalajara - Club Leon,02:07,1.383,5.29,7.89,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Necaxa - Club Tijuana,01:00,2.16,3.58,3.25,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Mazatlan - Cruz Azul,03:06,5.81,4.53,1.507,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Atlas - Queretaro,23:00,1.961,3.42,4.0,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Pumas UNAM - Club America,03:00,3.22,3.52,2.2,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Pachuca - Deportivo Toluca,23:00,3.86,3.66,1.925,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Santos Laguna - Puebla,23:00,2.54,3.38,2.78,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+FC Juarez - Tigres UANL,01:00,3.51,3.41,2.12,https://www.pinnacle.com/en/soccer/mexico-liga-mx/matchups/
+Akhmat Grozny - Rostov,10:45,2.36,3.16,3.24,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+CSKA Moscow - Dynamo Makhachkala,13:00,1.568,3.86,6.26,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Krasnodar - Nizhny Novgorod,15:15,1.313,5.39,9.05,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Baltika Kaliningrad - Sochi,17:30,1.438,4.24,7.93,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Orenburg - Spartak Moscow,10:45,4.29,3.9,1.775,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Dynamo Moscow - Zenit,13:00,3.26,3.47,2.2,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Krylia Sovetov - Rubin Kazan,13:30,3.15,2.97,2.54,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Lokomotiv Moscow - Akron Togliatti,16:00,1.462,4.69,6.27,https://www.pinnacle.com/en/soccer/russia-premier-league/matchups/
+Eupen - RFC Seraing,19:00,1.819,3.93,3.75,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Olympic Charleroi - Jong Genk,19:00,2.44,3.45,2.74,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Patro Eisden Maasmechelen - Beerschot,19:00,3.0,3.28,2.34,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Gent II - Club NXT,15:00,2.19,3.94,2.8,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Francs Borains - KV Kortrijk,15:00,4.86,3.57,1.704,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Lokeren-Temse - RSCA Futures,19:00,1.877,3.73,3.72,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Beveren - RFC Liege,19:00,1.383,4.68,7.18,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+RWDM Brussels - Lierse Kempenzonen,19:00,1.884,3.7,3.72,https://www.pinnacle.com/en/soccer/belgium-challenger-pro-league/matchups/
+Oud-Heverlee Leuven - Royal Antwerp,17:30,2.28,3.24,3.3,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Dender - Gent,17:30,3.62,3.75,1.961,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Standard Liege - KVC Westerlo,17:30,2.49,3.17,3.01,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Zulte Waregem - Charleroi,17:30,2.66,3.28,2.72,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+RAAL La Louviere - Genk,17:30,3.48,3.58,2.07,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Anderlecht - Cercle Brugge,17:30,1.892,3.76,3.87,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Club Brugge - Mechelen,17:30,1.306,5.89,8.18,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Sint Truidense - Union Saint-Gilloise,17:30,3.98,2.94,2.18,https://www.pinnacle.com/en/soccer/belgium-pro-league/matchups/
+Barcelona - Newcastle United,17:45,1.54,4.9,5.75,https://www.pinnacle.com/en/soccer/uefa-champions-league/matchups/
+Bayern Munich - Atalanta,20:00,1.386,5.74,7.02,https://www.pinnacle.com/en/soccer/uefa-champions-league/matchups/
+Liverpool - Galatasaray,20:00,1.273,6.6,9.91,https://www.pinnacle.com/en/soccer/uefa-champions-league/matchups/
+Tottenham Hotspur - Atletico Madrid,20:00,2.4,3.87,2.79,https://www.pinnacle.com/en/soccer/uefa-champions-league/matchups/
+Omonia Aradippou - Enosis Neon Paralimni,17:00,1.107,8.06,23.13,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+Anorthosis Famagusta - Akritas Chlorakas,15:00,1.518,4.03,5.96,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+Aris Limassol - Omonia Nicosia,15:00,3.43,3.53,2.03,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+Ypsonas - Olympiakos Nicosia,17:00,2.01,3.13,3.98,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+AEL Limassol - Ethnikos Achna,14:00,1.757,3.58,4.51,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+Pafos FC - Apollon Limassol,15:00,1.8,3.56,4.29,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+AEK Larnaca - APOEL Nicosia,17:00,2.02,3.37,3.62,https://www.pinnacle.com/en/soccer/cyprus-1st-division/matchups/
+Volos - PAOK,17:00,12.09,5.74,1.241,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Aris Thessaloniki - OFI Crete,17:00,1.591,3.81,5.86,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Olympiakos - Larissa,17:00,1.165,7.04,15.36,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Levadiakos - Atromitos,17:00,2.12,3.22,3.65,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+AEK Athens - AE Kifisia,17:00,1.149,7.47,16.54,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Asteras Tripolis - Panathinaikos,17:00,5.2,3.41,1.74,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Panetolikos - Panserraikos,17:00,1.847,3.33,4.63,https://www.pinnacle.com/en/soccer/greece-super-league/matchups/
+Vila Nova - Confianca,22:00,1.925,2.9,4.53,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Atletico Goianiense - Ponte Preta,23:00,1.649,3.16,6.78,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+CRB - Figueirense,00:00,1.625,3.32,5.94,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Jacuipense - Gremio Novorizontino,00:30,6.33,3.14,1.645,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Maringa - Goias,22:30,2.81,2.76,2.73,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Juventude - Aguia de Maraba,22:30,1.266,4.8,8.89,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Volta Redonda - Barra,23:00,2.02,3.19,3.63,https://www.pinnacle.com/en/soccer/brazil-cup/matchups/
+Haras El Hodood - Ismaily,15:00,2.77,2.55,3.24,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Wadi Degla - El Gounah,18:00,2.16,2.73,4.23,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Al Mokawloon Al Arab - Petrojet,15:00,2.77,2.62,3.13,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Ghazl El Mahallah - National Bank of Egypt,18:00,4.51,2.88,2.03,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+ZED - Talaea El Gaish,15:00,2.39,2.36,4.52,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Al Ittihad Al Sakandary - Pharco FC,18:00,2.0,2.73,5.03,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Kahraba Ismailia - Modern Sport,18:00,3.76,2.93,2.19,https://www.pinnacle.com/en/soccer/egypt-premier-league/matchups/
+Golden Arrows - Stellenbosch,17:30,3.47,3.05,2.3,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
+Polokwane City - AmaZulu,13:30,2.34,2.5,4.19,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
+Kaizer Chiefs - Magesi,16:00,1.666,3.33,5.82,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
+Siwelele - Orbit College,13:30,1.735,3.11,5.73,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
+TS Galaxy - Orlando Pirates,13:30,6.97,3.54,1.54,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
+Durban City - Richards Bay,15:30,1.98,2.87,4.64,https://www.pinnacle.com/en/soccer/south-africa-psl/matchups/
 Macara - Delfin,19:00,1.699,3.51,5.5,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
-Manta - Guayaquil City,21:30,2.33,3.03,3.44,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
+Manta - Guayaquil City,21:30,2.51,3.4,2.8,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
 Libertad Loja - Barcelona SC,00:00,2.91,3.07,2.64,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
 Aucas - Tecnico Universitario,19:00,1.787,3.4,4.63,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
 Orense - Mushuc Runa,21:30,1.943,3.38,3.88,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
 Emelec - Independiente del Valle,00:00,3.53,3.19,2.13,https://www.pinnacle.com/en/soccer/ecuador-serie-a/matchups/
-Rekord Bielsko Biala 1 - Rekord Bielsko Biala,Second Half - 32',5.02,1.609,3.83,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-GKS Jastrzebie 1 - GKS Jastrzebie,Second Half - 16',4.48,2.16,2.16,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-KKS 1925 Kalisz - Stal Stalowa Wola,16:00,3.67,3.36,1.775,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-Warta Poznan - Swit Szczecin,16:45,1.98,3.34,3.76,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-Chojniczanka Chojnice - LKS Lodz II,17:00,1.543,4.06,5.66,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-Unia Skierniewice - Zaglebie Sosnowiec,18:30,1.452,4.95,5.12,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
-Rubio Nu - Cerro Porteno,21:30,4.84,3.22,1.869,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
-Club Guarani - Deportivo Recoleta,23:30,1.9,3.49,4.18,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
-Libertad Asuncion - Nacional Asuncion,23:30,2.28,3.11,3.46,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
-Sportivo Trinidense - Sportivo Ameliano,23:00,2.71,2.98,2.77,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
-Sportivo Luqueno - 2 de Mayo,23:30,2.05,3.25,3.66,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Falkirk - St Mirren,15:00,1.877,3.52,4.24,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+Hearts - Dundee,15:00,1.359,4.94,8.35,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+Motherwell - Hibernian,15:00,1.854,3.64,4.2,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+Kilmarnock - Livingston,15:00,1.847,3.87,3.96,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+Rangers - Aberdeen,17:45,1.25,6.02,10.35,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+Dundee United - Celtic,12:30,5.64,4.64,1.507,https://www.pinnacle.com/en/soccer/scotland-premiership/matchups/
+MTK Budapest - Paksi,19:00,2.85,3.74,2.23,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Nyiregyhaza Spartacus - Diosgyori VTK,13:00,2.12,3.41,3.31,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Zalaegerszeg - Ujpest,15:30,2.41,3.31,2.86,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Puskas Akademia - Debreceni VSC,13:30,2.06,3.74,3.18,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Kazincbarcikai - Gyori ETO,15:45,6.82,4.86,1.381,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Kisvarda - Ferencvaros,18:15,5.42,3.87,1.584,https://www.pinnacle.com/en/soccer/hungary-nb-1/matchups/
+Sturm Graz - Salzburg,18:30,3.21,3.48,2.21,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+BW Linz - SV Ried,16:00,2.78,3.19,2.67,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+WSG Tirol - Grazer AK,16:00,2.39,3.27,3.08,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+Wolfsberger AC - SCR Altach,16:00,2.53,3.14,2.98,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+Hartberg - Austria Vienna,13:30,3.17,3.19,2.38,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+Rapid Vienna - LASK Linz,16:00,2.83,2.79,2.97,https://www.pinnacle.com/en/soccer/austria-bundesliga/matchups/
+Start - Aalesunds,15:00,2.25,3.49,3.16,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+Viking - Molde,17:00,1.826,3.49,4.63,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+Rosenborg - Valerenga,13:30,2.14,3.71,3.19,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+Fredrikstad - KFUM Oslo,16:00,2.35,3.27,3.16,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+Sandefjord - Sarpsborg 08,16:00,2.05,4.14,3.11,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+Brann - Tromso,16:00,2.11,3.61,3.35,https://www.pinnacle.com/en/soccer/norway-eliteserien/matchups/
+FC Zurich - Thun,17:00,4.17,3.35,1.952,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+Servette - Grasshopper Club Zurich,17:00,1.8,3.85,4.18,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+Sion - St. Gallen,19:30,2.36,3.42,3.0,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+Winterthur - Basel,13:00,4.3,4.32,1.694,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+Young Boys - FC Lugano,15:30,1.961,3.75,3.62,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+FC Luzern - Lausanne-Sport,15:30,2.24,3.65,3.04,https://www.pinnacle.com/en/soccer/switzerland-super-league/matchups/
+Inter Miami - Nashville SC,23:00,1.763,3.98,4.47,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Club America - Philadelphia Union,01:00,1.584,4.33,5.51,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Seattle Sounders - Vancouver Whitecaps,03:00,3.2,3.23,2.4,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Deportivo Toluca - San Diego FC,03:00,1.273,6.21,9.56,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Mount Pleasant - Los Angeles Galaxy,23:00,6.23,4.86,1.35,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Tigres UANL - FC Cincinnati,01:00,1.408,4.37,8.01,https://www.pinnacle.com/en/soccer/concacaf-champions-cup/matchups/
+Vejle - Odense BK,18:00,3.25,3.62,2.14,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+Randers - Silkeborg,13:00,1.813,3.39,4.84,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+FC Nordsjaelland - Sonderjyske,13:00,1.97,3.73,3.63,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+FC Copenhagen - Fredericia,15:00,1.384,5.36,6.72,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+AGF - Brondby,17:00,1.757,3.82,4.47,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+Viborg - Midtjylland,19:00,3.48,3.79,2.0,https://www.pinnacle.com/en/soccer/denmark-superliga/matchups/
+Western Sydney Wanderers - Adelaide United,08:35,1.869,4.06,3.68,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Auckland FC - Macarthur FC,02:00,1.671,4.23,4.55,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Brisbane Roar - Wellington Phoenix,04:00,1.98,3.51,3.82,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Melbourne Victory - Central Coast Mariners,06:10,1.408,4.99,6.81,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Sydney FC - Newcastle Jets,04:00,2.14,4.08,2.95,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Perth Glory - Melbourne City,08:00,4.16,3.46,1.917,https://www.pinnacle.com/en/soccer/australia-a-league/matchups/
+Zemplin Michalovce - Spartak Trnava,14:30,3.59,3.53,1.98,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+Trencin - Ruzomberok,14:30,2.78,3.04,2.66,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+Zilina - DAC 1904,14:30,2.54,3.31,2.71,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+FC Kosice - Tatran Presov,17:00,1.787,3.68,4.17,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+Skalica - Komarno,14:30,2.41,3.18,2.98,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+Slovan Bratislava - Podbrezova,17:00,1.487,4.86,5.07,https://www.pinnacle.com/en/soccer/slovakia-super-liga/matchups/
+Eyupspor 0 - Eyupspor,First Half - 10',5.67,4.14,1.558,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Eyupspor (1st Half)0 - Eyupspor (1st Half),First Half - 10',6.05,2.34,2.11,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Istanbul Basaksehir 0 - Istanbul Basaksehir,First Half - 11',1.485,4.35,6.42,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Istanbul Basaksehir (1st Half)0 - Istanbul Basaksehir (1st Half),First Half - 11',1.99,2.5,6.19,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Kayserispor - Karagumruk,13:00,2.06,3.48,3.75,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Besiktas - Kasimpasa,17:00,1.325,5.24,8.92,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Konyaspor - Genclerbirligi,17:00,1.8,3.53,4.66,https://www.pinnacle.com/en/soccer/turkey-super-league/matchups/
+Waterford - St Patrick´s Athletic,19:45,4.74,3.78,1.709,https://www.pinnacle.com/en/soccer/ireland-premier/matchups/
+Derry City - Drogheda United,19:45,1.568,4.0,5.74,https://www.pinnacle.com/en/soccer/ireland-premier/matchups/
+Bohemians - Dundalk,20:00,1.675,3.73,5.1,https://www.pinnacle.com/en/soccer/ireland-premier/matchups/
+Shamrock Rovers - Galway United,20:00,1.492,4.09,6.76,https://www.pinnacle.com/en/soccer/ireland-premier/matchups/
+Sligo Rovers - Shelbourne,19:45,4.65,3.6,1.763,https://www.pinnacle.com/en/soccer/ireland-premier/matchups/
 Aguila - Isidro Metapan,21:00,1.961,3.16,3.87,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
 Fuerte San Francisco - Inter FA,21:30,3.39,2.79,2.32,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
-Municipal Limeno - CD Platense,01:00,1.826,3.45,3.92,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
+Municipal Limeno - CD Platense,01:00,1.769,3.58,4.14,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
 Alianza - Cacahuatique,01:00,1.531,3.81,5.93,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
 FAS - Hercules,01:30,1.255,5.2,9.35,https://www.pinnacle.com/en/soccer/el-salvador-primera-division/matchups/
+Partick Thistle - St Johnstone,19:45,3.29,3.01,2.33,https://www.pinnacle.com/en/soccer/scotland-championship/matchups/
+Raith Rovers - Airdrieonians,15:00,1.99,3.33,3.78,https://www.pinnacle.com/en/soccer/scotland-championship/matchups/
+Ayr United - Greenock Morton,15:00,1.787,3.53,4.37,https://www.pinnacle.com/en/soccer/scotland-championship/matchups/
+Arbroath - Queens Park,15:00,1.671,3.63,5.05,https://www.pinnacle.com/en/soccer/scotland-championship/matchups/
+Ross County - Dunfermline Athletic,15:00,2.55,3.07,2.88,https://www.pinnacle.com/en/soccer/scotland-championship/matchups/
+Stade Nyonnais - Rapperswil-Jona,18:30,2.34,3.38,2.92,https://www.pinnacle.com/en/soccer/switzerland-challenge-league/matchups/
+Bellinzona - Stade Lausanne Ouchy,18:30,4.05,3.82,1.781,https://www.pinnacle.com/en/soccer/switzerland-challenge-league/matchups/
+FC Vaduz - Yverdon-Sport,19:15,1.884,3.77,3.67,https://www.pinnacle.com/en/soccer/switzerland-challenge-league/matchups/
+Aarau - Neuchatel Xamax,17:00,1.609,3.79,5.32,https://www.pinnacle.com/en/soccer/switzerland-challenge-league/matchups/
+FC Wil - Etoile Carouge,13:00,2.63,2.76,3.11,https://www.pinnacle.com/en/soccer/switzerland-challenge-league/matchups/
+Istra 1961 - Varazdin,17:00,2.65,2.71,3.13,https://www.pinnacle.com/en/soccer/croatia-hnl/matchups/
+Vukovar - Hajduk Split,14:00,5.07,3.77,1.636,https://www.pinnacle.com/en/soccer/croatia-hnl/matchups/
+Lokomotiva Zagreb - Dinamo Zagreb,16:15,6.76,4.34,1.434,https://www.pinnacle.com/en/soccer/croatia-hnl/matchups/
+Slaven Belupo - Osijek,14:00,2.16,3.19,3.44,https://www.pinnacle.com/en/soccer/croatia-hnl/matchups/
+HNK Gorica - HNK Rijeka,16:45,3.16,3.16,2.3,https://www.pinnacle.com/en/soccer/croatia-hnl/matchups/
+Rubio Nu - Cerro Porteno,21:30,4.86,3.19,1.869,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Club Guarani - Deportivo Recoleta,23:30,1.9,3.49,4.18,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Libertad Asuncion - Nacional Asuncion,23:30,2.33,2.97,3.53,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Sportivo Trinidense - Sportivo Ameliano,23:00,2.71,2.98,2.77,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Sportivo Luqueno - 2 de Mayo,23:30,2.05,3.25,3.66,https://www.pinnacle.com/en/soccer/paraguay-division-profesional/matchups/
+Glentoran - Cliftonville,19:45,1.625,4.01,5.25,https://www.pinnacle.com/en/soccer/northern-ireland-premiership/matchups/
+Carrick Rangers - Linfield,19:45,5.32,4.13,1.552,https://www.pinnacle.com/en/soccer/northern-ireland-premiership/matchups/
+Glenavon - Larne,19:45,5.14,4.1,1.574,https://www.pinnacle.com/en/soccer/northern-ireland-premiership/matchups/
+Portadown - Crusaders,15:00,2.0,3.92,3.19,https://www.pinnacle.com/en/soccer/northern-ireland-premiership/matchups/
+Dungannon Swifts - Bangor,15:00,1.578,4.32,4.79,https://www.pinnacle.com/en/soccer/northern-ireland-premiership/matchups/
+Warta Poznan 0 - Warta Poznan,First Half - 18',1.909,3.16,4.22,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
+Warta Poznan (1st Half)0 - Warta Poznan (1st Half),First Half - 18',3.25,1.68,5.17,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
+Chojniczanka Chojnice 0 - Chojniczanka Chojnice,First Half - 3',1.609,3.56,5.57,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
+Chojniczanka Chojnice (1st Half)0 - Chojniczanka Chojnice (1st Half),First Half - 3',2.28,2.06,5.86,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
+Unia Skierniewice - Zaglebie Sosnowiec,18:30,1.46,5.09,5.26,https://www.pinnacle.com/en/soccer/poland-2nd-liga/matchups/
+Aluminij - Maribor,16:30,4.9,4.16,1.588,https://www.pinnacle.com/en/soccer/slovenia-prva-liga/matchups/
+Mura - Radomlje,16:30,2.31,3.48,2.89,https://www.pinnacle.com/en/soccer/slovenia-prva-liga/matchups/
+Olimpija Ljubljana - Bravo,19:15,1.769,3.78,4.16,https://www.pinnacle.com/en/soccer/slovenia-prva-liga/matchups/
+Celje - Primorje,16:30,1.321,5.59,7.1,https://www.pinnacle.com/en/soccer/slovenia-prva-liga/matchups/
 Rayo Zuliano - Deportivo Tachira,19:30,6.26,4.36,1.436,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
-Estudiantes de Merida - Carabobo,21:30,3.41,2.96,2.2,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
+Estudiantes de Merida - Carabobo,21:30,3.41,2.98,2.2,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
 Zamora - Portuguesa,22:30,2.09,3.09,3.55,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
-Metropolitanos - Monagas,23:30,1.943,3.08,4.06,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
+Metropolitanos - Monagas,23:30,1.917,3.16,4.04,https://www.pinnacle.com/en/soccer/venezuela-primera-division/matchups/
+Juticalpa - Marathon,21:00,5.48,3.81,1.48,https://www.pinnacle.com/en/soccer/honduras-liga-nacional/matchups/
+CD Olimpia - Olancho,23:15,1.609,3.43,4.82,https://www.pinnacle.com/en/soccer/honduras-liga-nacional/matchups/
+Real Espana - Genesis,01:30,1.421,4.04,5.92,https://www.pinnacle.com/en/soccer/honduras-liga-nacional/matchups/
+Al-Nasr Dubai - Al Bataeh,17:30,2.02,3.63,3.41,https://www.pinnacle.com/en/soccer/uae-pro-league/matchups/
+Ajman - Bani Yas,17:30,2.13,3.37,3.35,https://www.pinnacle.com/en/soccer/uae-pro-league/matchups/
+Al Wasl - Al Dhafra,17:30,1.396,5.06,6.64,https://www.pinnacle.com/en/soccer/uae-pro-league/matchups/
+Oleksandria - Dynamo Kyiv,11:00,11.7,5.31,1.249,https://www.pinnacle.com/en/soccer/ukraine-premier-league/matchups/
+Metalist 1925 Kharkiv - SC Poltava,16:00,1.084,9.52,25.19,https://www.pinnacle.com/en/soccer/ukraine-premier-league/matchups/
+Umm Salal - Qatar SC,18:30,3.38,4.15,1.943,https://www.pinnacle.com/en/soccer/qatar-stars-league/matchups/
+Al Gharafa - Al Ahli Doha,18:30,2.24,3.57,3.1,https://www.pinnacle.com/en/soccer/qatar-stars-league/matchups/
+Al Sailiya - Al-Shahaniya,18:30,2.76,3.26,2.63,https://www.pinnacle.com/en/soccer/qatar-stars-league/matchups/
+Andijan - Mash'al Mubarek,11:00,1.452,3.92,7.49,https://www.pinnacle.com/en/soccer/uzbekistan-super-league/matchups/
+Buxoro - Dinamo Samarqand,13:15,3.15,2.79,2.48,https://www.pinnacle.com/en/soccer/uzbekistan-super-league/matchups/
+Al-Ahli - Al-Hilal,19:00,3.2,3.16,2.38,https://www.pinnacle.com/en/soccer/saudi-arabia-kings-cup/matchups/
+Al-Kholood - Al-Ittihad,19:00,5.05,4.37,1.591,https://www.pinnacle.com/en/soccer/saudi-arabia-kings-cup/matchups/
+Chanmari - Shillong Lajong,10:30,1.602,3.72,5.21,https://www.pinnacle.com/en/soccer/india-i-league/matchups/
+Sreenidi Deccan - Namdhari,13:00,1.483,4.12,5.94,https://www.pinnacle.com/en/soccer/india-i-league/matchups/
+Altona 93 - Werder Bremen II,18:00,3.01,3.47,2.22,https://www.pinnacle.com/en/soccer/germany-regionalliga-north/matchups/
+Jeddeloh - Hamburger II,18:00,2.17,3.73,2.91,https://www.pinnacle.com/en/soccer/germany-regionalliga-north/matchups/
+Karvan - Zira,11:00,10.54,4.61,1.298,https://www.pinnacle.com/en/soccer/azerbaijan-premier-league/matchups/
+Sabah - Sumgayit,15:15,1.323,4.54,8.73,https://www.pinnacle.com/en/soccer/azerbaijan-premier-league/matchups/
+Sporting Club Delhi - Jamshedpur,14:00,4.98,3.0,1.909,https://www.pinnacle.com/en/soccer/india-super-league/matchups/
+Mohun Bagan - Mumbai City,14:00,1.549,4.14,5.33,https://www.pinnacle.com/en/soccer/india-super-league/matchups/
+Arsenal - Manchester City,16:30,2.39,3.36,3.16,https://www.pinnacle.com/en/soccer/england-efl-cup/matchups/
+Aubstadt - Greuther Furth II,17:30,2.62,3.66,2.4,https://www.pinnacle.com/en/soccer/germany-regionalliga-bavaria/matchups/
+Chemie Leipzig - BFC Preussen,18:00,2.06,3.49,3.35,https://www.pinnacle.com/en/soccer/germany-regionalliga-north-east/matchups/
+Zilina - Podbrezova,18:30,2.03,3.48,3.43,https://www.pinnacle.com/en/soccer/slovakia-cup/matchups/
+Talaea El Gaish - ZED,19:30,2.65,2.29,3.88,https://www.pinnacle.com/en/soccer/egypt-cup/matchups/
