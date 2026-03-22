@@ -9,52 +9,26 @@ from scrapers.stealth_config import (
     STEALTH_ARGS, get_context_options, apply_stealth,
     human_delay, human_scroll
 )
+from mapping_manager import mapping_manager
 
 class WinnerScraper:
     def __init__(self, headless=True):
         self.headless = headless
         self.base_url = "https://www.winner.co.il"
-        self.translation_cache = self.load_corrections()
-
-    def load_corrections(self):
-        # Load mappings
-        self.translation_cache = {}
-        try:
-            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-            path = os.path.join(base_dir, "data", "name_mappings.json")
-            with open(path, "r", encoding="utf-8") as f:
-                self.translation_cache = json.load(f)
-        except Exception as e:
-            print(f"Error loading name_mappings.json in winner.py: {e}")
-            try:
-                with open("data/name_mappings.json", "r", encoding="utf-8") as f:
-                    self.translation_cache = json.load(f)
-            except: pass
-        return self.translation_cache
 
     async def get_translation(self, text):
-        if text in self.translation_cache:
-            return self.translation_cache[text]
+        from_manager = mapping_manager.get_translation(text)
+        if from_manager:
+            return from_manager
         
         try:
              translated = GoogleTranslator(source='iw', target='en').translate(text)
              if translated:
-                self.translation_cache[text] = translated
-                self.save_corrections()
+                mapping_manager.save_pending(text, translated, "Translated")
                 return translated
              return text
         except Exception:
             return text
-
-    def save_corrections(self):
-        try:
-            path = "data/name_mappings.json"
-            if not os.path.exists("data"):
-                os.makedirs("data", exist_ok=True)
-            with open(path, "w", encoding="utf-8") as f:
-                json.dump(self.translation_cache, f, indent=4, ensure_ascii=False)
-        except:
-            pass
 
     async def get_odds(self):
         async with async_playwright() as p:
@@ -182,6 +156,7 @@ class WinnerScraper:
 
                     all_matches.append({
                         "game": f"{team1_en} - {team2_en}",
+                        "hebrew_game": f"{team1_he} - {team2_he}",
                         "date": e_date,
                         "num_1": odd1,
                         "num_X": oddX,

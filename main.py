@@ -7,6 +7,7 @@ from scrapers.pinnacle import PinnacleScraper
 from scrapers.winner import WinnerScraper
 from scrapers.unibet import UnibetScraper
 from calculations import compare_games
+from mapping_manager import mapping_manager
 from utils import update_unibet_team_map
 from message import bet_notifications
 from message_state import should_send_notification, mark_notification_sent
@@ -118,6 +119,12 @@ async def run_bot():
         
     print(f"Got {len(winner_df)} Winner, {len(unibet_df)} Unibet, {len(pinnacle_df)} Pinnacle matches.")
     
+    # Name Inference: Try to automatically deduce unknown Hebrew names based on context
+    inferred_unibet = mapping_manager.infer_mappings(winner_df, unibet_df, "Unibet", "Unibet Inference")
+    inferred_pinnacle = mapping_manager.infer_mappings(winner_df, pinnacle_df, "Pinnacle", "Pinnacle Inference")
+    if inferred_unibet or inferred_pinnacle:
+        print(f"Context Inference: Deduced {inferred_unibet} names from Unibet and {inferred_pinnacle} from Pinnacle.")
+
     # Check/Create logs dir
     if not os.path.exists("logs"): os.makedirs("logs")
 

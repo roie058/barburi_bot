@@ -7,6 +7,7 @@ import json
 from datetime import datetime
 
 from scrapers.winner import WinnerScraper
+from mapping_manager import mapping_manager
 
 DB_PATH = "data/tracker.sqlite"
 
@@ -292,6 +293,12 @@ async def run_tracker():
             unibet_df = results[1] if not isinstance(results[1], Exception) else pd.DataFrame()
         except Exception as e:
             print(f"Error fetching remote data: {e}")
+
+        # Name Inference
+        in_u = mapping_manager.infer_mappings(winner_df, unibet_df, "Unibet", "Unibet Inference")
+        in_p = mapping_manager.infer_mappings(winner_df, pinn_df, "Pinnacle", "Pinnacle Inference")
+        if in_u or in_p:
+            print(f"Tracker Context Inference: Deduced {in_u} names from Unibet and {in_p} from Pinnacle.")
 
     # Process Major Changes
     for mc in major_change_games:
