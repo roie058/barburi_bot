@@ -1,11 +1,19 @@
 # Winner Scraper - Duplicate Games Report
-Generated at: 2026-03-22 12:18:04.710088
-Total Duplicates: 35
+Generated at: 2026-03-22 14:51:54.861453
+Total Duplicates: 44
 
 | Date | Game (Hebrew) | Reason |
 |---|---|---|
 | 260322 | ריאל מדריד - אתלטיקו מדריד | Exact match key already processed |
 | 260323 | קאסטיון - קולטורל לאונסה | Exact match key already processed |
+| 260326 | פולין - אלבניה | Exact match key already processed |
+| 260326 | אוקראינה - שבדיה | Exact match key already processed |
+| 260326 | וויילס - בוסניה והרצגובינה | Exact match key already processed |
+| 260326 | דנמרק - מקדוניה הצפונית | Exact match key already processed |
+| 260326 | צ'כיה - אירלנד | Exact match key already processed |
+| 260326 | איטליה - צפון אירלנד | Exact match key already processed |
+| 260326 | סלובקיה - קוסובו | Exact match key already processed |
+| 260326 | טורקיה - רומניה | Exact match key already processed |
 | 260322 | ארסנל - מנצ'סטר סיטי | Exact match key already processed |
 | 260322 | ליון - מונאקו | Exact match key already processed |
 | 260323 | מונופולי - בנבנטו | Exact match key already processed |
@@ -39,3 +47,4 @@ Total Duplicates: 35
 | 260325 | סאות'נד יונייטד - ווקינג | Exact match key already processed |
 | 260325 | טאמוורת' - פורסט גרין | Exact match key already processed |
 | 260325 | וולדסטון - יאוביל | Exact match key already processed |
+| 260326 | ברזיל - צרפת | Exact match key already processed |

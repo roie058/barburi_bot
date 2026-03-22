@@ -3628,8 +3628,8 @@
         "source": "Legacy Unverified"
     },
     "פורטוגזה": {
-        "english_name": "Portugal",
-        "source": "Legacy Unverified"
+        "english_name": "Portuguesa",
+        "source": "Unibet Inference"
     },
     "פורטונה": {
         "english_name": "fortune",
@@ -3860,8 +3860,8 @@
         "source": "Legacy Unverified"
     },
     "צ'וקריצ'קי בלגרד": {
-        "english_name": "Cukrichki Belgrade",
-        "source": "Legacy Unverified"
+        "english_name": "Čukarički",
+        "source": "Unibet Inference"
     },
     "צ'ורום": {
         "english_name": "Corum Belediyespor",
@@ -4233,7 +4233,7 @@
     },
     "קראקאס": {
         "english_name": "Caracas",
-        "source": "Legacy Unverified"
+        "source": "Unibet Inference"
     },
     "קרבינה": {
         "english_name": "carbine",
@@ -4688,8 +4688,8 @@
         "source": "Translated"
     },
     "דפורטס טמוקו": {
-        "english_name": "Deportes Tamoko",
-        "source": "Translated"
+        "english_name": "Temuco",
+        "source": "Unibet Inference"
     },
     "אוניון מגדלנה": {
         "english_name": "Magdalena Union",
@@ -4721,7 +4721,7 @@
     },
     "ארנט גרדנס": {
         "english_name": "Arnett Gardens",
-        "source": "Translated"
+        "source": "Unibet Inference"
     },
     "קבלייר": {
         "english_name": "Cavalier",
@@ -4749,6 +4749,118 @@
     },
     "ורגואס": {
         "english_name": "Varguas",
+        "source": "Translated"
+    },
+    "פולין": {
+        "english_name": "Poland",
+        "source": "Translated"
+    },
+    "אלבניה": {
+        "english_name": "Albania",
+        "source": "Translated"
+    },
+    "אוקראינה": {
+        "english_name": "Ukraine",
+        "source": "Translated"
+    },
+    "שבדיה": {
+        "english_name": "Sweden",
+        "source": "Translated"
+    },
+    "וויילס": {
+        "english_name": "Wales",
+        "source": "Translated"
+    },
+    "בוסניה והרצגובינה": {
+        "english_name": "Bosnia and Herzegovina",
+        "source": "Translated"
+    },
+    "דנמרק": {
+        "english_name": "Denmark",
+        "source": "Translated"
+    },
+    "מקדוניה הצפונית": {
+        "english_name": "North Macedonia",
+        "source": "Translated"
+    },
+    "צ'כיה": {
+        "english_name": "Czech Republic",
+        "source": "Translated"
+    },
+    "אירלנד": {
+        "english_name": "Ireland",
+        "source": "Translated"
+    },
+    "איטליה": {
+        "english_name": "Italy",
+        "source": "Translated"
+    },
+    "צפון אירלנד": {
+        "english_name": "Northern Ireland",
+        "source": "Translated"
+    },
+    "סלובקיה": {
+        "english_name": "Slovakia",
+        "source": "Translated"
+    },
+    "קוסובו": {
+        "english_name": "Kosovo",
+        "source": "Translated"
+    },
+    "טורקיה": {
+        "english_name": "Turkey",
+        "source": "Translated"
+    },
+    "רומניה": {
+        "english_name": "Rumania",
+        "source": "Translated"
+    },
+    "ריאל פילאר": {
+        "english_name": "Real Pilar",
+        "source": "Translated"
+    },
+    "באראקס": {
+        "english_name": "Barracks",
+        "source": "Translated"
+    },
+    "ברזיל": {
+        "english_name": "Brazil",
+        "source": "Translated"
+    },
+    "צרפת": {
+        "english_name": "France",
+        "source": "Translated"
+    },
+    "שווייץ": {
+        "english_name": "Switzerland",
+        "source": "Translated"
+    },
+    "גרמניה": {
+        "english_name": "Germany",
+        "source": "Translated"
+    },
+    "אנגליה": {
+        "english_name": "England",
+        "source": "Translated"
+    },
+    "אורוגוואי": {
+        "english_name": "Uruguay",
+        "source": "Translated"
+    },
+    "קרואטיה": {
+        "english_name": "Croatia",
+        "source": "Translated"
+    },
+    "קולומביה": {
+        "english_name": "Colombia",
+        "source": "Translated"
+    },
+    "בוליביה": {
+        "english_name": "Bolivia",
+        "source": "Translated"
+    },
+    "סורינאם": {
+        "english_name": "Suriname",
         "source": "Translated"
     }
 }
