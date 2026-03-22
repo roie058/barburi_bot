@@ -199,10 +199,6 @@
         "english_name": "Universidad Concepcion",
         "source": "Legacy Unverified"
     },
-    "אוניברסידד קטוליקה דל אקוואדור": {
-        "english_name": "Universidad Católica del Ecuador",
-        "source": "Legacy Unverified"
-    },
     "אוניון ברשיה": {
         "english_name": "Onion Brescia",
         "source": "Legacy Unverified"
@@ -2036,8 +2032,8 @@
         "source": "Legacy Unverified"
     },
     "ווילם": {
-        "english_name": "Willem",
-        "source": "Legacy Unverified"
+        "english_name": "Willem II",
+        "source": "Unibet Inference"
     },
     "ווימבורן טאון": {
         "english_name": "Wimborne Town",
@@ -2571,10 +2567,6 @@
         "english_name": "Lomel",
         "source": "Legacy Unverified"
     },
-    "לונדרינה": {
-        "english_name": "Londrina",
-        "source": "Legacy Unverified"
-    },
     "לוס אנג'לס אפ.סי": {
         "english_name": "Los Angeles FC",
         "source": "Legacy Unverified"
@@ -2773,10 +2765,6 @@
     },
     "מונופולי": {
         "english_name": "Monopoli",
-        "source": "Legacy Unverified"
-    },
-    "מונטגו ביי יונייטד": {
-        "english_name": "Montego Bay United",
         "source": "Legacy Unverified"
     },
     "מונטווידאו סיטי טורקו": {
@@ -3627,10 +3615,6 @@
         "english_name": "Porto and Leo",
         "source": "Legacy Unverified"
     },
-    "פורטוגזה": {
-        "english_name": "Portuguesa",
-        "source": "Unibet Inference"
-    },
     "פורטונה": {
         "english_name": "fortune",
         "source": "Legacy Unverified"
@@ -3858,10 +3842,6 @@
     "צ'ופינג טונגליאנלונג": {
         "english_name": "Chowping Tonglianlong",
         "source": "Legacy Unverified"
-    },
-    "צ'וקריצ'קי בלגרד": {
-        "english_name": "Čukarički",
-        "source": "Unibet Inference"
     },
     "צ'ורום": {
         "english_name": "Corum Belediyespor",
@@ -4231,10 +4211,6 @@
         "english_name": "Karacabey Belediyespor",
         "source": "Legacy Unverified"
     },
-    "קראקאס": {
-        "english_name": "Caracas",
-        "source": "Unibet Inference"
-    },
     "קרבינה": {
         "english_name": "carbine",
         "source": "Legacy Unverified"
@@ -4301,10 +4277,6 @@
     },
     "ראיו קנטבריה": {
         "english_name": "Rayo Cantabria",
-        "source": "Legacy Unverified"
-    },
-    "ראסינג דה פרול": {
-        "english_name": "Racing de Prole",
         "source": "Legacy Unverified"
     },
     "ראסינג קלאב מונטוידיאו": {
@@ -4397,10 +4369,6 @@
     },
     "ריאל בטיס ב'": {
         "english_name": "Real Betis B",
-        "source": "Legacy Unverified"
-    },
-    "ריאל מורסיה": {
-        "english_name": "Real Murcia",
         "source": "Legacy Unverified"
     },
     "ריאל קונדינמרקה": {
@@ -4687,10 +4655,6 @@
         "english_name": "Procrill Midland",
         "source": "Translated"
     },
-    "דפורטס טמוקו": {
-        "english_name": "Temuco",
-        "source": "Unibet Inference"
-    },
     "אוניון מגדלנה": {
         "english_name": "Magdalena Union",
         "source": "Translated"
@@ -4718,10 +4682,6 @@
     "בנדרי": {
         "english_name": "Bandari",
         "source": "Translated"
-    },
-    "ארנט גרדנס": {
-        "english_name": "Arnett Gardens",
-        "source": "Unibet Inference"
     },
     "קבלייר": {
         "english_name": "Cavalier",
@@ -4861,6 +4821,226 @@
     },
     "סורינאם": {
         "english_name": "Suriname",
+        "source": "Translated"
+    },
+    "ארנס קלאב דה גטקסו": {
+        "english_name": "Arenas Club de Gatxo",
+        "source": "Translated"
+    },
+    "דרבן סיטי": {
+        "english_name": "Durban City",
+        "source": "Translated"
+    },
+    "בריי וונדררס": {
+        "english_name": "Bray Wanderers",
+        "source": "Translated"
+    },
+    "קרי": {
+        "english_name": "curry",
+        "source": "Translated"
+    },
+    "קורק סיטי": {
+        "english_name": "Cork City",
+        "source": "Translated"
+    },
+    "את'לון טאון": {
+        "english_name": "Athlone Town",
+        "source": "Translated"
+    },
+    "ווקספורד": {
+        "english_name": "Wexford",
+        "source": "Translated"
+    },
+    "טריטי יונייטד": {
+        "english_name": "Treaty United",
+        "source": "Translated"
+    },
+    "יו.סי.דבלין": {
+        "english_name": "UC Dublin",
+        "source": "Translated"
+    },
+    "קוב רמבלרס": {
+        "english_name": "Cobb Ramblers",
+        "source": "Translated"
+    },
+    "אינטר קאשי": {
+        "english_name": "Inter Kashi",
+        "source": "Translated"
+    },
+    "חובנטוד": {
+        "english_name": "Hobantod",
+        "source": "Translated"
+    },
+    "פרוגרסו": {
+        "english_name": "Progresso",
+        "source": "Translated"
+    },
+    "סרו": {
+        "english_name": "Sero",
+        "source": "Translated"
+    },
+    "אלביון": {
+        "english_name": "Albion",
+        "source": "Translated"
+    },
+    "מונטווידאו וונדררס": {
+        "english_name": "Montevideo Wanderers",
+        "source": "Translated"
+    },
+    "לאונס נגרוס": {
+        "english_name": "Lyons will be shredded",
+        "source": "Translated"
+    },
+    "מינרוס דה זקאטקס": {
+        "english_name": "Mineros de Zacatecas",
+        "source": "Translated"
+    },
+    "טראסה": {
+        "english_name": "Terrace",
+        "source": "Translated"
+    },
+    "ברבסטרו": {
+        "english_name": "Barbastro",
+        "source": "Translated"
+    },
+    "מוניציפל פרז זלדון": {
+        "english_name": "Municipal Perez Zeldon",
+        "source": "Translated"
+    },
+    "קרטחינס": {
+        "english_name": "Cartagena",
+        "source": "Translated"
+    },
+    "סן טלמו": {
+        "english_name": "San Telmo",
+        "source": "Translated"
+    },
+    "קולון סנטה פה": {
+        "english_name": "Colon Santa Fe",
+        "source": "Translated"
+    },
+    "סנטרל נורטה": {
+        "english_name": "Central Norte",
+        "source": "Translated"
+    },
+    "אול בויס": {
+        "english_name": "All Boys",
+        "source": "Translated"
+    },
+    "צ'קריטה ג'וניורס": {
+        "english_name": "Chakrita Juniors",
+        "source": "Translated"
+    },
+    "אתלטיקו רפאלה": {
+        "english_name": "Atlético Raffaele",
+        "source": "Translated"
+    },
+    "קלאב אתלטיקו גואמס": {
+        "english_name": "Club Atlético Guams",
+        "source": "Translated"
+    },
+    "אגרופקואריו": {
+        "english_name": "Agropecuario",
+        "source": "Translated"
+    },
+    "קולגיאלס": {
+        "english_name": "collegials",
+        "source": "Translated"
+    },
+    "טמפרליי": {
+        "english_name": "Temperley",
+        "source": "Translated"
+    },
+    "הולנד": {
+        "english_name": "Netherlands",
+        "source": "Translated"
+    },
+    "נורבגיה": {
+        "english_name": "Norway",
+        "source": "Translated"
+    },
+    "קופיאפו": {
+        "english_name": "Copiapo",
+        "source": "Translated"
+    },
+    "אייקיקה": {
+        "english_name": "Ikea",
+        "source": "Translated"
+    },
+    "גויאש": {
+        "english_name": "goyash",
+        "source": "Translated"
+    },
+    "אמריקה מיניירו": {
+        "english_name": "America Mineiro",
+        "source": "Translated"
+    },
+    "נאוטיקו": {
+        "english_name": "Nautico",
+        "source": "Translated"
+    },
+    "קריסיומה": {
+        "english_name": "Chrysoma",
+        "source": "Translated"
+    },
+    "ווידאד קזבלנקה": {
+        "english_name": "Vidad Casablanca",
+        "source": "Translated"
+    },
+    "אולומפיק דה סאפי": {
+        "english_name": "Olympic de Safi",
+        "source": "Translated"
+    },
+    "מרתון סן פדרו": {
+        "english_name": "San Pedro Marathon",
+        "source": "Translated"
+    },
+    "ויקטוריה": {
+        "english_name": "Victoria",
+        "source": "Translated"
+    },
+    "לואיס אנחל פירפו": {
+        "english_name": "Luis Angel Pirfo",
+        "source": "Translated"
+    },
+    "זקאטקולוקה": {
+        "english_name": "Zakatkoluka",
+        "source": "Translated"
+    },
+    "דאגלס הייג": {
+        "english_name": "Douglas Haig",
+        "source": "Translated"
+    },
+    "גימנסיה דה צ'יווילקוי": {
+        "english_name": "Gymnasium de Chivilcoy",
+        "source": "Translated"
+    },
+    "לינקוונו": {
+        "english_name": "Lincoln",
+        "source": "Translated"
+    },
+    "ספורטיבו לאס פאריאס": {
+        "english_name": "Sportivo Las Farias",
+        "source": "Translated"
+    },
+    "בוקה אונידוס": {
+        "english_name": "Boca Onidos",
+        "source": "Translated"
+    },
+    "סרמיינטו דה לה בנדה": {
+        "english_name": "Sarmiento de la Banda",
+        "source": "Translated"
+    },
+    "קאמבוטה": {
+        "english_name": "Kambuta",
+        "source": "Translated"
+    },
+    "דפנסורס דה בלגראנו": {
+        "english_name": "Defensores de Belgrano",
+        "source": "Translated"
+    },
+    "חימנסיה אסגרימה": {
+        "english_name": "Hymansia asgrima",
         "source": "Translated"
     }
 }
