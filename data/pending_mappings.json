@@ -151,10 +151,6 @@
         "english_name": "Opsht",
         "source": "Legacy Unverified"
     },
-    "אולדהאם": {
-        "english_name": "Oldham",
-        "source": "Legacy Unverified"
-    },
     "אולימפיה": {
         "english_name": "Olympia",
         "source": "Legacy Unverified"
@@ -2030,10 +2026,6 @@
     "וויין": {
         "english_name": "Wayne",
         "source": "Legacy Unverified"
-    },
-    "ווילם": {
-        "english_name": "Willem II",
-        "source": "Unibet Inference"
     },
     "ווימבורן טאון": {
         "english_name": "Wimborne Town",
@@ -5041,6 +5033,98 @@
     },
     "חימנסיה אסגרימה": {
         "english_name": "Hymansia asgrima",
+        "source": "Translated"
+    },
+    "גיברלטר": {
+        "english_name": "Gibraltar",
+        "source": "Translated"
+    },
+    "לטביה": {
+        "english_name": "Latvia",
+        "source": "Translated"
+    },
+    "מלטה": {
+        "english_name": "Malta",
+        "source": "Translated"
+    },
+    "לוקסמבורג": {
+        "english_name": "Luxembourg",
+        "source": "Translated"
+    },
+    "ארצות הברית": {
+        "english_name": "United States",
+        "source": "Translated"
+    },
+    "בלגיה": {
+        "english_name": "Belgium",
+        "source": "Translated"
+    },
+    "סקוטלנד": {
+        "english_name": "Scotland",
+        "source": "Translated"
+    },
+    "יפן": {
+        "english_name": "Japan",
+        "source": "Translated"
+    },
+    "צ'אונן": {
+        "english_name": "Chaonan",
+        "source": "Translated"
+    },
+    "ג'אונאם דרגונס": {
+        "english_name": "Jeonam Dragons",
+        "source": "Translated"
+    },
+    "אנסן גרינרס": {
+        "english_name": "Ansen Greeners",
+        "source": "Translated"
+    },
+    "צ'ונגנם אסן": {
+        "english_name": "Chungnam Asan",
+        "source": "Translated"
+    },
+    "וואסאונג": {
+        "english_name": "Wasaung",
+        "source": "Translated"
+    },
+    "אתלטיקו": {
+        "english_name": "Atletico",
+        "source": "Translated"
+    },
+    "יוון": {
+        "english_name": "Greece",
+        "source": "Translated"
+    },
+    "פרגוואי": {
+        "english_name": "Paraguayan",
+        "source": "Translated"
+    },
+    "ספרטק קוסטרומה": {
+        "english_name": "Spartak Kostroma",
+        "source": "Translated"
+    },
+    "אופה": {
+        "english_name": "baker",
+        "source": "Translated"
+    },
+    "פניארול": {
+        "english_name": "Fenyarol",
+        "source": "Translated"
+    },
+    "דרום קוריאה": {
+        "english_name": "South Korea",
+        "source": "Translated"
+    },
+    "זומאן": {
+        "english_name": "Zoman",
+        "source": "Translated"
+    },
+    "סן פדרו": {
+        "english_name": "San Pedro",
+        "source": "Translated"
+    },
+    "דונב רוסה": {
+        "english_name": "Donov Rossa",
         "source": "Translated"
     }
 }
