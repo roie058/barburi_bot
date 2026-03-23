@@ -371,8 +371,24 @@ async def run_tracker():
     
     print(f"Run completed. Total: {len(winner_df)}, New: {new_matches_count}, Changed: {changed_matches_count}, Major: {major_changes_count}")
 
+async def main_loop():
+    import random
+    while True:
+        try:
+            print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting tracking cycle...")
+            await run_tracker()
+        except Exception as e:
+            print(f"Error in tracker cycle: {e}")
+            
+        jitter_seconds = random.randint(180, 420)
+        delay_minutes = jitter_seconds / 60.0
+        print(f"Cycle finished. Sleeping for {delay_minutes:.2f} minutes ({jitter_seconds} seconds) to evade bot detection...")
+        await asyncio.sleep(jitter_seconds)
+
 if __name__ == "__main__":
     try:
-        asyncio.run(run_tracker())
+        asyncio.run(main_loop())
+    except KeyboardInterrupt:
+        print("\nTracker stopped by user.")
     except Exception as e:
-        print(f"Error in tracker: {e}")
+        print(f"Fatal tracker error: {e}")

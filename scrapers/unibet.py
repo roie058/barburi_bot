@@ -414,12 +414,13 @@ class UnibetScraper:
                         return []
             
             tasks = [scrape_league(p) for p in target_params]
-            results = await asyncio.gather(*tasks)
-            
-            for r in results:
-                all_matches.extend(r)
-            
-            await browser.close()
+            try:
+                results = await asyncio.gather(*tasks)
+                
+                for r in results:
+                    all_matches.extend(r)
+            finally:
+                await browser.close()
             
             # Post-processing: Parse dates
             for m in all_matches:
