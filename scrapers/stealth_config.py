@@ -9,6 +9,9 @@ Uses manual init scripts for stealth — no wrapper dependency, safe for paralle
 import random
 import asyncio
 from playwright.async_api import async_playwright
+from playwright_stealth import Stealth
+
+_stealth_instance = Stealth()
 
 # --- User-Agent Pool (Chrome ONLY — must match Chromium engine) ---
 USER_AGENTS = [
@@ -37,59 +40,8 @@ STEALTH_ARGS = [
     '--disable-component-update',
 ]
 
-# --- Stealth Evasion Script (injected per-page via add_init_script) ---
-STEALTH_INIT_SCRIPT = """
-    // 1. Hide navigator.webdriver
-    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-
-    // 2. Fake chrome.runtime (Chromium detection)
-    if (!window.chrome) { window.chrome = {}; }
-    if (!window.chrome.runtime) {
-        window.chrome.runtime = {
-            connect: function() {},
-            sendMessage: function() {}
-        };
-    }
-
-    // 3. Fix Permissions API (notifications query leak)
-    const originalQuery = window.navigator.permissions.query.bind(window.navigator.permissions);
-    window.navigator.permissions.query = (parameters) => {
-        if (parameters.name === 'notifications') {
-            return Promise.resolve({ state: Notification.permission });
-        }
-        return originalQuery(parameters);
-    };
-
-    // 4. Fix plugin array (headless Chrome has 0 plugins)
-    Object.defineProperty(navigator, 'plugins', {
-        get: () => [
-            { name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer' },
-            { name: 'Chrome PDF Viewer', filename: 'mhjfbmdgcfjbbpaeojofohoefgiehjai' },
-            { name: 'Native Client', filename: 'internal-nacl-plugin' }
-        ]
-    });
-
-    // 5. Fix languages
-    Object.defineProperty(navigator, 'languages', {
-        get: () => ['en-GB', 'en-US', 'en']
-    });
-
-    // 6. Canvas fingerprint noise
-    const origToDataURL = HTMLCanvasElement.prototype.toDataURL;
-    HTMLCanvasElement.prototype.toDataURL = function(type) {
-        const ctx = this.getContext('2d');
-        if (ctx && this.width > 0 && this.height > 0) {
-            try {
-                const imageData = ctx.getImageData(0, 0, this.width, this.height);
-                for (let i = 0; i < Math.min(imageData.data.length, 40); i += 4) {
-                    imageData.data[i] ^= 1;
-                }
-                ctx.putImageData(imageData, 0, 0);
-            } catch(e) {}
-        }
-        return origToDataURL.apply(this, arguments);
-    };
-"""
+# --- Stealth Evasion Script (DEPRECATED - Moved to playwright-stealth) ---
+# Custom script injections like toDataURL overrides trigger Datadome canvas locks.
 
 
 def get_random_user_agent():
@@ -128,7 +80,7 @@ def get_context_options(locale="en-GB", timezone="Europe/London"):
 
 async def apply_stealth(page):
     """Apply all stealth evasion scripts to a page. Call after new_page()."""
-    await page.add_init_script(STEALTH_INIT_SCRIPT)
+    await _stealth_instance.apply_stealth_async(page)
 
 
 async def human_scroll(page, scroll_count=None, scroll_min=300, scroll_max=800, delay_base=1200, delay_jitter=600):

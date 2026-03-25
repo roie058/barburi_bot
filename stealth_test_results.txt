@@ -1,0 +1,40 @@
+
+--- Running Test: 0. Base (No Evasion Scripts) ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: 1. All Evasion Scripts ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 1_webdriver ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 2_chrome_runtime ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 3_permissions ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 4_plugins ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 5_languages ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
+
+--- Running Test: Test w/o 6_canvas_noise ---
+[-] Detected 'Reload' error on page.
+[+] Games loaded in DOM: 20
+=> RESULT: FAILED
