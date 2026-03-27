@@ -38,10 +38,30 @@ class MappingManager:
             except Exception as e:
                 print(f"Error loading {PENDING_MAPPINGS_FILE}: {e}")
 
-    def get_translation(self, hebrew_name):
+    def _write_verified(self):
+        try:
+            with open(NAME_MAPPINGS_FILE, "w", encoding="utf-8") as f:
+                json.dump(self.verified_mappings, f, ensure_ascii=False, indent=4)
+        except Exception as e:
+            print(f"Failed to write verified mappings: {e}")
+
+    def get_translation(self, hebrew_name, current_league=""):
         # 1. Check verified
         if hebrew_name in self.verified_mappings:
-            return self.verified_mappings[hebrew_name]
+            val = self.verified_mappings[hebrew_name]
+            if isinstance(val, dict):
+                # Auto-fill empty leagues context
+                if current_league and val.get("league") == "":
+                    val["league"] = current_league
+                    self._write_verified()
+                    try:
+                        from stats_manager import StatsManager
+                        StatsManager().add_names_auto_mapped_with_league(1)
+                    except Exception as e:
+                        pass
+                return val.get("english", hebrew_name)
+            else:
+                return val
             
         # 2. Check pending
         if hebrew_name in self.pending_mappings:

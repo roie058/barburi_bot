@@ -163,7 +163,8 @@ async def run_tracker():
                 "num_1": old_odds['1'],
                 "num_X": old_odds['X'],
                 "num_2": old_odds['2'],
-                "link": row['link']
+                "link": row['link'],
+                "league": row.get('league', '')
             })
             new_game = Game({
                 "game": f"{row.get('team1_hebrew', row['team1'])} - {row.get('team2_hebrew', row['team2'])}",
@@ -171,7 +172,8 @@ async def run_tracker():
                 "num_1": new_odds['1'],
                 "num_X": new_odds['X'],
                 "num_2": new_odds['2'],
-                "link": row['link']
+                "link": row['link'],
+                "league": row.get('league', '')
             })
             
             flip_res = check_favorite_flip(old_game, new_game, remote_name="New_Winner")

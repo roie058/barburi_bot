@@ -1,932 +1,3722 @@
 {
-    "בירמינגהאם": "Birmingham City",
-    "דרבי קאונטי": "Derby County",
-    "מילוול": "Millwall",
-    "איפסוויץ'": "Ipswich Town",
-    "קובנטרי": "Coventry City",
-    "סוונסי": "Swansea City",
-    "לסטר": "Leicester City",
-    "ווטפורד": "Watford",
-    "מידלסברו": "Middlesbrough",
-    "בלקבורן": "Blackburn Rovers",
-    "אוקספורד יונייטד": "Oxford United",
-    "סאות'המפטון": "Southampton",
-    "נוריץ'": "Norwich City",
-    "צ'רלטון": "Charlton Athletic",
-    "שפילד וונסדיי": "Sheffield Wednesday",
-    "האל": "Hull City",
-    "סטוק": "Stoke City",
-    "פרסטון": "Preston North End",
-    "פורטסמות'": "Portsmouth",
-    "קווינס פארק ריינג'רס": "Queens Park Rangers",
-    "ווסט ברומיץ'": "West Bromwich",
-    "בריסטול סיטי": "Bristol City",
-    "רקסהאם": "Wrexham",
-    "שפילד יונייטד": "Sheffield United",
-    "ארסנל": "Arsenal",
-    "ברייטון": "Brighton",
-    "ברנטפורד": "Brentford",
-    "בורנמות'": "Bournemouth",
-    "מנצ'סטר יונייטד": "Manchester United",
-    "ניוקאסל": "Newcastle United",
-    "ברנלי": "Burnley",
-    "אברטון": "Everton",
-    "נוטינגהאם פורסט": "Nottingham Forest",
-    "מנצ'סטר סיטי": "Manchester City",
-    "סנדרלנד": "Sunderland",
-    "לידס": "Leeds United",
-    "צ'לסי": "Chelsea",
-    "אסטון וילה": "Aston Villa",
-    "קריסטל פאלאס": "Crystal Palace",
-    "טוטנהאם": "Tottenham",
-    "ליברפול": "Liverpool",
-    "וולבס": "Wolves",
-    "ווסטהאם": "West Ham",
-    "פולהאם": "Fulham",
-    "קאסה פיה ליסבון": "Casa Pia",
-    "ויטוריה גימראייש": "Vitoria Guimarães",
-    "ארוקה": "Arouca",
-    "ז'יל ויסנטה": "Gil Vicente",
-    "איי.וי.אס": "AVS Futebol",
-    "פמליקאו": "Famalicão",
-    "אסטרלה אמדורה": "Estrela",
-    "אשטוריל": "Estoril",
-    "אלברקה": "Alverca",
-    "ספורטינג ליסבון": "Sporting CP",
-    "ריו אווה": "Rio Ave",
-    "בראגה": "Braga",
-    "בנפיקה ליסבון": "Benfica",
-    "בארי טאון": "Barry Town United",
-    "קרדיף מטרופוליטן": "Cardiff Met FC",
-    "אקרינגטון סטנלי": "Accrington Stanley",
-    "בארו": "Barrow",
-    "קרואלי טאון": "Crawley Town",
-    "קולצ'סטר": "Colchester United",
-    "בריסטול רוברס": "Bristol Rovers",
-    "ברומלי": "Bromley",
-    "ג'ילינגהאם": "Gillingham",
-    "קיימברידג' יונייטד": "Cambridge United",
-    "טראנמיר רוברס": "Tranmere Rovers",
-    "פליטווד טאון": "Fleetwood Town",
-    "ניופורט קאונטי": "Newport County",
-    "בארנט": "Barnet",
-    "סלפורד סיטי": "Salford City",
-    "הרוגייט טאון": "Harrogate Town",
-    "צ'סטרפילד": "Chesterfield",
-    "נוטס קאונטי": "Notts County",
-    "שרוסברי": "Shrewsbury Town",
-    "וולסול": "Walsall",
-    "קרו אלכסנדרה": "Crewe Alexandra",
-    "מכלן": "KV Mechelen",
-    "דנדר": "Dender EH",
-    "גנק": "Genk",
-    "קלאב ברוז'": "Club Brugge",
-    "ראל לה לובייר": "RAAL La Louvière",
-    "לובן": "Leuven",
-    "אנטוורפן": "Antwerp",
-    "זולטה וארגם": "Zulte Waregem",
-    "סטאנדרד ליאז'": "Standard de Liège",
-    "סט טרוידן": "St. Truidense",
-    "גנט": "Gent",
-    "ווסטרלו": "Westerlo",
-    "אנדרלכט": "Anderlecht",
-    "שרלרואה": "Royal Charleroi",
-    "סרקל ברוז'": "Cercle Brugge",
-    "סן ז'ילואז": "Union St. Gilloise",
-    "פאלרמו": "Palermo",
-    "פאדובה": "Padova",
-    "קטנזארו 1929": "Catanzaro",
-    "צ'זנה": "Cesena",
-    "מודנה": "Modena",
-    "מונזה": "Monza",
-    "בארי": "Bari",
-    "א.ס. אבלינו": "Avellino",
-    "אמפולי": "Empoli",
-    "פרוסינונה": "Frosinone",
-    "יובה סטאביה": "Juve Stabia",
-    "קאררסה 1908": "Carrarese",
-    "מנטובה 1911": "Mantova",
-    "סמפדוריה": "Sampdoria",
-    "רג'יאנה": "Reggiana",
-    "ספציה": "Spezia",
-    "פסקארה": "Pescara",
-    "ונציה": "Venezia",
-    "וירטוס אנטלה": "Virtus Entella",
-    "אקדמיקה ויסו": "Académico Viseu",
-    "בנפיקה ליסבון ב'": "Benfica B",
-    "פאקו פריירה": "Pacos Ferreira",
-    "פארנסה": "Farense",
-    "רומא": "Roma",
-    "גנואה": "Genoa",
-    "פיזה": "Pisa",
-    "יובנטוס": "Juventus",
-    "מילאן": "AC Milan",
-    "ורונה": "Hellas Verona",
-    "לצ'ה": "Lecce",
-    "קומו": "Como",
-    "פארמה": "Parma",
-    "פיורנטינה": "Fiorentina",
-    "אטאלנטה": "Atalanta",
-    "אינטר": "Inter",
-    "טורינו": "Torino",
-    "קליארי": "Cagliari",
-    "קרמונזה": "Cremonese",
-    "נאפולי": "Naples",
-    "אודינזה": "Udinese",
-    "לאציו": "Lazio",
-    "בולוניה": "Bologna",
-    "ססואולו": "Sassuolo",
-    "אל איתיחד ג'דה": "Al Ittihad",
-    "אל חלוד": "Al Kholood",
-    "אל הילאל ריאד": "Al Hilal (SAU)",
-    "אל אהלי סעודי": "Al Ahli (SAU)",
-    "ניוקאסל ג'טס": "Newcastle Jets",
-    "מאקארתור": "Macarthur",
-    "אדלייד יונייטד": "Adelaide United",
-    "ווסטרן סידני": "Western Sydney Wanderers",
-    "מלבורן סיטי": "Melbourne City",
-    "פרת' גלורי": "Perth Glory",
-    "מלבורן ויקטורי": "Melbourne Victory",
-    "וולינגטון פניקס": "Wellington Phoenix",
-    "בלואיזדד": "Belouizdad",
-    "סטיף": "ES Sétif",
-    "היברניאן": "Hibernian",
-    "הארטס": "Hearts",
-    "דנדי": "Dundee FC",
-    "פאלקירק": "Falkirk",
-    "ליבינגסטון": "Livingston",
-    "סלטיק": "Celtic",
-    "גלזגו ריינג'רס": "Rangers (CHL)",
-    "מאת'רוול": "Motherwell",
-    "סט. מירן": "St. Mirren",
-    "קילמרנוק": "Kilmarnock",
-    "אברדין": "Aberdeen",
-    "דנדי יונייטד": "Dundee United",
-    "טורנסה": "Torreense",
-    "שלף": "Chlef",
-    "יו.אס.אם. אלג'יר": "USM Alger",
-    "לינפילד": "Linfield",
-    "גלנטורן": "Glentoran",
-    "פורטדאון": "Portadown",
-    "גלנבון": "Glenavon",
-    "באלימנה יונייטד": "Ballymena United",
-    "קולריין": "Coleraine",
-    "קליפטונוויל": "Cliftonville",
-    "קרוסיידרס": "Crusaders",
-    "קאריק": "Carrick Rangers",
-    "לארנה": "Larne",
-    "דנגאנון": "Dungannon Swifts",
-    "באנגור": "Bangor",
-    "מודרן ספורט": "Modern Sport FC",
-    "טאלה אל ג'איש": "Tala'ea El Gaish",
-    "קרבה איסמעיליה": "Kahrabaa Ismailia",
-    "אל וואסל": "Al Wasl",
-    "אל נאסר דובאי": "Al Nasr (UAE)",
-    "הרס אל חודו": "Haras El Hodood",
-    "בריטון פרי": "Briton Ferry Llansawel",
-    "סנטרל קואסט": "Central Coast Mariners",
-    "בריסביין רוארס": "Brisbane Roar",
-    "סלטה ויגו": "Celta de Vigo",
-    "ולנסיה": "Valencia",
-    "אלצ'ה": "Elche",
-    "ויאריאל": "Villarreal",
-    "אוסאסונה": "Osasuna",
-    "אתלטיק בילבאו": "Athletic Bilbao",
-    "אספניול": "Espanyol",
-    "ברצלונה": "Barcelona",
-    "ראיו וייקאנו": "Rayo Vallecano",
-    "חטאפה": "Getafe",
-    "ניס": "Nice",
-    "שטראסבורג": "Strasbourg",
-    "מונאקו": "Monaco",
-    "ליון": "Lyon",
-    "ליל": "Lille",
-    "ראן": "Stade Rennes",
-    "טולוז": "Toulouse",
-    "לאנס": "Lens",
-    "נאסיונל מדיירה": "Nacional da Madeira",
-    "אייבר": "Eibar",
-    "מיראנדס": "Mirandés",
-    "האברפורדווסט": "Haverfordwest County AFC",
-    "אראדיפו": "Omonia Aradippou",
-    "קרסאבה ייפסונאס": "Ypsonas",
-    "אוקלנד": "Auckland FC",
-    "אל דפרה": "Al Dhafra",
-    "בניאס": "Baniyas Club",
-    "ספניש טאון פוליס": "Spanish Town Police",
-    "טיבולי גרדנס": "Tivoli Gardens",
-    "צ'פלטון מארונס": "Chapelton Maroons",
-    "אלאבס": "Deportivo Alavés",
-    "אוביידו": "Real Oviedo",
-    "ריאל סוסיאדד": "Real Sociedad",
-    "אתלטיקו מדריד": "Atlético Madrid",
-    "ריאל מדריד": "Real Madrid",
-    "ריאל בטיס": "Real Betis",
-    "מאיורקה": "Mallorca",
-    "ג'ירונה": "Girona",
-    "סביליה": "Sevilla",
-    "לבאנטה": "Levante",
-    "פאריס סן ז'רמן": "Paris SG",
-    "אמיין": "Amiens SC",
-    "נאנסי": "Nancy",
-    "ריימס": "Stade Reims",
-    "אנסי": "Annecy",
-    "לה מאן": "Le Mans",
-    "סט. אטיין": "Saint-Étienne",
-    "פו": "Pau",
-    "רודה אביירון": "Rodez",
-    "קלרמונט": "Clermont",
-    "לאבאל": "Stade Lavallois",
-    "א.א.ל. לימסול": "AEL Limassol",
-    "אפואל ניקוסיה": "APOEL",
-    "פראלמיני": "Enosis Neon Paralimni",
-    "אקריטס חלורקס": "Akritas Chlorakas",
-    "אומוניה ניקוסיה": "Omonia Nicosia",
-    "פיירנסה": "Feirense",
-    "לרייה": "UD Leiria",
-    "פלגיירס 1932": "Felgueiras 1932",
-    "אולביירנסה": "Oliveirense",
-    "פורטימוננסה": "Portimonense",
-    "אולימפיאקוס ניקוסיה": "Olympiakos Nicosia",
-    "אריס לימסול": "Aris Limassol",
-    "א.א.ק. לרנקה": "Larnaca",
-    "אנורת'וסיס פמגוסטה": "Anorthosis",
-    "אפולון לימסול": "Apollon Limassol",
-    "פאפוס": "Pafos",
-    "פ.צ. סידני": "Sydney FC",
-    "פראצ'ואפ": "PT Prachuap",
-    "בוריראם יונייטד": "Buriram United",
-    "פנאפייל": "Penafiel",
-    "גזל אל מחלה": "Ghazl El Mahallah",
-    "אל מוֹקאוולוּן": "Al Mokawloon Al Arab",
-    "באלה טאון": "Bala Town",
-    "קרנרפון": "Caernarfon Town",
-    "קולווין ביי": "Colwyn Bay",
-    "פלינט טאון יונייטד": "Flint Town United",
-    "פטרוג'ט": "Petrojet",
-    "זד אפ.סי": "ZED",
-    "איסמעילי": "Ismaily",
-    "וואדי דגלה": "Wadi Degla",
-    "לנלי": "Llanelli Town",
-    "פניבונט": "Penybont",
-    "פ.צ. פאריס": "Paris FC",
-    "לה האבר": "Le Havre",
-    "אנז'ר": "Angers",
-    "ברסט": "Brest",
-    "אוקזר": "Auxerre",
-    "לוריין": "Lorient",
-    "מץ": "Metz",
-    "מארסיי": "Marseille",
-    "נאנט": "Nantes",
-    "מוריירנסה": "Moreirense",
-    "סנטה קלרה אזורס": "Santa Clara",
-    "טונדלה": "Tondela",
-    "אלבסטה": "Albacete",
-    "לגאנס": "Leganes",
-    "הואסקה": "Huesca",
-    "קולטורל לאונסה": "Cultural Leonesa",
-    "ריאל סוסיאדד ב'": "Real Sociedad B",
-    "אלמריה": "Almería",
-    "גרנאדה": "Granada",
-    "קורדובה": "Cordoba",
-    "בורגוס": "Burgos",
-    "דפורטיבו לה קורוניה": "Deportivo la Coruña",
-    "קאדיס": "Cádiz",
-    "סראגוסה": "Real Zaragoza",
-    "לאס פלמאס": "Las Palmas",
-    "ספורטינג גיחון": "Sporting Gijón",
-    "מלאגה": "Málaga",
-    "ויאדוליד": "Real Valladolid",
-    "ראסינג דה סנטנדר": "Racing Santander",
-    "סאוטה": "AD Ceuta",
-    "פ.צ. אנדורה": "Andorra",
-    "רד סטאר 93": "Red Star",
-    "באסטיה": "Bastia",
-    "גרנובל": "Grenoble",
-    "בולון": "Boulogne",
-    "ויז'לה": "Vizela",
-    "פורטו ב'": "Porto B",
-    "מונפלייה": "Montpellier",
-    "גלאטסראיי": "Galatasaray",
-    "טרבזונספור": "Trabzonspor",
-    "סמסונספור": "Samsunspor",
-    "קאסטיון": "Castellón",
-    "מרידה": "Mérida AD",
-    "Wolverhampton Wanderers": "Wolves",
-    "וולברהמפטון": "Wolves",
-    "איירדריוניאנס": "Airdrieonians",
-    "ריית' רוברס": "Raith Rovers",
-    "אייר יונייטד": "Ayr United",
-    "פרטיק ת'יסל": "Partick Thistle",
-    "גרינוק": "Greenock Morton",
-    "דאנפרמלין אתלטיק": "Dunfermline Athletic",
-    "רוס קאונטי": "Ross County",
-    "סט. ג'ונסטון": "St. Johnstone",
-    "אברואת'": "Arbroath",
-    "ברקלדו": "Barakaldo CF",
-    "יוניוניסטס דה סלמנקה": "Unionistas de Salamanca",
-    "אתלטיקו מדריד ב'": "Atlético Madrid B",
-    "טרזונה": "SD Tarazona",
-    "הרקולס": "Hércules",
-    "סביליה אתלטיקו": "Sevilla Atletico",
-    "חימנסטיק דה טראגונה": "Gimnastic de Tarragona",
-    "טרואל": "CD Teruel",
-    "אנטקוורה": "Antequera CF",
-    "איינטרכט פרנקפורט": "Eintracht Frankfurt",
-    "בורוסיה דורטמונד": "Borussia Dortmund",
-    "אתלטיקו סן לוקונו": "Atlético Sanluqueño",
-    "ריאל מדריד ג'": "Real Madrid C",
-    "רייסינג יונייטד": "Racing United",
-    "רפיד בוקרשט": "Rapid 1923",
-    "מטלוגלובוס בוקרשט": "Metaloglobus",
-    "אוניראה סלובוזיה": "Unirea 2004",
-    "אראד": "UTA Arad",
-    "אפ.סי.אס.בי": "FCSB",
-    "קלוז'": "CFR 1907 Cluj",
-    "אוטלול גלאטי": "Oțelul",
-    "דינמו בוקרשט": "Dinamo Bucureşti",
-    "אונבירסיטטה קלוז'": "Universitatea Cluj",
-    "פרול קונסטנטה": "Farul Constanța",
-    "הרמנשטאדש": "Hermannstadt",
-    "בוטוסאני": "Botoșani",
-    "רגנסבורג": "Jahn Regensburg",
-    "אינגולסטד": "Ingolstadt 04",
-    "דן האג": "ADO Den Haag",
-    "קאמבור": "Cambuur",
-    "הלמונד ספורט": "Helmond Sport",
-    "ויטסה ארנהיים": "Vitesse Arnhem",
-    "אלקמאר מילואים": "Jong AZ Alkmaar",
-    "סיריינג": "Seraing",
-    "קסימפסה": "Kasımpaşa",
-    "אנטליספור": "Antalyaspor",
-    "גנצ'לרבירליג'י": "Gençlerbirliği SK",
-    "איסטנבול בסאקסהיר": "Istanbul Basaksehir",
-    "וינטרת'ור": "Winterthur",
-    "סט. גאלן": "St. Gallen",
-    "לוצרן": "Luzern",
-    "לוגאנו": "Lugano",
-    "יאנג בויז": "Young Boys",
-    "לוזאן ספורט": "Lausanne Sport",
-    "סרבט ז'נבה": "Servette",
-    "פ.צ. ציריך": "FC Zürich",
-    "גראסהופרס": "Grasshoppers",
-    "באזל": "Basel",
-    "סיון": "Sion",
-    "אוגסבורג": "Augsburg",
-    "אוניון ברלין": "1. FC Union Berlin",
-    "קונקרנו": "Concarneau",
-    "דיז'ון": "Dijon",
-    "לה פוי": "Le Puy",
-    "אורליאן": "Orléans",
-    "ורסלייז": "Versailles",
-    "אקסלסיור": "Excelsior",
-    "טלסטאר": "Telstar",
-    "לייפציג": "RB Leipzig",
-    "ביירן מינכן": "Bayern Munich",
-    "סט. פאולי": "St. Pauli",
-    "ורדר ברמן": "Werder Bremen",
-    "פ.צ. קלן": "1. FC Köln",
-    "מיינץ": "Mainz 05",
-    "המבורג": "Hamburger",
-    "בורוסיה מינשנגלדבאך": "Borussia Mönchengladbach",
-    "וולפסבורג": "Wolfsburg",
-    "היידנהיים": "1. FC Heidenheim",
-    "שטוטגרט": "Stuttgart",
-    "פרייבורג": "Freiburg",
-    "הופנהיים": "Hoffenheim",
-    "באייר לברקוזן": "Bayer Leverkusen",
-    "אייאקס": "Ajax",
-    "גו אהד איגלס": "Go Ahead Eagles",
-    "א.א.ק. אתונה": "AEK Athens",
-    "פנאתינייקוס": "Panathinaikos",
-    "לאריסה": "Larissa",
-    "אריס סלוניקי": "Aris Thessaloniki",
-    "פאוק סלוניקי": "PAOK",
-    "אופי כרתים": "OFI Crete",
-    "זוולה": "PEC Zwolle",
-    "אלקמאר": "AZ Alkmaar",
-    "פורטונה סיטארד": "Fortuna Sittard",
-    "איינדהובן": "FC Eindhoven",
-    "נאק ברדה": "NAC Breda",
-    "ניימיכן": "NEC Nijmegen",
-    "כרונינגן": "Groningen",
-    "דרמשטאדט": "Darmstadt",
-    "דינמו דרזדן": "Dynamo Dresden",
-    "קייזרסלאוטרן": "1. FC Kaiserslautern",
-    "האנובר": "Hannover 96",
-    "פורטונה דיסלדורף": "Fortuna Dusseldorf",
-    "ארמיניה בילפלד": "Arminia Bielefeld",
-    "פאדרבורן": "Paderborn 07",
-    "נירנברג": "1. FC Nürnberg",
-    "אלברסברג": "Elversberg",
-    "מונסטר": "Preussen Munster",
-    "הרטה ברלין": "Hertha Berlin",
-    "שאלקה 04": "Schalke 04",
-    "וולנדאם": "Volendam",
-    "אוטרכט": "Utrecht",
-    "הראקלס": "Heracles",
-    "טוונטה": "Twente",
-    "פיינורד": "Feyenoord",
-    "ספרטה רוטרדם": "Sparta Rotterdam",
-    "פורטוגואזה": "Portuguesa",
-    "בוטאפוגו": "Botafogo",
-    "רד בול ברגנטינו": "Red Bull Bragantino",
-    "קורינתיאנס": "Corinthians",
-    "איופספור": "Eyupspor",
-    "בשיקטאש": "Beşiktaş",
-    "קוניאספור": "Konyaspor",
-    "פתום יונייטד": "BG Pathum United",
-    "בנגקוק יונייטד": "Bangkok United",
-    "ראיונג": "Rayong",
-    "צ'יאנגראי יונייטד": "Chiangrai United",
-    "רצ'אבורי": "Ratchaburi",
-    "נקהון רצ'סימה": "Nakhon Ratchasima",
-    "סנטוס לאגונה": "Santos Laguna",
-    "קלאב לאון": "Club León",
-    "פאצ'וקה": "Pachuca",
-    "אינדפנדיינטה סנטה פה": "Independiente Santa Fe",
-    "נאסיונל מדיין": "Atletico Nacional Medellín",
-    "בויאקה צ'יקו": "Boyacá Chicó",
-    "דפורטיבו פסטו": "Deportivo Pasto",
-    "אינדפנדיינטה מדיין": "Independiente Medellín",
-    "דפורטיבו קאלי": "Deportivo Cali",
-    "אתלטיקו בוקרמנגה": "Bucaramanga",
-    "סאורה": "Saoura",
-    "פטרולול פלוישטי": "Petrolul 52",
-    "קלאב ספורט אוניברסיטטה קראיובה": "Universitatea Craiova",
-    "אייאקס מילואים": "Jong Ajax",
-    "רודה": "Roda",
-    "אוטרכט מילואים": "Jong Utrecht",
-    "פ.ס.וו איינדהובן מילואים": "Jong PSV Eindhoven",
-    "פ.צ. קופנהגן": "P.C. Copenhagen",
-    "אולימפיאקוס": "Olympiacos",
-    "פנאיתוליקוס": "Panetolikos",
-    "לבאדיאקוס": "Levadiakos",
-    "וולוס": "Volos",
-    "אטרומיטוס": "Atromitos Athinon",
-    "סטלנבוש": "Stellenbosch",
-    "פלומיננזה": "Fluminense",
-    "אורביט קולג'": "Orbit College",
-    "קייזר צ'יפס": "Kaizer Chiefs",
-    "למונטוויל גולדן ארוס": "Golden Arrows",
-    "צ'ונבורי": "Chonburi",
-    "למפון ווריורס": "Lamphun Warrior",
-    "איותאיה יונייטד": "Ayutthaya United",
-    "יות'אי ת'אני": "Uthai Thani",
-    "סוחותאי": "Sukhothai",
-    "מזטלאן": "Mazatlan",
-    "מונטריי": "Monterrey",
-    "קלאב אולימפיה": "Club Olimpia",
-    "הרבור וויו": "Harbour View",
-    "אליאנזה ולדופאר": "Alianza Valledupar",
-    "דפורטיבו פריירה": "Deportivo Pereira",
-    "פרויסן מונסטר": "Preußen Münster",
-    "אתלטיק בילבאו ב'": "Athletic Bilbao B",
-    "ריאל אבילס": "Real Avilés",
-    "ויאריאל ב'": "Villarreal B",
-    "קרטחנה": "Cartagena",
-    "זולה": "PEC Zwolle",
-    "פ.ס.וו מילואים": "Jong PSV Eindhoven",
-    "צ'יקסרדה": "Csikszereda",
-    "פ.ס.וו איינדהובן": "PSV",
-    "סקוקון יונייטד": "Sekhukhune United",
-    "ראנדרס": "Randers",
-    "פרדריקיה": "Fredericia",
-    "סילקבורג": "Silkeborg",
-    "מידטיילנד": "Midtjylland",
-    "ברונדבי": "Brøndby",
-    "ארהוס": "Aarhus",
-    "ויבורג": "Viborg",
-    "נורדסלנד": "Nordsjælland",
-    "אודנסה": "Odense",
-    "פוגון זידליצ'ה": "Pogoń Siedlce",
-    "גורניק לצ'נה": "Gornik Leczna",
-    "ויצ'יסטה קרקוב": "Wieczysta Kraków",
-    "פולוניה ורשה": "Polonia Warszawa",
-    "סטאל רזשזוב": "Stal Rzeszów",
-    "רוצ' חורזו": "Ruch Chorzów",
-    "אל.אנ.זי צ'רקסי": "LNZ Cherkasy",
-    "אולכסנדרייה": "Oleksandriya",
-    "דינמו קייב": "Dynamo Kyiv",
-    "קריבס קריבי": "Kryvbas Kriviy Rih",
-    "אובולון קייב": "Obolon Kyiv",
-    "קודריבקה": "FK Kudrivka",
-    "קרפטי לבוב": "Karpaty Lviv",
-    "שחטאר דונייצק": "Shakhtar Donetsk",
-    "ורס ריבנה": "Veres Rivne",
-    "בראבו לובליאנה": "Bravo Ljubljana",
-    "מורה 05": "NS Mura",
-    "אולימפיה לובליאנה": "Olimpija Ljubljana",
-    "מאריבור": "Maribor",
-    "רדומלייה": "Radomlje",
-    "סט. פולטן": "St. Pölten",
-    "אמסטטן": "Amstetten",
-    "ליפרינג": "Liefering",
-    "פירסט וינה": "First Vienna",
-    "יאנג ויולטס וינה": "Young Violets Wien U23",
-    "רפיד וינה חובבים": "Rapid Wien II",
-    "הרטה וולס": "Hertha Wels",
-    "אוסטריה קלגנפורט": "Austria Klagenfurt",
-    "קאפפנברגר": "Kapfenberger SV",
-    "שטורם גראץ חובבים": "Sturm Graz II",
-    "הופנהיים חובבים": "Hoffenheim II",
-    "מינכן 1860": "1860 Munich",
-    "דיושגורי": "Diósgyöri",
-    "מ.ט.ק. בודפשט": "MTK Budapest",
-    "קזינסברציקי": "Kazincbarcikai",
-    "אקדמיית פושקש": "Puskás Akadémia FC",
-    "קיסברדה": "Kisvárda FC",
-    "פאקשי": "Paksi",
-    "זלצבורג": "RB Salzburg",
-    "הארטברג": "Hartberg",
-    "וולפסברגר": "Wolfsberger AC",
-    "שטורם גראץ": "Sturm Graz",
-    "אוסטריה וינה": "Austria Wien",
-    "בלאו וויס לינץ": "Blau-Weiß Linz",
-    "אלטאך": "Altach",
-    "ראפיד וינה": "Rapid Wien",
-    "גרייזר": "Grazer AK",
-    "ריד": "Ried",
-    "ארקה גדיניה": "Arka Gdynia",
-    "לכיה גדנסק": "Lechia Gdansk",
-    "ראדום": "Radomiak Radom",
-    "מוטור לובלין": "Motor Lublin",
-    "קורונה קיילצה": "Korona Kielce",
-    "שצ'צ'ין": "OKS Swit Szczecin",
-    "וידז'ב לודז'": "Widzew Lodz",
-    "ז'גלבי לובין": "Zagłębie Lubin",
-    "ויסלה פלוצק": "Wisła Płock",
-    "קרקוביה קרקוב": "Cracovia Krakow",
-    "קאטוביץ'": "Katowice",
-    "לגיה ורשה": "Legia Warszawa",
-    "איסטרה": "Istra 1961",
-    "דינמו זגרב": "Dinamo Zagreb",
-    "גוריצה": "HNK Gorica",
-    "רייקה": "Rijeka",
-    "לוקומוטיבה זאגרב": "Lokomotiva Zagreb",
-    "אוסייק": "Osijek",
-    "ורזדין": "NK Varaždin",
-    "היידוק ספליט": "Hajduk Split",
-    "רדניצקי ניס": "Radnički Niš",
-    "איי.אם.טי נובי בלגרד": "IMT Novi Beograd",
-    "ראדניק סורדוליצה": "Radnik Surdulica",
-    "ספרטק סובוטיצה": "Spartak Subotica",
-    "פרטיזן בלגרד": "Partizan Belgrade",
-    "או.אפ.קיי בלגרד": "OFK Belgrade",
-    "רדניצקי 1923": "Radnicki 1923",
-    "זלזניצ'ר פנצ'בו": "Železničar Pančevo",
-    "דורדרכט": "Dordrecht",
-    "מאסטריכט": "Maastricht",
-    "דה גראפשחאפ": "De Graafschap",
-    "פאטרו אייסדן": "Patro Eisden",
-    "קורטריק": "Kortrijk",
-    "ר.פ.ס. ליאז'": "RFC Liège",
-    "ליסן ברנו": "Líšeň Brno",
-    "טנריפה": "Tenerife",
-    "מאגסי": "Magesi",
-    "אמאזולו": "AmaZulu",
-    "בוטב וראטסה": "Botev Vratsa",
-    "סלביה סופיה": "Slavia Sofia",
-    "צסק\"א 1948 סופיה": "CSKA 1948",
-    "מונטנה": "Montana",
-    "בוטב פלובדיב": "Botev Plovdiv",
-    "צ'רנו מורה וארנה": "Cherno More",
-    "ספטמברי סופיה": "Septemvri Sofia",
-    "צסק\"א סופיה": "CSKA Sofia",
-    "לודוגורץ": "Ludogorets",
-    "לוקומוטיב פלובדיב": "Lokomotiv Plovdiv",
-    "לבסקי סופיה": "Levski Sofia",
-    "לוקומוטיב סופיה": "Lokomotiv Sofia",
-    "ארדה קרדז'לי": "Arda Kardzhali",
-    "ספרטק וארנה": "Spartak Varna",
-    "וילפרנש": "Villefranche",
-    "סיגמה אולומוץ": "Sigma Olomouc",
-    "ספרטה פראג": "Sparta Prague",
-    "סלובן ברטיסלבה": "Slovan Bratislava",
-    "ספרטק טרנאבה": "Spartak Trnava",
-    "סקליצ'ה": "Skalica",
-    "קוסיצ'ה": "FK Košice",
-    "ז'ילינה": "MSK Zilina",
-    "אסטרס טריפוליס": "Asteras Tripolis",
-    "פנסראיקוס": "Panserraikos",
-    "מריטימו": "Marítimo",
-    "ניו יורק רד בולס": "New York Red Bulls",
-    "ניו אינגלנד": "New England Revolution",
-    "די.סי. יונייטד": "DC United",
-    "מינסוטה יונייטד": "Minnesota United",
-    "סינסינטי": "FC Cincinnati",
-    "נאשוויל": "Nashville SC",
-    "קולורדו": "Colorado Rapids",
-    "פורטלנד": "Portland Timbers",
-    "מונטריאול": "Montreal",
-    "סן חוזה ארת'קווייק": "San Jose Earthquakes",
-    "אטלנטה יונייטד": "Atlanta United",
-    "קנזס סיטי": "Sporting Kansas City",
-    "קולומבוס": "Columbus Crew",
-    "טורונטו": "Toronto FC",
-    "יוסטון": "Houston Dynamo",
-    "פילדלפיה": "Philadelphia Union",
-    "ניו יורק סיטי": "New York City",
-    "סן דייגו אף.סי": "San Diego FC",
-    "לוס אנג'לס גלקסי": "Los Angeles Galaxy",
-    "שארלוט": "Charlotte FC",
-    "ריאל סולט לייק": "Real Salt Lake",
-    "סיאטל": "Seattle Sounders",
-    "אורלנדו סיטי": "Orlando City",
-    "אינטר מיאמי": "Miami FC",
-    "ואדוז": "Vaduz",
-    "סטאד ניון": "Stade Nyonnais",
-    "נוישאטל קסאמקס": "Neuchâtel Xamax",
-    "וויל": "Wil",
-    "בלינזונה": "Bellinzona",
-    "איברדון ספורט": "Yverdon Sport",
-    "קנצ'נבורי": "DP Kanchanaburi",
-    "מואנג טונג יונייטד": "Muangthong United",
-    "סנטוס": "Santos",
-    "ואסקו דה גמא": "Vasco da Gama",
-    "פלמנגו": "Flamengo",
-    "פלטנסה": "Platansa",
-    "רוביו נו": "Rubio Nu",
-    "נאסיונל אסונסיון": "Nacional Asuncion",
-    "סן מרקוס": "San Marcos de Arica",
-    "סן לואיס דה קילוטה": "San Luis de Quillota",
-    "סארמיינטו": "Sarmiento",
-    "אוניון סנטה פה": "Union Santa Fe",
-    "בוקה ג'וניורס": "Boca Juniors",
-    "אסטודיאנטס ריו קווארטו": "Estudiantes Rio Cuarto",
-    "הוראקן": "CA Huracan",
-    "ראסינג קלאב": "Racing Club de Ferrol",
-    "ריבר פלייט": "River Plate",
-    "באנפילד": "Banfield",
-    "ניואלס אולד בויס": "Newell's Old Boys",
-    "רוסאריו סנטרל": "Rosario Central",
-    "אסטודיאנטס לה פלטה": "Estudiantes LP",
-    "ולז סארספילד": "Velez Sarsfield",
-    "פלאטנסה": "CA Platense",
-    "דיפנסה אי חוסטיסיה": "Defensa y Justicia",
-    "גימנסיה מנדוזה": "Gimnasia Mendoza",
-    "אינדפנדיינטה": "Independiente",
-    "סנטרל קורדובה": "Central Cordoba SE",
-    "טאז'ראס דה קורדובה": "Talleres Cordoba",
-    "סן לורנצו": "San Lorenzo",
-    "אינסטיטוטו קורדובה": "Instituto Cordoba",
-    "טיגרה": "CA Tigre",
-    "ארגנטינוס ג'וניורס": "Argentinos Juniors",
-    "באראקס סנטרל": "Barracas Central",
-    "אלדוסיבי": "Aldosivi",
-    "אתלטיקו טוקומן": "Atletico Tucuman",
-    "בלגראנו": "CA Belgrano",
-    "בראן": "Brann",
-    "מנטה": "Manta",
-    "אינדפנדיינטה דל ואלה": "Independiente del Valle",
-    "ג'משדפור": "Jamshedpur",
-    "דפורטיבו טאצ'ירה": "Deportivo Tachira",
-    "אליאנסה אתלטיקו": "Alianza Atlético",
-    "מלגאר": "Melgar",
-    "לוס צ'נקאס": "Los Chankas",
-    "דפורטיבו גרסילסו": "Deportivo Garcilaso",
-    "סיאנסיאנו": "Cienciano",
-    "ז'לגיריס וילנה": "Žalgiris",
-    "בלומינג סנטה קרוז": "Santa Cruz",
-    "סן אנטוניו בולו בולו": "San Antonio",
-    "ספורטיבו טרינידנסה": "Sportivo Trinidense",
-    "ליברטאד לוחה": "Libertad Loja",
-    "מטרופוליטנוס": "Metropolitanos",
-    "דואיסבורג": "MSV Duisburg",
-    "זארבריקן": "1. FC Saarbrücken",
-    "ווהן ויסבאדן": "Wehen Wiesbaden",
-    "שטוטגרט חובבים": "Stuttgart II",
-    "הבלסה": "Havelse",
-    "האנזה רוסטוק": "Hansa Rostock",
-    "שוויינפורט 05": "1. FC Schweinfurt 05",
-    "רוט אסן": "Rot-Weiß Essen",
-    "וולדורף מנהיים 07": "Waldhof Mannheim",
-    "ארזגבירגה אוהה": "Erzgebirge Aue",
-    "באניק אוסטרבה ב'": "FC Banik Ostrava B",
-    "אינטרנסיונל בוגוטה": "Internacional de Bogota",
-    "ספורטיבו לוקואנו": "Sportivo Luqueño",
-    "ליברטד אסונסיון": "Libertad Asuncion",
-    "פוארטו מונט": "Puerto Montt",
-    "מומבאי סיטי": "Mumbai City",
-    "מצ'ידה זלביה": "Machida Zelvia",
-    "ויסל קובה": "Vissel Kobe",
-    "סנפרצה הירושימה": "Sanfrecce Hiroshima",
-    "אלומיני": "Aluminij",
-    "אוסטריה זלצבורג": "Austria Salzburg",
-    "קרבובו": "Carabobo",
-    "ספורטינג קריסטל": "Sporting Cristal",
-    "אמריקה דה קאלי": "America de Cali",
-    "מקרה": "Macará",
-    "אליאנצה": "Alianza",
-    "סאן פרנסיסקו אף.סי": "Fuerte San Francisco",
-    "אוסנאברוק": "Osnabrück",
-    "ויקטוריה קלן": "Viktoria Köln",
-    "לוסטנאו": "Austria Lustenau",
-    "קארוג'": "Etoile Carouge",
-    "חרוברי גלוגוף": "Chrobry Głogów",
-    "רויאל אולימפיק שרלרואה": "Olympic Charleroi",
-    "פריברם": "FK Pribram",
-    "גוואדלחרה": "Guadalajara",
-    "קרוזיירו": "Cruzeiro",
-    "אתלטיקו מיניירו": "Atlético Mineiro",
-    "ויטוריה באהיה": "Vitória",
-    "פארננסה": "Athletico Paranaense PR",
-    "פלמייראס": "Palmeiras",
-    "קוריטיבה": "Coritiba PR",
-    "סטארט": "Start",
-    "טרומסו": "Tromsø",
-    "פרדריקסטאד": "Fredrikstad",
-    "סנדפיורד": "Sandefjord",
-    "מולדה": "Molde",
-    "רוזנבורג": "Rosenborg",
-    "וורצברגר קיקרס": "Würzburger Kickers",
-    "האנקופן האלינג": "Hankofen-Hailing",
-    "אייכשטט": "Eichstätt",
-    "ממינגן": "Memmingen",
-    "אובשטדט": "Aubstadt",
-    "סרו פורטנו": "Cerro Porteño",
-    "טרנסינווסט": "TransINVEST",
-    "הגלמאן": "Hegelmann",
-    "ז'לגיריס קובנה": "Kauno Zalgiris",
-    "סודובה": "Sūduva",
-    "ביירן מינכן חובבים": "Bayern Munich II",
-    "אוגסבורג חובבים": "Schwaben Augsburg",
-    "גמבה אוסאקה": "Gamba Osaka",
-    "לוקנוולדה": "Luckenwalde",
-    "מגדבורג ב'": "1. FC Magdeburg II",
-    "גריפסוולדר": "Greifswalder",
-    "מרבלה": "Marbella FC",
-    "קוסקו": "Cusco",
-    "אתלטיקו גראו": "Atlético Grau",
-    "קג'מרקה": "Cajamarca",
-    "קומרסיאנטס יונידוס": "Comerciantes Unidos",
-    "דפורטיבו טולוקה": "Deportivo Toluca",
-    "קרוז אזול": "Cruz Azul",
-    "פונטה פרטה": "Ponte Preta SP",
-    "אנדיון": "Andijan",
-    "צ'נמרי": "Chanmari",
-    "דינמו סמרקנד": "Dinamo Samarkand",
-    "אורלנדו פייראטס": "Orlando Pirates",
-    "בירמינגהם לגיון": "Birmingham Legion",
-    "הארטפורד": "Hartford Athletic",
-    "בושורו": "Buxoro",
-    "פוגון גרודזיסק מזובייצ'קי": "Pogon Grodzisk Mazowiecki",
-    "ויקטוריה ז'יז'קוב": "Viktoria Žižkov",
-    "ספרטה פראג ב'": "Sparta Prague B",
-    "סלביה פראג ב'": "SK Slavia Prague B",
-    "סטאד לוזאן": "Stade Lausanne Ouchy",
-    "טכניקו יוניברסיטריו": "Técnico Universitario",
-    "מוהון בגאן": "Mohun Bagan Athletic",
-    "ארנטיירו": "CD Arenteiro",
-    "סארפסבורג": "Sarpsborg 08",
-    "ווסט צ'סטר יונייטד": "Westchester",
-    "לאודון יונייטד": "Loudoun United",
-    "אינדי אילבן": "Indy Eleven",
-    "פיניקס": "Phoenix Rising",
-    "איילנבורג": "Eilenburg",
-    "ריאל מדריד עד 19": "Real Madrid u19",
-    "דרוכטרסן/אסל": "Drochtersen/Assel",
-    "בלאו ווייס לונה": "Blau-Weiß Lohne",
-    "ברינה": "Bryne",
-    "פורטלזה": "Fortaleza",
-    "צ'יפה יונייטד": "Chippa United",
-    "פואבלה": "Club Puebla",
-    "סרינידי דקאן": "Sreenidi Deccan",
-    "שילונג": "Shillong Lajong",
-    "המבורג חובבים": "Hamburger II",
-    "אלטונר 1893": "Altona 93",
-    "צרזו אוסאקה": "Cerezo Osaka",
-    "פגיאנו אוקאימה": "Fagiano Okayama",
-    "נאגויה גרמפוס": "Nagoya Grampus",
-    "נגאסקי": "V Varen Nagasaki",
-    "קיוטו סנגה": "Kyoto Sanga",
-    "אביספה פוקוקה": "Avispa Fukuoka",
-    "שימיזו": "Shimizu S-Pulse",
-    "טוקיו ורדי": "Tokyo Verdy",
-    "קווסאקי פרונטלה": "Kawasaki Frontale",
-    "ג'ף יונייטד": "JEF United Chiba",
-    "פ.צ. טוקיו": "FC Tokyo",
-    "מיטו הוליהוק": "Mito Hollyhock",
-    "יוקוהמה מרינוס": "Yokohama Marinos",
-    "אוראווה רד דיאמונדס": "Urawa Red Diamonds",
-    "קשיווה רייסול": "Kashiwa Reysol",
-    "קשימה אנטלרס": "Kashima Antlers",
-    "זמורה": "Zamora",
-    "אשוויל סיטי": "Asheville City",
-    "מוטאון": "Motown",
-    "אורנג' קאונטי": "Orange County",
-    "לגונה יונייטד": "Laguna United",
-    "ליטל רוק": "Little Rock Rangers",
-    "סקרמנטו": "Sacramento Republic",
-    "חמי לייפציג": "Chemie Leipzig",
-    "פראוסן ברלין": "Preussen Berlin",
-    "אולנצ'ו": "Olancho",
-    "אטלנטה": "Atlante",
-    "ז'אקויפנסה": "Jacuipense BA",
-    "גרמיו נובוריזונטינו": "Novorizontino SP",
-    "וילה נובה": "Vila Nova GO",
-    "קונפיאנסה": "Confiança SE",
-    "איי.בי.סי": "ABC RN",
-    "מוניציפל לימנו": "Municipal Limeño",
-    "ינטרה גברובו": "Yantra Gabrovo",
-    "ראיו זוליאנו": "Rayo Zuliano",
-    "אסטודיאנטס דה מרידה": "Estudiantes de Merida",
-    "גוויאקיל סיטי": "Guayaquil City",
-    "ז'גלבי סוסנביץ": "Zaglebie Sosnowiec",
-    "אינטר פורמנדו": "Inter Formando UN Atleta",
-    "אגילה": "Águila",
-    "איסידרו מטאפן": "Isidro Metapán",
-    "ברצלונה ספורטינג קלאב": "Barcelona de Guayaquil",
-    "אנדרלכט ב'": "Anderlecht Futures U23",
-    "לוצרן ב'": "Luzern II",
-    "ורטה פוזנן": "Warta Poznań",
-    "אלסונדס": "Aalesund",
-    "אלטליניקה": "Altglienicke",
-    "בורג א ברס": "Bourg-en-Bresse",
-    "קוריסו אונידו": "Curicó Unido",
-    "בראונשווייג": "Eintracht Braunschweig",
-    "אתניקוס": "Ethnikos Achnas",
-    "פיגוורנסה": "Figueirense SC",
-    "פודברזובה": "FK Zeleziarne Podbrezova",
-    "גנק ב'": "Genk U23",
-    "גנט מילואים": "Gent U23",
-    "גימנסיה לה פלטה": "Gimnasia LP",
-    "הירנביין": "Heerenveen",
-    "חובנטוד טורמולינוס": "Juventud Torremolinos",
-    "קולוס קובליבקה": "Kolos Kovalivka",
-    "לוקרן טמסה": "Lokeren Temse",
-    "מיידז לזניקה": "Miedź Legnica",
-    "מילונאריוס": "Millonarios",
-    "מלאדוסט": "Mladost Lučani",
-    "מונגס": "Monagas",
-    "נאשיונל בנק": "National Bank of Egypt",
-    "נייפולומיצה": "Niepolomice",
-    "פולסיה זיטומיר": "Polissya Zhytomyr",
-    "פונטוורדה": "Pontevedra CF",
-    "רקוב צ'סטחובה": "Rakow Częstochowa",
-    "ראפרסוויל יונה": "Rapperswil-Jona",
-    "רקולטה": "Recoleta",
-    "סיוולהלה": "Siwelele",
-    "סלאבן": "Slaven Belupo",
-    "סונדריסקה": "SønderjyskE",
-    "טרמליקה": "Termalica Nieciecza",
-    "מוקגואה": "UCV Moquegua",
-    "אונטרהאכינג": "Unterhaching",
-    "ווקובאר": "Vukovar 1991",
-    "ויסוצ'ינה יהלבה": "Vysočina Jihlava",
-    "זניץ' פרושקוב": "Znicz Pruszków",
-    "שיאולאי": "Šiauliai",
-    "קווילי רואן": "Quevilly",
-    "גליביצ'ה": "Piast Gliwice",
-    "פרימורייה": "Primorje Ajdovscina",
-    "גאיוס קוורטאריו": "Querétaro",
-    "מויסביץ": "Meuselwitz",
-    "סט. לואיס סיטי": "Saint Louis City",
-    "ואלנסיין": "Valenciennes",
-    "ז'לגרשגי": "Zalaegerszeg",
-    "ביאליסטוק": "Jagiellonia Bialystok",
-    "דובריש": "Dobrudzha 1919",
-    "2 במאי": "2 De Mayo",
-    "אוניברסידד קג'מרקה": "Cajamarca",
-    "אוניון סן פליפה": "Unión San Felipe",
-    "אי.טי.או גיור": "ETO Győr",
-    "אינדפנדיינטה ריברדביה": "Independiente Rivadavia",
-    "אקדמיה אנזואטגי": "Academia Anzoátegui",
-    "בצקה טופולה": "Bačka Topola",
-    "גורניק": "Górnik Zabrze",
-    "גרמיו": "Grêmio",
-    "דברצני": "Debreceni VSC",
-    "ולרנגה": "Vålerenga",
-    "זאגורה": "Beroe",
-    "טולימה": "Deportes Tolima",
-    "לאסק לינץ": "LASK",
-    "מיראסול": "Mirassol",
-    "ספורטיבו אמליאנו": "Sportivo Ameliano",
-    "ספורטיבו סן לורנצו": "San Lorenzo",
-    "פוארטו קבייו": "Academia Puerto Cabello",
-    "פרטריה וארנה": "Fratria",
-    "פרנצוורוש": "Ferencváros",
-    "צלייה": "NK Celje",
-    "קומרנו": "Komárno",
-    "קלוב לאונס דל נורטה": "Leones del Norte",
-    "קפום אוסלו": "KFUM",
-    "לך פוזנן": "Lech Poznań",
-    "פ.צ. סודטירול": "Südtirol",
-    "פורטו": "Porto",
-    "פורטוגזה": "Portuguesa",
-    "צ'וקריצ'קי בלגרד": "Čukarički",
-    "קראקאס": "Caracas",
-    "דפורטס טמוקו": "Temuco",
-    "ארנט גרדנס": "Arnett Gardens",
-    "אוניברסידד קטוליקה דל אקוואדור": "Universidad Católica del Ecuador",
-    "לונדרינה": "Londrina PR",
-    "מונטגו ביי יונייטד": "Montego Bay United",
-    "ראסינג דה פרול": "Racing Club de Ferrol",
-    "ריאל מורסיה": "Real Murcia CF",
-    "קסרנו סאד": "CP Cacereño SAD",
-    "אוסאסונה ב'": "Osasuna B",
-    "מניימה יוניון": "Maniema Union",
-    "טרוחילאנוס": "Trujillanos",
-    "אולדהאם": "Oldham Athletic",
-    "ווילם": "Willem II"
+    "בירמינגהאם": {
+        "english": "Birmingham City",
+        "league": ""
+    },
+    "דרבי קאונטי": {
+        "english": "Derby County",
+        "league": ""
+    },
+    "מילוול": {
+        "english": "Millwall",
+        "league": ""
+    },
+    "איפסוויץ'": {
+        "english": "Ipswich Town",
+        "league": ""
+    },
+    "קובנטרי": {
+        "english": "Coventry City",
+        "league": ""
+    },
+    "סוונסי": {
+        "english": "Swansea City",
+        "league": ""
+    },
+    "לסטר": {
+        "english": "Leicester City",
+        "league": ""
+    },
+    "ווטפורד": {
+        "english": "Watford",
+        "league": ""
+    },
+    "מידלסברו": {
+        "english": "Middlesbrough",
+        "league": ""
+    },
+    "בלקבורן": {
+        "english": "Blackburn Rovers",
+        "league": ""
+    },
+    "אוקספורד יונייטד": {
+        "english": "Oxford United",
+        "league": ""
+    },
+    "סאות'המפטון": {
+        "english": "Southampton",
+        "league": ""
+    },
+    "נוריץ'": {
+        "english": "Norwich City",
+        "league": ""
+    },
+    "צ'רלטון": {
+        "english": "Charlton Athletic",
+        "league": ""
+    },
+    "שפילד וונסדיי": {
+        "english": "Sheffield Wednesday",
+        "league": ""
+    },
+    "האל": {
+        "english": "Hull City",
+        "league": ""
+    },
+    "סטוק": {
+        "english": "Stoke City",
+        "league": ""
+    },
+    "פרסטון": {
+        "english": "Preston North End",
+        "league": ""
+    },
+    "פורטסמות'": {
+        "english": "Portsmouth",
+        "league": ""
+    },
+    "קווינס פארק ריינג'רס": {
+        "english": "Queens Park Rangers",
+        "league": ""
+    },
+    "ווסט ברומיץ'": {
+        "english": "West Bromwich",
+        "league": ""
+    },
+    "בריסטול סיטי": {
+        "english": "Bristol City",
+        "league": ""
+    },
+    "רקסהאם": {
+        "english": "Wrexham",
+        "league": ""
+    },
+    "שפילד יונייטד": {
+        "english": "Sheffield United",
+        "league": ""
+    },
+    "ארסנל": {
+        "english": "Arsenal",
+        "league": ""
+    },
+    "ברייטון": {
+        "english": "Brighton",
+        "league": ""
+    },
+    "ברנטפורד": {
+        "english": "Brentford",
+        "league": ""
+    },
+    "בורנמות'": {
+        "english": "Bournemouth",
+        "league": ""
+    },
+    "מנצ'סטר יונייטד": {
+        "english": "Manchester United",
+        "league": ""
+    },
+    "ניוקאסל": {
+        "english": "Newcastle United",
+        "league": ""
+    },
+    "ברנלי": {
+        "english": "Burnley",
+        "league": ""
+    },
+    "אברטון": {
+        "english": "Everton",
+        "league": ""
+    },
+    "נוטינגהאם פורסט": {
+        "english": "Nottingham Forest",
+        "league": ""
+    },
+    "מנצ'סטר סיטי": {
+        "english": "Manchester City",
+        "league": ""
+    },
+    "סנדרלנד": {
+        "english": "Sunderland",
+        "league": ""
+    },
+    "לידס": {
+        "english": "Leeds United",
+        "league": ""
+    },
+    "צ'לסי": {
+        "english": "Chelsea",
+        "league": ""
+    },
+    "אסטון וילה": {
+        "english": "Aston Villa",
+        "league": ""
+    },
+    "קריסטל פאלאס": {
+        "english": "Crystal Palace",
+        "league": ""
+    },
+    "טוטנהאם": {
+        "english": "Tottenham",
+        "league": ""
+    },
+    "ליברפול": {
+        "english": "Liverpool",
+        "league": ""
+    },
+    "וולבס": {
+        "english": "Wolves",
+        "league": ""
+    },
+    "ווסטהאם": {
+        "english": "West Ham",
+        "league": ""
+    },
+    "פולהאם": {
+        "english": "Fulham",
+        "league": ""
+    },
+    "קאסה פיה ליסבון": {
+        "english": "Casa Pia",
+        "league": ""
+    },
+    "ויטוריה גימראייש": {
+        "english": "Vitoria Guimarães",
+        "league": ""
+    },
+    "ארוקה": {
+        "english": "Arouca",
+        "league": ""
+    },
+    "ז'יל ויסנטה": {
+        "english": "Gil Vicente",
+        "league": ""
+    },
+    "איי.וי.אס": {
+        "english": "AVS Futebol",
+        "league": ""
+    },
+    "פמליקאו": {
+        "english": "Famalicão",
+        "league": ""
+    },
+    "אסטרלה אמדורה": {
+        "english": "Estrela",
+        "league": ""
+    },
+    "אשטוריל": {
+        "english": "Estoril",
+        "league": ""
+    },
+    "אלברקה": {
+        "english": "Alverca",
+        "league": ""
+    },
+    "ספורטינג ליסבון": {
+        "english": "Sporting CP",
+        "league": ""
+    },
+    "ריו אווה": {
+        "english": "Rio Ave",
+        "league": ""
+    },
+    "בראגה": {
+        "english": "Braga",
+        "league": ""
+    },
+    "בנפיקה ליסבון": {
+        "english": "Benfica",
+        "league": ""
+    },
+    "בארי טאון": {
+        "english": "Barry Town United",
+        "league": ""
+    },
+    "קרדיף מטרופוליטן": {
+        "english": "Cardiff Met FC",
+        "league": ""
+    },
+    "אקרינגטון סטנלי": {
+        "english": "Accrington Stanley",
+        "league": ""
+    },
+    "בארו": {
+        "english": "Barrow",
+        "league": ""
+    },
+    "קרואלי טאון": {
+        "english": "Crawley Town",
+        "league": ""
+    },
+    "קולצ'סטר": {
+        "english": "Colchester United",
+        "league": ""
+    },
+    "בריסטול רוברס": {
+        "english": "Bristol Rovers",
+        "league": ""
+    },
+    "ברומלי": {
+        "english": "Bromley",
+        "league": ""
+    },
+    "ג'ילינגהאם": {
+        "english": "Gillingham",
+        "league": ""
+    },
+    "קיימברידג' יונייטד": {
+        "english": "Cambridge United",
+        "league": ""
+    },
+    "טראנמיר רוברס": {
+        "english": "Tranmere Rovers",
+        "league": ""
+    },
+    "פליטווד טאון": {
+        "english": "Fleetwood Town",
+        "league": ""
+    },
+    "ניופורט קאונטי": {
+        "english": "Newport County",
+        "league": ""
+    },
+    "בארנט": {
+        "english": "Barnet",
+        "league": ""
+    },
+    "סלפורד סיטי": {
+        "english": "Salford City",
+        "league": ""
+    },
+    "הרוגייט טאון": {
+        "english": "Harrogate Town",
+        "league": ""
+    },
+    "צ'סטרפילד": {
+        "english": "Chesterfield",
+        "league": ""
+    },
+    "נוטס קאונטי": {
+        "english": "Notts County",
+        "league": ""
+    },
+    "שרוסברי": {
+        "english": "Shrewsbury Town",
+        "league": ""
+    },
+    "וולסול": {
+        "english": "Walsall",
+        "league": ""
+    },
+    "קרו אלכסנדרה": {
+        "english": "Crewe Alexandra",
+        "league": ""
+    },
+    "מכלן": {
+        "english": "KV Mechelen",
+        "league": ""
+    },
+    "דנדר": {
+        "english": "Dender EH",
+        "league": ""
+    },
+    "גנק": {
+        "english": "Genk",
+        "league": ""
+    },
+    "קלאב ברוז'": {
+        "english": "Club Brugge",
+        "league": ""
+    },
+    "ראל לה לובייר": {
+        "english": "RAAL La Louvière",
+        "league": ""
+    },
+    "לובן": {
+        "english": "Leuven",
+        "league": ""
+    },
+    "אנטוורפן": {
+        "english": "Antwerp",
+        "league": ""
+    },
+    "זולטה וארגם": {
+        "english": "Zulte Waregem",
+        "league": ""
+    },
+    "סטאנדרד ליאז'": {
+        "english": "Standard de Liège",
+        "league": ""
+    },
+    "סט טרוידן": {
+        "english": "St. Truidense",
+        "league": ""
+    },
+    "גנט": {
+        "english": "Gent",
+        "league": ""
+    },
+    "ווסטרלו": {
+        "english": "Westerlo",
+        "league": ""
+    },
+    "אנדרלכט": {
+        "english": "Anderlecht",
+        "league": ""
+    },
+    "שרלרואה": {
+        "english": "Royal Charleroi",
+        "league": ""
+    },
+    "סרקל ברוז'": {
+        "english": "Cercle Brugge",
+        "league": ""
+    },
+    "סן ז'ילואז": {
+        "english": "Union St. Gilloise",
+        "league": ""
+    },
+    "פאלרמו": {
+        "english": "Palermo",
+        "league": ""
+    },
+    "פאדובה": {
+        "english": "Padova",
+        "league": ""
+    },
+    "קטנזארו 1929": {
+        "english": "Catanzaro",
+        "league": ""
+    },
+    "צ'זנה": {
+        "english": "Cesena",
+        "league": ""
+    },
+    "מודנה": {
+        "english": "Modena",
+        "league": ""
+    },
+    "מונזה": {
+        "english": "Monza",
+        "league": ""
+    },
+    "בארי": {
+        "english": "Bari",
+        "league": ""
+    },
+    "א.ס. אבלינו": {
+        "english": "Avellino",
+        "league": ""
+    },
+    "אמפולי": {
+        "english": "Empoli",
+        "league": ""
+    },
+    "פרוסינונה": {
+        "english": "Frosinone",
+        "league": ""
+    },
+    "יובה סטאביה": {
+        "english": "Juve Stabia",
+        "league": ""
+    },
+    "קאררסה 1908": {
+        "english": "Carrarese",
+        "league": ""
+    },
+    "מנטובה 1911": {
+        "english": "Mantova",
+        "league": ""
+    },
+    "סמפדוריה": {
+        "english": "Sampdoria",
+        "league": ""
+    },
+    "רג'יאנה": {
+        "english": "Reggiana",
+        "league": ""
+    },
+    "ספציה": {
+        "english": "Spezia",
+        "league": ""
+    },
+    "פסקארה": {
+        "english": "Pescara",
+        "league": ""
+    },
+    "ונציה": {
+        "english": "Venezia",
+        "league": ""
+    },
+    "וירטוס אנטלה": {
+        "english": "Virtus Entella",
+        "league": ""
+    },
+    "אקדמיקה ויסו": {
+        "english": "Académico Viseu",
+        "league": ""
+    },
+    "בנפיקה ליסבון ב'": {
+        "english": "Benfica B",
+        "league": ""
+    },
+    "פאקו פריירה": {
+        "english": "Pacos Ferreira",
+        "league": ""
+    },
+    "פארנסה": {
+        "english": "Farense",
+        "league": ""
+    },
+    "רומא": {
+        "english": "Roma",
+        "league": ""
+    },
+    "גנואה": {
+        "english": "Genoa",
+        "league": ""
+    },
+    "פיזה": {
+        "english": "Pisa",
+        "league": ""
+    },
+    "יובנטוס": {
+        "english": "Juventus",
+        "league": ""
+    },
+    "מילאן": {
+        "english": "AC Milan",
+        "league": ""
+    },
+    "ורונה": {
+        "english": "Hellas Verona",
+        "league": ""
+    },
+    "לצ'ה": {
+        "english": "Lecce",
+        "league": ""
+    },
+    "קומו": {
+        "english": "Como",
+        "league": ""
+    },
+    "פארמה": {
+        "english": "Parma",
+        "league": ""
+    },
+    "פיורנטינה": {
+        "english": "Fiorentina",
+        "league": ""
+    },
+    "אטאלנטה": {
+        "english": "Atalanta",
+        "league": ""
+    },
+    "אינטר": {
+        "english": "Inter",
+        "league": ""
+    },
+    "טורינו": {
+        "english": "Torino",
+        "league": ""
+    },
+    "קליארי": {
+        "english": "Cagliari",
+        "league": ""
+    },
+    "קרמונזה": {
+        "english": "Cremonese",
+        "league": ""
+    },
+    "נאפולי": {
+        "english": "Naples",
+        "league": ""
+    },
+    "אודינזה": {
+        "english": "Udinese",
+        "league": ""
+    },
+    "לאציו": {
+        "english": "Lazio",
+        "league": ""
+    },
+    "בולוניה": {
+        "english": "Bologna",
+        "league": ""
+    },
+    "ססואולו": {
+        "english": "Sassuolo",
+        "league": ""
+    },
+    "אל איתיחד ג'דה": {
+        "english": "Al Ittihad",
+        "league": ""
+    },
+    "אל חלוד": {
+        "english": "Al Kholood",
+        "league": ""
+    },
+    "אל הילאל ריאד": {
+        "english": "Al Hilal (SAU)",
+        "league": ""
+    },
+    "אל אהלי סעודי": {
+        "english": "Al Ahli (SAU)",
+        "league": ""
+    },
+    "ניוקאסל ג'טס": {
+        "english": "Newcastle Jets",
+        "league": ""
+    },
+    "מאקארתור": {
+        "english": "Macarthur",
+        "league": ""
+    },
+    "אדלייד יונייטד": {
+        "english": "Adelaide United",
+        "league": ""
+    },
+    "ווסטרן סידני": {
+        "english": "Western Sydney Wanderers",
+        "league": ""
+    },
+    "מלבורן סיטי": {
+        "english": "Melbourne City",
+        "league": ""
+    },
+    "פרת' גלורי": {
+        "english": "Perth Glory",
+        "league": ""
+    },
+    "מלבורן ויקטורי": {
+        "english": "Melbourne Victory",
+        "league": ""
+    },
+    "וולינגטון פניקס": {
+        "english": "Wellington Phoenix",
+        "league": ""
+    },
+    "בלואיזדד": {
+        "english": "Belouizdad",
+        "league": ""
+    },
+    "סטיף": {
+        "english": "ES Sétif",
+        "league": ""
+    },
+    "היברניאן": {
+        "english": "Hibernian",
+        "league": ""
+    },
+    "הארטס": {
+        "english": "Hearts",
+        "league": ""
+    },
+    "דנדי": {
+        "english": "Dundee FC",
+        "league": ""
+    },
+    "פאלקירק": {
+        "english": "Falkirk",
+        "league": ""
+    },
+    "ליבינגסטון": {
+        "english": "Livingston",
+        "league": ""
+    },
+    "סלטיק": {
+        "english": "Celtic",
+        "league": ""
+    },
+    "גלזגו ריינג'רס": {
+        "english": "Rangers (CHL)",
+        "league": ""
+    },
+    "מאת'רוול": {
+        "english": "Motherwell",
+        "league": ""
+    },
+    "סט. מירן": {
+        "english": "St. Mirren",
+        "league": ""
+    },
+    "קילמרנוק": {
+        "english": "Kilmarnock",
+        "league": ""
+    },
+    "אברדין": {
+        "english": "Aberdeen",
+        "league": ""
+    },
+    "דנדי יונייטד": {
+        "english": "Dundee United",
+        "league": ""
+    },
+    "טורנסה": {
+        "english": "Torreense",
+        "league": ""
+    },
+    "שלף": {
+        "english": "Chlef",
+        "league": ""
+    },
+    "יו.אס.אם. אלג'יר": {
+        "english": "USM Alger",
+        "league": ""
+    },
+    "לינפילד": {
+        "english": "Linfield",
+        "league": ""
+    },
+    "גלנטורן": {
+        "english": "Glentoran",
+        "league": ""
+    },
+    "פורטדאון": {
+        "english": "Portadown",
+        "league": ""
+    },
+    "גלנבון": {
+        "english": "Glenavon",
+        "league": ""
+    },
+    "באלימנה יונייטד": {
+        "english": "Ballymena United",
+        "league": ""
+    },
+    "קולריין": {
+        "english": "Coleraine",
+        "league": ""
+    },
+    "קליפטונוויל": {
+        "english": "Cliftonville",
+        "league": ""
+    },
+    "קרוסיידרס": {
+        "english": "Crusaders",
+        "league": ""
+    },
+    "קאריק": {
+        "english": "Carrick Rangers",
+        "league": ""
+    },
+    "לארנה": {
+        "english": "Larne",
+        "league": ""
+    },
+    "דנגאנון": {
+        "english": "Dungannon Swifts",
+        "league": ""
+    },
+    "באנגור": {
+        "english": "Bangor",
+        "league": ""
+    },
+    "מודרן ספורט": {
+        "english": "Modern Sport FC",
+        "league": ""
+    },
+    "טאלה אל ג'איש": {
+        "english": "Tala'ea El Gaish",
+        "league": ""
+    },
+    "קרבה איסמעיליה": {
+        "english": "Kahrabaa Ismailia",
+        "league": ""
+    },
+    "אל וואסל": {
+        "english": "Al Wasl",
+        "league": ""
+    },
+    "אל נאסר דובאי": {
+        "english": "Al Nasr (UAE)",
+        "league": ""
+    },
+    "הרס אל חודו": {
+        "english": "Haras El Hodood",
+        "league": ""
+    },
+    "בריטון פרי": {
+        "english": "Briton Ferry Llansawel",
+        "league": ""
+    },
+    "סנטרל קואסט": {
+        "english": "Central Coast Mariners",
+        "league": ""
+    },
+    "בריסביין רוארס": {
+        "english": "Brisbane Roar",
+        "league": ""
+    },
+    "סלטה ויגו": {
+        "english": "Celta de Vigo",
+        "league": ""
+    },
+    "ולנסיה": {
+        "english": "Valencia",
+        "league": ""
+    },
+    "אלצ'ה": {
+        "english": "Elche",
+        "league": ""
+    },
+    "ויאריאל": {
+        "english": "Villarreal",
+        "league": ""
+    },
+    "אוסאסונה": {
+        "english": "Osasuna",
+        "league": ""
+    },
+    "אתלטיק בילבאו": {
+        "english": "Athletic Bilbao",
+        "league": ""
+    },
+    "אספניול": {
+        "english": "Espanyol",
+        "league": ""
+    },
+    "ברצלונה": {
+        "english": "Barcelona",
+        "league": ""
+    },
+    "ראיו וייקאנו": {
+        "english": "Rayo Vallecano",
+        "league": ""
+    },
+    "חטאפה": {
+        "english": "Getafe",
+        "league": ""
+    },
+    "ניס": {
+        "english": "Nice",
+        "league": ""
+    },
+    "שטראסבורג": {
+        "english": "Strasbourg",
+        "league": ""
+    },
+    "מונאקו": {
+        "english": "Monaco",
+        "league": ""
+    },
+    "ליון": {
+        "english": "Lyon",
+        "league": ""
+    },
+    "ליל": {
+        "english": "Lille",
+        "league": ""
+    },
+    "ראן": {
+        "english": "Stade Rennes",
+        "league": ""
+    },
+    "טולוז": {
+        "english": "Toulouse",
+        "league": ""
+    },
+    "לאנס": {
+        "english": "Lens",
+        "league": ""
+    },
+    "נאסיונל מדיירה": {
+        "english": "Nacional da Madeira",
+        "league": ""
+    },
+    "אייבר": {
+        "english": "Eibar",
+        "league": ""
+    },
+    "מיראנדס": {
+        "english": "Mirandés",
+        "league": ""
+    },
+    "האברפורדווסט": {
+        "english": "Haverfordwest County AFC",
+        "league": ""
+    },
+    "אראדיפו": {
+        "english": "Omonia Aradippou",
+        "league": ""
+    },
+    "קרסאבה ייפסונאס": {
+        "english": "Ypsonas",
+        "league": ""
+    },
+    "אוקלנד": {
+        "english": "Auckland FC",
+        "league": ""
+    },
+    "אל דפרה": {
+        "english": "Al Dhafra",
+        "league": ""
+    },
+    "בניאס": {
+        "english": "Baniyas Club",
+        "league": ""
+    },
+    "ספניש טאון פוליס": {
+        "english": "Spanish Town Police",
+        "league": ""
+    },
+    "טיבולי גרדנס": {
+        "english": "Tivoli Gardens",
+        "league": ""
+    },
+    "צ'פלטון מארונס": {
+        "english": "Chapelton Maroons",
+        "league": ""
+    },
+    "אלאבס": {
+        "english": "Deportivo Alavés",
+        "league": ""
+    },
+    "אוביידו": {
+        "english": "Real Oviedo",
+        "league": ""
+    },
+    "ריאל סוסיאדד": {
+        "english": "Real Sociedad",
+        "league": ""
+    },
+    "אתלטיקו מדריד": {
+        "english": "Atlético Madrid",
+        "league": ""
+    },
+    "ריאל מדריד": {
+        "english": "Real Madrid",
+        "league": ""
+    },
+    "ריאל בטיס": {
+        "english": "Real Betis",
+        "league": ""
+    },
+    "מאיורקה": {
+        "english": "Mallorca",
+        "league": ""
+    },
+    "ג'ירונה": {
+        "english": "Girona",
+        "league": ""
+    },
+    "סביליה": {
+        "english": "Sevilla",
+        "league": ""
+    },
+    "לבאנטה": {
+        "english": "Levante",
+        "league": ""
+    },
+    "פאריס סן ז'רמן": {
+        "english": "Paris SG",
+        "league": ""
+    },
+    "אמיין": {
+        "english": "Amiens SC",
+        "league": ""
+    },
+    "נאנסי": {
+        "english": "Nancy",
+        "league": ""
+    },
+    "ריימס": {
+        "english": "Stade Reims",
+        "league": ""
+    },
+    "אנסי": {
+        "english": "Annecy",
+        "league": ""
+    },
+    "לה מאן": {
+        "english": "Le Mans",
+        "league": ""
+    },
+    "סט. אטיין": {
+        "english": "Saint-Étienne",
+        "league": ""
+    },
+    "פו": {
+        "english": "Pau",
+        "league": ""
+    },
+    "רודה אביירון": {
+        "english": "Rodez",
+        "league": ""
+    },
+    "קלרמונט": {
+        "english": "Clermont",
+        "league": ""
+    },
+    "לאבאל": {
+        "english": "Stade Lavallois",
+        "league": ""
+    },
+    "א.א.ל. לימסול": {
+        "english": "AEL Limassol",
+        "league": ""
+    },
+    "אפואל ניקוסיה": {
+        "english": "APOEL",
+        "league": ""
+    },
+    "פראלמיני": {
+        "english": "Enosis Neon Paralimni",
+        "league": ""
+    },
+    "אקריטס חלורקס": {
+        "english": "Akritas Chlorakas",
+        "league": ""
+    },
+    "אומוניה ניקוסיה": {
+        "english": "Omonia Nicosia",
+        "league": ""
+    },
+    "פיירנסה": {
+        "english": "Feirense",
+        "league": ""
+    },
+    "לרייה": {
+        "english": "UD Leiria",
+        "league": ""
+    },
+    "פלגיירס 1932": {
+        "english": "Felgueiras 1932",
+        "league": ""
+    },
+    "אולביירנסה": {
+        "english": "Oliveirense",
+        "league": ""
+    },
+    "פורטימוננסה": {
+        "english": "Portimonense",
+        "league": ""
+    },
+    "אולימפיאקוס ניקוסיה": {
+        "english": "Olympiakos Nicosia",
+        "league": ""
+    },
+    "אריס לימסול": {
+        "english": "Aris Limassol",
+        "league": ""
+    },
+    "א.א.ק. לרנקה": {
+        "english": "Larnaca",
+        "league": ""
+    },
+    "אנורת'וסיס פמגוסטה": {
+        "english": "Anorthosis",
+        "league": ""
+    },
+    "אפולון לימסול": {
+        "english": "Apollon Limassol",
+        "league": ""
+    },
+    "פאפוס": {
+        "english": "Pafos",
+        "league": ""
+    },
+    "פ.צ. סידני": {
+        "english": "Sydney FC",
+        "league": ""
+    },
+    "פראצ'ואפ": {
+        "english": "PT Prachuap",
+        "league": ""
+    },
+    "בוריראם יונייטד": {
+        "english": "Buriram United",
+        "league": ""
+    },
+    "פנאפייל": {
+        "english": "Penafiel",
+        "league": ""
+    },
+    "גזל אל מחלה": {
+        "english": "Ghazl El Mahallah",
+        "league": ""
+    },
+    "אל מוֹקאוולוּן": {
+        "english": "Al Mokawloon Al Arab",
+        "league": ""
+    },
+    "באלה טאון": {
+        "english": "Bala Town",
+        "league": ""
+    },
+    "קרנרפון": {
+        "english": "Caernarfon Town",
+        "league": ""
+    },
+    "קולווין ביי": {
+        "english": "Colwyn Bay",
+        "league": ""
+    },
+    "פלינט טאון יונייטד": {
+        "english": "Flint Town United",
+        "league": ""
+    },
+    "פטרוג'ט": {
+        "english": "Petrojet",
+        "league": ""
+    },
+    "זד אפ.סי": {
+        "english": "ZED",
+        "league": ""
+    },
+    "איסמעילי": {
+        "english": "Ismaily",
+        "league": ""
+    },
+    "וואדי דגלה": {
+        "english": "Wadi Degla",
+        "league": ""
+    },
+    "לנלי": {
+        "english": "Llanelli Town",
+        "league": ""
+    },
+    "פניבונט": {
+        "english": "Penybont",
+        "league": ""
+    },
+    "פ.צ. פאריס": {
+        "english": "Paris FC",
+        "league": ""
+    },
+    "לה האבר": {
+        "english": "Le Havre",
+        "league": ""
+    },
+    "אנז'ר": {
+        "english": "Angers",
+        "league": ""
+    },
+    "ברסט": {
+        "english": "Brest",
+        "league": ""
+    },
+    "אוקזר": {
+        "english": "Auxerre",
+        "league": ""
+    },
+    "לוריין": {
+        "english": "Lorient",
+        "league": ""
+    },
+    "מץ": {
+        "english": "Metz",
+        "league": ""
+    },
+    "מארסיי": {
+        "english": "Marseille",
+        "league": ""
+    },
+    "נאנט": {
+        "english": "Nantes",
+        "league": ""
+    },
+    "מוריירנסה": {
+        "english": "Moreirense",
+        "league": ""
+    },
+    "סנטה קלרה אזורס": {
+        "english": "Santa Clara",
+        "league": ""
+    },
+    "טונדלה": {
+        "english": "Tondela",
+        "league": ""
+    },
+    "אלבסטה": {
+        "english": "Albacete",
+        "league": ""
+    },
+    "לגאנס": {
+        "english": "Leganes",
+        "league": ""
+    },
+    "הואסקה": {
+        "english": "Huesca",
+        "league": ""
+    },
+    "קולטורל לאונסה": {
+        "english": "Cultural Leonesa",
+        "league": ""
+    },
+    "ריאל סוסיאדד ב'": {
+        "english": "Real Sociedad B",
+        "league": ""
+    },
+    "אלמריה": {
+        "english": "Almería",
+        "league": ""
+    },
+    "גרנאדה": {
+        "english": "Granada",
+        "league": ""
+    },
+    "קורדובה": {
+        "english": "Cordoba",
+        "league": ""
+    },
+    "בורגוס": {
+        "english": "Burgos",
+        "league": ""
+    },
+    "דפורטיבו לה קורוניה": {
+        "english": "Deportivo la Coruña",
+        "league": ""
+    },
+    "קאדיס": {
+        "english": "Cádiz",
+        "league": ""
+    },
+    "סראגוסה": {
+        "english": "Real Zaragoza",
+        "league": ""
+    },
+    "לאס פלמאס": {
+        "english": "Las Palmas",
+        "league": ""
+    },
+    "ספורטינג גיחון": {
+        "english": "Sporting Gijón",
+        "league": ""
+    },
+    "מלאגה": {
+        "english": "Málaga",
+        "league": ""
+    },
+    "ויאדוליד": {
+        "english": "Real Valladolid",
+        "league": ""
+    },
+    "ראסינג דה סנטנדר": {
+        "english": "Racing Santander",
+        "league": ""
+    },
+    "סאוטה": {
+        "english": "AD Ceuta",
+        "league": ""
+    },
+    "פ.צ. אנדורה": {
+        "english": "Andorra",
+        "league": ""
+    },
+    "רד סטאר 93": {
+        "english": "Red Star",
+        "league": ""
+    },
+    "באסטיה": {
+        "english": "Bastia",
+        "league": ""
+    },
+    "גרנובל": {
+        "english": "Grenoble",
+        "league": ""
+    },
+    "בולון": {
+        "english": "Boulogne",
+        "league": ""
+    },
+    "ויז'לה": {
+        "english": "Vizela",
+        "league": ""
+    },
+    "פורטו ב'": {
+        "english": "Porto B",
+        "league": ""
+    },
+    "מונפלייה": {
+        "english": "Montpellier",
+        "league": ""
+    },
+    "גלאטסראיי": {
+        "english": "Galatasaray",
+        "league": ""
+    },
+    "טרבזונספור": {
+        "english": "Trabzonspor",
+        "league": ""
+    },
+    "סמסונספור": {
+        "english": "Samsunspor",
+        "league": ""
+    },
+    "קאסטיון": {
+        "english": "Castellón",
+        "league": ""
+    },
+    "מרידה": {
+        "english": "Mérida AD",
+        "league": ""
+    },
+    "Wolverhampton Wanderers": {
+        "english": "Wolves",
+        "league": ""
+    },
+    "וולברהמפטון": {
+        "english": "Wolves",
+        "league": ""
+    },
+    "איירדריוניאנס": {
+        "english": "Airdrieonians",
+        "league": ""
+    },
+    "ריית' רוברס": {
+        "english": "Raith Rovers",
+        "league": ""
+    },
+    "אייר יונייטד": {
+        "english": "Ayr United",
+        "league": ""
+    },
+    "פרטיק ת'יסל": {
+        "english": "Partick Thistle",
+        "league": ""
+    },
+    "גרינוק": {
+        "english": "Greenock Morton",
+        "league": ""
+    },
+    "דאנפרמלין אתלטיק": {
+        "english": "Dunfermline Athletic",
+        "league": ""
+    },
+    "רוס קאונטי": {
+        "english": "Ross County",
+        "league": ""
+    },
+    "סט. ג'ונסטון": {
+        "english": "St. Johnstone",
+        "league": ""
+    },
+    "אברואת'": {
+        "english": "Arbroath",
+        "league": ""
+    },
+    "ברקלדו": {
+        "english": "Barakaldo CF",
+        "league": ""
+    },
+    "יוניוניסטס דה סלמנקה": {
+        "english": "Unionistas de Salamanca",
+        "league": ""
+    },
+    "אתלטיקו מדריד ב'": {
+        "english": "Atlético Madrid B",
+        "league": ""
+    },
+    "טרזונה": {
+        "english": "SD Tarazona",
+        "league": ""
+    },
+    "הרקולס": {
+        "english": "Hércules",
+        "league": ""
+    },
+    "סביליה אתלטיקו": {
+        "english": "Sevilla Atletico",
+        "league": ""
+    },
+    "חימנסטיק דה טראגונה": {
+        "english": "Gimnastic de Tarragona",
+        "league": ""
+    },
+    "טרואל": {
+        "english": "CD Teruel",
+        "league": ""
+    },
+    "אנטקוורה": {
+        "english": "Antequera CF",
+        "league": ""
+    },
+    "איינטרכט פרנקפורט": {
+        "english": "Eintracht Frankfurt",
+        "league": ""
+    },
+    "בורוסיה דורטמונד": {
+        "english": "Borussia Dortmund",
+        "league": ""
+    },
+    "אתלטיקו סן לוקונו": {
+        "english": "Atlético Sanluqueño",
+        "league": ""
+    },
+    "ריאל מדריד ג'": {
+        "english": "Real Madrid C",
+        "league": ""
+    },
+    "רייסינג יונייטד": {
+        "english": "Racing United",
+        "league": ""
+    },
+    "רפיד בוקרשט": {
+        "english": "Rapid 1923",
+        "league": ""
+    },
+    "מטלוגלובוס בוקרשט": {
+        "english": "Metaloglobus",
+        "league": ""
+    },
+    "אוניראה סלובוזיה": {
+        "english": "Unirea 2004",
+        "league": ""
+    },
+    "אראד": {
+        "english": "UTA Arad",
+        "league": ""
+    },
+    "אפ.סי.אס.בי": {
+        "english": "FCSB",
+        "league": ""
+    },
+    "קלוז'": {
+        "english": "CFR 1907 Cluj",
+        "league": ""
+    },
+    "אוטלול גלאטי": {
+        "english": "Oțelul",
+        "league": ""
+    },
+    "דינמו בוקרשט": {
+        "english": "Dinamo Bucureşti",
+        "league": ""
+    },
+    "אונבירסיטטה קלוז'": {
+        "english": "Universitatea Cluj",
+        "league": ""
+    },
+    "פרול קונסטנטה": {
+        "english": "Farul Constanța",
+        "league": ""
+    },
+    "הרמנשטאדש": {
+        "english": "Hermannstadt",
+        "league": ""
+    },
+    "בוטוסאני": {
+        "english": "Botoșani",
+        "league": ""
+    },
+    "רגנסבורג": {
+        "english": "Jahn Regensburg",
+        "league": ""
+    },
+    "אינגולסטד": {
+        "english": "Ingolstadt 04",
+        "league": ""
+    },
+    "דן האג": {
+        "english": "ADO Den Haag",
+        "league": ""
+    },
+    "קאמבור": {
+        "english": "Cambuur",
+        "league": ""
+    },
+    "הלמונד ספורט": {
+        "english": "Helmond Sport",
+        "league": ""
+    },
+    "ויטסה ארנהיים": {
+        "english": "Vitesse Arnhem",
+        "league": ""
+    },
+    "אלקמאר מילואים": {
+        "english": "Jong AZ Alkmaar",
+        "league": ""
+    },
+    "סיריינג": {
+        "english": "Seraing",
+        "league": ""
+    },
+    "קסימפסה": {
+        "english": "Kasımpaşa",
+        "league": ""
+    },
+    "אנטליספור": {
+        "english": "Antalyaspor",
+        "league": ""
+    },
+    "גנצ'לרבירליג'י": {
+        "english": "Gençlerbirliği SK",
+        "league": ""
+    },
+    "איסטנבול בסאקסהיר": {
+        "english": "Istanbul Basaksehir",
+        "league": ""
+    },
+    "וינטרת'ור": {
+        "english": "Winterthur",
+        "league": ""
+    },
+    "סט. גאלן": {
+        "english": "St. Gallen",
+        "league": ""
+    },
+    "לוצרן": {
+        "english": "Luzern",
+        "league": ""
+    },
+    "לוגאנו": {
+        "english": "Lugano",
+        "league": ""
+    },
+    "יאנג בויז": {
+        "english": "Young Boys",
+        "league": ""
+    },
+    "לוזאן ספורט": {
+        "english": "Lausanne Sport",
+        "league": ""
+    },
+    "סרבט ז'נבה": {
+        "english": "Servette",
+        "league": ""
+    },
+    "פ.צ. ציריך": {
+        "english": "FC Zürich",
+        "league": ""
+    },
+    "גראסהופרס": {
+        "english": "Grasshoppers",
+        "league": ""
+    },
+    "באזל": {
+        "english": "Basel",
+        "league": ""
+    },
+    "סיון": {
+        "english": "Sion",
+        "league": ""
+    },
+    "אוגסבורג": {
+        "english": "Augsburg",
+        "league": ""
+    },
+    "אוניון ברלין": {
+        "english": "1. FC Union Berlin",
+        "league": ""
+    },
+    "קונקרנו": {
+        "english": "Concarneau",
+        "league": ""
+    },
+    "דיז'ון": {
+        "english": "Dijon",
+        "league": ""
+    },
+    "לה פוי": {
+        "english": "Le Puy",
+        "league": ""
+    },
+    "אורליאן": {
+        "english": "Orléans",
+        "league": ""
+    },
+    "ורסלייז": {
+        "english": "Versailles",
+        "league": ""
+    },
+    "אקסלסיור": {
+        "english": "Excelsior",
+        "league": ""
+    },
+    "טלסטאר": {
+        "english": "Telstar",
+        "league": ""
+    },
+    "לייפציג": {
+        "english": "RB Leipzig",
+        "league": ""
+    },
+    "ביירן מינכן": {
+        "english": "Bayern Munich",
+        "league": ""
+    },
+    "סט. פאולי": {
+        "english": "St. Pauli",
+        "league": ""
+    },
+    "ורדר ברמן": {
+        "english": "Werder Bremen",
+        "league": ""
+    },
+    "פ.צ. קלן": {
+        "english": "1. FC Köln",
+        "league": ""
+    },
+    "מיינץ": {
+        "english": "Mainz 05",
+        "league": ""
+    },
+    "המבורג": {
+        "english": "Hamburger",
+        "league": ""
+    },
+    "בורוסיה מינשנגלדבאך": {
+        "english": "Borussia Mönchengladbach",
+        "league": ""
+    },
+    "וולפסבורג": {
+        "english": "Wolfsburg",
+        "league": ""
+    },
+    "היידנהיים": {
+        "english": "1. FC Heidenheim",
+        "league": ""
+    },
+    "שטוטגרט": {
+        "english": "Stuttgart",
+        "league": ""
+    },
+    "פרייבורג": {
+        "english": "Freiburg",
+        "league": ""
+    },
+    "הופנהיים": {
+        "english": "Hoffenheim",
+        "league": ""
+    },
+    "באייר לברקוזן": {
+        "english": "Bayer Leverkusen",
+        "league": ""
+    },
+    "אייאקס": {
+        "english": "Ajax",
+        "league": ""
+    },
+    "גו אהד איגלס": {
+        "english": "Go Ahead Eagles",
+        "league": ""
+    },
+    "א.א.ק. אתונה": {
+        "english": "AEK Athens",
+        "league": ""
+    },
+    "פנאתינייקוס": {
+        "english": "Panathinaikos",
+        "league": ""
+    },
+    "לאריסה": {
+        "english": "Larissa",
+        "league": ""
+    },
+    "אריס סלוניקי": {
+        "english": "Aris Thessaloniki",
+        "league": ""
+    },
+    "פאוק סלוניקי": {
+        "english": "PAOK",
+        "league": ""
+    },
+    "אופי כרתים": {
+        "english": "OFI Crete",
+        "league": ""
+    },
+    "זוולה": {
+        "english": "PEC Zwolle",
+        "league": ""
+    },
+    "אלקמאר": {
+        "english": "AZ Alkmaar",
+        "league": ""
+    },
+    "פורטונה סיטארד": {
+        "english": "Fortuna Sittard",
+        "league": ""
+    },
+    "איינדהובן": {
+        "english": "FC Eindhoven",
+        "league": ""
+    },
+    "נאק ברדה": {
+        "english": "NAC Breda",
+        "league": ""
+    },
+    "ניימיכן": {
+        "english": "NEC Nijmegen",
+        "league": ""
+    },
+    "כרונינגן": {
+        "english": "Groningen",
+        "league": ""
+    },
+    "דרמשטאדט": {
+        "english": "Darmstadt",
+        "league": ""
+    },
+    "דינמו דרזדן": {
+        "english": "Dynamo Dresden",
+        "league": ""
+    },
+    "קייזרסלאוטרן": {
+        "english": "1. FC Kaiserslautern",
+        "league": ""
+    },
+    "האנובר": {
+        "english": "Hannover 96",
+        "league": ""
+    },
+    "פורטונה דיסלדורף": {
+        "english": "Fortuna Dusseldorf",
+        "league": ""
+    },
+    "ארמיניה בילפלד": {
+        "english": "Arminia Bielefeld",
+        "league": ""
+    },
+    "פאדרבורן": {
+        "english": "Paderborn 07",
+        "league": ""
+    },
+    "נירנברג": {
+        "english": "1. FC Nürnberg",
+        "league": ""
+    },
+    "אלברסברג": {
+        "english": "Elversberg",
+        "league": ""
+    },
+    "מונסטר": {
+        "english": "Preussen Munster",
+        "league": ""
+    },
+    "הרטה ברלין": {
+        "english": "Hertha Berlin",
+        "league": ""
+    },
+    "שאלקה 04": {
+        "english": "Schalke 04",
+        "league": ""
+    },
+    "וולנדאם": {
+        "english": "Volendam",
+        "league": ""
+    },
+    "אוטרכט": {
+        "english": "Utrecht",
+        "league": ""
+    },
+    "הראקלס": {
+        "english": "Heracles",
+        "league": ""
+    },
+    "טוונטה": {
+        "english": "Twente",
+        "league": ""
+    },
+    "פיינורד": {
+        "english": "Feyenoord",
+        "league": ""
+    },
+    "ספרטה רוטרדם": {
+        "english": "Sparta Rotterdam",
+        "league": ""
+    },
+    "פורטוגואזה": {
+        "english": "Portuguesa",
+        "league": ""
+    },
+    "בוטאפוגו": {
+        "english": "Botafogo",
+        "league": ""
+    },
+    "רד בול ברגנטינו": {
+        "english": "Red Bull Bragantino",
+        "league": ""
+    },
+    "קורינתיאנס": {
+        "english": "Corinthians",
+        "league": ""
+    },
+    "איופספור": {
+        "english": "Eyupspor",
+        "league": ""
+    },
+    "בשיקטאש": {
+        "english": "Beşiktaş",
+        "league": ""
+    },
+    "קוניאספור": {
+        "english": "Konyaspor",
+        "league": ""
+    },
+    "פתום יונייטד": {
+        "english": "BG Pathum United",
+        "league": ""
+    },
+    "בנגקוק יונייטד": {
+        "english": "Bangkok United",
+        "league": ""
+    },
+    "ראיונג": {
+        "english": "Rayong",
+        "league": ""
+    },
+    "צ'יאנגראי יונייטד": {
+        "english": "Chiangrai United",
+        "league": ""
+    },
+    "רצ'אבורי": {
+        "english": "Ratchaburi",
+        "league": ""
+    },
+    "נקהון רצ'סימה": {
+        "english": "Nakhon Ratchasima",
+        "league": ""
+    },
+    "סנטוס לאגונה": {
+        "english": "Santos Laguna",
+        "league": ""
+    },
+    "קלאב לאון": {
+        "english": "Club León",
+        "league": ""
+    },
+    "פאצ'וקה": {
+        "english": "Pachuca",
+        "league": ""
+    },
+    "אינדפנדיינטה סנטה פה": {
+        "english": "Independiente Santa Fe",
+        "league": ""
+    },
+    "נאסיונל מדיין": {
+        "english": "Atletico Nacional Medellín",
+        "league": ""
+    },
+    "בויאקה צ'יקו": {
+        "english": "Boyacá Chicó",
+        "league": ""
+    },
+    "דפורטיבו פסטו": {
+        "english": "Deportivo Pasto",
+        "league": ""
+    },
+    "אינדפנדיינטה מדיין": {
+        "english": "Independiente Medellín",
+        "league": ""
+    },
+    "דפורטיבו קאלי": {
+        "english": "Deportivo Cali",
+        "league": ""
+    },
+    "אתלטיקו בוקרמנגה": {
+        "english": "Bucaramanga",
+        "league": ""
+    },
+    "סאורה": {
+        "english": "Saoura",
+        "league": ""
+    },
+    "פטרולול פלוישטי": {
+        "english": "Petrolul 52",
+        "league": ""
+    },
+    "קלאב ספורט אוניברסיטטה קראיובה": {
+        "english": "Universitatea Craiova",
+        "league": ""
+    },
+    "אייאקס מילואים": {
+        "english": "Jong Ajax",
+        "league": ""
+    },
+    "רודה": {
+        "english": "Roda",
+        "league": ""
+    },
+    "אוטרכט מילואים": {
+        "english": "Jong Utrecht",
+        "league": ""
+    },
+    "פ.ס.וו איינדהובן מילואים": {
+        "english": "Jong PSV Eindhoven",
+        "league": ""
+    },
+    "פ.צ. קופנהגן": {
+        "english": "P.C. Copenhagen",
+        "league": ""
+    },
+    "אולימפיאקוס": {
+        "english": "Olympiacos",
+        "league": ""
+    },
+    "פנאיתוליקוס": {
+        "english": "Panetolikos",
+        "league": ""
+    },
+    "לבאדיאקוס": {
+        "english": "Levadiakos",
+        "league": ""
+    },
+    "וולוס": {
+        "english": "Volos",
+        "league": ""
+    },
+    "אטרומיטוס": {
+        "english": "Atromitos Athinon",
+        "league": ""
+    },
+    "סטלנבוש": {
+        "english": "Stellenbosch",
+        "league": ""
+    },
+    "פלומיננזה": {
+        "english": "Fluminense",
+        "league": ""
+    },
+    "אורביט קולג'": {
+        "english": "Orbit College",
+        "league": ""
+    },
+    "קייזר צ'יפס": {
+        "english": "Kaizer Chiefs",
+        "league": ""
+    },
+    "למונטוויל גולדן ארוס": {
+        "english": "Golden Arrows",
+        "league": ""
+    },
+    "צ'ונבורי": {
+        "english": "Chonburi",
+        "league": ""
+    },
+    "למפון ווריורס": {
+        "english": "Lamphun Warrior",
+        "league": ""
+    },
+    "איותאיה יונייטד": {
+        "english": "Ayutthaya United",
+        "league": ""
+    },
+    "יות'אי ת'אני": {
+        "english": "Uthai Thani",
+        "league": ""
+    },
+    "סוחותאי": {
+        "english": "Sukhothai",
+        "league": ""
+    },
+    "מזטלאן": {
+        "english": "Mazatlan",
+        "league": ""
+    },
+    "מונטריי": {
+        "english": "Monterrey",
+        "league": ""
+    },
+    "קלאב אולימפיה": {
+        "english": "Club Olimpia",
+        "league": ""
+    },
+    "הרבור וויו": {
+        "english": "Harbour View",
+        "league": ""
+    },
+    "אליאנזה ולדופאר": {
+        "english": "Alianza Valledupar",
+        "league": ""
+    },
+    "דפורטיבו פריירה": {
+        "english": "Deportivo Pereira",
+        "league": ""
+    },
+    "פרויסן מונסטר": {
+        "english": "Preußen Münster",
+        "league": ""
+    },
+    "אתלטיק בילבאו ב'": {
+        "english": "Athletic Bilbao B",
+        "league": ""
+    },
+    "ריאל אבילס": {
+        "english": "Real Avilés",
+        "league": ""
+    },
+    "ויאריאל ב'": {
+        "english": "Villarreal B",
+        "league": ""
+    },
+    "קרטחנה": {
+        "english": "Cartagena",
+        "league": ""
+    },
+    "זולה": {
+        "english": "PEC Zwolle",
+        "league": ""
+    },
+    "פ.ס.וו מילואים": {
+        "english": "Jong PSV Eindhoven",
+        "league": ""
+    },
+    "צ'יקסרדה": {
+        "english": "Csikszereda",
+        "league": ""
+    },
+    "פ.ס.וו איינדהובן": {
+        "english": "PSV",
+        "league": ""
+    },
+    "סקוקון יונייטד": {
+        "english": "Sekhukhune United",
+        "league": ""
+    },
+    "ראנדרס": {
+        "english": "Randers",
+        "league": ""
+    },
+    "פרדריקיה": {
+        "english": "Fredericia",
+        "league": ""
+    },
+    "סילקבורג": {
+        "english": "Silkeborg",
+        "league": ""
+    },
+    "מידטיילנד": {
+        "english": "Midtjylland",
+        "league": ""
+    },
+    "ברונדבי": {
+        "english": "Brøndby",
+        "league": ""
+    },
+    "ארהוס": {
+        "english": "Aarhus",
+        "league": ""
+    },
+    "ויבורג": {
+        "english": "Viborg",
+        "league": ""
+    },
+    "נורדסלנד": {
+        "english": "Nordsjælland",
+        "league": ""
+    },
+    "אודנסה": {
+        "english": "Odense",
+        "league": ""
+    },
+    "פוגון זידליצ'ה": {
+        "english": "Pogoń Siedlce",
+        "league": ""
+    },
+    "גורניק לצ'נה": {
+        "english": "Gornik Leczna",
+        "league": ""
+    },
+    "ויצ'יסטה קרקוב": {
+        "english": "Wieczysta Kraków",
+        "league": ""
+    },
+    "פולוניה ורשה": {
+        "english": "Polonia Warszawa",
+        "league": ""
+    },
+    "סטאל רזשזוב": {
+        "english": "Stal Rzeszów",
+        "league": ""
+    },
+    "רוצ' חורזו": {
+        "english": "Ruch Chorzów",
+        "league": ""
+    },
+    "אל.אנ.זי צ'רקסי": {
+        "english": "LNZ Cherkasy",
+        "league": ""
+    },
+    "אולכסנדרייה": {
+        "english": "Oleksandriya",
+        "league": ""
+    },
+    "דינמו קייב": {
+        "english": "Dynamo Kyiv",
+        "league": ""
+    },
+    "קריבס קריבי": {
+        "english": "Kryvbas Kriviy Rih",
+        "league": ""
+    },
+    "אובולון קייב": {
+        "english": "Obolon Kyiv",
+        "league": ""
+    },
+    "קודריבקה": {
+        "english": "FK Kudrivka",
+        "league": ""
+    },
+    "קרפטי לבוב": {
+        "english": "Karpaty Lviv",
+        "league": ""
+    },
+    "שחטאר דונייצק": {
+        "english": "Shakhtar Donetsk",
+        "league": ""
+    },
+    "ורס ריבנה": {
+        "english": "Veres Rivne",
+        "league": ""
+    },
+    "בראבו לובליאנה": {
+        "english": "Bravo Ljubljana",
+        "league": ""
+    },
+    "מורה 05": {
+        "english": "NS Mura",
+        "league": ""
+    },
+    "אולימפיה לובליאנה": {
+        "english": "Olimpija Ljubljana",
+        "league": ""
+    },
+    "מאריבור": {
+        "english": "Maribor",
+        "league": ""
+    },
+    "רדומלייה": {
+        "english": "Radomlje",
+        "league": ""
+    },
+    "סט. פולטן": {
+        "english": "St. Pölten",
+        "league": ""
+    },
+    "אמסטטן": {
+        "english": "Amstetten",
+        "league": ""
+    },
+    "ליפרינג": {
+        "english": "Liefering",
+        "league": ""
+    },
+    "פירסט וינה": {
+        "english": "First Vienna",
+        "league": ""
+    },
+    "יאנג ויולטס וינה": {
+        "english": "Young Violets Wien U23",
+        "league": ""
+    },
+    "רפיד וינה חובבים": {
+        "english": "Rapid Wien II",
+        "league": ""
+    },
+    "הרטה וולס": {
+        "english": "Hertha Wels",
+        "league": ""
+    },
+    "אוסטריה קלגנפורט": {
+        "english": "Austria Klagenfurt",
+        "league": ""
+    },
+    "קאפפנברגר": {
+        "english": "Kapfenberger SV",
+        "league": ""
+    },
+    "שטורם גראץ חובבים": {
+        "english": "Sturm Graz II",
+        "league": ""
+    },
+    "הופנהיים חובבים": {
+        "english": "Hoffenheim II",
+        "league": ""
+    },
+    "מינכן 1860": {
+        "english": "1860 Munich",
+        "league": ""
+    },
+    "דיושגורי": {
+        "english": "Diósgyöri",
+        "league": ""
+    },
+    "מ.ט.ק. בודפשט": {
+        "english": "MTK Budapest",
+        "league": ""
+    },
+    "קזינסברציקי": {
+        "english": "Kazincbarcikai",
+        "league": ""
+    },
+    "אקדמיית פושקש": {
+        "english": "Puskás Akadémia FC",
+        "league": ""
+    },
+    "קיסברדה": {
+        "english": "Kisvárda FC",
+        "league": ""
+    },
+    "פאקשי": {
+        "english": "Paksi",
+        "league": ""
+    },
+    "זלצבורג": {
+        "english": "RB Salzburg",
+        "league": ""
+    },
+    "הארטברג": {
+        "english": "Hartberg",
+        "league": ""
+    },
+    "וולפסברגר": {
+        "english": "Wolfsberger AC",
+        "league": ""
+    },
+    "שטורם גראץ": {
+        "english": "Sturm Graz",
+        "league": ""
+    },
+    "אוסטריה וינה": {
+        "english": "Austria Wien",
+        "league": ""
+    },
+    "בלאו וויס לינץ": {
+        "english": "Blau-Weiß Linz",
+        "league": ""
+    },
+    "אלטאך": {
+        "english": "Altach",
+        "league": ""
+    },
+    "ראפיד וינה": {
+        "english": "Rapid Wien",
+        "league": ""
+    },
+    "גרייזר": {
+        "english": "Grazer AK",
+        "league": ""
+    },
+    "ריד": {
+        "english": "Ried",
+        "league": ""
+    },
+    "ארקה גדיניה": {
+        "english": "Arka Gdynia",
+        "league": ""
+    },
+    "לכיה גדנסק": {
+        "english": "Lechia Gdansk",
+        "league": ""
+    },
+    "ראדום": {
+        "english": "Radomiak Radom",
+        "league": ""
+    },
+    "מוטור לובלין": {
+        "english": "Motor Lublin",
+        "league": ""
+    },
+    "קורונה קיילצה": {
+        "english": "Korona Kielce",
+        "league": ""
+    },
+    "שצ'צ'ין": {
+        "english": "OKS Swit Szczecin",
+        "league": ""
+    },
+    "וידז'ב לודז'": {
+        "english": "Widzew Lodz",
+        "league": ""
+    },
+    "ז'גלבי לובין": {
+        "english": "Zagłębie Lubin",
+        "league": ""
+    },
+    "ויסלה פלוצק": {
+        "english": "Wisła Płock",
+        "league": ""
+    },
+    "קרקוביה קרקוב": {
+        "english": "Cracovia Krakow",
+        "league": ""
+    },
+    "קאטוביץ'": {
+        "english": "Katowice",
+        "league": ""
+    },
+    "לגיה ורשה": {
+        "english": "Legia Warszawa",
+        "league": ""
+    },
+    "איסטרה": {
+        "english": "Istra 1961",
+        "league": ""
+    },
+    "דינמו זגרב": {
+        "english": "Dinamo Zagreb",
+        "league": ""
+    },
+    "גוריצה": {
+        "english": "HNK Gorica",
+        "league": ""
+    },
+    "רייקה": {
+        "english": "Rijeka",
+        "league": ""
+    },
+    "לוקומוטיבה זאגרב": {
+        "english": "Lokomotiva Zagreb",
+        "league": ""
+    },
+    "אוסייק": {
+        "english": "Osijek",
+        "league": ""
+    },
+    "ורזדין": {
+        "english": "NK Varaždin",
+        "league": ""
+    },
+    "היידוק ספליט": {
+        "english": "Hajduk Split",
+        "league": ""
+    },
+    "רדניצקי ניס": {
+        "english": "Radnički Niš",
+        "league": ""
+    },
+    "איי.אם.טי נובי בלגרד": {
+        "english": "IMT Novi Beograd",
+        "league": ""
+    },
+    "ראדניק סורדוליצה": {
+        "english": "Radnik Surdulica",
+        "league": ""
+    },
+    "ספרטק סובוטיצה": {
+        "english": "Spartak Subotica",
+        "league": ""
+    },
+    "פרטיזן בלגרד": {
+        "english": "Partizan Belgrade",
+        "league": ""
+    },
+    "או.אפ.קיי בלגרד": {
+        "english": "OFK Belgrade",
+        "league": ""
+    },
+    "רדניצקי 1923": {
+        "english": "Radnicki 1923",
+        "league": ""
+    },
+    "זלזניצ'ר פנצ'בו": {
+        "english": "Železničar Pančevo",
+        "league": ""
+    },
+    "דורדרכט": {
+        "english": "Dordrecht",
+        "league": ""
+    },
+    "מאסטריכט": {
+        "english": "Maastricht",
+        "league": ""
+    },
+    "דה גראפשחאפ": {
+        "english": "De Graafschap",
+        "league": ""
+    },
+    "פאטרו אייסדן": {
+        "english": "Patro Eisden",
+        "league": ""
+    },
+    "קורטריק": {
+        "english": "Kortrijk",
+        "league": ""
+    },
+    "ר.פ.ס. ליאז'": {
+        "english": "RFC Liège",
+        "league": ""
+    },
+    "ליסן ברנו": {
+        "english": "Líšeň Brno",
+        "league": ""
+    },
+    "טנריפה": {
+        "english": "Tenerife",
+        "league": ""
+    },
+    "מאגסי": {
+        "english": "Magesi",
+        "league": ""
+    },
+    "אמאזולו": {
+        "english": "AmaZulu",
+        "league": ""
+    },
+    "בוטב וראטסה": {
+        "english": "Botev Vratsa",
+        "league": ""
+    },
+    "סלביה סופיה": {
+        "english": "Slavia Sofia",
+        "league": ""
+    },
+    "צסק\"א 1948 סופיה": {
+        "english": "CSKA 1948",
+        "league": ""
+    },
+    "מונטנה": {
+        "english": "Montana",
+        "league": ""
+    },
+    "בוטב פלובדיב": {
+        "english": "Botev Plovdiv",
+        "league": ""
+    },
+    "צ'רנו מורה וארנה": {
+        "english": "Cherno More",
+        "league": ""
+    },
+    "ספטמברי סופיה": {
+        "english": "Septemvri Sofia",
+        "league": ""
+    },
+    "צסק\"א סופיה": {
+        "english": "CSKA Sofia",
+        "league": ""
+    },
+    "לודוגורץ": {
+        "english": "Ludogorets",
+        "league": ""
+    },
+    "לוקומוטיב פלובדיב": {
+        "english": "Lokomotiv Plovdiv",
+        "league": ""
+    },
+    "לבסקי סופיה": {
+        "english": "Levski Sofia",
+        "league": ""
+    },
+    "לוקומוטיב סופיה": {
+        "english": "Lokomotiv Sofia",
+        "league": ""
+    },
+    "ארדה קרדז'לי": {
+        "english": "Arda Kardzhali",
+        "league": ""
+    },
+    "ספרטק וארנה": {
+        "english": "Spartak Varna",
+        "league": ""
+    },
+    "וילפרנש": {
+        "english": "Villefranche",
+        "league": ""
+    },
+    "סיגמה אולומוץ": {
+        "english": "Sigma Olomouc",
+        "league": ""
+    },
+    "ספרטה פראג": {
+        "english": "Sparta Prague",
+        "league": ""
+    },
+    "סלובן ברטיסלבה": {
+        "english": "Slovan Bratislava",
+        "league": ""
+    },
+    "ספרטק טרנאבה": {
+        "english": "Spartak Trnava",
+        "league": ""
+    },
+    "סקליצ'ה": {
+        "english": "Skalica",
+        "league": ""
+    },
+    "קוסיצ'ה": {
+        "english": "FK Košice",
+        "league": ""
+    },
+    "ז'ילינה": {
+        "english": "MSK Zilina",
+        "league": ""
+    },
+    "אסטרס טריפוליס": {
+        "english": "Asteras Tripolis",
+        "league": ""
+    },
+    "פנסראיקוס": {
+        "english": "Panserraikos",
+        "league": ""
+    },
+    "מריטימו": {
+        "english": "Marítimo",
+        "league": ""
+    },
+    "ניו יורק רד בולס": {
+        "english": "New York Red Bulls",
+        "league": ""
+    },
+    "ניו אינגלנד": {
+        "english": "New England Revolution",
+        "league": ""
+    },
+    "די.סי. יונייטד": {
+        "english": "DC United",
+        "league": ""
+    },
+    "מינסוטה יונייטד": {
+        "english": "Minnesota United",
+        "league": ""
+    },
+    "סינסינטי": {
+        "english": "FC Cincinnati",
+        "league": ""
+    },
+    "נאשוויל": {
+        "english": "Nashville SC",
+        "league": ""
+    },
+    "קולורדו": {
+        "english": "Colorado Rapids",
+        "league": ""
+    },
+    "פורטלנד": {
+        "english": "Portland Timbers",
+        "league": ""
+    },
+    "מונטריאול": {
+        "english": "Montreal",
+        "league": ""
+    },
+    "סן חוזה ארת'קווייק": {
+        "english": "San Jose Earthquakes",
+        "league": ""
+    },
+    "אטלנטה יונייטד": {
+        "english": "Atlanta United",
+        "league": ""
+    },
+    "קנזס סיטי": {
+        "english": "Sporting Kansas City",
+        "league": ""
+    },
+    "קולומבוס": {
+        "english": "Columbus Crew",
+        "league": ""
+    },
+    "טורונטו": {
+        "english": "Toronto FC",
+        "league": ""
+    },
+    "יוסטון": {
+        "english": "Houston Dynamo",
+        "league": ""
+    },
+    "פילדלפיה": {
+        "english": "Philadelphia Union",
+        "league": ""
+    },
+    "ניו יורק סיטי": {
+        "english": "New York City",
+        "league": ""
+    },
+    "סן דייגו אף.סי": {
+        "english": "San Diego FC",
+        "league": ""
+    },
+    "לוס אנג'לס גלקסי": {
+        "english": "Los Angeles Galaxy",
+        "league": ""
+    },
+    "שארלוט": {
+        "english": "Charlotte FC",
+        "league": ""
+    },
+    "ריאל סולט לייק": {
+        "english": "Real Salt Lake",
+        "league": ""
+    },
+    "סיאטל": {
+        "english": "Seattle Sounders",
+        "league": ""
+    },
+    "אורלנדו סיטי": {
+        "english": "Orlando City",
+        "league": ""
+    },
+    "אינטר מיאמי": {
+        "english": "Miami FC",
+        "league": ""
+    },
+    "ואדוז": {
+        "english": "Vaduz",
+        "league": ""
+    },
+    "סטאד ניון": {
+        "english": "Stade Nyonnais",
+        "league": ""
+    },
+    "נוישאטל קסאמקס": {
+        "english": "Neuchâtel Xamax",
+        "league": ""
+    },
+    "וויל": {
+        "english": "Wil",
+        "league": ""
+    },
+    "בלינזונה": {
+        "english": "Bellinzona",
+        "league": ""
+    },
+    "איברדון ספורט": {
+        "english": "Yverdon Sport",
+        "league": ""
+    },
+    "קנצ'נבורי": {
+        "english": "DP Kanchanaburi",
+        "league": ""
+    },
+    "מואנג טונג יונייטד": {
+        "english": "Muangthong United",
+        "league": ""
+    },
+    "סנטוס": {
+        "english": "Santos",
+        "league": ""
+    },
+    "ואסקו דה גמא": {
+        "english": "Vasco da Gama",
+        "league": ""
+    },
+    "פלמנגו": {
+        "english": "Flamengo",
+        "league": ""
+    },
+    "פלטנסה": {
+        "english": "Platansa",
+        "league": ""
+    },
+    "רוביו נו": {
+        "english": "Rubio Nu",
+        "league": ""
+    },
+    "נאסיונל אסונסיון": {
+        "english": "Nacional Asuncion",
+        "league": ""
+    },
+    "סן מרקוס": {
+        "english": "San Marcos de Arica",
+        "league": ""
+    },
+    "סן לואיס דה קילוטה": {
+        "english": "San Luis de Quillota",
+        "league": ""
+    },
+    "סארמיינטו": {
+        "english": "Sarmiento",
+        "league": ""
+    },
+    "אוניון סנטה פה": {
+        "english": "Union Santa Fe",
+        "league": ""
+    },
+    "בוקה ג'וניורס": {
+        "english": "Boca Juniors",
+        "league": ""
+    },
+    "אסטודיאנטס ריו קווארטו": {
+        "english": "Estudiantes Rio Cuarto",
+        "league": ""
+    },
+    "הוראקן": {
+        "english": "CA Huracan",
+        "league": ""
+    },
+    "ראסינג קלאב": {
+        "english": "Racing Club de Ferrol",
+        "league": ""
+    },
+    "ריבר פלייט": {
+        "english": "River Plate",
+        "league": ""
+    },
+    "באנפילד": {
+        "english": "Banfield",
+        "league": ""
+    },
+    "ניואלס אולד בויס": {
+        "english": "Newell's Old Boys",
+        "league": ""
+    },
+    "רוסאריו סנטרל": {
+        "english": "Rosario Central",
+        "league": ""
+    },
+    "אסטודיאנטס לה פלטה": {
+        "english": "Estudiantes LP",
+        "league": ""
+    },
+    "ולז סארספילד": {
+        "english": "Velez Sarsfield",
+        "league": ""
+    },
+    "פלאטנסה": {
+        "english": "CA Platense",
+        "league": ""
+    },
+    "דיפנסה אי חוסטיסיה": {
+        "english": "Defensa y Justicia",
+        "league": ""
+    },
+    "גימנסיה מנדוזה": {
+        "english": "Gimnasia Mendoza",
+        "league": ""
+    },
+    "אינדפנדיינטה": {
+        "english": "Independiente",
+        "league": ""
+    },
+    "סנטרל קורדובה": {
+        "english": "Central Cordoba SE",
+        "league": ""
+    },
+    "טאז'ראס דה קורדובה": {
+        "english": "Talleres Cordoba",
+        "league": ""
+    },
+    "סן לורנצו": {
+        "english": "San Lorenzo",
+        "league": ""
+    },
+    "אינסטיטוטו קורדובה": {
+        "english": "Instituto Cordoba",
+        "league": ""
+    },
+    "טיגרה": {
+        "english": "CA Tigre",
+        "league": ""
+    },
+    "ארגנטינוס ג'וניורס": {
+        "english": "Argentinos Juniors",
+        "league": ""
+    },
+    "באראקס סנטרל": {
+        "english": "Barracas Central",
+        "league": ""
+    },
+    "אלדוסיבי": {
+        "english": "Aldosivi",
+        "league": ""
+    },
+    "אתלטיקו טוקומן": {
+        "english": "Atletico Tucuman",
+        "league": ""
+    },
+    "בלגראנו": {
+        "english": "CA Belgrano",
+        "league": ""
+    },
+    "בראן": {
+        "english": "Brann",
+        "league": ""
+    },
+    "מנטה": {
+        "english": "Manta",
+        "league": ""
+    },
+    "אינדפנדיינטה דל ואלה": {
+        "english": "Independiente del Valle",
+        "league": ""
+    },
+    "ג'משדפור": {
+        "english": "Jamshedpur",
+        "league": ""
+    },
+    "דפורטיבו טאצ'ירה": {
+        "english": "Deportivo Tachira",
+        "league": ""
+    },
+    "אליאנסה אתלטיקו": {
+        "english": "Alianza Atlético",
+        "league": ""
+    },
+    "מלגאר": {
+        "english": "Melgar",
+        "league": ""
+    },
+    "לוס צ'נקאס": {
+        "english": "Los Chankas",
+        "league": ""
+    },
+    "דפורטיבו גרסילסו": {
+        "english": "Deportivo Garcilaso",
+        "league": ""
+    },
+    "סיאנסיאנו": {
+        "english": "Cienciano",
+        "league": ""
+    },
+    "ז'לגיריס וילנה": {
+        "english": "Žalgiris",
+        "league": ""
+    },
+    "בלומינג סנטה קרוז": {
+        "english": "Santa Cruz",
+        "league": ""
+    },
+    "סן אנטוניו בולו בולו": {
+        "english": "San Antonio",
+        "league": ""
+    },
+    "ספורטיבו טרינידנסה": {
+        "english": "Sportivo Trinidense",
+        "league": ""
+    },
+    "ליברטאד לוחה": {
+        "english": "Libertad Loja",
+        "league": ""
+    },
+    "מטרופוליטנוס": {
+        "english": "Metropolitanos",
+        "league": ""
+    },
+    "דואיסבורג": {
+        "english": "MSV Duisburg",
+        "league": ""
+    },
+    "זארבריקן": {
+        "english": "1. FC Saarbrücken",
+        "league": ""
+    },
+    "ווהן ויסבאדן": {
+        "english": "Wehen Wiesbaden",
+        "league": ""
+    },
+    "שטוטגרט חובבים": {
+        "english": "Stuttgart II",
+        "league": ""
+    },
+    "הבלסה": {
+        "english": "Havelse",
+        "league": ""
+    },
+    "האנזה רוסטוק": {
+        "english": "Hansa Rostock",
+        "league": ""
+    },
+    "שוויינפורט 05": {
+        "english": "1. FC Schweinfurt 05",
+        "league": ""
+    },
+    "רוט אסן": {
+        "english": "Rot-Weiß Essen",
+        "league": ""
+    },
+    "וולדורף מנהיים 07": {
+        "english": "Waldhof Mannheim",
+        "league": ""
+    },
+    "ארזגבירגה אוהה": {
+        "english": "Erzgebirge Aue",
+        "league": ""
+    },
+    "באניק אוסטרבה ב'": {
+        "english": "FC Banik Ostrava B",
+        "league": ""
+    },
+    "אינטרנסיונל בוגוטה": {
+        "english": "Internacional de Bogota",
+        "league": ""
+    },
+    "ספורטיבו לוקואנו": {
+        "english": "Sportivo Luqueño",
+        "league": ""
+    },
+    "ליברטד אסונסיון": {
+        "english": "Libertad Asuncion",
+        "league": ""
+    },
+    "פוארטו מונט": {
+        "english": "Puerto Montt",
+        "league": ""
+    },
+    "מומבאי סיטי": {
+        "english": "Mumbai City",
+        "league": ""
+    },
+    "מצ'ידה זלביה": {
+        "english": "Machida Zelvia",
+        "league": ""
+    },
+    "ויסל קובה": {
+        "english": "Vissel Kobe",
+        "league": ""
+    },
+    "סנפרצה הירושימה": {
+        "english": "Sanfrecce Hiroshima",
+        "league": ""
+    },
+    "אלומיני": {
+        "english": "Aluminij",
+        "league": ""
+    },
+    "אוסטריה זלצבורג": {
+        "english": "Austria Salzburg",
+        "league": ""
+    },
+    "קרבובו": {
+        "english": "Carabobo",
+        "league": ""
+    },
+    "ספורטינג קריסטל": {
+        "english": "Sporting Cristal",
+        "league": ""
+    },
+    "אמריקה דה קאלי": {
+        "english": "America de Cali",
+        "league": ""
+    },
+    "מקרה": {
+        "english": "Macará",
+        "league": ""
+    },
+    "אליאנצה": {
+        "english": "Alianza",
+        "league": ""
+    },
+    "סאן פרנסיסקו אף.סי": {
+        "english": "Fuerte San Francisco",
+        "league": ""
+    },
+    "אוסנאברוק": {
+        "english": "Osnabrück",
+        "league": ""
+    },
+    "ויקטוריה קלן": {
+        "english": "Viktoria Köln",
+        "league": ""
+    },
+    "לוסטנאו": {
+        "english": "Austria Lustenau",
+        "league": ""
+    },
+    "קארוג'": {
+        "english": "Etoile Carouge",
+        "league": ""
+    },
+    "חרוברי גלוגוף": {
+        "english": "Chrobry Głogów",
+        "league": ""
+    },
+    "רויאל אולימפיק שרלרואה": {
+        "english": "Olympic Charleroi",
+        "league": ""
+    },
+    "פריברם": {
+        "english": "FK Pribram",
+        "league": ""
+    },
+    "גוואדלחרה": {
+        "english": "Guadalajara",
+        "league": ""
+    },
+    "קרוזיירו": {
+        "english": "Cruzeiro",
+        "league": ""
+    },
+    "אתלטיקו מיניירו": {
+        "english": "Atlético Mineiro",
+        "league": ""
+    },
+    "ויטוריה באהיה": {
+        "english": "Vitória",
+        "league": ""
+    },
+    "פארננסה": {
+        "english": "Athletico Paranaense PR",
+        "league": ""
+    },
+    "פלמייראס": {
+        "english": "Palmeiras",
+        "league": ""
+    },
+    "קוריטיבה": {
+        "english": "Coritiba PR",
+        "league": ""
+    },
+    "סטארט": {
+        "english": "Start",
+        "league": ""
+    },
+    "טרומסו": {
+        "english": "Tromsø",
+        "league": ""
+    },
+    "פרדריקסטאד": {
+        "english": "Fredrikstad",
+        "league": ""
+    },
+    "סנדפיורד": {
+        "english": "Sandefjord",
+        "league": ""
+    },
+    "מולדה": {
+        "english": "Molde",
+        "league": ""
+    },
+    "רוזנבורג": {
+        "english": "Rosenborg",
+        "league": ""
+    },
+    "וורצברגר קיקרס": {
+        "english": "Würzburger Kickers",
+        "league": ""
+    },
+    "האנקופן האלינג": {
+        "english": "Hankofen-Hailing",
+        "league": ""
+    },
+    "אייכשטט": {
+        "english": "Eichstätt",
+        "league": ""
+    },
+    "ממינגן": {
+        "english": "Memmingen",
+        "league": ""
+    },
+    "אובשטדט": {
+        "english": "Aubstadt",
+        "league": ""
+    },
+    "סרו פורטנו": {
+        "english": "Cerro Porteño",
+        "league": ""
+    },
+    "טרנסינווסט": {
+        "english": "TransINVEST",
+        "league": ""
+    },
+    "הגלמאן": {
+        "english": "Hegelmann",
+        "league": ""
+    },
+    "ז'לגיריס קובנה": {
+        "english": "Kauno Zalgiris",
+        "league": ""
+    },
+    "סודובה": {
+        "english": "Sūduva",
+        "league": ""
+    },
+    "ביירן מינכן חובבים": {
+        "english": "Bayern Munich II",
+        "league": ""
+    },
+    "אוגסבורג חובבים": {
+        "english": "Schwaben Augsburg",
+        "league": ""
+    },
+    "גמבה אוסאקה": {
+        "english": "Gamba Osaka",
+        "league": ""
+    },
+    "לוקנוולדה": {
+        "english": "Luckenwalde",
+        "league": ""
+    },
+    "מגדבורג ב'": {
+        "english": "1. FC Magdeburg II",
+        "league": ""
+    },
+    "גריפסוולדר": {
+        "english": "Greifswalder",
+        "league": ""
+    },
+    "מרבלה": {
+        "english": "Marbella FC",
+        "league": ""
+    },
+    "קוסקו": {
+        "english": "Cusco",
+        "league": ""
+    },
+    "אתלטיקו גראו": {
+        "english": "Atlético Grau",
+        "league": ""
+    },
+    "קג'מרקה": {
+        "english": "Cajamarca",
+        "league": ""
+    },
+    "קומרסיאנטס יונידוס": {
+        "english": "Comerciantes Unidos",
+        "league": ""
+    },
+    "דפורטיבו טולוקה": {
+        "english": "Deportivo Toluca",
+        "league": ""
+    },
+    "קרוז אזול": {
+        "english": "Cruz Azul",
+        "league": ""
+    },
+    "פונטה פרטה": {
+        "english": "Ponte Preta SP",
+        "league": ""
+    },
+    "אנדיון": {
+        "english": "Andijan",
+        "league": ""
+    },
+    "צ'נמרי": {
+        "english": "Chanmari",
+        "league": ""
+    },
+    "דינמו סמרקנד": {
+        "english": "Dinamo Samarkand",
+        "league": ""
+    },
+    "אורלנדו פייראטס": {
+        "english": "Orlando Pirates",
+        "league": ""
+    },
+    "בירמינגהם לגיון": {
+        "english": "Birmingham Legion",
+        "league": ""
+    },
+    "הארטפורד": {
+        "english": "Hartford Athletic",
+        "league": ""
+    },
+    "בושורו": {
+        "english": "Buxoro",
+        "league": ""
+    },
+    "פוגון גרודזיסק מזובייצ'קי": {
+        "english": "Pogon Grodzisk Mazowiecki",
+        "league": ""
+    },
+    "ויקטוריה ז'יז'קוב": {
+        "english": "Viktoria Žižkov",
+        "league": ""
+    },
+    "ספרטה פראג ב'": {
+        "english": "Sparta Prague B",
+        "league": ""
+    },
+    "סלביה פראג ב'": {
+        "english": "SK Slavia Prague B",
+        "league": ""
+    },
+    "סטאד לוזאן": {
+        "english": "Stade Lausanne Ouchy",
+        "league": ""
+    },
+    "טכניקו יוניברסיטריו": {
+        "english": "Técnico Universitario",
+        "league": ""
+    },
+    "מוהון בגאן": {
+        "english": "Mohun Bagan Athletic",
+        "league": ""
+    },
+    "ארנטיירו": {
+        "english": "CD Arenteiro",
+        "league": ""
+    },
+    "סארפסבורג": {
+        "english": "Sarpsborg 08",
+        "league": ""
+    },
+    "ווסט צ'סטר יונייטד": {
+        "english": "Westchester",
+        "league": ""
+    },
+    "לאודון יונייטד": {
+        "english": "Loudoun United",
+        "league": ""
+    },
+    "אינדי אילבן": {
+        "english": "Indy Eleven",
+        "league": ""
+    },
+    "פיניקס": {
+        "english": "Phoenix Rising",
+        "league": ""
+    },
+    "איילנבורג": {
+        "english": "Eilenburg",
+        "league": ""
+    },
+    "ריאל מדריד עד 19": {
+        "english": "Real Madrid u19",
+        "league": ""
+    },
+    "דרוכטרסן/אסל": {
+        "english": "Drochtersen/Assel",
+        "league": ""
+    },
+    "בלאו ווייס לונה": {
+        "english": "Blau-Weiß Lohne",
+        "league": ""
+    },
+    "ברינה": {
+        "english": "Bryne",
+        "league": ""
+    },
+    "פורטלזה": {
+        "english": "Fortaleza",
+        "league": ""
+    },
+    "צ'יפה יונייטד": {
+        "english": "Chippa United",
+        "league": ""
+    },
+    "פואבלה": {
+        "english": "Club Puebla",
+        "league": ""
+    },
+    "סרינידי דקאן": {
+        "english": "Sreenidi Deccan",
+        "league": ""
+    },
+    "שילונג": {
+        "english": "Shillong Lajong",
+        "league": ""
+    },
+    "המבורג חובבים": {
+        "english": "Hamburger II",
+        "league": ""
+    },
+    "אלטונר 1893": {
+        "english": "Altona 93",
+        "league": ""
+    },
+    "צרזו אוסאקה": {
+        "english": "Cerezo Osaka",
+        "league": ""
+    },
+    "פגיאנו אוקאימה": {
+        "english": "Fagiano Okayama",
+        "league": ""
+    },
+    "נאגויה גרמפוס": {
+        "english": "Nagoya Grampus",
+        "league": ""
+    },
+    "נגאסקי": {
+        "english": "V Varen Nagasaki",
+        "league": ""
+    },
+    "קיוטו סנגה": {
+        "english": "Kyoto Sanga",
+        "league": ""
+    },
+    "אביספה פוקוקה": {
+        "english": "Avispa Fukuoka",
+        "league": ""
+    },
+    "שימיזו": {
+        "english": "Shimizu S-Pulse",
+        "league": ""
+    },
+    "טוקיו ורדי": {
+        "english": "Tokyo Verdy",
+        "league": ""
+    },
+    "קווסאקי פרונטלה": {
+        "english": "Kawasaki Frontale",
+        "league": ""
+    },
+    "ג'ף יונייטד": {
+        "english": "JEF United Chiba",
+        "league": ""
+    },
+    "פ.צ. טוקיו": {
+        "english": "FC Tokyo",
+        "league": ""
+    },
+    "מיטו הוליהוק": {
+        "english": "Mito Hollyhock",
+        "league": ""
+    },
+    "יוקוהמה מרינוס": {
+        "english": "Yokohama Marinos",
+        "league": ""
+    },
+    "אוראווה רד דיאמונדס": {
+        "english": "Urawa Red Diamonds",
+        "league": ""
+    },
+    "קשיווה רייסול": {
+        "english": "Kashiwa Reysol",
+        "league": ""
+    },
+    "קשימה אנטלרס": {
+        "english": "Kashima Antlers",
+        "league": ""
+    },
+    "זמורה": {
+        "english": "Zamora",
+        "league": ""
+    },
+    "אשוויל סיטי": {
+        "english": "Asheville City",
+        "league": ""
+    },
+    "מוטאון": {
+        "english": "Motown",
+        "league": ""
+    },
+    "אורנג' קאונטי": {
+        "english": "Orange County",
+        "league": ""
+    },
+    "לגונה יונייטד": {
+        "english": "Laguna United",
+        "league": ""
+    },
+    "ליטל רוק": {
+        "english": "Little Rock Rangers",
+        "league": ""
+    },
+    "סקרמנטו": {
+        "english": "Sacramento Republic",
+        "league": ""
+    },
+    "חמי לייפציג": {
+        "english": "Chemie Leipzig",
+        "league": ""
+    },
+    "פראוסן ברלין": {
+        "english": "Preussen Berlin",
+        "league": ""
+    },
+    "אולנצ'ו": {
+        "english": "Olancho",
+        "league": ""
+    },
+    "אטלנטה": {
+        "english": "Atlante",
+        "league": ""
+    },
+    "ז'אקויפנסה": {
+        "english": "Jacuipense BA",
+        "league": ""
+    },
+    "גרמיו נובוריזונטינו": {
+        "english": "Novorizontino SP",
+        "league": ""
+    },
+    "וילה נובה": {
+        "english": "Vila Nova GO",
+        "league": ""
+    },
+    "קונפיאנסה": {
+        "english": "Confiança SE",
+        "league": ""
+    },
+    "איי.בי.סי": {
+        "english": "ABC RN",
+        "league": ""
+    },
+    "מוניציפל לימנו": {
+        "english": "Municipal Limeño",
+        "league": ""
+    },
+    "ינטרה גברובו": {
+        "english": "Yantra Gabrovo",
+        "league": ""
+    },
+    "ראיו זוליאנו": {
+        "english": "Rayo Zuliano",
+        "league": ""
+    },
+    "אסטודיאנטס דה מרידה": {
+        "english": "Estudiantes de Merida",
+        "league": ""
+    },
+    "גוויאקיל סיטי": {
+        "english": "Guayaquil City",
+        "league": ""
+    },
+    "ז'גלבי סוסנביץ": {
+        "english": "Zaglebie Sosnowiec",
+        "league": ""
+    },
+    "אינטר פורמנדו": {
+        "english": "Inter Formando UN Atleta",
+        "league": ""
+    },
+    "אגילה": {
+        "english": "Águila",
+        "league": ""
+    },
+    "איסידרו מטאפן": {
+        "english": "Isidro Metapán",
+        "league": ""
+    },
+    "ברצלונה ספורטינג קלאב": {
+        "english": "Barcelona de Guayaquil",
+        "league": ""
+    },
+    "אנדרלכט ב'": {
+        "english": "Anderlecht Futures U23",
+        "league": ""
+    },
+    "לוצרן ב'": {
+        "english": "Luzern II",
+        "league": ""
+    },
+    "ורטה פוזנן": {
+        "english": "Warta Poznań",
+        "league": ""
+    },
+    "אלסונדס": {
+        "english": "Aalesund",
+        "league": ""
+    },
+    "אלטליניקה": {
+        "english": "Altglienicke",
+        "league": ""
+    },
+    "בורג א ברס": {
+        "english": "Bourg-en-Bresse",
+        "league": ""
+    },
+    "קוריסו אונידו": {
+        "english": "Curicó Unido",
+        "league": ""
+    },
+    "בראונשווייג": {
+        "english": "Eintracht Braunschweig",
+        "league": ""
+    },
+    "אתניקוס": {
+        "english": "Ethnikos Achnas",
+        "league": ""
+    },
+    "פיגוורנסה": {
+        "english": "Figueirense SC",
+        "league": ""
+    },
+    "פודברזובה": {
+        "english": "FK Zeleziarne Podbrezova",
+        "league": ""
+    },
+    "גנק ב'": {
+        "english": "Genk U23",
+        "league": ""
+    },
+    "גנט מילואים": {
+        "english": "Gent U23",
+        "league": ""
+    },
+    "גימנסיה לה פלטה": {
+        "english": "Gimnasia LP",
+        "league": ""
+    },
+    "הירנביין": {
+        "english": "Heerenveen",
+        "league": ""
+    },
+    "חובנטוד טורמולינוס": {
+        "english": "Juventud Torremolinos",
+        "league": ""
+    },
+    "קולוס קובליבקה": {
+        "english": "Kolos Kovalivka",
+        "league": ""
+    },
+    "לוקרן טמסה": {
+        "english": "Lokeren Temse",
+        "league": ""
+    },
+    "מיידז לזניקה": {
+        "english": "Miedź Legnica",
+        "league": ""
+    },
+    "מילונאריוס": {
+        "english": "Millonarios",
+        "league": ""
+    },
+    "מלאדוסט": {
+        "english": "Mladost Lučani",
+        "league": ""
+    },
+    "מונגס": {
+        "english": "Monagas",
+        "league": ""
+    },
+    "נאשיונל בנק": {
+        "english": "National Bank of Egypt",
+        "league": ""
+    },
+    "נייפולומיצה": {
+        "english": "Niepolomice",
+        "league": ""
+    },
+    "פולסיה זיטומיר": {
+        "english": "Polissya Zhytomyr",
+        "league": ""
+    },
+    "פונטוורדה": {
+        "english": "Pontevedra CF",
+        "league": ""
+    },
+    "רקוב צ'סטחובה": {
+        "english": "Rakow Częstochowa",
+        "league": ""
+    },
+    "ראפרסוויל יונה": {
+        "english": "Rapperswil-Jona",
+        "league": ""
+    },
+    "רקולטה": {
+        "english": "Recoleta",
+        "league": ""
+    },
+    "סיוולהלה": {
+        "english": "Siwelele",
+        "league": ""
+    },
+    "סלאבן": {
+        "english": "Slaven Belupo",
+        "league": ""
+    },
+    "סונדריסקה": {
+        "english": "SønderjyskE",
+        "league": ""
+    },
+    "טרמליקה": {
+        "english": "Termalica Nieciecza",
+        "league": ""
+    },
+    "מוקגואה": {
+        "english": "UCV Moquegua",
+        "league": ""
+    },
+    "אונטרהאכינג": {
+        "english": "Unterhaching",
+        "league": ""
+    },
+    "ווקובאר": {
+        "english": "Vukovar 1991",
+        "league": ""
+    },
+    "ויסוצ'ינה יהלבה": {
+        "english": "Vysočina Jihlava",
+        "league": ""
+    },
+    "זניץ' פרושקוב": {
+        "english": "Znicz Pruszków",
+        "league": ""
+    },
+    "שיאולאי": {
+        "english": "Šiauliai",
+        "league": ""
+    },
+    "קווילי רואן": {
+        "english": "Quevilly",
+        "league": ""
+    },
+    "גליביצ'ה": {
+        "english": "Piast Gliwice",
+        "league": ""
+    },
+    "פרימורייה": {
+        "english": "Primorje Ajdovscina",
+        "league": ""
+    },
+    "גאיוס קוורטאריו": {
+        "english": "Querétaro",
+        "league": ""
+    },
+    "מויסביץ": {
+        "english": "Meuselwitz",
+        "league": ""
+    },
+    "סט. לואיס סיטי": {
+        "english": "Saint Louis City",
+        "league": ""
+    },
+    "ואלנסיין": {
+        "english": "Valenciennes",
+        "league": ""
+    },
+    "ז'לגרשגי": {
+        "english": "Zalaegerszeg",
+        "league": ""
+    },
+    "ביאליסטוק": {
+        "english": "Jagiellonia Bialystok",
+        "league": ""
+    },
+    "דובריש": {
+        "english": "Dobrudzha 1919",
+        "league": ""
+    },
+    "2 במאי": {
+        "english": "2 De Mayo",
+        "league": ""
+    },
+    "אוניברסידד קג'מרקה": {
+        "english": "Cajamarca",
+        "league": ""
+    },
+    "אוניון סן פליפה": {
+        "english": "Unión San Felipe",
+        "league": ""
+    },
+    "אי.טי.או גיור": {
+        "english": "ETO Győr",
+        "league": ""
+    },
+    "אינדפנדיינטה ריברדביה": {
+        "english": "Independiente Rivadavia",
+        "league": ""
+    },
+    "אקדמיה אנזואטגי": {
+        "english": "Academia Anzoátegui",
+        "league": ""
+    },
+    "בצקה טופולה": {
+        "english": "Bačka Topola",
+        "league": ""
+    },
+    "גורניק": {
+        "english": "Górnik Zabrze",
+        "league": ""
+    },
+    "גרמיו": {
+        "english": "Grêmio",
+        "league": ""
+    },
+    "דברצני": {
+        "english": "Debreceni VSC",
+        "league": ""
+    },
+    "ולרנגה": {
+        "english": "Vålerenga",
+        "league": ""
+    },
+    "זאגורה": {
+        "english": "Beroe",
+        "league": ""
+    },
+    "טולימה": {
+        "english": "Deportes Tolima",
+        "league": ""
+    },
+    "לאסק לינץ": {
+        "english": "LASK",
+        "league": ""
+    },
+    "מיראסול": {
+        "english": "Mirassol",
+        "league": ""
+    },
+    "ספורטיבו אמליאנו": {
+        "english": "Sportivo Ameliano",
+        "league": ""
+    },
+    "ספורטיבו סן לורנצו": {
+        "english": "San Lorenzo",
+        "league": ""
+    },
+    "פוארטו קבייו": {
+        "english": "Academia Puerto Cabello",
+        "league": ""
+    },
+    "פרטריה וארנה": {
+        "english": "Fratria",
+        "league": ""
+    },
+    "פרנצוורוש": {
+        "english": "Ferencváros",
+        "league": ""
+    },
+    "צלייה": {
+        "english": "NK Celje",
+        "league": ""
+    },
+    "קומרנו": {
+        "english": "Komárno",
+        "league": ""
+    },
+    "קלוב לאונס דל נורטה": {
+        "english": "Leones del Norte",
+        "league": ""
+    },
+    "קפום אוסלו": {
+        "english": "KFUM",
+        "league": ""
+    },
+    "לך פוזנן": {
+        "english": "Lech Poznań",
+        "league": ""
+    },
+    "פ.צ. סודטירול": {
+        "english": "Südtirol",
+        "league": ""
+    },
+    "פורטו": {
+        "english": "Porto",
+        "league": ""
+    },
+    "פורטוגזה": {
+        "english": "Portuguesa",
+        "league": ""
+    },
+    "צ'וקריצ'קי בלגרד": {
+        "english": "Čukarički",
+        "league": ""
+    },
+    "קראקאס": {
+        "english": "Caracas",
+        "league": ""
+    },
+    "דפורטס טמוקו": {
+        "english": "Temuco",
+        "league": ""
+    },
+    "ארנט גרדנס": {
+        "english": "Arnett Gardens",
+        "league": ""
+    },
+    "אוניברסידד קטוליקה דל אקוואדור": {
+        "english": "Universidad Católica del Ecuador",
+        "league": ""
+    },
+    "לונדרינה": {
+        "english": "Londrina PR",
+        "league": ""
+    },
+    "מונטגו ביי יונייטד": {
+        "english": "Montego Bay United",
+        "league": ""
+    },
+    "ראסינג דה פרול": {
+        "english": "Racing Club de Ferrol",
+        "league": ""
+    },
+    "ריאל מורסיה": {
+        "english": "Real Murcia CF",
+        "league": ""
+    },
+    "קסרנו סאד": {
+        "english": "CP Cacereño SAD",
+        "league": ""
+    },
+    "אוסאסונה ב'": {
+        "english": "Osasuna B",
+        "league": ""
+    },
+    "מניימה יוניון": {
+        "english": "Maniema Union",
+        "league": ""
+    },
+    "טרוחילאנוס": {
+        "english": "Trujillanos",
+        "league": ""
+    },
+    "אולדהאם": {
+        "english": "Oldham Athletic",
+        "league": ""
+    },
+    "ווילם": {
+        "english": "Willem II",
+        "league": ""
+    }
 }

@@ -11,6 +11,7 @@ class StatsManager:
                 "new_games_recorded": 0,
                 "games_changed": 0,
                 "names_inferred": 0,
+                "names_auto_mapped_with_leagues": 0,
                 "leagues_needing_mapping": 0
             },
             "last_run": {
@@ -67,6 +68,13 @@ class StatsManager:
         self.state["cumulative"]["names_inferred"] += count
         self._save()
 
+    def add_names_auto_mapped_with_league(self, count):
+        self._load()
+        if "names_auto_mapped_with_leagues" not in self.state["cumulative"]:
+            self.state["cumulative"]["names_auto_mapped_with_leagues"] = 0
+        self.state["cumulative"]["names_auto_mapped_with_leagues"] += count
+        self._save()
+
     def set_leagues_needing_mapping(self, count):
         self._load()
         self.state["cumulative"]["leagues_needing_mapping"] = count
@@ -103,6 +111,7 @@ class StatsManager:
             "new_games_recorded": 0,
             "games_changed": 0,
             "names_inferred": 0,
+            "names_auto_mapped_with_leagues": 0,
             "leagues_needing_mapping": 0
         }
         self._save()
@@ -118,6 +127,7 @@ class StatsManager:
         msg += f"🔸 New Games Recorded: {c['new_games_recorded']}\n"
         msg += f"🔸 Game Odds Changed: {c['games_changed']}\n"
         msg += f"🔸 Names Inferred: {c['names_inferred']}\n"
+        msg += f"🔸 Leagues Auto-Mapped to Names: {c.get('names_auto_mapped_with_leagues', 0)}\n"
         msg += f"🔸 Leagues Needing Mapping: {c['leagues_needing_mapping']}\n\n"
         
         msg += "⏱ *Last Run Metrics:*\n"
