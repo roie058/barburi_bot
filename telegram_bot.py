@@ -1,6 +1,7 @@
 import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
+from stats_manager import StatsManager
 
 # Define the password
 AUTHORIZED_USERS_FILE = "data/authorized_users.txt"
@@ -67,6 +68,20 @@ async def broadcast(update: Update, context: CallbackContext) -> None:
     await update.message.reply_text("Broadcast message sent to authorized users.")
 
 
+async def status_command(update: Update, context: CallbackContext) -> None:
+    user_id = update.effective_user.id
+    if user_id not in AUTHORIZED_USERS:
+        await update.message.reply_text("You are not authorized. Please enter the password with /password <password>.")
+        return
+
+    try:
+        stats = StatsManager()
+        msg = stats.get_status_message()
+        await update.message.reply_text(msg, parse_mode="Markdown")
+        stats.reset_cumulative()
+    except Exception as e:
+        await update.message.reply_text(f"Error retrieving status: {e}")
+
 # Create a new application with your bot token
 TOKEN = "7599624940:AAF93dleDtTSNCpZxkcgvJh4ZA-l1WbzU2w"
 app = Application.builder().token(TOKEN).build()
@@ -75,6 +90,7 @@ app = Application.builder().token(TOKEN).build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("password", password))
 app.add_handler(CommandHandler("broadcast", broadcast))
+app.add_handler(CommandHandler("status", status_command))
 
 # Start the bot
 print("Bot is running...")

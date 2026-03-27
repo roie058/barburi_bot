@@ -384,8 +384,10 @@ class UnibetScraper:
                                 break
                                 
                         except Exception as e:
-                            import traceback
-                            traceback.print_exc()
+                            # Catch playwright timeout or other errors, but don't dump the full stacktrace
+                            err_str = str(e)
+                            if "Timeout" not in err_str:
+                                print(f"Warning: Issue parsing Unibet DOM ({err_str[:80]}...)")
                             pass
                     
                     if page:
