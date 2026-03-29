@@ -121,7 +121,8 @@ class UnibetScraper:
                 if not target_params: 
                     print("UnibetScraper: Scrape list is empty, skipping scrape.")
             else:
-                json_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'unibet_leagues.json')
+                from config import UNIBET_LEAGUES_FILE
+                json_path = str(UNIBET_LEAGUES_FILE)
                 
                 if os.path.exists(json_path):
                     with open(json_path, 'r') as f:
@@ -384,8 +385,10 @@ class UnibetScraper:
                                 break
                                 
                         except Exception as e:
-                            import traceback
-                            traceback.print_exc()
+                            # Catch playwright timeout or other errors, but don't dump the full stacktrace
+                            err_str = str(e)
+                            if "Timeout" not in err_str:
+                                print(f"Warning: Issue parsing Unibet DOM ({err_str[:80]}...)")
                             pass
                     
                     if page:

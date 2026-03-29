@@ -8,8 +8,10 @@ from datetime import datetime
 
 from scrapers.winner import WinnerScraper
 from mapping_manager import mapping_manager
+from stats_manager import StatsManager
+from config import DB_PATH, WINNER_TO_UNIBET_LEAGUES, WINNER_TO_PINNACLE_LEAGUES, REPORTS_DIR
 
-DB_PATH = "data/tracker.sqlite"
+stats = StatsManager()
 
 def init_db():
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
@@ -124,6 +126,7 @@ async def run_tracker():
         if match_id not in existing_matches:
             new_matches_count += 1
             new_matches_df_rows.append(row)
+            stats.add_new_games(1)
             cursor.execute("""
                 INSERT INTO matches (id, game, date, team1, team2, team1_hebrew, team2_hebrew, num_1, num_X, num_2, link, league)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -139,6 +142,7 @@ async def run_tracker():
         
         if old_odds['1'] != new_odds['1'] or old_odds['X'] != new_odds['X'] or old_odds['2'] != new_odds['2']:
             changed_matches_count += 1
+            stats.add_games_changed(1)
             
             # Record in history
             cursor.execute("""
@@ -159,7 +163,8 @@ async def run_tracker():
                 "num_1": old_odds['1'],
                 "num_X": old_odds['X'],
                 "num_2": old_odds['2'],
-                "link": row['link']
+                "link": row['link'],
+                "league": row.get('league', '')
             })
             new_game = Game({
                 "game": f"{row.get('team1_hebrew', row['team1'])} - {row.get('team2_hebrew', row['team2'])}",
@@ -167,7 +172,8 @@ async def run_tracker():
                 "num_1": new_odds['1'],
                 "num_X": new_odds['X'],
                 "num_2": new_odds['2'],
-                "link": row['link']
+                "link": row['link'],
+                "league": row.get('league', '')
             })
             
             flip_res = check_favorite_flip(old_game, new_game, remote_name="New_Winner")
@@ -208,10 +214,8 @@ async def run_tracker():
             # 1. Map Unibet
             mapping_unibet = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_u = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                if os.path.exists(map_path_u):
-                    with open(map_path_u, "r", encoding="utf-8") as f:
+                if os.path.exists(WINNER_TO_UNIBET_LEAGUES):
+                    with open(WINNER_TO_UNIBET_LEAGUES, "r", encoding="utf-8") as f:
                         mapping_unibet = json.load(f)
             except Exception as e:
                 print(f"Error loading Unibet mapping: {e}")
@@ -231,13 +235,11 @@ async def run_tracker():
             # 2. Map Pinnacle
             mapping_pinnacle = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_p = os.path.join(base_dir, "winner_to_pinnacle_leagues.json")
-                if os.path.exists(map_path_p):
-                    with open(map_path_p, "r", encoding="utf-8") as f:
+                if os.path.exists(WINNER_TO_PINNACLE_LEAGUES):
+                    with open(WINNER_TO_PINNACLE_LEAGUES, "r", encoding="utf-8") as f:
                         mapping_pinnacle = json.load(f)
                 else:
-                    print(f"ERROR: Pinnacle mapping file not found at {map_path_p}")
+                    print(f"ERROR: Pinnacle mapping file not found at {WINNER_TO_PINNACLE_LEAGUES}")
             except Exception as e:
                 print(f"Error loading Pinnacle mapping: {e}")
             
@@ -252,13 +254,15 @@ async def run_tracker():
         
         if missing_unibet_leagues:
             print(f"⚠️ Missing Unibet Mapping for {len(missing_unibet_leagues)} leagues. Please add them to winner_to_unibet_leagues.json: {missing_unibet_leagues}")
+            stats.set_leagues_needing_mapping(len(missing_unibet_leagues) + len(missing_pinnacle_leagues))
             # Append only unique missing leagues
-            os.makedirs('reports', exist_ok=True)
+            REPORTS_DIR.mkdir(parents=True, exist_ok=True)
             existing = set()
-            if os.path.exists('reports/missing_unibet_leagues.md'):
-                with open('reports/missing_unibet_leagues.md', 'r', encoding='utf-8') as f:
+            missing_u_path = REPORTS_DIR / 'missing_unibet_leagues.md'
+            if os.path.exists(missing_u_path):
+                with open(missing_u_path, 'r', encoding='utf-8') as f:
                     existing = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
-            with open('reports/missing_unibet_leagues.md', 'a', encoding='utf-8') as f:
+            with open(missing_u_path, 'a', encoding='utf-8') as f:
                 for l in missing_unibet_leagues:
                     if l not in existing:
                         f.write(f"- {l}\n")
@@ -267,12 +271,13 @@ async def run_tracker():
         if missing_pinnacle_leagues:
             print(f"⚠️ Missing Pinnacle Mapping for {len(missing_pinnacle_leagues)} leagues. Please add them to winner_to_pinnacle_leagues.json: {missing_pinnacle_leagues}")
             # Append only unique missing leagues
-            os.makedirs('reports', exist_ok=True)
+            REPORTS_DIR.mkdir(parents=True, exist_ok=True)
             existing_pin = set()
-            if os.path.exists('reports/missing_pinnacle_leagues.md'):
-                with open('reports/missing_pinnacle_leagues.md', 'r', encoding='utf-8') as f:
+            missing_p_path = REPORTS_DIR / 'missing_pinnacle_leagues.md'
+            if os.path.exists(missing_p_path):
+                with open(missing_p_path, 'r', encoding='utf-8') as f:
                     existing_pin = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
-            with open('reports/missing_pinnacle_leagues.md', 'a', encoding='utf-8') as f:
+            with open(missing_p_path, 'a', encoding='utf-8') as f:
                 for l in missing_pinnacle_leagues:
                     if l not in existing_pin:
                         f.write(f"- {l}\n")
@@ -299,6 +304,7 @@ async def run_tracker():
         in_p = mapping_manager.infer_mappings(winner_df, pinn_df, "Pinnacle", "Pinnacle Inference")
         if in_u or in_p:
             print(f"Tracker Context Inference: Deduced {in_u} names from Unibet and {in_p} from Pinnacle.")
+            stats.add_names_inferred(in_u + in_p)
 
     # Process Major Changes
     for mc in major_change_games:
@@ -369,16 +375,30 @@ async def run_tracker():
     conn.commit()
     conn.close()
     
+    # Save Last Run Telemetry
+    u_matched_rough = sum(1 for _, row in unibet_df.iterrows() if row.get("game") in [mapping_manager.get_translation(wg) for wg in winner_df["game"]]) if not unibet_df.empty else 0
+    p_matched_rough = sum(1 for _, row in pinn_df.iterrows() if row.get("game") in [mapping_manager.get_translation(wg) for wg in winner_df["game"]]) if not pinn_df.empty else 0
+    stats.set_last_run_success(
+        len(winner_df), 
+        len(unibet_df) if not unibet_df.empty else 0, 
+        len(pinn_df) if not pinn_df.empty else 0,
+        u_matched_rough,
+        p_matched_rough
+    )
+    
     print(f"Run completed. Total: {len(winner_df)}, New: {new_matches_count}, Changed: {changed_matches_count}, Major: {major_changes_count}")
 
 async def main_loop():
     import random
+    import traceback
     while True:
         try:
             print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting tracking cycle...")
             await run_tracker()
         except Exception as e:
-            print(f"Error in tracker cycle: {e}")
+            print(f"Critical error in main loop: {e}")
+            stats.set_last_run_failed(str(e))
+            traceback.print_exc() # Print full traceback for debugging
             
         jitter_seconds = random.randint(180, 420)
         delay_minutes = jitter_seconds / 60.0

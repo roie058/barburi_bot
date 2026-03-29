@@ -4772,8 +4772,8 @@
         "source": "Translated"
     },
     "באראקס": {
-        "english_name": "Barracks",
-        "source": "Translated"
+        "english_name": "CS Barracas",
+        "source": "Unibet Inference"
     },
     "ברזיל": {
         "english_name": "Brazil",
@@ -5421,6 +5421,14 @@
     },
     "בנגלדש": {
         "english_name": "Bangladesh",
+        "source": "Translated"
+    },
+    "אתלטיקו אקסוסו": {
+        "english_name": "Atlético Exosso",
+        "source": "Translated"
+    },
+    "אולימפו": {
+        "english_name": "Olympus",
         "source": "Translated"
     }
 }

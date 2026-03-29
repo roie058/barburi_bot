@@ -4,23 +4,7 @@ import difflib
 import json
 import os
 from datetime import datetime
-
-# Load mappings
-MAPPINGS = {}
-try:
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    path = os.path.join(base_dir, "data", "name_mappings.json")
-    with open(path, "r", encoding="utf-8") as f:
-        MAPPINGS = json.load(f)
-    print(f"Loaded {len(MAPPINGS)} mappings from {path}")
-except Exception as e:
-    print(f"Error loading name_mappings.json in calculations.py: {e}")
-    # fallback to relative
-    try:
-        with open("data/name_mappings.json", "r", encoding="utf-8") as f:
-            MAPPINGS = json.load(f)
-    except:
-        pass
+from mapping_manager import mapping_manager
 
 class Game:
     def __init__(self, data: Dict):
@@ -31,6 +15,7 @@ class Game:
         self.num_2 = float(data.get('num_2', 0))
         self.link = data.get('link', '')
         self.source = data.get('source', '')
+        current_league = data.get('league', '')
         
         # Normalize teams
         if ' - ' in self.game:
@@ -38,10 +23,10 @@ class Game:
             raw_t1 = parts[0].strip()
             raw_t2 = parts[1].strip()
             # Apply Mappings
-            self.team1 = MAPPINGS.get(raw_t1, raw_t1)
-            self.team2 = MAPPINGS.get(raw_t2, raw_t2)
+            self.team1 = mapping_manager.get_translation(raw_t1, current_league) or raw_t1
+            self.team2 = mapping_manager.get_translation(raw_t2, current_league) or raw_t2
         else:
-            self.team1 = MAPPINGS.get(self.game, self.game)
+            self.team1 = mapping_manager.get_translation(self.game, current_league) or self.game
             self.team2 = ""
             
         # Standardize date to YYYY-MM-DD
