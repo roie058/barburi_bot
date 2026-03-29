@@ -71,7 +71,7 @@ class MappingManager:
                 
         return None
 
-    def save_pending(self, hebrew_name, english_name, source):
+    def save_pending(self, hebrew_name, english_name, source, league=""):
         if not english_name:
             return
             
@@ -98,7 +98,8 @@ class MappingManager:
         if should_update:
             self.pending_mappings[hebrew_name] = {
                 "english_name": english_name,
-                "source": source
+                "source": source,
+                "league": league
             }
             self._write_pending()
 
@@ -135,6 +136,7 @@ class MappingManager:
             hebrew_game = str(row.get('hebrew_game', ''))
             english_game = str(row.get('game', ''))
             w_date = str(row.get('date', ''))
+            w_league = str(row.get('league', ''))
             
             if len(w_date) == 6 and w_date.isdigit():
                 w_date = f"20{w_date[0:2]}-{w_date[2:4]}-{w_date[4:6]}"
@@ -215,7 +217,7 @@ class MappingManager:
             if best_match_remote_team and highest_score > 0.85:
                 # Need to verify that the extracted name isn't just known_clean again
                 if difflib.SequenceMatcher(None, _clean_team_name(best_match_remote_team), known_clean).ratio() < 0.8:
-                    self.save_pending(unknown_hebrew, best_match_remote_team, source_label)
+                    self.save_pending(unknown_hebrew, best_match_remote_team, source_label, league=w_league)
                     count += 1
                 
         return count

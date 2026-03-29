@@ -53,9 +53,11 @@ def main():
             
             english_name = val
             source = "Unknown"
+            league = ""
             if isinstance(val, dict):
                 english_name = val.get("english_name", "")
                 source = val.get("source", "Unknown")
+                league = val.get("league", "")
                 
             print(f"=== Name Mapping Review ===")
             print(f"Progress: {processed_count}/{len(keys_to_review)}")
@@ -63,6 +65,7 @@ def main():
             print(f"Hebrew Name : {hebrew_key}")
             print(f"Suggested   : {english_name}")
             print(f"Source      : {source}")
+            print(f"League      : {league}")
             print("-" * 30)
             print("[A]ccept exactly as suggested")
             print("[E]dit the suggested name")
@@ -75,20 +78,20 @@ def main():
             choice = input("Your choice (A/E/R/D/S/Q): ").strip().upper()
             
             if choice == 'A':
-                verified_mappings[hebrew_key] = english_name
+                verified_mappings[hebrew_key] = {"english": english_name, "league": league}
                 del pending_mappings[hebrew_key]
                 approved_count += 1
             elif choice == 'E':
                 new_name = input("Enter correct English name: ").strip()
                 if new_name:
-                    verified_mappings[hebrew_key] = new_name
+                    verified_mappings[hebrew_key] = {"english": new_name, "league": league}
                     del pending_mappings[hebrew_key]
                     approved_count += 1
                 else:
                     print("Empty name provided, skipping...")
                     input("Press Enter...")
             elif choice == 'R':
-                verified_mappings[hebrew_key] = ""
+                verified_mappings[hebrew_key] = {"english": "", "league": ""}
                 del pending_mappings[hebrew_key]
                 approved_count += 1
             elif choice == 'D':
