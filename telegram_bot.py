@@ -2,10 +2,10 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 from stats_manager import StatsManager
+from config import TELEGRAM_BOT_TOKEN, BOT_PASSWORD, AUTHORIZED_USERS_FILE
 
 # Define the password
-AUTHORIZED_USERS_FILE = "data/authorized_users.txt"
-PASSWORD = "1234"
+PASSWORD = BOT_PASSWORD
 AUTHORIZED_USERS = set()
 
 
@@ -83,7 +83,7 @@ async def status_command(update: Update, context: CallbackContext) -> None:
         await update.message.reply_text(f"Error retrieving status: {e}")
 
 # Create a new application with your bot token
-TOKEN = "7599624940:AAF93dleDtTSNCpZxkcgvJh4ZA-l1WbzU2w"
+TOKEN = TELEGRAM_BOT_TOKEN
 app = Application.builder().token(TOKEN).build()
 
 # Add command handlers to the bot

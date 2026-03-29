@@ -102,9 +102,9 @@ def update_unibet_team_map(unibet_df):
     if unibet_df is None or unibet_df.empty:
         return
 
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    mappings_path = os.path.join(base_dir, "data", "name_mappings.json")
-    unibet_map_path = os.path.join(base_dir, "data", "unibet_teams_map.json")
+    from config import NAME_MAPPINGS_FILE, UNIBET_TEAMS_MAP_FILE
+    mappings_path = NAME_MAPPINGS_FILE
+    unibet_map_path = UNIBET_TEAMS_MAP_FILE
 
     # 1. Load existing name_mappings (Hebrew -> English)
     reverse_map = {}
@@ -148,7 +148,7 @@ def update_unibet_team_map(unibet_df):
     if changed:
         try:
             # Ensure data directory exists
-            os.makedirs(os.path.dirname(unibet_map_path), exist_ok=True)
+            unibet_map_path.parent.mkdir(parents=True, exist_ok=True)
             with open(unibet_map_path, "w", encoding="utf-8") as f:
                 json.dump(unibet_teams_map, f, ensure_ascii=False, indent=4)
             print(f"Updated {unibet_map_path} with new Unibet team names.")

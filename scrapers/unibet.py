@@ -121,7 +121,8 @@ class UnibetScraper:
                 if not target_params: 
                     print("UnibetScraper: Scrape list is empty, skipping scrape.")
             else:
-                json_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'unibet_leagues.json')
+                from config import UNIBET_LEAGUES_FILE
+                json_path = str(UNIBET_LEAGUES_FILE)
                 
                 if os.path.exists(json_path):
                     with open(json_path, 'r') as f:

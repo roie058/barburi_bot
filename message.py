@@ -1,23 +1,16 @@
 # בוט ששולח הודעות בטלגרם - עובד
 import requests
 import os
+from config import TELEGRAM_BOT_TOKEN, BOT_PASSWORD, AUTHORIZED_USERS_FILE
 
 # Define the password
-PASSWORD = "1234"
-AUTHORIZED_USERS = set()
-
-# Telegram bot credentials - Replace with your own details
-TELEGRAM_BOT_TOKEN = "7599624940:AAF93dleDtTSNCpZxkcgvJh4ZA-l1WbzU2w"
-
+PASSWORD = BOT_PASSWORD
 
 def message_all_users(msg):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     
     # Path to authorized users
-    auth_path = "data/authorized_users.txt"
-    if not os.path.exists(auth_path):
-        # Try sibling if running from scripts
-        auth_path = "../data/authorized_users.txt"
+    auth_path = AUTHORIZED_USERS_FILE
         
     if not os.path.exists(auth_path):
         print(f"Error: Authorized users file not found at {auth_path}")

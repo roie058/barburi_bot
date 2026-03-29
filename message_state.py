@@ -1,8 +1,7 @@
 import json
 import os
 from datetime import datetime
-
-STATE_FILE = "data/sent_notifications.json"
+from config import STATE_FILE_NOTIFICATIONS as STATE_FILE
 
 def load_sent_notifications():
     if not os.path.exists("data"):

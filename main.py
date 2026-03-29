@@ -11,8 +11,14 @@ from mapping_manager import mapping_manager
 from utils import update_unibet_team_map
 from message import bet_notifications
 from message_state import should_send_notification, mark_notification_sent
-
-RUN_INTERVAL_SECONDS = 60
+from message_state import should_send_notification, mark_notification_sent
+from config import (
+    RUN_INTERVAL_SECONDS, 
+    WINNER_TO_UNIBET_LEAGUES, 
+    WINNER_TO_PINNACLE_LEAGUES,
+    LOGS_DIR,
+    REPORTS_DIR
+)
 
 # Global cache for last successful runs
 LAST_SUCCESSFUL_WINNER = pd.DataFrame()
@@ -53,12 +59,9 @@ async def run_bot():
             # Load Unibet mapping
             mapping_unibet = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_u = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                if not os.path.exists(map_path_u): map_path_u = "winner_to_unibet_leagues.json"
-                
-                with open(map_path_u, "r", encoding="utf-8") as f:
-                    mapping_unibet = json.load(f)
+                if os.path.exists(WINNER_TO_UNIBET_LEAGUES):
+                    with open(WINNER_TO_UNIBET_LEAGUES, "r", encoding="utf-8") as f:
+                        mapping_unibet = json.load(f)
             except Exception as e:
                 print(f"Unibet Mapping file error: {e}")
 
@@ -75,12 +78,9 @@ async def run_bot():
             # Load Pinnacle mapping
             mapping_pinnacle = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_p = os.path.join(base_dir, "winner_to_pinnacle_leagues.json")
-                if not os.path.exists(map_path_p): map_path_p = "winner_to_pinnacle_leagues.json"
-                
-                with open(map_path_p, "r", encoding="utf-8") as f:
-                    mapping_pinnacle = json.load(f)
+                if os.path.exists(WINNER_TO_PINNACLE_LEAGUES):
+                    with open(WINNER_TO_PINNACLE_LEAGUES, "r", encoding="utf-8") as f:
+                        mapping_pinnacle = json.load(f)
             except Exception as e:
                 pass # Expected if it doesn't exist yet
 
@@ -126,13 +126,13 @@ async def run_bot():
         print(f"Context Inference: Deduced {inferred_unibet} names from Unibet and {inferred_pinnacle} from Pinnacle.")
 
     # Check/Create logs dir
-    if not os.path.exists("logs"): os.makedirs("logs")
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
     # Save CSVs for review script
     if not winner_df.empty:
-        winner_df.to_csv("logs/winner_matches.csv", index=False)
+        winner_df.to_csv(LOGS_DIR / "winner_matches.csv", index=False)
     if not unibet_df.empty:
-        unibet_df.to_csv("logs/unibet_matches.csv", index=False)
+        unibet_df.to_csv(LOGS_DIR / "unibet_matches.csv", index=False)
 
     # Fallback Logic for Unibet (Replaces Pinnacle logic for now)
     global LAST_SUCCESSFUL_WINNER, LAST_SUCCESSFUL_PINNACLE
@@ -187,7 +187,9 @@ async def run_bot():
             
         # Generate Run Report
         try:
-            with open("reports/last_run_report.md", "w", encoding="utf-8") as f:
+            REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+            report_path = REPORTS_DIR / "last_run_report.md"
+            with open(report_path, "w", encoding="utf-8") as f:
                 f.write(f"# Bot Run Report - {time.strftime('%Y-%m-%d %H:%M:%S')}\n\n")
                 f.write(f"## Statistics\n")
                 f.write(f"- Total Winner Games: {len(winner_df)}\n")
@@ -216,7 +218,7 @@ async def run_bot():
                 for _, row in completely_unmatched.iterrows():
                     f.write(f"- {row['game']} ({row['date']})\n")
                     
-            print("Report saved to reports/last_run_report.md")
+            print(f"Report saved to {report_path}")
         except Exception as e:
             print(f"Error generating report: {e}")
 

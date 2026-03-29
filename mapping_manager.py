@@ -5,9 +5,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from utils import _clean_team_name
 
-DATA_DIR = Path(__file__).parent / "data"
-NAME_MAPPINGS_FILE = DATA_DIR / "name_mappings.json"
-PENDING_MAPPINGS_FILE = DATA_DIR / "pending_mappings.json"
+from config import NAME_MAPPINGS_FILE, PENDING_MAPPINGS_FILE
 
 # Priority enum: higher number = higher priority
 SOURCE_PRIORITY = {

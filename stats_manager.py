@@ -1,8 +1,7 @@
 import json
 import os
 from datetime import datetime
-
-STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'telemetry_state.json')
+from config import STATE_FILE_TELEMETRY as STATE_FILE
 
 class StatsManager:
     def __init__(self):

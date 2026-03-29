@@ -9,8 +9,8 @@ from datetime import datetime
 from scrapers.winner import WinnerScraper
 from mapping_manager import mapping_manager
 from stats_manager import StatsManager
+from config import DB_PATH, WINNER_TO_UNIBET_LEAGUES, WINNER_TO_PINNACLE_LEAGUES, REPORTS_DIR
 
-DB_PATH = "data/tracker.sqlite"
 stats = StatsManager()
 
 def init_db():
@@ -214,10 +214,8 @@ async def run_tracker():
             # 1. Map Unibet
             mapping_unibet = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_u = os.path.join(base_dir, "winner_to_unibet_leagues.json")
-                if os.path.exists(map_path_u):
-                    with open(map_path_u, "r", encoding="utf-8") as f:
+                if os.path.exists(WINNER_TO_UNIBET_LEAGUES):
+                    with open(WINNER_TO_UNIBET_LEAGUES, "r", encoding="utf-8") as f:
                         mapping_unibet = json.load(f)
             except Exception as e:
                 print(f"Error loading Unibet mapping: {e}")
@@ -237,13 +235,11 @@ async def run_tracker():
             # 2. Map Pinnacle
             mapping_pinnacle = {}
             try:
-                base_dir = os.path.dirname(os.path.abspath(__file__))
-                map_path_p = os.path.join(base_dir, "winner_to_pinnacle_leagues.json")
-                if os.path.exists(map_path_p):
-                    with open(map_path_p, "r", encoding="utf-8") as f:
+                if os.path.exists(WINNER_TO_PINNACLE_LEAGUES):
+                    with open(WINNER_TO_PINNACLE_LEAGUES, "r", encoding="utf-8") as f:
                         mapping_pinnacle = json.load(f)
                 else:
-                    print(f"ERROR: Pinnacle mapping file not found at {map_path_p}")
+                    print(f"ERROR: Pinnacle mapping file not found at {WINNER_TO_PINNACLE_LEAGUES}")
             except Exception as e:
                 print(f"Error loading Pinnacle mapping: {e}")
             
@@ -260,12 +256,13 @@ async def run_tracker():
             print(f"⚠️ Missing Unibet Mapping for {len(missing_unibet_leagues)} leagues. Please add them to winner_to_unibet_leagues.json: {missing_unibet_leagues}")
             stats.set_leagues_needing_mapping(len(missing_unibet_leagues) + len(missing_pinnacle_leagues))
             # Append only unique missing leagues
-            os.makedirs('reports', exist_ok=True)
+            REPORTS_DIR.mkdir(parents=True, exist_ok=True)
             existing = set()
-            if os.path.exists('reports/missing_unibet_leagues.md'):
-                with open('reports/missing_unibet_leagues.md', 'r', encoding='utf-8') as f:
+            missing_u_path = REPORTS_DIR / 'missing_unibet_leagues.md'
+            if os.path.exists(missing_u_path):
+                with open(missing_u_path, 'r', encoding='utf-8') as f:
                     existing = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
-            with open('reports/missing_unibet_leagues.md', 'a', encoding='utf-8') as f:
+            with open(missing_u_path, 'a', encoding='utf-8') as f:
                 for l in missing_unibet_leagues:
                     if l not in existing:
                         f.write(f"- {l}\n")
@@ -274,12 +271,13 @@ async def run_tracker():
         if missing_pinnacle_leagues:
             print(f"⚠️ Missing Pinnacle Mapping for {len(missing_pinnacle_leagues)} leagues. Please add them to winner_to_pinnacle_leagues.json: {missing_pinnacle_leagues}")
             # Append only unique missing leagues
-            os.makedirs('reports', exist_ok=True)
+            REPORTS_DIR.mkdir(parents=True, exist_ok=True)
             existing_pin = set()
-            if os.path.exists('reports/missing_pinnacle_leagues.md'):
-                with open('reports/missing_pinnacle_leagues.md', 'r', encoding='utf-8') as f:
+            missing_p_path = REPORTS_DIR / 'missing_pinnacle_leagues.md'
+            if os.path.exists(missing_p_path):
+                with open(missing_p_path, 'r', encoding='utf-8') as f:
                     existing_pin = {line.strip().replace('- ', '') for line in f if line.strip().startswith('- ')}
-            with open('reports/missing_pinnacle_leagues.md', 'a', encoding='utf-8') as f:
+            with open(missing_p_path, 'a', encoding='utf-8') as f:
                 for l in missing_pinnacle_leagues:
                     if l not in existing_pin:
                         f.write(f"- {l}\n")
